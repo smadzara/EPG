@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="custom-epg (WebGrab+Plus)">
+  <channel id="NBATV.us">
+    <display-name>NBA TV</display-name>
+    <display-name>US| NBA TV HD</display-name>
+  </channel>
+  <channel id="US-NBA TV USA">
+    <display-name>NBA TV</display-name>
+    <display-name>U.S| NBA TV HD</display-name>
+  </channel>
+  <programme start="20260923010000 +0000" stop="20260923023000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923023000 +0000" stop="20260923030000 +0000" channel="NBATV.us">
+    <title lang="en">Chasing History: East Opening Round</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923030000 +0000" stop="20260923050000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260923050000 +0000" stop="20260923063000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Shot Clock</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923063000 +0000" stop="20260923080000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Shot Clock</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923080000 +0000" stop="20260923100000 +0000" channel="NBATV.us">
+    <title lang="en">Top Games of the 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923100000 +0000" stop="20260923120000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260923120000 +0000" stop="20260923133000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923133000 +0000" stop="20260923143000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923143000 +0000" stop="20260923153000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Shot Clock</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923153000 +0000" stop="20260923163000 +0000" channel="NBATV.us">
+    <title lang="en">The Vault: Great NBA All-Star Game Moments</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923163000 +0000" stop="20260923170000 +0000" channel="NBATV.us">
+    <title lang="en">Top 50 Defensive Plays: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923170000 +0000" stop="20260923180000 +0000" channel="NBATV.us">
+    <title lang="en">Top 100 Dunks: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923180000 +0000" stop="20260923183000 +0000" channel="NBATV.us">
+    <title lang="en">Top 50 Handles: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923183000 +0000" stop="20260923200000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923200000 +0000" stop="20260923203000 +0000" channel="NBATV.us">
+    <title lang="en">Chasing History: Semifinals</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923203000 +0000" stop="20260923210000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Stories</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923210000 +0000" stop="20260924000000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924000000 +0000" stop="20260924020000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924020000 +0000" stop="20260924030000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Shot Clock</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924030000 +0000" stop="20260924040000 +0000" channel="NBATV.us">
+    <title lang="en">The Vault: Great NBA All-Star Game Moments</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="NBATV.us">
+    <title lang="en">Top 100 Dunks: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924050000 +0000" stop="20260924053000 +0000" channel="NBATV.us">
+    <title lang="en">Top 50 Handles: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924053000 +0000" stop="20260924073000 +0000" channel="NBATV.us">
+    <title lang="en">National Basketball League</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>1.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924073000 +0000" stop="20260924080000 +0000" channel="NBATV.us">
+    <title lang="en">Top 50 Defensive Plays: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924080000 +0000" stop="20260924100000 +0000" channel="NBATV.us">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924100000 +0000" stop="20260924120000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Basketball</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924120000 +0000" stop="20260924133000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924133000 +0000" stop="20260924143000 +0000" channel="NBATV.us">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924143000 +0000" stop="20260924163000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924163000 +0000" stop="20260924173000 +0000" channel="NBATV.us">
+    <title lang="en">Enjoy the NBA Trivia Show</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924173000 +0000" stop="20260924190000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Basketball</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924210000 +0000" stop="20260924230000 +0000" channel="NBATV.us">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924230000 +0000" stop="20260925010000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Basketball</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20260925010000 +0000" stop="20260925030000 +0000" channel="NBATV.us">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925030000 +0000" stop="20260925050000 +0000" channel="NBATV.us">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925050000 +0000" stop="20260925060000 +0000" channel="NBATV.us">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925060000 +0000" stop="20260925080000 +0000" channel="NBATV.us">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925080000 +0000" stop="20260925100000 +0000" channel="NBATV.us">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925100000 +0000" stop="20260925120000 +0000" channel="NBATV.us">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925120000 +0000" stop="20260925133000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925133000 +0000" stop="20260925143000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925143000 +0000" stop="20260925163000 +0000" channel="NBATV.us">
+    <title lang="en">2026 NBA All-Star Game</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260925163000 +0000" stop="20260925173000 +0000" channel="NBATV.us">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925173000 +0000" stop="20260925180000 +0000" channel="NBATV.us">
+    <title lang="en">A Rose to the Rafters</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925180000 +0000" stop="20260925200000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Hardwood Classics</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925200000 +0000" stop="20260925220000 +0000" channel="NBATV.us">
+    <title lang="en">2026 NBA All-Star Game</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260925230000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925230000 +0000" stop="20260926000000 +0000" channel="NBATV.us">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Hardwood Classics</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926033000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926033000 +0000" stop="20260926043000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926043000 +0000" stop="20260926060000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926060000 +0000" stop="20260926070000 +0000" channel="NBATV.us">
+    <title lang="en">The Vault: Great NBA All-Star Game Moments</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926080000 +0000" channel="NBATV.us">
+    <title lang="en">Best of NBA Action Vol. 7</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926100000 +0000" channel="NBATV.us">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926120000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Basketball</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260926120000 +0000" stop="20260926140000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Shot Clock: Games of the Week</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Hardwood Classics</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="NBATV.us">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Shot Clock</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926200000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260926200000 +0000" stop="20260926223000 +0000" channel="NBATV.us">
+    <title lang="en">NBA Basketball</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260926223000 +0000" stop="20260927003000 +0000" channel="NBATV.us">
+    <title lang="en">WNBA Shot Clock: Games of the Week</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923010000 +0000" stop="20260923023000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923023000 +0000" stop="20260923030000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Chasing History: East Opening Round</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923030000 +0000" stop="20260923050000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260923050000 +0000" stop="20260923063000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Shot Clock</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923063000 +0000" stop="20260923080000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Shot Clock</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923080000 +0000" stop="20260923100000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Top Games of the 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923100000 +0000" stop="20260923120000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260923120000 +0000" stop="20260923133000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923133000 +0000" stop="20260923143000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923143000 +0000" stop="20260923153000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Shot Clock</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923153000 +0000" stop="20260923163000 +0000" channel="US-NBA TV USA">
+    <title lang="en">The Vault: Great NBA All-Star Game Moments</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923163000 +0000" stop="20260923170000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Top 50 Defensive Plays: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923170000 +0000" stop="20260923180000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Top 100 Dunks: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923180000 +0000" stop="20260923183000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Top 50 Handles: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923183000 +0000" stop="20260923200000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923200000 +0000" stop="20260923203000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Chasing History: Semifinals</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923203000 +0000" stop="20260923210000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Stories</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260923210000 +0000" stop="20260924000000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924000000 +0000" stop="20260924020000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924020000 +0000" stop="20260924030000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Shot Clock</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924030000 +0000" stop="20260924040000 +0000" channel="US-NBA TV USA">
+    <title lang="en">The Vault: Great NBA All-Star Game Moments</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Top 100 Dunks: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924050000 +0000" stop="20260924053000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Top 50 Handles: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924053000 +0000" stop="20260924073000 +0000" channel="US-NBA TV USA">
+    <title lang="en">National Basketball League</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>1.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924073000 +0000" stop="20260924080000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Top 50 Defensive Plays: 2025-26 Season</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924080000 +0000" stop="20260924100000 +0000" channel="US-NBA TV USA">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924100000 +0000" stop="20260924120000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Basketball</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924120000 +0000" stop="20260924133000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924133000 +0000" stop="20260924143000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924143000 +0000" stop="20260924163000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924163000 +0000" stop="20260924173000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Enjoy the NBA Trivia Show</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924173000 +0000" stop="20260924190000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Basketball</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20260924210000 +0000" stop="20260924230000 +0000" channel="US-NBA TV USA">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260924230000 +0000" stop="20260925010000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Basketball</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20260925010000 +0000" stop="20260925030000 +0000" channel="US-NBA TV USA">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925030000 +0000" stop="20260925050000 +0000" channel="US-NBA TV USA">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925050000 +0000" stop="20260925060000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925060000 +0000" stop="20260925080000 +0000" channel="US-NBA TV USA">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925080000 +0000" stop="20260925100000 +0000" channel="US-NBA TV USA">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925100000 +0000" stop="20260925120000 +0000" channel="US-NBA TV USA">
+    <title lang="en">The Association</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925120000 +0000" stop="20260925133000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925133000 +0000" stop="20260925143000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925143000 +0000" stop="20260925163000 +0000" channel="US-NBA TV USA">
+    <title lang="en">2026 NBA All-Star Game</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260925163000 +0000" stop="20260925173000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925173000 +0000" stop="20260925180000 +0000" channel="US-NBA TV USA">
+    <title lang="en">A Rose to the Rafters</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925180000 +0000" stop="20260925200000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Hardwood Classics</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925200000 +0000" stop="20260925220000 +0000" channel="US-NBA TV USA">
+    <title lang="en">2026 NBA All-Star Game</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260925230000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260925230000 +0000" stop="20260926000000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Hardwood Classics</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926033000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926033000 +0000" stop="20260926043000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926043000 +0000" stop="20260926060000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Playback</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926060000 +0000" stop="20260926070000 +0000" channel="US-NBA TV USA">
+    <title lang="en">The Vault: Great NBA All-Star Game Moments</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926080000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Best of NBA Action Vol. 7</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926100000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926120000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Basketball</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260926120000 +0000" stop="20260926140000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Shot Clock: Games of the Week</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Hardwood Classics</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="US-NBA TV USA">
+    <title lang="en">Basketcast</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Shot Clock</title>
+    <category lang="en">Sport</category>
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926200000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Playoff</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>8.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20260926200000 +0000" stop="20260926223000 +0000" channel="US-NBA TV USA">
+    <title lang="en">NBA Basketball</title>
+    <category lang="en">Sport</category>
+    <star-rating system="User">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20260926223000 +0000" stop="20260927003000 +0000" channel="US-NBA TV USA">
+    <title lang="en">WNBA Shot Clock: Games of the Week</title>
+    <category lang="en">Sport</category>
+  </programme>
+</tv>
