@@ -105,6 +105,22 @@
     <display-name>CA| DAZN 13 HD</display-name>
     <display-name>DAZN CA 13</display-name>
   </channel>
+  <channel id="CA| SPORTSNET WORLD EXTRA 1">
+    <display-name>CA| SPORTSNET WORLD EXTRA 1</display-name>
+    <display-name>Sportsnet World Plus 1</display-name>
+  </channel>
+  <channel id="CA| SPORTSNET WORLD EXTRA 2">
+    <display-name>CA| SPORTSNET WORLD EXTRA 2</display-name>
+    <display-name>Sportsnet World Plus 2</display-name>
+  </channel>
+  <channel id="CA| SPORTSNET WORLD EXTRA 3">
+    <display-name>CA| SPORTSNET WORLD EXTRA 3</display-name>
+    <display-name>Sportsnet World Plus 3</display-name>
+  </channel>
+  <channel id="CA| SPORTSNET WORLD EXTRA 4">
+    <display-name>CA| SPORTSNET WORLD EXTRA 4</display-name>
+    <display-name>Sportsnet World Plus 4</display-name>
+  </channel>
   <programme channel="US-NBA TV USA" start="20260923050000 +0000" stop="20260923063000 +0000">
     <title lang="en">WNBA Playback</title>
     <sub-title lang="en">Atlanta Dream at New York Liberty</sub-title>
@@ -4721,5 +4737,519 @@ Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Ope
 
 Istodobno na DAZN-u (UTC): 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida; 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters; 16:30 Malta vs. Liechtenstein (DAZN 10); 16:30 Cheshire Phoenix vs. Leicester Riders (DAZN 11); 17:00 Chiefs @ Dolphins (DAZN 5)</desc>
     <category lang="en">Football</category>
+  </programme>
+  <programme start="20260923220000 +0000" stop="20260924020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924020000 +0000" stop="20260924060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924060000 +0000" stop="20260924090000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924090000 +0000" stop="20260924110000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924110000 +0000" stop="20260924140000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924140000 +0000" stop="20260924180000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924180000 +0000" stop="20260924210000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924210000 +0000" stop="20260925000000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925000000 +0000" stop="20260925040000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925040000 +0000" stop="20260925070000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925070000 +0000" stop="20260925095000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925095000 +0000" stop="20260925115000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">NRL Rugby: Dolphins vs. Sydney Roosters</title>
+    <sub-title lang="en">Dolphins vs. Sydney Roosters</sub-title>
+    <desc lang="en">Uživo. Preliminary Final.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260925115000 +0000" stop="20260925140000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925140000 +0000" stop="20260925180000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925180000 +0000" stop="20260925184500 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925184500 +0000" stop="20260925204500 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Premiership Rugby: Harlequins vs. Bath</title>
+    <sub-title lang="en">Harlequins vs. Bath</sub-title>
+    <desc lang="en">Uživo. From Twickenham Stoop in London.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260925204500 +0000" stop="20260926010000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926010000 +0000" stop="20260926050000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926095000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926095000 +0000" stop="20260926110000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">NRL Women's Premiership: Semifinal: Sydney Roosters vs. Canberra Raiders</title>
+    <sub-title lang="en">Semifinal: Sydney Roosters vs. Canberra Raiders</sub-title>
+    <desc lang="en">Uživo. From Allianz Stadium in Sydney, Australia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926140000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">United Rugby Championship: Hollywoodbets Sharks vs. Ospreys</title>
+    <sub-title lang="en">Hollywoodbets Sharks vs. Ospreys</sub-title>
+    <desc lang="en">Uživo. From Hollywoodbets Kings Park in Durban, UNKNOWN [ZA], South Africa.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926180000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926184500 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926184500 +0000" stop="20260926204500 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">United Rugby Championship: Scarlets vs. Cardiff</title>
+    <sub-title lang="en">Scarlets vs. Cardiff</sub-title>
+    <desc lang="en">Uživo. From Parc y Scarlets stadium, in Llanelli, Carmarthenshire, Wales</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260926204500 +0000" stop="20260927030500 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927030500 +0000" stop="20260927050500 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">NRL Women's Premiership: Semifinal: Gold Coast Titans vs. Brisbane Broncos</title>
+    <sub-title lang="en">Semifinal: Gold Coast Titans vs. Brisbane Broncos</sub-title>
+    <desc lang="en">Uživo. From Cbus Super Stadium in Robina, Australia.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260927050500 +0000" stop="20260927060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927060000 +0000" stop="20260927080000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">NRL Rugby: Penrith Panthers vs. Newcastle Knights</title>
+    <sub-title lang="en">Penrith Panthers vs. Newcastle Knights</sub-title>
+    <desc lang="en">Uživo. Preliminary Final.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260927080000 +0000" stop="20260927100000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927100000 +0000" stop="20260927130000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927150000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">FA Women's Super League: Tottenham Hotspur vs. Aston Villa</title>
+    <sub-title lang="en">Tottenham Hotspur vs. Aston Villa</sub-title>
+    <desc lang="en">Uživo. From BetWright Stadium in London.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927160000 +0000" stop="20260927200000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260928000000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260923220000 +0000" stop="20260924020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924020000 +0000" stop="20260924060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924060000 +0000" stop="20260924100000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924100000 +0000" stop="20260924140000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924140000 +0000" stop="20260924180000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924180000 +0000" stop="20260924220000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924220000 +0000" stop="20260925020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925020000 +0000" stop="20260925060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925060000 +0000" stop="20260925120000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925120000 +0000" stop="20260925160000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925160000 +0000" stop="20260925184500 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925184500 +0000" stop="20260925204500 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Premiership Rugby: Northampton Saints vs. Newcastle Red Bulls</title>
+    <sub-title lang="en">Northampton Saints vs. Newcastle Red Bulls</sub-title>
+    <desc lang="en">Uživo. From Franklin's Gardens in Northampton, Northamptonshire, United Kingdom.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260925204500 +0000" stop="20260926000000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926040000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926040000 +0000" stop="20260926080000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926080000 +0000" stop="20260926110000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926140500 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926140500 +0000" stop="20260926160500 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926160500 +0000" stop="20260926163000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926183000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Premiership Rugby: Sale Sharks vs. Bristol Bears</title>
+    <sub-title lang="en">Sale Sharks vs. Bristol Bears</sub-title>
+    <desc lang="en">Uživo. From CorpAcq Stadium in Salford, England, United Kingdom.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926230000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926230000 +0000" stop="20260927030000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927030000 +0000" stop="20260927070000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927070000 +0000" stop="20260927100000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927100000 +0000" stop="20260927130000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927150000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">FA Women's Super League: Birmingham City vs. Crystal Palace</title>
+    <sub-title lang="en">Birmingham City vs. Crystal Palace</sub-title>
+    <desc lang="en">Uživo. From St. Andrew's @ Knighthead Park in Birmingham, England, United Kingdom.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927220000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927220000 +0000" stop="20260928020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260923220000 +0000" stop="20260924020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924020000 +0000" stop="20260924060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924060000 +0000" stop="20260924100000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924100000 +0000" stop="20260924140000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924140000 +0000" stop="20260924180000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924180000 +0000" stop="20260924220000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924220000 +0000" stop="20260925020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925020000 +0000" stop="20260925060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925060000 +0000" stop="20260925100000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925100000 +0000" stop="20260925140000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925140000 +0000" stop="20260925180000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925180000 +0000" stop="20260925220000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260926020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926060000 +0000" stop="20260926100000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926140000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926180000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">FA Women's Super League: London City Lionesses vs. Brighton &amp; Hove Albion</title>
+    <sub-title lang="en">London City Lionesses vs. Brighton &amp; Hove Albion</sub-title>
+    <desc lang="en">Uživo. From Copperjax Community Stadium in Bromley, U.K.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926220000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926220000 +0000" stop="20260927020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927020000 +0000" stop="20260927060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927060000 +0000" stop="20260927100000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927100000 +0000" stop="20260927130000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927150000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">FA Women's Super League: Liverpool vs. Everton</title>
+    <sub-title lang="en">Liverpool vs. Everton</sub-title>
+    <desc lang="en">Uživo. From Anfield in Liverpool, Merseyside, England.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927190000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927220000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927220000 +0000" stop="20260928020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260923220000 +0000" stop="20260924020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924020000 +0000" stop="20260924060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924060000 +0000" stop="20260924100000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924100000 +0000" stop="20260924140000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924140000 +0000" stop="20260924180000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924180000 +0000" stop="20260924220000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260924220000 +0000" stop="20260925020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925020000 +0000" stop="20260925060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925060000 +0000" stop="20260925100000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925100000 +0000" stop="20260925140000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925140000 +0000" stop="20260925180000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925180000 +0000" stop="20260925220000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260926020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926060000 +0000" stop="20260926113000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926113000 +0000" stop="20260926153000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926163000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926183000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Rugby Super League: Wigan Warriors vs. Wakefield Trinity</title>
+    <sub-title lang="en">Wigan Warriors vs. Wakefield Trinity</sub-title>
+    <desc lang="en">Uživo. Semifinal.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926204500 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926204500 +0000" stop="20260926233000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260926233000 +0000" stop="20260927033000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927033000 +0000" stop="20260927073000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927073000 +0000" stop="20260927100000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927100000 +0000" stop="20260927130000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927140000 +0000" stop="20260927160000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Premiership Rugby: Leicester Tigers vs. Saracens</title>
+    <sub-title lang="en">Leicester Tigers vs. Saracens</sub-title>
+    <desc lang="en">Uživo. From Welford Road in Leicester, Leicestershire, United Kingdom.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260927160000 +0000" stop="20260927180000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927180000 +0000" stop="20260927220000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20260927220000 +0000" stop="20260928020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
 </tv>
