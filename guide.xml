@@ -121,6 +121,14 @@
     <display-name>CA| SPORTSNET WORLD EXTRA 4</display-name>
     <display-name>Sportsnet World Plus 4</display-name>
   </channel>
+  <channel id="UK| BBC EARTH HD">
+    <display-name>BBC Earth</display-name>
+    <display-name>UK| BBC EARTH HD</display-name>
+  </channel>
+  <channel id="UK| BBC LIFESTYLE HD">
+    <display-name>BBC Lifestyle</display-name>
+    <display-name>UK| BBC LIFESTYLE HD</display-name>
+  </channel>
   <programme channel="US-NBA TV USA" start="20260923050000 +0000" stop="20260923063000 +0000">
     <title lang="en">WNBA Playback</title>
     <sub-title lang="en">Atlanta Dream at New York Liberty</sub-title>
@@ -5933,5 +5941,2036 @@ Istodobno na DAZN-u (UTC): 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 15:00 Dj
   <programme start="20260927220000 +0000" stop="20260928020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260922210000 +0200" stop="20260922221500 +0200">
+    <title lang="cs">Revolutions: Ideas That Changed The World</title>
+    <sub-title lang="cs">The Smartphone</sub-title>
+    <desc lang="cs">Few inventions have revolutionized our everyday existence like the smartphone. It put the world's knowledge in our hands, democratised news-gathering, photography and connected billions of people. But how did we get here?</desc>
+    <credits>
+      <director>Sean Smith</director>
+    </credits>
+    <date>2019</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260922221500 +0200" stop="20260922234000 +0200">
+    <title lang="cs">Universe</title>
+    <sub-title lang="cs">The Big Bang: Before the Dawn</sub-title>
+    <desc lang="cs">Professor Brian Cox journeys across the vastness of time and space.</desc>
+    <credits>
+      <actor>Brian Cox</actor>
+      <director>Ashley Gething</director>
+    </credits>
+    <date>2021</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260922234000 +0200" stop="20260923004500 +0200">
+    <title lang="cs">Ben Fogle's Race for the Nile</title>
+    <sub-title lang="cs">Episode 2</sub-title>
+    <desc lang="cs">In the footsteps of Livingstone and Stanley, Ben Fogle and Dwayne Fields try to solve one of history's greatest mysteries, setting out to find the Nile's source, travelling through deadly jungles and swamps.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Alexis Girardet</director>
+    </credits>
+    <date>2025</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923004500 +0200" stop="20260923015000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Winds of Change</sub-title>
+    <desc lang="cs">Glenn pursues caribou as his stores run dry. Ricko teaches his daughter to hunt geese. The Hailstones prepare for an intensifying winter. Sue must withstand a blizzard at Kavik.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Glenn Villeneuve</actor>
+      <actor>Jessie Holmes</actor>
+      <actor>Agnes Hailstone</actor>
+      <actor>Chip Hailstone&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2018)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2018</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923015000 +0200" stop="20260923025000 +0200">
+    <title lang="cs">Ben Fogle: Return To The Wild UK</title>
+    <sub-title lang="cs">Isle of Rum, Scotland</sub-title>
+    <desc lang="cs">Ben Fogle returns to meet his previous contributors who set up home in remote locations. In this episode, he returns to Scotland to see the Goddard family who live off-grid.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Kate Fraser</director>
+    </credits>
+    <date>2021</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923025000 +0200" stop="20260923040500 +0200">
+    <title lang="cs">Universe</title>
+    <sub-title lang="cs">The Big Bang: Before the Dawn</sub-title>
+    <desc lang="cs">Professor Brian Cox journeys across the vastness of time and space.</desc>
+    <credits>
+      <actor>Brian Cox</actor>
+      <director>Ashley Gething</director>
+    </credits>
+    <date>2021</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923040500 +0200" stop="20260923050000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Winter's Warning</sub-title>
+    <desc lang="cs">In Kavik, Sue's camp is being harassed by grizzly bears. Meanwhile, in Eagle, Andy and Kate have run out of fish - their most vital resource.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Andy Bassich</actor>
+      <actor>Agnes Hailstone&lt;BR&gt;Režie: Travis Shakespeare</actor>
+      <actor>Jane Tranter (2014)</actor>
+      <director>Travis Shakespeare</director>
+      <director>Jane Tranter</director>
+    </credits>
+    <date>2014</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923050000 +0200" stop="20260923060000 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">Egypt</sub-title>
+    <desc lang="cs">Adventurer Ben Fogle journeys to North Africa, to live with American widow Maryanne Stroud Gabbani (67) - on the farm she's built on the edge of the Sahara.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Kate Fraser</director>
+    </credits>
+    <date>2017</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923060000 +0200" stop="20260923063000 +0200">
+    <title lang="cs">David Attenborough's Natural Curiosities</title>
+    <sub-title lang="cs">Life on Ice</sub-title>
+    <desc lang="cs">How do some animals survive conditions so cold, they seem to defy the laws of nature.</desc>
+    <credits>
+      <actor>David Attenborough</actor>
+      <director>Stephen Dunleavy</director>
+    </credits>
+    <date>2013</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923063000 +0200" stop="20260923073000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Winds of Change</sub-title>
+    <desc lang="cs">Glenn pursues caribou as his stores run dry. Ricko teaches his daughter to hunt geese. The Hailstones prepare for an intensifying winter. Sue must withstand a blizzard at Kavik.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Glenn Villeneuve</actor>
+      <actor>Jessie Holmes</actor>
+      <actor>Agnes Hailstone</actor>
+      <actor>Chip Hailstone&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2018)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2018</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923073000 +0200" stop="20260923085000 +0200">
+    <title lang="cs">Universe</title>
+    <sub-title lang="cs">Alien Worlds: The Search For Second Earth</sub-title>
+    <desc lang="cs">Professor Brian Cox journeys across the vastness of time and space.</desc>
+    <credits>
+      <actor>Brian Cox</actor>
+      <director>Ashley Gething</director>
+    </credits>
+    <date>2021</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923085000 +0200" stop="20260923101000 +0200">
+    <title lang="cs">The Green Planet</title>
+    <sub-title lang="cs">Water Worlds</sub-title>
+    <desc lang="cs">Water plants create beautiful, bizarre worlds. Flowers smother rivers and lakes. Plants fight and hunt. A river bubbles like champagne as plants create the atmosphere itself.</desc>
+    <credits>
+      <actor>David Attenborough</actor>
+      <director>Paul Williams</director>
+    </credits>
+    <date>2022</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923101000 +0200" stop="20260923111500 +0200">
+    <title lang="cs">Paddy and Chris: Road Tripping</title>
+    <sub-title lang="cs">Greece</sub-title>
+    <desc lang="cs">The second leg of Paddy and Chris's European health quest takes them to Ikaria, the island of longevity. They road-test the lifestyle and their mettle in seeking the secrets to a longer life.</desc>
+    <credits>
+      <actor>Paddy McGuinness</actor>
+      <actor>Chris Harris</actor>
+      <director>Ryan Daly</director>
+    </credits>
+    <date>2024</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923111500 +0200" stop="20260923122500 +0200">
+    <title lang="cs">Anton and Giovanni's Adventures in Spain</title>
+    <sub-title lang="cs">Episode 3</sub-title>
+    <desc lang="cs">Anton and Giovanni's epic Spanish road trip comes to an emotional end as they reach Anton's mother's village before putting on a show for a crowd of thousands with Gorka Márquez.</desc>
+    <credits>
+      <actor>Anton Du Beke</actor>
+      <actor>Giovanni Pernice</actor>
+      <director>Roman Green</director>
+    </credits>
+    <date>2024</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923122500 +0200" stop="20260923134500 +0200">
+    <title lang="cs">Universe</title>
+    <sub-title lang="cs">The Milky Way: Island of Light</sub-title>
+    <desc lang="cs">Professor Brian Cox journeys across the vastness of time and space.</desc>
+    <credits>
+      <actor>Brian Cox</actor>
+      <director>Ashley Gething</director>
+    </credits>
+    <date>2021</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923134500 +0200" stop="20260923144500 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Deadly Grounds</sub-title>
+    <desc lang="cs">Erik goes to extreme heights on Kodiak Island, pushing the limits with a rare chance to hunt elusive prey.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Andy Bassich</actor>
+      <actor>Agnes Hailstone&lt;BR&gt;Režie: Travis Shakespeare</actor>
+      <actor>Jane Tranter (2014)</actor>
+      <director>Travis Shakespeare</director>
+      <director>Jane Tranter</director>
+    </credits>
+    <date>2014</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923144500 +0200" stop="20260923152000 +0200">
+    <title lang="cs">David Attenborough's Natural Curiosities</title>
+    <sub-title lang="cs">Life on Ice</sub-title>
+    <desc lang="cs">How do some animals survive conditions so cold, they seem to defy the laws of nature.</desc>
+    <credits>
+      <actor>David Attenborough</actor>
+      <director>Stephen Dunleavy</director>
+    </credits>
+    <date>2013</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923152000 +0200" stop="20260923153000 +0200">
+    <title lang="cs">Mammals: Making Of</title>
+    <sub-title lang="cs">Episode 2</sub-title>
+    <desc lang="cs">A behind-the-scenes look at the series that explores the most successful animal group on Earth, from the tiny Etruscan shrew to the largest mammal in existence - the blue whale.</desc>
+    <credits>
+      <director>Amy Downes</director>
+    </credits>
+    <date>2024</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923153000 +0200" stop="20260923164000 +0200">
+    <title lang="cs">Paddy and Chris: Road Tripping</title>
+    <sub-title lang="cs">Switzerland</sub-title>
+    <desc lang="cs">For the last leg, Paddy and Chris head to Switzerland to see if its cutting-edge treatments, medical science and health shortcuts can keep them younger for longer, inside and out.</desc>
+    <credits>
+      <actor>Paddy McGuinness</actor>
+      <actor>Chris Harris</actor>
+      <director>Ryan Daly</director>
+    </credits>
+    <date>2024</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923164000 +0200" stop="20260923175000 +0200">
+    <title lang="cs">The Green Planet</title>
+    <sub-title lang="cs">Seasonal Worlds</sub-title>
+    <desc lang="cs">Seasonal worlds are dominated by relentless change. For plants to survive they must get their timing right.</desc>
+    <credits>
+      <actor>David Attenborough</actor>
+      <director>Paul Williams</director>
+    </credits>
+    <date>2022</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923175000 +0200" stop="20260923190000 +0200">
+    <title lang="cs">Anton and Giovanni's Adventures in Spain</title>
+    <sub-title lang="cs">Episode 3</sub-title>
+    <desc lang="cs">Anton and Giovanni's epic Spanish road trip comes to an emotional end as they reach Anton's mother's village before putting on a show for a crowd of thousands with Gorka Márquez.</desc>
+    <credits>
+      <actor>Anton Du Beke</actor>
+      <actor>Giovanni Pernice</actor>
+      <director>Roman Green</director>
+    </credits>
+    <date>2024</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923190000 +0200" stop="20260923200000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">The Burning Man</sub-title>
+    <desc lang="cs">Agnes and Doug go on a traditional seal hunt. Glenn must dispose of a trespass cabin. Jessie hunts along the river for food and medicine. Sue brushes up on her survival skills.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Glenn Villeneuve</actor>
+      <actor>Jessie Holmes</actor>
+      <actor>Agnes Hailstone</actor>
+      <actor>Chip Hailstone&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2018)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2018</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923200000 +0200" stop="20260923210000 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">Australia</sub-title>
+    <desc lang="cs">Ben learns to oyster pick, brew beer, trade fish and dance with the locals with voluntary castaway Dave Glasheen on a remote Australian island.</desc>
+    <credits>
+      <actor>Ben Fogle&lt;BR&gt;Režie: Nicola Tremain</actor>
+      <actor>Dimitri Collingridge (2013)</actor>
+      <director>Nicola Tremain</director>
+      <director>Dimitri Collingridge</director>
+    </credits>
+    <date>2013</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923210000 +0200" stop="20260923221000 +0200">
+    <title lang="cs">Anton and Giovanni's Adventures in Sicily</title>
+    <sub-title lang="cs">Episode 1</sub-title>
+    <desc lang="cs">The first leg of Anton and Giovanni's Sicilian road trip begins in the port town of Sciacca. From there, it takes in Greek architecture, octopus fishing and a tango festival.</desc>
+    <credits>
+      <actor>Anton Du Beke</actor>
+      <actor>Giovanni Pernice</actor>
+      <director>Dionne Bromfield</director>
+    </credits>
+    <date>2023</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923221000 +0200" stop="20260923232500 +0200">
+    <title lang="cs">The World's Deadliest Weather</title>
+    <sub-title lang="cs">Series 5, Episode 9</sub-title>
+    <desc lang="cs">A wind driven wildfire consumes a Colorado neighbourhood. In New Mexico, freezing conditions trap 21 people in an ice-covered tram car.</desc>
+    <credits>
+      <actor>Euan Macnaughton</actor>
+    </credits>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260923232500 +0200" stop="20260924002500 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Rites of Winter</sub-title>
+    <desc lang="cs">The everyday struggles of living in the secluded state of Alaska where one wrong decision could cost you your life.</desc>
+    <credits>
+      <actor>James Franzo&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2019)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2019</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E9</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924002500 +0200" stop="20260924013000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">The Burning Man</sub-title>
+    <desc lang="cs">Agnes and Doug go on a traditional seal hunt. Glenn must dispose of a trespass cabin. Jessie hunts along the river for food and medicine. Sue brushes up on her survival skills.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Glenn Villeneuve</actor>
+      <actor>Jessie Holmes</actor>
+      <actor>Agnes Hailstone</actor>
+      <actor>Chip Hailstone&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2018)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2018</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924013000 +0200" stop="20260924023000 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">Australia</sub-title>
+    <desc lang="cs">Ben learns to oyster pick, brew beer, trade fish and dance with the locals with voluntary castaway Dave Glasheen on a remote Australian island.</desc>
+    <credits>
+      <actor>Ben Fogle&lt;BR&gt;Režie: Nicola Tremain</actor>
+      <actor>Dimitri Collingridge (2013)</actor>
+      <director>Nicola Tremain</director>
+      <director>Dimitri Collingridge</director>
+    </credits>
+    <date>2013</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924023000 +0200" stop="20260924034000 +0200">
+    <title lang="cs">Anton and Giovanni's Adventures in Sicily</title>
+    <sub-title lang="cs">Episode 1</sub-title>
+    <desc lang="cs">The first leg of Anton and Giovanni's Sicilian road trip begins in the port town of Sciacca. From there, it takes in Greek architecture, octopus fishing and a tango festival.</desc>
+    <credits>
+      <actor>Anton Du Beke</actor>
+      <actor>Giovanni Pernice</actor>
+      <director>Dionne Bromfield</director>
+    </credits>
+    <date>2023</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924034000 +0200" stop="20260924044500 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Deadly Grounds</sub-title>
+    <desc lang="cs">Erik goes to extreme heights on Kodiak Island, pushing the limits with a rare chance to hunt elusive prey.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Andy Bassich</actor>
+      <actor>Agnes Hailstone&lt;BR&gt;Režie: Travis Shakespeare</actor>
+      <actor>Jane Tranter (2014)</actor>
+      <director>Travis Shakespeare</director>
+      <director>Jane Tranter</director>
+    </credits>
+    <date>2014</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924044500 +0200" stop="20260924055000 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">New Zealand</sub-title>
+    <desc lang="cs">Ben journeys off the coast of New Zealand's North Island to Great Barrier Island, where he meets a man who gave up his promising scientific career to embrace life in an off-grid, secluded world.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Nicola Tremain</director>
+    </credits>
+    <date>2017</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924055000 +0200" stop="20260924060000 +0200">
+    <title lang="cs">Mammals: Making Of</title>
+    <sub-title lang="cs">Episode 2</sub-title>
+    <desc lang="cs">A behind-the-scenes look at the series that explores the most successful animal group on Earth, from the tiny Etruscan shrew to the largest mammal in existence - the blue whale.</desc>
+    <credits>
+      <director>Amy Downes</director>
+    </credits>
+    <date>2024</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924060000 +0200" stop="20260924063500 +0200">
+    <title lang="cs">David Attenborough's Natural Curiosities</title>
+    <sub-title lang="cs">Spinners and Weavers</sub-title>
+    <desc lang="cs">What are the processes behind the building of complex structures and could we adapt spider silk to benefit us?</desc>
+    <credits>
+      <actor>David Attenborough</actor>
+      <director>Stephen Dunleavy</director>
+    </credits>
+    <date>2013</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924063500 +0200" stop="20260924074000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">The Burning Man</sub-title>
+    <desc lang="cs">Agnes and Doug go on a traditional seal hunt. Glenn must dispose of a trespass cabin. Jessie hunts along the river for food and medicine. Sue brushes up on her survival skills.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Glenn Villeneuve</actor>
+      <actor>Jessie Holmes</actor>
+      <actor>Agnes Hailstone</actor>
+      <actor>Chip Hailstone&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2018)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2018</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924074000 +0200" stop="20260924090000 +0200">
+    <title lang="cs">Universe</title>
+    <sub-title lang="cs">The Milky Way: Island of Light</sub-title>
+    <desc lang="cs">Professor Brian Cox journeys across the vastness of time and space.</desc>
+    <credits>
+      <actor>Brian Cox</actor>
+      <director>Ashley Gething</director>
+    </credits>
+    <date>2021</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924090000 +0200" stop="20260924101500 +0200">
+    <title lang="cs">The Green Planet</title>
+    <sub-title lang="cs">Seasonal Worlds</sub-title>
+    <desc lang="cs">Seasonal worlds are dominated by relentless change. For plants to survive they must get their timing right.</desc>
+    <credits>
+      <actor>David Attenborough</actor>
+      <director>Paul Williams</director>
+    </credits>
+    <date>2022</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924101500 +0200" stop="20260924113000 +0200">
+    <title lang="cs">Paddy and Chris: Road Tripping</title>
+    <sub-title lang="cs">Switzerland</sub-title>
+    <desc lang="cs">For the last leg, Paddy and Chris head to Switzerland to see if its cutting-edge treatments, medical science and health shortcuts can keep them younger for longer, inside and out.</desc>
+    <credits>
+      <actor>Paddy McGuinness</actor>
+      <actor>Chris Harris</actor>
+      <director>Ryan Daly</director>
+    </credits>
+    <date>2024</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924113000 +0200" stop="20260924123000 +0200">
+    <title lang="cs">Walking with Dinosaurs</title>
+    <sub-title lang="cs">The River Dragon</sub-title>
+    <desc lang="cs">A Spinosaurus battles to keep his family alive in the deadliest place in Earth's history.</desc>
+    <credits>
+      <actor>Bertie Carvel</actor>
+      <director>Stephen Cooter</director>
+    </credits>
+    <date>2025</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924123000 +0200" stop="20260924135000 +0200">
+    <title lang="cs">Universe</title>
+    <sub-title lang="cs">Black Holes: Heart of Darkness</sub-title>
+    <desc lang="cs">Professor Brian Cox journeys across the vastness of time and space.</desc>
+    <credits>
+      <actor>Brian Cox</actor>
+      <director>Ashley Gething</director>
+    </credits>
+    <date>2021</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924135000 +0200" stop="20260924144500 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Dark Times Ahead</sub-title>
+    <desc lang="cs">In Alaska, Dark Winter is just around the corner, and Chip and Agnes must set out for their yearly autumn moose hunt.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Andy Bassich</actor>
+      <actor>Agnes Hailstone&lt;BR&gt;Režie: Travis Shakespeare</actor>
+      <actor>Jane Tranter (2014)</actor>
+      <director>Travis Shakespeare</director>
+      <director>Jane Tranter</director>
+    </credits>
+    <date>2014</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924144500 +0200" stop="20260924154500 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">Spain</sub-title>
+    <desc lang="cs">Ben heads to a remote corner of Spain's Andalucían mountains to meet British couple Alan and Lorna, who have left their respective careers in Brighton to become alpaca farmers.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Natalie Wilkinson</director>
+    </credits>
+    <date>2017</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924154500 +0200" stop="20260924164500 +0200">
+    <title lang="cs">Joanna Lumley's Spice Trail Adventure</title>
+    <sub-title lang="cs">Indonesia</sub-title>
+    <desc lang="cs">Joanna Lumley sets off on one her most epic voyages yet. A journey through the world's greatest spice continents. In this episode Joanna is heading to a collection of remote Indonesian islands.</desc>
+    <credits>
+      <actor>Joanna Lumley</actor>
+      <director>Zoe Dobson</director>
+    </credits>
+    <date>2023</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924164500 +0200" stop="20260924180000 +0200">
+    <title lang="cs">The Green Planet</title>
+    <sub-title lang="cs">Desert Worlds</sub-title>
+    <desc lang="cs">Deserts are hostile to life. Temperatures soar and plummet and water is rare. Yet even here plants have found ingenious ways to survive.</desc>
+    <credits>
+      <actor>David Attenborough</actor>
+      <director>Paul Williams</director>
+    </credits>
+    <date>2022</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924180000 +0200" stop="20260924190000 +0200">
+    <title lang="cs">Walking with Dinosaurs</title>
+    <sub-title lang="cs">The River Dragon</sub-title>
+    <desc lang="cs">A Spinosaurus battles to keep his family alive in the deadliest place in Earth's history.</desc>
+    <credits>
+      <actor>Bertie Carvel</actor>
+      <director>Stephen Cooter</director>
+    </credits>
+    <date>2025</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924190000 +0200" stop="20260924200000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Open Season</sub-title>
+    <desc lang="cs">The Hailstones bind together for a family hunt. Jessie recuperates from a hard-fought Iditarod. Ricko finds an unexpected treasure. Sue's rush to clear the runway is interrupted by an unexpected breakdown.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Glenn Villeneuve</actor>
+      <actor>Jessie Holmes</actor>
+      <actor>Agnes Hailstone</actor>
+      <actor>Chip Hailstone&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2018)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2018</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924200000 +0200" stop="20260924210000 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">Alaska</sub-title>
+    <desc lang="cs">Ben learns grizzly bear protection and storm navigation with a couple who live in a Mongolian-style yurt in the Alaskan wilderness.</desc>
+    <credits>
+      <actor>Ben Fogle&lt;BR&gt;Režie: Nicola Tremain</actor>
+      <actor>Dimitri Collingridge (2013)</actor>
+      <director>Nicola Tremain</director>
+      <director>Dimitri Collingridge</director>
+    </credits>
+    <date>2013</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924210000 +0200" stop="20260924220500 +0200">
+    <title lang="cs">Walking with Dinosaurs</title>
+    <sub-title lang="cs">Band of Brothers</sub-title>
+    <desc lang="cs">Utah, 130 million years ago. A band of armoured dinosaurs battles to reach adulthood, pursued by a group of Utahraptors: some of the most formidable predators that have ever lived.</desc>
+    <credits>
+      <actor>Bertie Carvel</actor>
+      <director>Stephen Cooter</director>
+    </credits>
+    <date>2025</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924220500 +0200" stop="20260924232000 +0200">
+    <title lang="cs">Australia's Health Revolution with Michael Mosley</title>
+    <sub-title lang="cs">Episode 2</sub-title>
+    <desc lang="cs">Doctor and medical journalist Dr. Michael Mosley is back in Australia to tackle the nation's battle with type 2 diabetes.</desc>
+    <credits>
+      <actor>Michael Mosley</actor>
+      <director>Ben Jones</director>
+    </credits>
+    <date>2021</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260924232000 +0200" stop="20260925003500 +0200">
+    <title lang="cs">Revolutions: Ideas That Changed The World</title>
+    <sub-title lang="cs">The Smartphone</sub-title>
+    <desc lang="cs">Few inventions have revolutionized our everyday existence like the smartphone. It put the world's knowledge in our hands, democratised news-gathering, photography and connected billions of people. But how did we get here?</desc>
+    <credits>
+      <director>Sean Smith</director>
+    </credits>
+    <date>2019</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925003500 +0200" stop="20260925014000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Open Season</sub-title>
+    <desc lang="cs">The Hailstones bind together for a family hunt. Jessie recuperates from a hard-fought Iditarod. Ricko finds an unexpected treasure. Sue's rush to clear the runway is interrupted by an unexpected breakdown.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Glenn Villeneuve</actor>
+      <actor>Jessie Holmes</actor>
+      <actor>Agnes Hailstone</actor>
+      <actor>Chip Hailstone&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2018)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2018</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925014000 +0200" stop="20260925023000 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">Alaska</sub-title>
+    <desc lang="cs">Ben learns grizzly bear protection and storm navigation with a couple who live in a Mongolian-style yurt in the Alaskan wilderness.</desc>
+    <credits>
+      <actor>Ben Fogle&lt;BR&gt;Režie: Nicola Tremain</actor>
+      <actor>Dimitri Collingridge (2013)</actor>
+      <director>Nicola Tremain</director>
+      <director>Dimitri Collingridge</director>
+    </credits>
+    <date>2013</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925023000 +0200" stop="20260925033500 +0200">
+    <title lang="cs">Walking with Dinosaurs</title>
+    <sub-title lang="cs">Band of Brothers</sub-title>
+    <desc lang="cs">Utah, 130 million years ago. A band of armoured dinosaurs battles to reach adulthood, pursued by a group of Utahraptors: some of the most formidable predators that have ever lived.</desc>
+    <credits>
+      <actor>Bertie Carvel</actor>
+      <director>Stephen Cooter</director>
+    </credits>
+    <date>2025</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925033500 +0200" stop="20260925044000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Dark Times Ahead</sub-title>
+    <desc lang="cs">In Alaska, Dark Winter is just around the corner, and Chip and Agnes must set out for their yearly autumn moose hunt.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Andy Bassich</actor>
+      <actor>Agnes Hailstone&lt;BR&gt;Režie: Travis Shakespeare</actor>
+      <actor>Jane Tranter (2014)</actor>
+      <director>Travis Shakespeare</director>
+      <director>Jane Tranter</director>
+    </credits>
+    <date>2014</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925044000 +0200" stop="20260925055000 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">Spain</sub-title>
+    <desc lang="cs">Ben heads to a remote corner of Spain's Andalucían mountains to meet British couple Alan and Lorna, who have left their respective careers in Brighton to become alpaca farmers.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Natalie Wilkinson</director>
+    </credits>
+    <date>2017</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925055000 +0200" stop="20260925060000 +0200">
+    <title lang="cs">Mammals: Making Of</title>
+    <sub-title lang="cs">Episode 3</sub-title>
+    <desc lang="cs">A behind-the-scenes look at the series that explores the most successful animal group on Earth, from the tiny Etruscan shrew to the largest mammal in existence - the blue whale.</desc>
+    <credits>
+      <director>Kyle Swann</director>
+    </credits>
+    <date>2024</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925060000 +0200" stop="20260925065500 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">Alaska</sub-title>
+    <desc lang="cs">Ben learns grizzly bear protection and storm navigation with a couple who live in a Mongolian-style yurt in the Alaskan wilderness.</desc>
+    <credits>
+      <actor>Ben Fogle&lt;BR&gt;Režie: Nicola Tremain</actor>
+      <actor>Dimitri Collingridge (2013)</actor>
+      <director>Nicola Tremain</director>
+      <director>Dimitri Collingridge</director>
+    </credits>
+    <date>2013</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925065500 +0200" stop="20260925080000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Open Season</sub-title>
+    <desc lang="cs">The Hailstones bind together for a family hunt. Jessie recuperates from a hard-fought Iditarod. Ricko finds an unexpected treasure. Sue's rush to clear the runway is interrupted by an unexpected breakdown.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Glenn Villeneuve</actor>
+      <actor>Jessie Holmes</actor>
+      <actor>Agnes Hailstone</actor>
+      <actor>Chip Hailstone&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2018)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2018</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E14</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925080000 +0200" stop="20260925091500 +0200">
+    <title lang="cs">Universe</title>
+    <sub-title lang="cs">Black Holes: Heart of Darkness</sub-title>
+    <desc lang="cs">Professor Brian Cox journeys across the vastness of time and space.</desc>
+    <credits>
+      <actor>Brian Cox</actor>
+      <director>Ashley Gething</director>
+    </credits>
+    <date>2021</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925091500 +0200" stop="20260925103000 +0200">
+    <title lang="cs">The Green Planet</title>
+    <sub-title lang="cs">Desert Worlds</sub-title>
+    <desc lang="cs">Deserts are hostile to life. Temperatures soar and plummet and water is rare. Yet even here plants have found ingenious ways to survive.</desc>
+    <credits>
+      <actor>David Attenborough</actor>
+      <director>Paul Williams</director>
+    </credits>
+    <date>2022</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925103000 +0200" stop="20260925113000 +0200">
+    <title lang="cs">Joanna Lumley's Spice Trail Adventure</title>
+    <sub-title lang="cs">Indonesia</sub-title>
+    <desc lang="cs">Joanna Lumley sets off on one her most epic voyages yet. A journey through the world's greatest spice continents. In this episode Joanna is heading to a collection of remote Indonesian islands.</desc>
+    <credits>
+      <actor>Joanna Lumley</actor>
+      <director>Zoe Dobson</director>
+    </credits>
+    <date>2023</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925113000 +0200" stop="20260925123000 +0200">
+    <title lang="cs">Ben Fogle's Race for the Nile</title>
+    <sub-title lang="cs">Episode 2</sub-title>
+    <desc lang="cs">In the footsteps of Livingstone and Stanley, Ben Fogle and Dwayne Fields try to solve one of history's greatest mysteries, setting out to find the Nile's source, travelling through deadly jungles and swamps.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Alexis Girardet</director>
+    </credits>
+    <date>2025</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925123000 +0200" stop="20260925135000 +0200">
+    <title lang="cs">Universe</title>
+    <sub-title lang="cs">The Big Bang: Before the Dawn</sub-title>
+    <desc lang="cs">Professor Brian Cox journeys across the vastness of time and space.</desc>
+    <credits>
+      <actor>Brian Cox</actor>
+      <director>Ashley Gething</director>
+    </credits>
+    <date>2021</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925135000 +0200" stop="20260925144500 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">Calling The Wind</sub-title>
+    <desc lang="cs">In Eagle, deadly river conditions mean that Andy and Kate must cut a new trail through dense forest to access vital resources.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Andy Bassich</actor>
+      <actor>Agnes Hailstone&lt;BR&gt;Režie: Travis Shakespeare</actor>
+      <actor>Jane Tranter (2014)</actor>
+      <director>Travis Shakespeare</director>
+      <director>Jane Tranter</director>
+    </credits>
+    <date>2014</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925144500 +0200" stop="20260925154500 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">Guatemala</sub-title>
+    <desc lang="cs">Ben ventures deep into the jungles of Guatemala, once home to an ancient Mayan civilisation but also Mike Merrill, a former sound engineer from Texas who is building a backpackers hostel.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Dimitri Collingridge</director>
+    </credits>
+    <date>2017</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925154500 +0200" stop="20260925164500 +0200">
+    <title lang="cs">Joanna Lumley's Spice Trail Adventure</title>
+    <sub-title lang="cs">India</sub-title>
+    <desc lang="cs">Joanna returns to her birthplace, India, in search of a kitchen cupboard staple once known as 'black gold'. Starting in the majestic ancient city of Hampi, she's invited to a dazzling Hindu festival.</desc>
+    <credits>
+      <actor>Joanna Lumley</actor>
+      <director>Zoe Dobson</director>
+    </credits>
+    <date>2023</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925164500 +0200" stop="20260925180000 +0200">
+    <title lang="cs">The Green Planet</title>
+    <sub-title lang="cs">Human Worlds</sub-title>
+    <desc lang="cs">Two out of five wild plants are threatened with extinction. Today people are finding remarkable ways to help them, and so make our world a little greener and a little wilder.</desc>
+    <credits>
+      <actor>David Attenborough</actor>
+      <director>Paul Williams</director>
+    </credits>
+    <date>2022</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925180000 +0200" stop="20260925190000 +0200">
+    <title lang="cs">Ben Fogle's Race for the Nile</title>
+    <sub-title lang="cs">Episode 2</sub-title>
+    <desc lang="cs">In the footsteps of Livingstone and Stanley, Ben Fogle and Dwayne Fields try to solve one of history's greatest mysteries, setting out to find the Nile's source, travelling through deadly jungles and swamps.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Alexis Girardet</director>
+    </credits>
+    <date>2025</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925190000 +0200" stop="20260925200000 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">The Thaw: The Great Changeover</sub-title>
+    <desc lang="cs">Sue rips out her old kitchen to build a new one. The Hailstones go picking for vegetables. Ricko takes his kids out for a fishing trip and Jessie goes beaver hunting.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Glenn Villeneuve</actor>
+      <actor>Jessie Holmes</actor>
+      <actor>Agnes Hailstone</actor>
+      <actor>Chip Hailstone&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2018)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2018</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925200000 +0200" stop="20260925210000 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">New Zealand</sub-title>
+    <desc lang="cs">Ben goes to New Zealand and spends time with a hunter-gatherer couple who have raised two teenagers in complete isolation.</desc>
+    <credits>
+      <actor>Ben Fogle&lt;BR&gt;Režie: Nicola Tremain</actor>
+      <actor>Dimitri Collingridge (2013)</actor>
+      <director>Nicola Tremain</director>
+      <director>Dimitri Collingridge</director>
+    </credits>
+    <date>2013</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925210000 +0200" stop="20260925220000 +0200">
+    <title lang="cs">Life Below Zero: Canada</title>
+    <sub-title lang="cs">Fresh Starts</sub-title>
+    <desc lang="cs">More stories of the brave and hardy people who live below zero in Northern Canada.</desc>
+    <credits>
+      <actor>Becky Broderick</actor>
+      <actor>Bentley Kakekayash</actor>
+      <actor>Mike Harrison</actor>
+      <actor>Kim Pasche</actor>
+      <actor>Pierre-Yves Duc</actor>
+      <actor>Jonathan Grenier&lt;BR&gt;Režie: Paul Kilback</actor>
+      <actor>Victor Kushmaniuk</actor>
+      <actor>Mark Stevenson (2022)</actor>
+      <director>Paul Kilback</director>
+      <director>Victor Kushmaniuk</director>
+      <director>Mark Stevenson</director>
+    </credits>
+    <date>2022</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925220000 +0200" stop="20260925231500 +0200">
+    <title lang="cs">Japan with Sue Perkins</title>
+    <sub-title lang="cs">Episode 2</sub-title>
+    <desc lang="cs">Sue Perkins enjoys a night out with Kyoto's geishas, goes free diving with some ama divers and visits Hiroshima. In Tokyo, she explores how the Japanese are tackling the future.</desc>
+    <credits>
+      <actor>Sue Perkins</actor>
+      <director>Helen Simpson</director>
+    </credits>
+    <date>2019</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260925231500 +0200" stop="20260926001500 +0200">
+    <title lang="cs">Ben Fogle: Return to the Wild</title>
+    <sub-title lang="cs">Arkansas, USA</sub-title>
+    <desc lang="cs">Ben Fogle reunites with a former medical student living in the woodlands of Arkansas. Ben discovers the impact a series of injuries have had on his physically demanding wild lifestyle.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Dimitri Collingridge</director>
+    </credits>
+    <date>2020</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260926001500 +0200" stop="20260926011500 +0200">
+    <title lang="cs">Life Below Zero</title>
+    <sub-title lang="cs">The Thaw: The Great Changeover</sub-title>
+    <desc lang="cs">Sue rips out her old kitchen to build a new one. The Hailstones go picking for vegetables. Ricko takes his kids out for a fishing trip and Jessie goes beaver hunting.</desc>
+    <credits>
+      <actor>Sue Aikens</actor>
+      <actor>Glenn Villeneuve</actor>
+      <actor>Jessie Holmes</actor>
+      <actor>Agnes Hailstone</actor>
+      <actor>Chip Hailstone&lt;BR&gt;Režie: Brad Carper</actor>
+      <actor>Daniel Ryan Espy (2018)</actor>
+      <director>Brad Carper</director>
+      <director>Daniel Ryan Espy</director>
+    </credits>
+    <date>2018</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260926011500 +0200" stop="20260926021500 +0200">
+    <title lang="cs">Where the Wild Men Are with Ben Fogle</title>
+    <sub-title lang="cs">New Zealand</sub-title>
+    <desc lang="cs">Ben goes to New Zealand and spends time with a hunter-gatherer couple who have raised two teenagers in complete isolation.</desc>
+    <credits>
+      <actor>Ben Fogle&lt;BR&gt;Režie: Nicola Tremain</actor>
+      <actor>Dimitri Collingridge (2013)</actor>
+      <director>Nicola Tremain</director>
+      <director>Dimitri Collingridge</director>
+    </credits>
+    <date>2013</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260926021500 +0200" stop="20260926031000 +0200">
+    <title lang="cs">Life Below Zero: Canada</title>
+    <sub-title lang="cs">Fresh Starts</sub-title>
+    <desc lang="cs">More stories of the brave and hardy people who live below zero in Northern Canada.</desc>
+    <credits>
+      <actor>Becky Broderick</actor>
+      <actor>Bentley Kakekayash</actor>
+      <actor>Mike Harrison</actor>
+      <actor>Kim Pasche</actor>
+      <actor>Pierre-Yves Duc</actor>
+      <actor>Jonathan Grenier&lt;BR&gt;Režie: Paul Kilback</actor>
+      <actor>Victor Kushmaniuk</actor>
+      <actor>Mark Stevenson (2022)</actor>
+      <director>Paul Kilback</director>
+      <director>Victor Kushmaniuk</director>
+      <director>Mark Stevenson</director>
+    </credits>
+    <date>2022</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC EARTH HD" start="20260926031000 +0200" stop="20260926040500 +0200">
+    <title lang="cs">Ben Fogle: Return to the Wild</title>
+    <sub-title lang="cs">Arkansas, USA</sub-title>
+    <desc lang="cs">Ben Fogle reunites with a former medical student living in the woodlands of Arkansas. Ben discovers the impact a series of injuries have had on his physically demanding wild lifestyle.</desc>
+    <credits>
+      <actor>Ben Fogle</actor>
+      <director>Dimitri Collingridge</director>
+    </credits>
+    <date>2020</date>
+    <category lang="cs">Dok</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922002000 -0500" stop="20260922012000 -0500">
+    <title lang="pl">Wielkie kanadyjskie wypieki 2</title>
+    <title lang="xx">The Great Canadian Baking Show</title>
+    <desc lang="pl">Kolejna odsłona programu, w którym grupa nieprofesjonalnych cukierników rywalizuje ze sobą w konkursie. Przed nim wymagające zadania. W jury zasiadają szef kuchni Bruno Feldeisen i Rochelle Adonis.</desc>
+    <date>2018</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922012000 -0500" stop="20260922022500 -0500">
+    <title lang="pl">Mistrzowie szycia 10</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Dwanaścioro amatorów krawieckiego fachu staje do zaciętej rywalizacji. Seria trudnych i wymagających zadań podda próbie ich zdolności, kreatywność oraz umiejętność pracy pod presją czasu.</desc>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S10E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922022500 -0500" stop="20260922042500 -0500">
+    <title lang="pl">Zapraszam do stołu: Wielka porcja 20</title>
+    <title lang="xx">Come Dine with Me: Supersized 20</title>
+    <desc lang="pl">Kolejna odsłona kulinarnego show, w którym kucharze amatorzy urządzają przyjęcie i zapraszają na nie pozostałych uczestników programu. Każdy z miłośników gotowania podlega surowej ocenie swoich gości.</desc>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S20E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922042500 -0500" stop="20260922052500 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922052500 -0500" stop="20260922063000 -0500">
+    <title lang="pl">10 lat mniej w 10 dni 2</title>
+    <title lang="xx">10 Years Younger in 10 Days</title>
+    <desc lang="pl">Uczestnicy programu poddawani są metamorfozie bez ingerencji chirurgii plastycznej. W 10 dni odzyskują młodzieńczy wygląd i pewność siebie. Cherry Healey jest świadkiem niesamowitych przemian.</desc>
+    <credits>
+      <director>Daniel Ball</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922063000 -0500" stop="20260922073500 -0500">
+    <title lang="pl">Niezwykłe hotele bez tajemnic 4</title>
+    <title lang="xx">Amazing Hotels: Life Beyond the Lobby 4</title>
+    <credits>
+      <director>Giles Coren</director>
+      <director>Monica Galetti</director>
+    </credits>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S4E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922073500 -0500" stop="20260922083500 -0500">
+    <title lang="pl">Wielkie kanadyjskie wypieki 2</title>
+    <title lang="xx">The Great Canadian Baking Show</title>
+    <desc lang="pl">Kolejna odsłona programu, w którym grupa nieprofesjonalnych cukierników rywalizuje ze sobą w konkursie. Przed nim wymagające zadania. W jury zasiadają szef kuchni Bruno Feldeisen i Rochelle Adonis.</desc>
+    <date>2018</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922083500 -0500" stop="20260922104000 -0500">
+    <title lang="pl">Zapraszam do stołu: Wielka porcja 19</title>
+    <title lang="xx">Come Dine with Me: Supersized</title>
+    <desc lang="pl">Nieprofesjonalni kucharze urządzają przyjęcie, na które zapraszają pozostałych uczestników programu. Zadanie polega na tym, by zaimponować innym swoją sztuką kulinarną. Wszyscy liczą na nagrodę.</desc>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S19E11</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922104000 -0500" stop="20260922115000 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922115000 -0500" stop="20260922125500 -0500">
+    <title lang="pl">Mistrzowie szycia 10</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Dwanaścioro amatorów krawieckiego fachu staje do zaciętej rywalizacji. Seria trudnych i wymagających zadań podda próbie ich zdolności, kreatywność oraz umiejętność pracy pod presją czasu.</desc>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S10E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922125500 -0500" stop="20260922140000 -0500">
+    <title lang="pl">Wielkie kanadyjskie wypieki 2</title>
+    <title lang="xx">The Great Canadian Baking Show</title>
+    <desc lang="pl">Kolejna odsłona programu, w którym grupa nieprofesjonalnych cukierników rywalizuje ze sobą w konkursie. Przed nim wymagające zadania. W jury zasiadają szef kuchni Bruno Feldeisen i Rochelle Adonis.</desc>
+    <date>2018</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922140000 -0500" stop="20260922150000 -0500">
+    <title lang="pl">Koreańska uczta Eda i Ryu</title>
+    <title lang="xx">Ed and Ryu: Mad About Seafood</title>
+    <date>2025</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922150000 -0500" stop="20260922161500 -0500">
+    <title lang="pl">Najdroższa szamanka świata</title>
+    <title lang="xx">The Million Pound Shaman Scam</title>
+    <desc lang="pl">Juliette D'Souza przedstawia się jako duchowa uzdrowicielka. Zyskuje zaufanie londyńskiej elity. Wciąga kolejne osoby w misternie zaplanowane oszustwo, a ofiary przekazują jej coraz większe kwoty.</desc>
+    <credits>
+      <director>Sam Miller</director>
+    </credits>
+    <date>2026</date>
+    <category lang="pl">film dokumentalny</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922161500 -0500" stop="20260922172000 -0500">
+    <title lang="pl">Uwiedzione: sypiając z tajniakiem</title>
+    <title lang="xx">Deep Deception</title>
+    <desc lang="pl">Alison, Lisa i Helen od lat tworzą związki z partnerami, których poznały jako młode aktywistki. Z biegiem czasu ich mężowie zaczynają wykazywać coraz bardziej niepokojące zachowania.</desc>
+    <date>2025</date>
+    <category lang="pl">film dokumentalny</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922172000 -0500" stop="20260922181000 -0500">
+    <title lang="pl">Ratunek dla skóry 5</title>
+    <title lang="xx">Skin A\u0026E</title>
+    <desc lang="pl">Piąta odsłona programu ujawniająca historie osób zmagających się z najróżniejszymi chorobami skórnymi. Zespół dermatologów spróbuje pomóc pacjentom zmęczonym bezskuteczną walką ze schorzeniami.</desc>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S5E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922181000 -0500" stop="20260922190000 -0500">
+    <title lang="pl">Wstydliwe choroby: Otyłość 2</title>
+    <title lang="xx">Embarrassing Fat Bodies 2</title>
+    <desc lang="pl">Lekarze zajmują się jednym z największych problemów zdrowotnych ostatnich czasów - otyłością. Odkrywają m.in. niechciane skutki nadwagi.</desc>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922190000 -0500" stop="20260922194500 -0500">
+    <title lang="pl">Najdroższe brytyjskie domy 3</title>
+    <title lang="xx">Britain's Most Expensive Houses</title>
+    <desc lang="pl">Kolejna odsłona programu, w którym agenci nieruchomości w towarzystwie kamer oprowadzają klientów po najdroższych posesjach. Nabywcy dysponują nieograniczonymi funduszami i są bardzo wymagający.</desc>
+    <date>2024</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">S3E8</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922194500 -0500" stop="20260922204000 -0500">
+    <title lang="pl">Mistrzowie szycia 9</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Amatorzy krawiectwa rywalizują w programie, podejmując trudne zadania testujące ich zdolności, kreatywność i pracę pod presją. Walczą o tytuł najlepszego nieprofesjonalnego krawca w Wielkiej Brytanii.</desc>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S9E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922204000 -0500" stop="20260922213500 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 12</title>
+    <title lang="xx">The Great British Bake Off: Cake Week</title>
+    <date>2021</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S12E6</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922213500 -0500" stop="20260922223000 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 12</title>
+    <title lang="xx">The Great British Bake Off: Cake Week</title>
+    <date>2021</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S12E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922223000 -0500" stop="20260922230000 -0500">
+    <title lang="pl">Hiszpański remont Amandy i Alana</title>
+    <title lang="xx">Amanda and Alan's Spanish Job</title>
+    <desc lang="pl">Amanda Holden i Alan Carr odnawiają zaniedbany dom w południowej Hiszpanii. W dzień zmagają się z remontowymi trudnościami, przywracając budynkowi urok. Wieczorami odpoczywają przy kieliszku sangrii.</desc>
+    <credits>
+      <actor>Self - Presenter - Amanda Holden</actor>
+      <actor>Self - Presenter - Alan Carr</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922230000 -0500" stop="20260922233000 -0500">
+    <title lang="pl">Hiszpański remont Amandy i Alana</title>
+    <title lang="xx">Amanda and Alan's Spanish Job</title>
+    <desc lang="pl">Amanda Holden i Alan Carr odnawiają zaniedbany dom w południowej Hiszpanii. W dzień zmagają się z remontowymi trudnościami, przywracając budynkowi urok. Wieczorami odpoczywają przy kieliszku sangrii.</desc>
+    <credits>
+      <actor>Self - Presenter - Amanda Holden</actor>
+      <actor>Self - Presenter - Alan Carr</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260922233000 -0500" stop="20260923003000 -0500">
+    <title lang="pl">10 lat mniej w 10 dni 2</title>
+    <title lang="xx">10 Years Younger in 10 Days</title>
+    <desc lang="pl">Uczestnicy programu poddawani są metamorfozie bez ingerencji chirurgii plastycznej. W 10 dni odzyskują młodzieńczy wygląd i pewność siebie. Cherry Healey jest świadkiem niesamowitych przemian.</desc>
+    <credits>
+      <director>Daniel Ball</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923003000 -0500" stop="20260923012500 -0500">
+    <title lang="pl">Wielkie kanadyjskie wypieki 2</title>
+    <title lang="xx">The Great Canadian Baking Show</title>
+    <desc lang="pl">Kolejna odsłona programu, w którym grupa nieprofesjonalnych cukierników rywalizuje ze sobą w konkursie. Przed nim wymagające zadania. W jury zasiadają szef kuchni Bruno Feldeisen i Rochelle Adonis.</desc>
+    <date>2018</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S2E8</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923012500 -0500" stop="20260923023000 -0500">
+    <title lang="pl">Mistrzowie szycia 10</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Dwanaścioro amatorów krawieckiego fachu staje do zaciętej rywalizacji. Seria trudnych i wymagających zadań podda próbie ich zdolności, kreatywność oraz umiejętność pracy pod presją czasu.</desc>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S10E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923023000 -0500" stop="20260923042500 -0500">
+    <title lang="pl">Zapraszam do stołu: Wielka porcja 20</title>
+    <title lang="xx">Come Dine with Me: Supersized 20</title>
+    <desc lang="pl">Kolejna odsłona kulinarnego show, w którym kucharze amatorzy urządzają przyjęcie i zapraszają na nie pozostałych uczestników programu. Każdy z miłośników gotowania podlega surowej ocenie swoich gości.</desc>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S20E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923042500 -0500" stop="20260923053000 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923053000 -0500" stop="20260923063000 -0500">
+    <title lang="pl">10 lat mniej w 10 dni 2</title>
+    <title lang="xx">10 Years Younger in 10 Days</title>
+    <desc lang="pl">Uczestnicy programu poddawani są metamorfozie bez ingerencji chirurgii plastycznej. W 10 dni odzyskują młodzieńczy wygląd i pewność siebie. Cherry Healey jest świadkiem niesamowitych przemian.</desc>
+    <credits>
+      <director>Daniel Ball</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923063000 -0500" stop="20260923073500 -0500">
+    <title lang="pl">Koreańska uczta Eda i Ryu</title>
+    <title lang="xx">Ed and Ryu: Mad About Seafood</title>
+    <date>2025</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923073500 -0500" stop="20260923083500 -0500">
+    <title lang="pl">Wielkie kanadyjskie wypieki 2</title>
+    <title lang="xx">The Great Canadian Baking Show</title>
+    <desc lang="pl">Kolejna odsłona programu, w którym grupa nieprofesjonalnych cukierników rywalizuje ze sobą w konkursie. Przed nim wymagające zadania. W jury zasiadają szef kuchni Bruno Feldeisen i Rochelle Adonis.</desc>
+    <date>2018</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923083500 -0500" stop="20260923104500 -0500">
+    <title lang="pl">Zapraszam do stołu: Wielka porcja 19</title>
+    <title lang="xx">Come Dine with Me: Supersized</title>
+    <desc lang="pl">Nieprofesjonalni kucharze urządzają przyjęcie, na które zapraszają pozostałych uczestników programu. Zadanie polega na tym, by zaimponować innym swoją sztuką kulinarną. Wszyscy liczą na nagrodę.</desc>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S19E12</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923104500 -0500" stop="20260923115000 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923115000 -0500" stop="20260923125500 -0500">
+    <title lang="pl">Mistrzowie szycia 10</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Dwanaścioro amatorów krawieckiego fachu staje do zaciętej rywalizacji. Seria trudnych i wymagających zadań podda próbie ich zdolności, kreatywność oraz umiejętność pracy pod presją czasu.</desc>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S10E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923125500 -0500" stop="20260923140000 -0500">
+    <title lang="pl">Wielkie kanadyjskie wypieki 2</title>
+    <title lang="xx">The Great Canadian Baking Show</title>
+    <desc lang="pl">Kolejna odsłona programu, w którym grupa nieprofesjonalnych cukierników rywalizuje ze sobą w konkursie. Przed nim wymagające zadania. W jury zasiadają szef kuchni Bruno Feldeisen i Rochelle Adonis.</desc>
+    <date>2018</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S2E8</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923140000 -0500" stop="20260923150500 -0500">
+    <title lang="pl">Wielkie australijskie wypieki 6</title>
+    <title lang="xx">The Great Australian Bake Off</title>
+    <desc lang="pl">Cukiernicy amatorzy rywalizują w konkursie, który wyłoni najbardziej utalentowanego z nich. Aby zaimponować jurorom i pokonać kolejne etapy, zawodnicy muszą wspiąć się na wyżyny swoich umiejętności.</desc>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S6E9</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923150500 -0500" stop="20260923160000 -0500">
+    <title lang="pl">Zapraszam do stołu: profesjonaliści</title>
+    <title lang="xx">Come Dine With Me: The Professionals</title>
+    <desc lang="pl">Restauratorzy rywalizują, organizując kolacje we własnych lokalach i serwując autorskie menu konkurentom. Uczestnicy oceniają się nawzajem, a ich punktacja zdecyduje, który duet okaże się najlepszy.</desc>
+    <date>2022</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923160000 -0500" stop="20260923171000 -0500">
+    <title lang="pl">Kulinarne podróże Billy'ego i Doma</title>
+    <title lang="xx">Billy \u0026 Dom Eat the World</title>
+    <credits>
+      <actor>Self - Presenter - Billy Boyd</actor>
+      <actor>Self - Presenter - Dominic Monaghan</actor>
+      <actor>Self - Ian McKellen</actor>
+      <actor>Self - The Hebridean Baker - Coinneach MacLeod</actor>
+      <actor>Self - CEO Eat Just Inc - Josh Tetrick</actor>
+      <actor>Self - Pizzaiolo at Crust - Kris MacBain</actor>
+      <actor>Self - Chef - Jeremy Pang</actor>
+      <actor>Self - Alamo Chef - Brad Sorenson</actor>
+      <actor>Self - Chef de Cuisine at La Dame de Pic - Evens López</actor>
+      <actor>Self - General Manager La Dame de Pic - Jessa Jastrzemski</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923171000 -0500" stop="20260923180000 -0500">
+    <title lang="pl">Ratunek dla skóry 5</title>
+    <title lang="xx">Skin A\u0026E</title>
+    <desc lang="pl">Piąta odsłona programu ujawniająca historie osób zmagających się z najróżniejszymi chorobami skórnymi. Zespół dermatologów spróbuje pomóc pacjentom zmęczonym bezskuteczną walką ze schorzeniami.</desc>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S5E6</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923180000 -0500" stop="20260923185000 -0500">
+    <title lang="pl">Wstydliwe choroby: Otyłość 2</title>
+    <title lang="xx">Embarrassing Fat Bodies 2</title>
+    <desc lang="pl">Lekarze zajmują się jednym z największych problemów zdrowotnych ostatnich czasów - otyłością. Odkrywają m.in. niechciane skutki nadwagi.</desc>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923185000 -0500" stop="20260923193500 -0500">
+    <title lang="pl">Najdroższe brytyjskie domy 2</title>
+    <title lang="xx">Britain's Most Expensive Houses</title>
+    <desc lang="pl">Agenci nieruchomości w towarzystwie kamer oprowadzają klientów po najdroższych i najbardziej niesamowitych posesjach. Nabywcy dysponują nieograniczonymi funduszami i są bardzo wymagający.</desc>
+    <date>2023</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">S2E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923193500 -0500" stop="20260923203000 -0500">
+    <title lang="pl">Mistrzowie szycia 9</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Amatorzy krawiectwa rywalizują w programie, podejmując trudne zadania testujące ich zdolności, kreatywność i pracę pod presją. Walczą o tytuł najlepszego nieprofesjonalnego krawca w Wielkiej Brytanii.</desc>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S9E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923203000 -0500" stop="20260923212000 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 12</title>
+    <title lang="xx">The Great British Bake Off: Cake Week</title>
+    <date>2021</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S12E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923212000 -0500" stop="20260923221500 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 12</title>
+    <title lang="xx">The Great British Bake Off: Cake Week</title>
+    <date>2021</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S12E6</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923221500 -0500" stop="20260923230000 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923230000 -0500" stop="20260923232500 -0500">
+    <title lang="pl">Hiszpański remont Amandy i Alana</title>
+    <title lang="xx">Amanda and Alan's Spanish Job</title>
+    <desc lang="pl">Amanda Holden i Alan Carr odnawiają zaniedbany dom w południowej Hiszpanii. W dzień zmagają się z remontowymi trudnościami, przywracając budynkowi urok. Wieczorami odpoczywają przy kieliszku sangrii.</desc>
+    <credits>
+      <actor>Self - Presenter - Amanda Holden</actor>
+      <actor>Self - Presenter - Alan Carr</actor>
+    </credits>
+    <date>2025</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260923232500 -0500" stop="20260924002500 -0500">
+    <title lang="pl">10 lat mniej w 10 dni 2</title>
+    <title lang="xx">10 Years Younger in 10 Days</title>
+    <desc lang="pl">Uczestnicy programu poddawani są metamorfozie bez ingerencji chirurgii plastycznej. W 10 dni odzyskują młodzieńczy wygląd i pewność siebie. Cherry Healey jest świadkiem niesamowitych przemian.</desc>
+    <credits>
+      <director>Daniel Ball</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924002500 -0500" stop="20260924013000 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 5</title>
+    <title lang="xx">The Great British Bake Off</title>
+    <desc lang="pl">Kolejna edycja programu o pieczeniu. Tym razem w konkursie biorą udział najmłodszy i najstarszy z dotychczasowych uczestników.</desc>
+    <date>2014</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S5E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924013000 -0500" stop="20260924024000 -0500">
+    <title lang="pl">Mistrzowie szycia 10</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Dwanaścioro amatorów krawieckiego fachu staje do zaciętej rywalizacji. Seria trudnych i wymagających zadań podda próbie ich zdolności, kreatywność oraz umiejętność pracy pod presją czasu.</desc>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S10E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924024000 -0500" stop="20260924043500 -0500">
+    <title lang="pl">Zapraszam do stołu: Wielka porcja 20</title>
+    <title lang="xx">Come Dine with Me: Supersized 20</title>
+    <desc lang="pl">Kolejna odsłona kulinarnego show, w którym kucharze amatorzy urządzają przyjęcie i zapraszają na nie pozostałych uczestników programu. Każdy z miłośników gotowania podlega surowej ocenie swoich gości.</desc>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S20E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924043500 -0500" stop="20260924053500 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924053500 -0500" stop="20260924063500 -0500">
+    <title lang="pl">10 lat mniej w 10 dni 2</title>
+    <title lang="xx">10 Years Younger in 10 Days</title>
+    <desc lang="pl">Uczestnicy programu poddawani są metamorfozie bez ingerencji chirurgii plastycznej. W 10 dni odzyskują młodzieńczy wygląd i pewność siebie. Cherry Healey jest świadkiem niesamowitych przemian.</desc>
+    <credits>
+      <director>Daniel Ball</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924063500 -0500" stop="20260924074500 -0500">
+    <title lang="pl">Wielkie australijskie wypieki 6</title>
+    <title lang="xx">The Great Australian Bake Off</title>
+    <desc lang="pl">Cukiernicy amatorzy rywalizują w konkursie, który wyłoni najbardziej utalentowanego z nich. Aby zaimponować jurorom i pokonać kolejne etapy, zawodnicy muszą wspiąć się na wyżyny swoich umiejętności.</desc>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S6E9</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924074500 -0500" stop="20260924084500 -0500">
+    <title lang="pl">Wielkie kanadyjskie wypieki 2</title>
+    <title lang="xx">The Great Canadian Baking Show</title>
+    <desc lang="pl">Kolejna odsłona programu, w którym grupa nieprofesjonalnych cukierników rywalizuje ze sobą w konkursie. Przed nim wymagające zadania. W jury zasiadają szef kuchni Bruno Feldeisen i Rochelle Adonis.</desc>
+    <date>2018</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S2E8</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924084500 -0500" stop="20260924104500 -0500">
+    <title lang="pl">Zapraszam do stołu: Wielka porcja 7</title>
+    <title lang="xx">Come Dine With Me: Supersize 7</title>
+    <sub-title lang="pl">Manchester</sub-title>
+    <desc lang="pl">Kolejna seria przebojowego programu o amatorskim gotowaniu. W każdym odcinku pięcioro nieznajomych po kolei wydaje przyjęcia we własnych domach. Przygotowuje kolację, podejmuje rywali i robi wszystko, by wieczór został przez nich zapamiętany na długo. Po każdym ze spotkań goście oceniają dokonania gospodarza, przyznając mu punkty. Tu liczy się nie tylko jakość podanych potraw, ale też pomysł na spotkanie i jego atmosfera. Uczestnik show, który zdobył najwyższą ocenę dostaje nagrodę w wysokości tysiąca funtów.</desc>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S7E13</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924104500 -0500" stop="20260924115000 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924115000 -0500" stop="20260924125500 -0500">
+    <title lang="pl">Mistrzowie szycia 10</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Dwanaścioro amatorów krawieckiego fachu staje do zaciętej rywalizacji. Seria trudnych i wymagających zadań podda próbie ich zdolności, kreatywność oraz umiejętność pracy pod presją czasu.</desc>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S10E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924125500 -0500" stop="20260924140000 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 5</title>
+    <title lang="xx">The Great British Bake Off</title>
+    <desc lang="pl">Kolejna edycja programu o pieczeniu. Tym razem w konkursie biorą udział najmłodszy i najstarszy z dotychczasowych uczestników.</desc>
+    <date>2014</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S5E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924140000 -0500" stop="20260924150000 -0500">
+    <title lang="pl">10 lat mniej - powrót 2</title>
+    <title lang="xx">10 Years Younger Changed My Life</title>
+    <desc lang="pl">Widzowie ponownie spotkają się z kobietami, które przechodziły metamorfozy w poprzednim sezonie programu. Gail zajmująca się gospodarstwem rolnym miała dość swojego zaniedbanego wyglądu.</desc>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924150000 -0500" stop="20260924160500 -0500">
+    <title lang="pl">W 80 kilo dookoła świata</title>
+    <title lang="xx">Around the World in 80 Weighs</title>
+    <desc lang="pl">Sześcioro zmagających się z nadwagą Brytyjczyków wyrusza w podróż dookoła świata. W ten sposób zamierzają przyjrzeć się przyczynom globalnego problemu, jakim jest otyłość.</desc>
+    <date>2024</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924160500 -0500" stop="20260924170500 -0500">
+    <title lang="pl">Kobiety, skalpel i liposukcja</title>
+    <title lang="xx">Sex, Knives and Liposuction</title>
+    <desc lang="pl">Dziennikarka Cherry Healey przeprowadza wywiad z kobietami, które postanowiły poddać się operacjom plastycznym. Dzięki rozmowom poznaje sekrety labioplastyki, czyli modelowania warg sromowych.</desc>
+    <date>2018</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924170500 -0500" stop="20260924175500 -0500">
+    <title lang="pl">Ratunek dla skóry 5</title>
+    <title lang="xx">Skin A\u0026E</title>
+    <desc lang="pl">Piąta odsłona programu ujawniająca historie osób zmagających się z najróżniejszymi chorobami skórnymi. Zespół dermatologów spróbuje pomóc pacjentom zmęczonym bezskuteczną walką ze schorzeniami.</desc>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S5E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924175500 -0500" stop="20260924184500 -0500">
+    <title lang="pl">Wstydliwe choroby: Otyłość 2</title>
+    <title lang="xx">Embarrassing Fat Bodies 2</title>
+    <desc lang="pl">Lekarze zajmują się jednym z największych problemów zdrowotnych ostatnich czasów - otyłością. Odkrywają m.in. niechciane skutki nadwagi.</desc>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924184500 -0500" stop="20260924193500 -0500">
+    <title lang="pl">Najdroższe brytyjskie domy 2</title>
+    <title lang="xx">Britain's Most Expensive Houses</title>
+    <desc lang="pl">Agenci nieruchomości w towarzystwie kamer oprowadzają klientów po najdroższych i najbardziej niesamowitych posesjach. Nabywcy dysponują nieograniczonymi funduszami i są bardzo wymagający.</desc>
+    <date>2023</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">S2E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924193500 -0500" stop="20260924202500 -0500">
+    <title lang="pl">Mistrzowie szycia 9</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Amatorzy krawiectwa rywalizują w programie, podejmując trudne zadania testujące ich zdolności, kreatywność i pracę pod presją. Walczą o tytuł najlepszego nieprofesjonalnego krawca w Wielkiej Brytanii.</desc>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S9E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924202500 -0500" stop="20260924212000 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 12</title>
+    <title lang="xx">The Great British Bake Off: Cake Week</title>
+    <date>2021</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S12E8</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924212000 -0500" stop="20260924221000 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 12</title>
+    <title lang="xx">The Great British Bake Off: Cake Week</title>
+    <date>2021</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S12E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924221000 -0500" stop="20260924230000 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924230000 -0500" stop="20260924232500 -0500">
+    <title lang="pl">Majorka: śródziemnomorskie smaki</title>
+    <title lang="xx">Marcus in the Med: Mallorca</title>
+    <desc lang="pl">Marcus Wareing rusza na Majorkę, by zanurzyć się w jej kulinarnej tradycji. Odwiedza targowiska, odkrywa kameralne bary i lokalne przysmaki. Podczas podróży poznaje miejscowych producentów i kucharzy.</desc>
+    <date>2024</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260924232500 -0500" stop="20260925002000 -0500">
+    <title lang="pl">10 lat mniej w 10 dni 2</title>
+    <title lang="xx">10 Years Younger in 10 Days</title>
+    <desc lang="pl">Uczestnicy programu poddawani są metamorfozie bez ingerencji chirurgii plastycznej. W 10 dni odzyskują młodzieńczy wygląd i pewność siebie. Cherry Healey jest świadkiem niesamowitych przemian.</desc>
+    <credits>
+      <director>Daniel Ball</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925002000 -0500" stop="20260925012500 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 5</title>
+    <title lang="xx">The Great British Bake Off</title>
+    <desc lang="pl">Kolejna edycja programu o pieczeniu. Tym razem w konkursie biorą udział najmłodszy i najstarszy z dotychczasowych uczestników.</desc>
+    <date>2014</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S5E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925012500 -0500" stop="20260925023000 -0500">
+    <title lang="pl">Mistrzowie szycia 10</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Dwanaścioro amatorów krawieckiego fachu staje do zaciętej rywalizacji. Seria trudnych i wymagających zadań podda próbie ich zdolności, kreatywność oraz umiejętność pracy pod presją czasu.</desc>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S10E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925023000 -0500" stop="20260925042500 -0500">
+    <title lang="pl">Zapraszam do stołu: Wielka porcja 20</title>
+    <title lang="xx">Come Dine with Me: Supersized 20</title>
+    <desc lang="pl">Kolejna odsłona kulinarnego show, w którym kucharze amatorzy urządzają przyjęcie i zapraszają na nie pozostałych uczestników programu. Każdy z miłośników gotowania podlega surowej ocenie swoich gości.</desc>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S20E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925042500 -0500" stop="20260925053000 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925053000 -0500" stop="20260925063000 -0500">
+    <title lang="pl">10 lat mniej w 10 dni 2</title>
+    <title lang="xx">10 Years Younger in 10 Days</title>
+    <desc lang="pl">Uczestnicy programu poddawani są metamorfozie bez ingerencji chirurgii plastycznej. W 10 dni odzyskują młodzieńczy wygląd i pewność siebie. Cherry Healey jest świadkiem niesamowitych przemian.</desc>
+    <credits>
+      <director>Daniel Ball</director>
+    </credits>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925063000 -0500" stop="20260925073000 -0500">
+    <title lang="pl">10 lat mniej - powrót 2</title>
+    <title lang="xx">10 Years Younger Changed My Life</title>
+    <desc lang="pl">Widzowie ponownie spotkają się z kobietami, które przechodziły metamorfozy w poprzednim sezonie programu. Gail zajmująca się gospodarstwem rolnym miała dość swojego zaniedbanego wyglądu.</desc>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925073000 -0500" stop="20260925084000 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 5</title>
+    <title lang="xx">The Great British Bake Off</title>
+    <desc lang="pl">Kolejna edycja programu o pieczeniu. Tym razem w konkursie biorą udział najmłodszy i najstarszy z dotychczasowych uczestników.</desc>
+    <date>2014</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S5E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925084000 -0500" stop="20260925104500 -0500">
+    <title lang="pl">Zapraszam do stołu: Wielka porcja 20</title>
+    <title lang="xx">Come Dine with Me: Supersized 20</title>
+    <desc lang="pl">Kolejna odsłona kulinarnego show, w którym kucharze amatorzy urządzają przyjęcie i zapraszają na nie pozostałych uczestników programu. Każdy z miłośników gotowania podlega surowej ocenie swoich gości.</desc>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S20E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925104500 -0500" stop="20260925115000 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925115000 -0500" stop="20260925125500 -0500">
+    <title lang="pl">Mistrzowie szycia 10</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Dwanaścioro amatorów krawieckiego fachu staje do zaciętej rywalizacji. Seria trudnych i wymagających zadań podda próbie ich zdolności, kreatywność oraz umiejętność pracy pod presją czasu.</desc>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S10E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925125500 -0500" stop="20260925140000 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 5</title>
+    <title lang="xx">The Great British Bake Off</title>
+    <desc lang="pl">Kolejna edycja programu o pieczeniu. Tym razem w konkursie biorą udział najmłodszy i najstarszy z dotychczasowych uczestników.</desc>
+    <date>2014</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S5E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925140000 -0500" stop="20260925151000 -0500">
+    <title lang="pl">Najlepszy konsultant ślubny</title>
+    <title lang="xx">Ultimate Wedding Planner</title>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925151000 -0500" stop="20260925161000 -0500">
+    <title lang="pl">Bad Boyfriends</title>
+    <desc lang="pl">Ośmiu beztroskich mężczyzn wyrusza na grecką wyspę. Na miejscu okazuje się, że muszą przejść intensywną przemianę i zmierzyć się ze swoimi słabościami, by stać się dojrzałymi partnerami.</desc>
+    <credits>
+      <director>Roman Green</director>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925161000 -0500" stop="20260925170500 -0500">
+    <title lang="pl">Bad Boyfriends</title>
+    <desc lang="pl">Ośmiu beztroskich mężczyzn wyrusza na grecką wyspę. Na miejscu okazuje się, że muszą przejść intensywną przemianę i zmierzyć się ze swoimi słabościami, by stać się dojrzałymi partnerami.</desc>
+    <credits>
+      <director>Roman Green</director>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E12</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925170500 -0500" stop="20260925180000 -0500">
+    <title lang="pl">Wstydliwe choroby: zmiana płci</title>
+    <title lang="xx">Embarrassing Bodies... Changing Sex</title>
+    <desc lang="pl">Dr Christian składa wizytę dwóm kobietom, które poddały się operacji zmiany płci. Pacjentki opowiadają o tej trudnej operacji medycznej.</desc>
+    <credits>
+      <director>Darren Coates</director>
+    </credits>
+    <date>2013</date>
+    <category lang="pl">film dokumentalny</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925180000 -0500" stop="20260925185000 -0500">
+    <title lang="pl">Wstydliwe choroby: Nastolatki 2</title>
+    <title lang="xx">Embarrassing Teenage Bodies 2</title>
+    <desc lang="pl">Lekarze i psychologowie próbują pomóc nastolatkom zmagającym się z różnymi dolegliwościami, o których niechętnie wspominają komukolwiek. Ich problemy są charakterystyczne dla procesu dojrzewania.</desc>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S2E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925185000 -0500" stop="20260925193500 -0500">
+    <title lang="pl">Najdroższe brytyjskie domy 2</title>
+    <title lang="xx">Britain's Most Expensive Houses</title>
+    <desc lang="pl">Agenci nieruchomości w towarzystwie kamer oprowadzają klientów po najdroższych i najbardziej niesamowitych posesjach. Nabywcy dysponują nieograniczonymi funduszami i są bardzo wymagający.</desc>
+    <date>2023</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925193500 -0500" stop="20260925202500 -0500">
+    <title lang="pl">Mistrzowie szycia 9</title>
+    <title lang="xx">The Great British Sewing Bee</title>
+    <desc lang="pl">Amatorzy krawiectwa rywalizują w programie, podejmując trudne zadania testujące ich zdolności, kreatywność i pracę pod presją. Walczą o tytuł najlepszego nieprofesjonalnego krawca w Wielkiej Brytanii.</desc>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S9E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925202500 -0500" stop="20260925212000 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 12</title>
+    <title lang="xx">The Great British Bake Off: Cake Week</title>
+    <date>2021</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S12E9</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925212000 -0500" stop="20260925221000 -0500">
+    <title lang="pl">Wielkie brytyjskie wypieki 12</title>
+    <title lang="xx">The Great British Bake Off: Cake Week</title>
+    <date>2021</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S12E8</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925221000 -0500" stop="20260925230000 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925230000 -0500" stop="20260925232500 -0500">
+    <title lang="pl">Włoski remont Amandy i Alana</title>
+    <title lang="xx">Amanda and Alan's Italian Job</title>
+    <desc lang="pl">Amanda Holden i Alan Carr mają jeden cel: chcą wyremontować zniszczony dom na Sycylii. Łączą siły w tym przedsięwzięciu. Odkrywając uroki lokalnego życia, łączą pracę przy rozbiórce z dolce vita.</desc>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260925232500 -0500" stop="20260926000500 -0500">
+    <title lang="pl">Włoski remont Amandy i Alana</title>
+    <title lang="xx">Amanda and Alan's Italian Job</title>
+    <desc lang="pl">Amanda Holden i Alan Carr mają jeden cel: chcą wyremontować zniszczony dom na Sycylii. Łączą siły w tym przedsięwzięciu. Odkrywając uroki lokalnego życia, łączą pracę przy rozbiórce z dolce vita.</desc>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926000500 -0500" stop="20260926011500 -0500">
+    <title lang="pl">Mistrzowie ceramiki 8</title>
+    <title lang="xx">The Great Pottery Throw Down</title>
+    <desc lang="pl">Amatorzy garncarstwa stają do rywalizacji. Dokładają wszelkich starań, by zadowolić jurorów. Muszą udowodnić, że są kreatywni i precyzyjni. Zmaganiom zawodników przyglądają się profesjonaliści.</desc>
+    <date>2025</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">S8E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926011500 -0500" stop="20260926022000 -0500">
+    <title lang="pl">Mistrzowie ceramiki 8</title>
+    <title lang="xx">The Great Pottery Throw Down</title>
+    <desc lang="pl">Amatorzy garncarstwa stają do rywalizacji. Dokładają wszelkich starań, by zadowolić jurorów. Muszą udowodnić, że są kreatywni i precyzyjni. Zmaganiom zawodników przyglądają się profesjonaliści.</desc>
+    <date>2025</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">S8E8</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926022000 -0500" stop="20260926032500 -0500">
+    <title lang="pl">Koreańska uczta Eda i Ryu</title>
+    <title lang="xx">Ed and Ryu: Mad About Seafood</title>
+    <date>2025</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926032500 -0500" stop="20260926042500 -0500">
+    <title lang="pl">Ekskluzywne hotele</title>
+    <title lang="xx">Posh Hotels with Sally \u0026 Nigel</title>
+    <desc lang="pl">Aktorzy Nigel Havers i Sally Lindsay odwiedzają cztery najbardziej kultowe i luksusowe hotele w Wielkiej Brytanii. Jeden melduje się jako VIP, drugi wstępuje w szeregi pracowników.</desc>
+    <date>2018</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926042500 -0500" stop="20260926053000 -0500">
+    <title lang="pl">Najdroższe brytyjskie domy 2</title>
+    <title lang="xx">Britain's Most Expensive Houses</title>
+    <desc lang="pl">Agenci nieruchomości w towarzystwie kamer oprowadzają klientów po najdroższych i najbardziej niesamowitych posesjach. Nabywcy dysponują nieograniczonymi funduszami i są bardzo wymagający.</desc>
+    <date>2023</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">S2E2</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926053000 -0500" stop="20260926063000 -0500">
+    <title lang="pl">Niezwykłe hotele bez tajemnic 4</title>
+    <title lang="xx">Amazing Hotels: Life Beyond the Lobby 4</title>
+    <credits>
+      <director>Giles Coren</director>
+      <director>Monica Galetti</director>
+    </credits>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S4E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926063000 -0500" stop="20260926073000 -0500">
+    <title lang="pl">Mistrzowie szycia 6</title>
+    <title lang="xx">The Great British Sewing Bee 6</title>
+    <desc lang="pl">Kolejna seria programu, w którym 12 amatorów krawiectwa stają do walki i podejmują się rozmaitych konkurencji. Efekty ich pracy ocenia jury.</desc>
+    <date>2020</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S6E9</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926073000 -0500" stop="20260926084500 -0500">
+    <title lang="pl">Mistrzowie szycia 6</title>
+    <title lang="xx">The Great British Sewing Bee 6</title>
+    <desc lang="pl">Kolejna seria programu, w którym 12 amatorów krawiectwa stają do walki i podejmują się rozmaitych konkurencji. Efekty ich pracy ocenia jury.</desc>
+    <date>2020</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S6E10</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926084500 -0500" stop="20260926104000 -0500">
+    <title lang="pl">Zapraszam do stołu: Wielka porcja 19</title>
+    <title lang="xx">Come Dine with Me: Supersized</title>
+    <desc lang="pl">Nieprofesjonalni kucharze urządzają przyjęcie, na które zapraszają pozostałych uczestników programu. Zadanie polega na tym, by zaimponować innym swoją sztuką kulinarną. Wszyscy liczą na nagrodę.</desc>
+    <date>2021</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S19E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926104000 -0500" stop="20260926115500 -0500">
+    <title lang="pl">Najlepszy konsultant ślubny</title>
+    <title lang="xx">Ultimate Wedding Planner</title>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926115500 -0500" stop="20260926125500 -0500">
+    <title lang="pl">Na bogato: sekrety pierwszej klasy</title>
+    <title lang="xx">The First Class Travel Show</title>
+    <desc lang="pl">Prezenterka Josie Gibson rozpoczyna wyjątkową przygodę, podczas której doświadcza najwyższego poziomu komfortu i elegancji. Jej podróż pełna jest ekskluzywnych atrakcji oraz luksusowych udogodnień.</desc>
+    <credits>
+      <director>Ros Edwards</director>
+    </credits>
+    <date>2025</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926125500 -0500" stop="20260926140000 -0500">
+    <title lang="pl">Wielkie amerykańskie wypieki 5</title>
+    <title lang="xx">The Great American Baking Show</title>
+    <date>2019</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S5E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926140000 -0500" stop="20260926150000 -0500">
+    <title lang="pl">Wielkie amerykańskie wypieki 5</title>
+    <title lang="xx">The Great American Baking Show</title>
+    <date>2019</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S5E6</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926150000 -0500" stop="20260926160000 -0500">
+    <title lang="pl">Seks i miłość dookoła świata - Christiane Amanpour</title>
+    <title lang="xx">Christiane Amanpour: Sex \u0026 Love Around the World</title>
+    <desc lang="pl">Ceniona dziennikarka, Christiane Amanpour, odwiedza różne zakątki świata i rozmawia z tutejszymi kobietami o związkach i intymności. Poznaje zasady randkowania i angażowania się w relacje.</desc>
+    <date>2018</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926160000 -0500" stop="20260926170500 -0500">
+    <title lang="pl">Seks-notowania</title>
+    <title lang="xx">Sex Rated</title>
+    <desc lang="pl">Uczestnicy opowiadają o życiu seksualnym. Byli partnerzy oceniają ich umiejętności. Niektórzy uważają się za doskonałych kochanków. Osoby, które były z nimi w związkach, zweryfikują te opinie.</desc>
+    <date>2023</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926170500 -0500" stop="20260926180000 -0500">
+    <title lang="pl">Wstydliwe choroby 8</title>
+    <title lang="xx">Embarrassing Bodies</title>
+    <desc lang="pl">Kolejne spotkania z doświadczonymi lekarzami, którzy pomagają pacjentom cierpiącym na rzadkie i wyjątkowo krępujące schorzenia. W nowej serii medycy muszą sprostać kolejnym, nietypowym problemom.</desc>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S8E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926180000 -0500" stop="20260926185000 -0500">
+    <title lang="pl">Wstydliwe choroby 8</title>
+    <title lang="xx">Embarrassing Bodies</title>
+    <desc lang="pl">Kolejne spotkania z doświadczonymi lekarzami, którzy pomagają pacjentom cierpiącym na rzadkie i wyjątkowo krępujące schorzenia. W nowej serii medycy muszą sprostać kolejnym, nietypowym problemom.</desc>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S8E5</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926185000 -0500" stop="20260926194000 -0500">
+    <title lang="pl">Wstydliwe choroby 8</title>
+    <title lang="xx">Embarrassing Bodies</title>
+    <desc lang="pl">Kolejne spotkania z doświadczonymi lekarzami, którzy pomagają pacjentom cierpiącym na rzadkie i wyjątkowo krępujące schorzenia. W nowej serii medycy muszą sprostać kolejnym, nietypowym problemom.</desc>
+    <date>2022</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">S8E6</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926194000 -0500" stop="20260926203500 -0500">
+    <title lang="pl">Mistrzowie ceramiki 7</title>
+    <title lang="xx">The Great Pottery Throw Down</title>
+    <desc lang="pl">Amatorzy garncarstwa rywalizują, wykonując zadania przydzielane przez jurorów. Muszą być kreatywni i precyzyjni, aby awansować. Najsłabsi odpadają. Zmagania obserwują doświadczeni projektanci.</desc>
+    <date>2024</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">S7E3</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926203500 -0500" stop="20260926212500 -0500">
+    <title lang="pl">Mistrzowie ceramiki 7</title>
+    <title lang="xx">The Great Pottery Throw Down</title>
+    <desc lang="pl">Amatorzy garncarstwa rywalizują, wykonując zadania przydzielane przez jurorów. Muszą być kreatywni i precyzyjni, aby awansować. Najsłabsi odpadają. Zmagania obserwują doświadczeni projektanci.</desc>
+    <date>2024</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">S7E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926212500 -0500" stop="20260926221500 -0500">
+    <title lang="pl">Najdroższe brytyjskie domy 3</title>
+    <title lang="xx">Britain's Most Expensive Houses</title>
+    <desc lang="pl">Kolejna odsłona programu, w którym agenci nieruchomości w towarzystwie kamer oprowadzają klientów po najdroższych posesjach. Nabywcy dysponują nieograniczonymi funduszami i są bardzo wymagający.</desc>
+    <date>2024</date>
+    <category lang="pl">reality show</category>
+    <episode-num system="onscreen">S3E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926221500 -0500" stop="20260926230000 -0500">
+    <title lang="pl">Najpiękniejsze domy: Nowa Zelandia</title>
+    <title lang="xx">New Zealand's Best Homes with Phil Spencer</title>
+    <credits>
+      <actor>Self - Host - Phil Spencer</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926230000 -0500" stop="20260926232500 -0500">
+    <title lang="pl">Włoski remont Amandy i Alana</title>
+    <title lang="xx">Amanda and Alan's Italian Job</title>
+    <desc lang="pl">Amanda Holden i Alan Carr mają jeden cel: chcą wyremontować zniszczony dom na Sycylii. Łączą siły w tym przedsięwzięciu. Odkrywając uroki lokalnego życia, łączą pracę przy rozbiórce z dolce vita.</desc>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926232500 -0500" stop="20260926235500 -0500">
+    <title lang="pl">Włoski remont Amandy i Alana</title>
+    <title lang="xx">Amanda and Alan's Italian Job</title>
+    <desc lang="pl">Amanda Holden i Alan Carr mają jeden cel: chcą wyremontować zniszczony dom na Sycylii. Łączą siły w tym przedsięwzięciu. Odkrywając uroki lokalnego życia, łączą pracę przy rozbiórce z dolce vita.</desc>
+    <date>2023</date>
+    <category lang="pl">program rozrywkowy</category>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme channel="UK| BBC LIFESTYLE HD" start="20260926235500 -0500" stop="20260927005500 -0500">
+    <title lang="pl">W 80 kilo dookoła świata</title>
+    <title lang="xx">Around the World in 80 Weighs</title>
+    <desc lang="pl">Sześcioro zmagających się z nadwagą Brytyjczyków wyrusza w podróż dookoła świata. W ten sposób zamierzają przyjrzeć się przyczynom globalnego problemu, jakim jest otyłość.</desc>
+    <date>2024</date>
+    <category lang="pl">serial dokumentalny</category>
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
 </tv>
