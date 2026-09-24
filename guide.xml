@@ -73,298 +73,672 @@
     <display-name>US| BEIN SPORTS 2 HD</display-name>
     <display-name>beIN SPORTS USA</display-name>
   </channel>
-  <programme start="20260924000000 +0000" stop="20260924020000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Playoff</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>8.5</value>
-    </star-rating>
+  <programme channel="US-NBA TV USA" start="20260923050000 +0000" stop="20260923063000 +0000">
+    <title lang="en">WNBA Playback</title>
+    <sub-title lang="en">Atlanta Dream at New York Liberty</sub-title>
+    <desc lang="en">From Sept. 21, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371994_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E69</episode-num>
+    <previously-shown />
   </programme>
-  <programme start="20260924020000 +0000" stop="20260924030000 +0000" channel="US-NBA TV USA">
+  <programme channel="US-NBA TV USA" start="20260923063000 +0000" stop="20260923070000 +0000">
+    <title lang="en">Chasing History</title>
+    <sub-title lang="en">East Opening Round</sub-title>
+    <desc lang="en">Relive the Pistons, Cavaliers and Sixers surviving three thrilling Seven Game series as well as the Knicks picking up steam to move on to Round Two.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29032852_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260923070000 +0000" stop="20260923090000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026 NBA Playoffs: San Antonio vs. MInnesota: Game 4</sub-title>
+    <desc lang="en">Semifinal.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E203</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260923090000 +0000" stop="20260923103000 +0000">
+    <title lang="en">NBA Shot Clock: Best of Eastern Conference Champions</title>
+    <desc lang="en">Relive the top moments from the New York Knicks' run to the NBA Finals.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33250753_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260923103000 +0000" stop="20260923120000 +0000">
+    <title lang="en">NBA Shot Clock: Best of Western Conference Champions</title>
+    <desc lang="en">Highlights from the San Antonio Spurs' Western Conference title run.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33250755_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260923120000 +0000" stop="20260923140000 +0000">
+    <title lang="en">Top Games of the 2025-26 Regular Season</title>
+    <desc lang="en">A look back at the best NBA games from the 2025-26 season.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33977028_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260923140000 +0000" stop="20260923160000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026 NBA Playoffs: Cleveland vs. Detroit: Game 5</sub-title>
+    <desc lang="en">Semifinal. Cavs rally from nine down to win in OT.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E207</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260923160000 +0000" stop="20260923173000 +0000">
+    <title lang="en">WNBA Playback</title>
+    <sub-title lang="en">Connecticut Sun at Washington Mystics</sub-title>
+    <desc lang="en">From Sept. 22, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371994_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E70</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260923173000 +0000" stop="20260923183000 +0000">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <desc lang="en">From Sept. 22, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371993_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E41</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260923183000 +0000" stop="20260923193000 +0000">
     <title lang="en">NBA Shot Clock</title>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">All-Star History Vol. 1</sub-title>
+    <desc lang="en">Condensed versions of epic NBA games.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33065097_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260924030000 +0000" stop="20260924040000 +0000" channel="US-NBA TV USA">
+  <programme channel="US-NBA TV USA" start="20260923193000 +0000" stop="20260923203000 +0000">
     <title lang="en">The Vault: Great NBA All-Star Game Moments</title>
-    <category lang="en">Sport</category>
+    <desc lang="en">As narrated by Jamal Crawford, we dig deep into the video archives and revisit the fantastic finishes....celebrate the memorable performances...and uncover some hidden gems in "The Vault: Greatest NBA All-Star Game Moments".</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32230278_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="US-NBA TV USA">
-    <title lang="en">Top 100 Dunks: 2025-26 Season</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260924050000 +0000" stop="20260924053000 +0000" channel="US-NBA TV USA">
-    <title lang="en">Top 50 Handles: 2025-26 Season</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260924053000 +0000" stop="20260924073000 +0000" channel="US-NBA TV USA">
-    <title lang="en">National Basketball League</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>1.8</value>
-    </star-rating>
-  </programme>
-  <programme start="20260924073000 +0000" stop="20260924080000 +0000" channel="US-NBA TV USA">
+  <programme channel="US-NBA TV USA" start="20260923203000 +0000" stop="20260923210000 +0000">
     <title lang="en">Top 50 Defensive Plays: 2025-26 Season</title>
-    <category lang="en">Sport</category>
+    <desc lang="en">A highlight reel of the best defensive efforts of the 2025-26 NBA season.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <category lang="en">Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33865261_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260924080000 +0000" stop="20260924100000 +0000" channel="US-NBA TV USA">
-    <title lang="en">The Association</title>
-    <category lang="en">Sport</category>
+  <programme channel="US-NBA TV USA" start="20260923210000 +0000" stop="20260923220000 +0000">
+    <title lang="en">Top 100 Dunks: 2025-26 Season</title>
+    <desc lang="en">A countdown of the top 100 dunks from the 2025-26 National Basketball Association season and postseason.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <category lang="en">Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33797214_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260924100000 +0000" stop="20260924120000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Basketball</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>6.0</value>
-    </star-rating>
+  <programme channel="US-NBA TV USA" start="20260923220000 +0000" stop="20260923223000 +0000">
+    <title lang="en">Top 50 Handles: 2025-26 Season</title>
+    <desc lang="en">A countdown of the top 50 NBA players with the best handles during the 2025-26 NBA season.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <category lang="en">Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33797350_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260924120000 +0000" stop="20260924133000 +0000" channel="US-NBA TV USA">
+  <programme channel="US-NBA TV USA" start="20260923223000 +0000" stop="20260924000000 +0000">
     <title lang="en">WNBA Playback</title>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">Connecticut Sun at Washington Mystics</sub-title>
+    <desc lang="en">From Sept. 22, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371994_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E70</episode-num>
+    <previously-shown />
   </programme>
-  <programme start="20260924133000 +0000" stop="20260924143000 +0000" channel="US-NBA TV USA">
-    <title lang="en">Basketcast</title>
-    <category lang="en">Sport</category>
+  <programme channel="US-NBA TV USA" start="20260924000000 +0000" stop="20260924003000 +0000">
+    <title lang="en">Chasing History</title>
+    <sub-title lang="en">Semifinals</sub-title>
+    <desc lang="en">An all-access series documenting the NBA playoffs and finals. Twenty teams, all chasing the dream of hoisting the Larry O'Brien Trophy in June.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <category lang="en">Documentary</category>
+    <icon src="http://dtil.tmsimg.com/assets/p29032852_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260924143000 +0000" stop="20260924163000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Playoff</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>8.5</value>
-    </star-rating>
+  <programme channel="US-NBA TV USA" start="20260924003000 +0000" stop="20260924010000 +0000">
+    <title lang="en">NBA Stories</title>
+    <sub-title lang="en">Richard Hamilton</sub-title>
+    <desc lang="en">NBA Champion Richard Hamilton discusses his signature ability to move without the ball and convert his classic mid-range shots with Thinking Basketball creator Ben Taylor.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p815677_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E3</episode-num>
+    <previously-shown />
+    <rating system="Kijkwijzer">
+      <value>AL</value>
+    </rating>
   </programme>
-  <programme start="20260924163000 +0000" stop="20260924173000 +0000" channel="US-NBA TV USA">
-    <title lang="en">Enjoy the NBA Trivia Show</title>
-    <category lang="en">Sport</category>
+  <programme channel="US-NBA TV USA" start="20260924010000 +0000" stop="20260924040000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026 NBA Playoffs: San Antonio vs. Oklahoma City: Game 7</sub-title>
+    <desc lang="en">Conference Final.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260924173000 +0000" stop="20260924190000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Playback</title>
-    <category lang="en">Sport</category>
+  <programme channel="US-NBA TV USA" start="20260924040000 +0000" stop="20260924060000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026 NBA Playoffs: Cleveland vs. Detroit: Game 5</sub-title>
+    <desc lang="en">Semifinal. Cavs rally from nine down to win in OT.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E207</episode-num>
+    <previously-shown />
   </programme>
-  <programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Basketball</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>6.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20260924210000 +0000" stop="20260924230000 +0000" channel="US-NBA TV USA">
-    <title lang="en">The Association</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260924230000 +0000" stop="20260925010000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Basketball</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>6.9</value>
-    </star-rating>
-  </programme>
-  <programme start="20260925010000 +0000" stop="20260925030000 +0000" channel="US-NBA TV USA">
-    <title lang="en">The Association</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925030000 +0000" stop="20260925050000 +0000" channel="US-NBA TV USA">
-    <title lang="en">The Association</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925050000 +0000" stop="20260925060000 +0000" channel="US-NBA TV USA">
-    <title lang="en">Basketcast</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925060000 +0000" stop="20260925080000 +0000" channel="US-NBA TV USA">
-    <title lang="en">The Association</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925080000 +0000" stop="20260925100000 +0000" channel="US-NBA TV USA">
-    <title lang="en">The Association</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925100000 +0000" stop="20260925120000 +0000" channel="US-NBA TV USA">
-    <title lang="en">The Association</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925120000 +0000" stop="20260925133000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Playback</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925133000 +0000" stop="20260925143000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Shot Clock: Games of the Night</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925143000 +0000" stop="20260925163000 +0000" channel="US-NBA TV USA">
-    <title lang="en">2026 NBA All-Star Game</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20260925163000 +0000" stop="20260925173000 +0000" channel="US-NBA TV USA">
-    <title lang="en">Basketcast</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925173000 +0000" stop="20260925180000 +0000" channel="US-NBA TV USA">
-    <title lang="en">A Rose to the Rafters</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925180000 +0000" stop="20260925200000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Hardwood Classics</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925200000 +0000" stop="20260925220000 +0000" channel="US-NBA TV USA">
-    <title lang="en">2026 NBA All-Star Game</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20260925220000 +0000" stop="20260925230000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Shot Clock: Games of the Night</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260925230000 +0000" stop="20260926000000 +0000" channel="US-NBA TV USA">
-    <title lang="en">Basketcast</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Hardwood Classics</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926020000 +0000" stop="20260926033000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Playback</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926033000 +0000" stop="20260926043000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Shot Clock: Games of the Night</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926043000 +0000" stop="20260926060000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Playback</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926060000 +0000" stop="20260926070000 +0000" channel="US-NBA TV USA">
-    <title lang="en">The Vault: Great NBA All-Star Game Moments</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926070000 +0000" stop="20260926080000 +0000" channel="US-NBA TV USA">
-    <title lang="en">Best of NBA Action Vol. 7</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Shot Clock: Games of the Night</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926100000 +0000" channel="US-NBA TV USA">
-    <title lang="en">Basketcast</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926120000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Basketball</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20260926120000 +0000" stop="20260926140000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Shot Clock: Games of the Week</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Hardwood Classics</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="US-NBA TV USA">
-    <title lang="en">Basketcast</title>
-    <category lang="en">Sport</category>
-  </programme>
-  <programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="US-NBA TV USA">
+  <programme channel="US-NBA TV USA" start="20260924060000 +0000" stop="20260924070000 +0000">
     <title lang="en">NBA Shot Clock</title>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">All-Star History Vol. 1</sub-title>
+    <desc lang="en">Condensed versions of epic NBA games.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33065097_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260926180000 +0000" stop="20260926200000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Playoff</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>8.5</value>
-    </star-rating>
+  <programme channel="US-NBA TV USA" start="20260924070000 +0000" stop="20260924080000 +0000">
+    <title lang="en">The Vault: Great NBA All-Star Game Moments</title>
+    <desc lang="en">As narrated by Jamal Crawford, we dig deep into the video archives and revisit the fantastic finishes....celebrate the memorable performances...and uncover some hidden gems in "The Vault: Greatest NBA All-Star Game Moments".</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32230278_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260926200000 +0000" stop="20260926223000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Basketball</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>6.0</value>
-    </star-rating>
+  <programme channel="US-NBA TV USA" start="20260924080000 +0000" stop="20260924090000 +0000">
+    <title lang="en">Top 100 Dunks: 2025-26 Season</title>
+    <desc lang="en">A countdown of the top 100 dunks from the 2025-26 National Basketball Association season and postseason.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <category lang="en">Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33797214_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260926223000 +0000" stop="20260927003000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Shot Clock: Games of the Week</title>
-    <category lang="en">Sport</category>
+  <programme channel="US-NBA TV USA" start="20260924090000 +0000" stop="20260924093000 +0000">
+    <title lang="en">Top 50 Handles: 2025-26 Season</title>
+    <desc lang="en">A countdown of the top 50 NBA players with the best handles during the 2025-26 NBA season.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <category lang="en">Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33797350_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260927003000 +0000" stop="20260927023000 +0000" channel="US-NBA TV USA">
+  <programme channel="US-NBA TV USA" start="20260924093000 +0000" stop="20260924113000 +0000">
+    <title lang="en">Live: NBL Basketball</title>
+    <desc lang="en">From John Cain Arena in Melbourne, Victoria, Australia.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003MJ4BT.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+    <rating system="Australian Classification Board">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260924113000 +0000" stop="20260924120000 +0000">
+    <title lang="en">Top 50 Defensive Plays: 2025-26 Season</title>
+    <desc lang="en">A highlight reel of the best defensive efforts of the 2025-26 NBA season.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <category lang="en">Event</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33865261_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260924120000 +0000" stop="20260924140000 +0000">
     <title lang="en">The Association</title>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">History in the Making</sub-title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31467076_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260927023000 +0000" stop="20260927033000 +0000" channel="US-NBA TV USA">
+  <programme channel="US-NBA TV USA" start="20260924140000 +0000" stop="20260924160000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026: Cleveland vs. Denver</sub-title>
+    <desc lang="en">From Feb. 9, 2026. Harden hits late game-tying three.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260924160000 +0000" stop="20260924170000 +0000">
+    <title lang="en">WNBA Playback</title>
+    <desc lang="en">From Sept. 23, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371994_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E71</episode-num>
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260924170000 +0000" stop="20260924173000 +0000">
+    <title lang="en">Game of the Day</title>
+    <desc lang="en">The best match-up of the week from around the NBA.</desc>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p13302925_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260924173000 +0000" stop="20260924183000 +0000">
     <title lang="en">Basketcast</title>
-    <category lang="en">Sport</category>
+    <desc lang="en">Analysis and commentary from various voices covering the league.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31889632_b_h8_ab.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
   </programme>
-  <programme start="20260927033000 +0000" stop="20260927060000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Basketball</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>6.0</value>
-    </star-rating>
+  <programme channel="US-NBA TV USA" start="20260924183000 +0000" stop="20260924203000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026 NBA Playoffs: Cleveland vs. New York: Game 1</sub-title>
+    <desc lang="en">Conference Final. Knicks 22-point fourth-quarter comeback.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E213</episode-num>
+    <previously-shown />
   </programme>
-  <programme start="20260927060000 +0000" stop="20260927080000 +0000" channel="US-NBA TV USA">
-    <title lang="en">WNBA Shot Clock: Games of the Week</title>
-    <category lang="en">Sport</category>
+  <programme channel="US-NBA TV USA" start="20260924203000 +0000" stop="20260924213000 +0000">
+    <title lang="en">Enjoy the NBA Trivia Show</title>
+    <sub-title lang="en">NBA Draft</sub-title>
+    <desc lang="en">Host Kenny Beecham puts his NBA expertise to the test against his colleague Pierre Andersen.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <category lang="en">Sports talk</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32867433_b_h10_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E4</episode-num>
+    <previously-shown />
   </programme>
-  <programme start="20260927080000 +0000" stop="20260927090000 +0000" channel="US-NBA TV USA">
+  <programme channel="US-NBA TV USA" start="20260924213000 +0000" stop="20260924230000 +0000">
+    <title lang="en">WNBA Playback</title>
+    <desc lang="en">From Sept. 23, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371994_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E71</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260924230000 +0000" stop="20260925010000 +0000">
+    <title lang="en">Live: WNBA Basketball</title>
+    <desc lang="en">The Toronto Tempo visit the Connecticut Sun at Mohegan Sun Arena for a WNBA game. Toronto leads the series 2-0 after a 101-97 June win behind Marina Mabrey's career-high 37 points, though Mabrey will miss the remaining four games due to an injury.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003B2M3P.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260925010000 +0000" stop="20260925030000 +0000">
+    <title lang="en">Live: The Association</title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <date>2025</date>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31467076_b_h8_aa.jpg?w=960&amp;h=540" />
+    <premiere lang="en" />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260925030000 +0000" stop="20260925050000 +0000">
+    <title lang="en">WNBA Basketball</title>
+    <desc lang="en">The Toronto Tempo visit the Connecticut Sun at Mohegan Sun Arena for a WNBA game. Toronto leads the series 2-0 after a 101-97 June win behind Marina Mabrey's career-high 37 points, though Mabrey will miss the remaining four games due to an injury.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003B2M3P.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260925050000 +0000" stop="20260925070000 +0000">
+    <title lang="en">The Association</title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <date>2025</date>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31467076_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260925070000 +0000" stop="20260925090000 +0000">
+    <title lang="en">The Association</title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <date>2025</date>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31467076_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260925090000 +0000" stop="20260925100000 +0000">
     <title lang="en">Basketcast</title>
-    <category lang="en">Sport</category>
+    <desc lang="en">Analysis and commentary from various voices covering the league.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31889632_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260927090000 +0000" stop="20260927093000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Journey</title>
-    <category lang="en">Sport</category>
+  <programme channel="US-NBA TV USA" start="20260925100000 +0000" stop="20260925120000 +0000">
+    <title lang="en">The Association</title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <date>2025</date>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31467076_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260927093000 +0000" stop="20260927100000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA 75: The Celebration</title>
-    <category lang="en">Sport</category>
+  <programme channel="US-NBA TV USA" start="20260925120000 +0000" stop="20260925140000 +0000">
+    <title lang="en">The Association</title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <date>2025</date>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31467076_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260927100000 +0000" stop="20260927120000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Finals</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>8.5</value>
-    </star-rating>
+  <programme channel="US-NBA TV USA" start="20260925140000 +0000" stop="20260925160000 +0000">
+    <title lang="en">The Association</title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <date>2025</date>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31467076_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260927120000 +0000" stop="20260927140000 +0000" channel="US-NBA TV USA">
-    <title lang="en">German League Basketball</title>
-    <category lang="en">Sport</category>
+  <programme channel="US-NBA TV USA" start="20260925160000 +0000" stop="20260925173000 +0000">
+    <title lang="en">WNBA Playback</title>
+    <desc lang="en">From Sept. 24, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371994_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E72</episode-num>
+    <premiere lang="en" />
   </programme>
-  <programme start="20260927140000 +0000" stop="20260927160000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Playoff</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>8.5</value>
-    </star-rating>
+  <programme channel="US-NBA TV USA" start="20260925173000 +0000" stop="20260925183000 +0000">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <desc lang="en">From Sept. 24, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371993_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E42</episode-num>
+    <premiere lang="en" />
   </programme>
-  <programme start="20260927160000 +0000" stop="20260927180000 +0000" channel="US-NBA TV USA">
+  <programme channel="US-NBA TV USA" start="20260925183000 +0000" stop="20260925203000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026 NBA All-Star Game</sub-title>
+    <desc lang="en">A look back at one of the best games in the NBA from the previous night.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260925203000 +0000" stop="20260925213000 +0000">
+    <title lang="en">Basketcast</title>
+    <desc lang="en">Analysis and commentary from various voices covering the league.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31889632_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260925213000 +0000" stop="20260925220000 +0000">
+    <title lang="en">A Rose to the Rafters</title>
+    <desc lang="en">This special feature dives into the career of Derrick Rose, from his electrifying rise with the Chicago Bulls to becoming the youngest MVP in NBA history, through the adversity that defined his legacy, and ultimately, his jersey being raised.</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33935476_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260925220000 +0000" stop="20260926000000 +0000">
+    <title lang="en">Hardwood Classics</title>
+    <desc lang="en">Finals, Game 6. McAddo scores 19 off the bench.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p815597_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E14</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926000000 +0000" stop="20260926020000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026 NBA All-Star Game</sub-title>
+    <desc lang="en">A look back at one of the best games in the NBA from the previous night.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926020000 +0000" stop="20260926030000 +0000">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <desc lang="en">From Sept. 24, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371993_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E42</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926030000 +0000" stop="20260926040000 +0000">
+    <title lang="en">Basketcast</title>
+    <desc lang="en">Analysis and commentary from various voices covering the league.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31889632_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926040000 +0000" stop="20260926060000 +0000">
+    <title lang="en">Hardwood Classics</title>
+    <desc lang="en">Finals, Game 6. McAddo scores 19 off the bench.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p815597_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E14</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926060000 +0000" stop="20260926073000 +0000">
+    <title lang="en">WNBA Playback</title>
+    <desc lang="en">From Sept. 24, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371994_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E72</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926073000 +0000" stop="20260926083000 +0000">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <desc lang="en">From Sept. 24, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371993_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E42</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926083000 +0000" stop="20260926100000 +0000">
+    <title lang="en">WNBA Playback</title>
+    <desc lang="en">From Sept. 24, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371994_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E72</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926100000 +0000" stop="20260926110000 +0000">
+    <title lang="en">The Vault: Great NBA All-Star Game Moments</title>
+    <desc lang="en">As narrated by Jamal Crawford, we dig deep into the video archives and revisit the fantastic finishes....celebrate the memorable performances...and uncover some hidden gems in "The Vault: Greatest NBA All-Star Game Moments".</desc>
+    <date>2026</date>
+    <category lang="en">Special</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p32230278_b_h10_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926110000 +0000" stop="20260926120000 +0000">
+    <title lang="en">Best of NBA Action</title>
+    <sub-title lang="en">Vol. 7</sub-title>
+    <desc lang="en">NBA TV highlights the unforgettable features and storylines from the 35 seasons of NBA Action! Each 1-hour compilation volume includes a comprehensive range of features across the decades, such as Holding Court, Chalk Talk and Into the Action.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33935440_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926120000 +0000" stop="20260926130000 +0000">
+    <title lang="en">WNBA Shot Clock: Games of the Night</title>
+    <desc lang="en">From Sept. 24, 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33371993_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E42</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926130000 +0000" stop="20260926140000 +0000">
+    <title lang="en">Basketcast</title>
+    <desc lang="en">Analysis and commentary from various voices covering the league.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31889632_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926140000 +0000" stop="20260926160000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026: Houston vs. Charlotte</sub-title>
+    <desc lang="en">From Feb. 19, 2026. Durant's 35 points lead Rockets.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926160000 +0000" stop="20260926180000 +0000">
     <title lang="en">WNBA Shot Clock: Games of the Week</title>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">9/18-9/24</sub-title>
+    <desc lang="en">The best WNBA games of the week in a condensed format.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33009297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <premiere lang="en" />
   </programme>
-  <programme start="20260927180000 +0000" stop="20260927200000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA TV Marquee Matchup</title>
-    <category lang="en">Sport</category>
+  <programme channel="US-NBA TV USA" start="20260926180000 +0000" stop="20260926200000 +0000">
+    <title lang="en">Hardwood Classics</title>
+    <desc lang="en">Game 4. Westbrook huge game.</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">Classic Sport Event</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p815597_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">E31</episode-num>
+    <previously-shown />
   </programme>
-  <programme start="20260927200000 +0000" stop="20260927220000 +0000" channel="US-NBA TV USA">
-    <title lang="en">NBA Finals</title>
-    <category lang="en">Sport</category>
-    <star-rating system="User">
-      <value>8.5</value>
-    </star-rating>
+  <programme channel="US-NBA TV USA" start="20260926200000 +0000" stop="20260926210000 +0000">
+    <title lang="en">Basketcast</title>
+    <desc lang="en">Analysis and commentary from various voices covering the league.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31889632_b_h8_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
-  <programme start="20260927220000 +0000" stop="20260928000000 +0000" channel="US-NBA TV USA">
+  <programme channel="US-NBA TV USA" start="20260926210000 +0000" stop="20260926220000 +0000">
+    <title lang="en">NBA Shot Clock</title>
+    <sub-title lang="en">The 2001 NBA Finals: 25th Anniversary Philadelphia vs. Los Angeles Lakers</sub-title>
+    <desc lang="en">The 2001 Finals saw the powerful Lakers go head-to-head with league MVP Allen Iverson and the Sixers. 25 years on, enjoy all 5 games of this memorable championship series.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33065097_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260926220000 +0000" stop="20260927000000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2026 NBA Playoffs: Cleveland vs. New York: Game 1</sub-title>
+    <desc lang="en">Conference Final. Knicks 22-point fourth-quarter comeback.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E213</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260927000000 +0000" stop="20260927023000 +0000">
+    <title lang="en">NBA Playback</title>
+    <sub-title lang="en">2025: Houston Rockets at Oklahoma City Thunder</sub-title>
+    <desc lang="en">Opening night. From Oct. 21, 2025. Ring night 2OT thriller.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31717868_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260927023000 +0000" stop="20260927043000 +0000">
     <title lang="en">WNBA Shot Clock: Games of the Week</title>
-    <category lang="en">Sport</category>
+    <sub-title lang="en">9/18-9/24</sub-title>
+    <desc lang="en">The best WNBA games of the week in a condensed format.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p33009297_b_h8_ab.jpg?w=960&amp;h=540" />
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <previously-shown />
+  </programme>
+  <programme channel="US-NBA TV USA" start="20260927043000 +0000" stop="20260927063000 +0000">
+    <title lang="en">The Association</title>
+    <sub-title lang="en">History in the Making</sub-title>
+    <desc lang="en">The Association will celebrate the game, players and the culture of the NBA; inform and entertain viewers with league news, analysis and storylines; and guide fans to the must-watch action across the league in real time.</desc>
+    <date>2026</date>
+    <category lang="en">Series</category>
+    <category lang="en">Basketball</category>
+    <icon src="http://dtil.tmsimg.com/assets/p31467076_b_h8_aa.jpg?w=960&amp;h=540" />
+    <previously-shown />
   </programme>
   <programme start="20260924000000 +0000" stop="20260924010000 +0000" channel="4K| NOW SPORTS PREMIER LEAGUE UHD/4K NM">
     <title lang="en">Stay tuned for the next broadcast</title>
@@ -922,21 +1296,21 @@
   </programme>
   <programme start="20260927050000 +0000" stop="20260927080000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:92fff6ab6966c98add81a9a2afb607ae15aa66e7/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20260927080000 +0000" stop="20260927113000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:4c9fbd6c74425429d281352f93143e07fe5faecf/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20260927113000 +0000" stop="20260927123000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:8bad55b1d0332ed3a04df6f0f42cda3ebba9009f/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -944,7 +1318,7 @@
   <programme start="20260927123000 +0000" stop="20260927151500 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">Live: WSL</title>
     <sub-title lang="en">Liverpool v Everton</sub-title>
-    <desc lang="en">Merseyside rivals Liverpool and Everton lock horns in a Barclays WSL contest at Anfield. It's the visitors who have made the stronger start of the two, winning two out of three games.(n)</desc>
+    <desc lang="en">Merseyside rivals Liverpool and Everton lock horns in a Barclays WSL contest at Anfield. It's the visitors who have made the stronger start of the two, winning two out of three games.</desc>
     <date>2026</date>
     <category lang="en">Sports Show</category>
     <category lang="en">Football</category>
@@ -955,7 +1329,7 @@
   <programme start="20260927151500 +0000" stop="20260927180000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">Live: WSL</title>
     <sub-title lang="en">Chelsea v Arsenal</sub-title>
-    <desc lang="en">A heavyweight Barclays WSL match-up at Stamford Bridge between London rivals Chelsea and Arsenal. Three games into the campaign, both teams remain unbeaten.(n)</desc>
+    <desc lang="en">A heavyweight Barclays WSL match-up at Stamford Bridge between London rivals Chelsea and Arsenal. Three games into the campaign, both teams remain unbeaten.</desc>
     <date>2026</date>
     <category lang="en">Sports Show</category>
     <category lang="en">Football</category>
@@ -965,14 +1339,14 @@
   </programme>
   <programme start="20260927180000 +0000" stop="20260927190000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:73a9613720cf3a6655047bd9d830d09ccb788f51/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20260927190000 +0000" stop="20260928050000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:33900a1b094d3b08a5b1392c7306c94d58bf307e/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1088,21 +1462,21 @@
   </programme>
   <programme start="20260927050000 +0000" stop="20260927080000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:92fff6ab6966c98add81a9a2afb607ae15aa66e7/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20260927080000 +0000" stop="20260927113000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:4c9fbd6c74425429d281352f93143e07fe5faecf/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20260927113000 +0000" stop="20260927123000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:8bad55b1d0332ed3a04df6f0f42cda3ebba9009f/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1110,7 +1484,7 @@
   <programme start="20260927123000 +0000" stop="20260927151500 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">Live: WSL</title>
     <sub-title lang="en">Liverpool v Everton</sub-title>
-    <desc lang="en">Merseyside rivals Liverpool and Everton lock horns in a Barclays WSL contest at Anfield. It's the visitors who have made the stronger start of the two, winning two out of three games.(n)</desc>
+    <desc lang="en">Merseyside rivals Liverpool and Everton lock horns in a Barclays WSL contest at Anfield. It's the visitors who have made the stronger start of the two, winning two out of three games.</desc>
     <date>2026</date>
     <category lang="en">Sports Show</category>
     <category lang="en">Football</category>
@@ -1121,7 +1495,7 @@
   <programme start="20260927151500 +0000" stop="20260927180000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">Live: WSL</title>
     <sub-title lang="en">Chelsea v Arsenal</sub-title>
-    <desc lang="en">A heavyweight Barclays WSL match-up at Stamford Bridge between London rivals Chelsea and Arsenal. Three games into the campaign, both teams remain unbeaten.(n)</desc>
+    <desc lang="en">A heavyweight Barclays WSL match-up at Stamford Bridge between London rivals Chelsea and Arsenal. Three games into the campaign, both teams remain unbeaten.</desc>
     <date>2026</date>
     <category lang="en">Sports Show</category>
     <category lang="en">Football</category>
@@ -1131,14 +1505,14 @@
   </programme>
   <programme start="20260927180000 +0000" stop="20260927190000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:73a9613720cf3a6655047bd9d830d09ccb788f51/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20260927190000 +0000" stop="20260928050000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:33900a1b094d3b08a5b1392c7306c94d58bf307e/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1265,14 +1639,14 @@
   </programme>
   <programme start="20260927020000 +0000" stop="20260927080000 +0000" channel="skysports2.uk">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:b89311643d11d46c4330664bc6bb7956032bef93/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20260927080000 +0000" stop="20260927090000 +0000" channel="skysports2.uk">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:214c80a1b056ac0b57541df048b21569be5c2b33/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1280,7 +1654,7 @@
   <programme start="20260927090000 +0000" stop="20260927173000 +0000" channel="skysports2.uk">
     <title lang="en">Live: One-Day International Cricket</title>
     <sub-title lang="en">3rd ODI: England v Sri Lanka</sub-title>
-    <desc lang="en">At the Oval, England and Sri Lanka clash in the third and final ODI of the series.(n)</desc>
+    <desc lang="en">At the Oval, England and Sri Lanka clash in the third and final ODI of the series.</desc>
     <date>2026</date>
     <category lang="en">Sports Show</category>
     <category lang="en">Cricket</category>
@@ -1290,14 +1664,14 @@
   </programme>
   <programme start="20260927173000 +0000" stop="20260927183000 +0000" channel="skysports2.uk">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:f656a1744d4d0c0f28fc08b5085ed2925e0f8bbf/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20260927183000 +0000" stop="20260928003000 +0000" channel="skysports2.uk">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:0ce0090c675c8e9ec4ca8f7088e10253b3deb2ce/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1424,14 +1798,14 @@
   </programme>
   <programme start="20260927020000 +0000" stop="20260927080000 +0000" channel="UK-NOWTV| SKY SPORTS 2 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:b89311643d11d46c4330664bc6bb7956032bef93/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20260927080000 +0000" stop="20260927090000 +0000" channel="UK-NOWTV| SKY SPORTS 2 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:214c80a1b056ac0b57541df048b21569be5c2b33/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1439,7 +1813,7 @@
   <programme start="20260927090000 +0000" stop="20260927173000 +0000" channel="UK-NOWTV| SKY SPORTS 2 (UHD/4K)">
     <title lang="en">Live: One-Day International Cricket</title>
     <sub-title lang="en">3rd ODI: England v Sri Lanka</sub-title>
-    <desc lang="en">At the Oval, England and Sri Lanka clash in the third and final ODI of the series.(n)</desc>
+    <desc lang="en">At the Oval, England and Sri Lanka clash in the third and final ODI of the series.</desc>
     <date>2026</date>
     <category lang="en">Sports Show</category>
     <category lang="en">Cricket</category>
@@ -1449,14 +1823,14 @@
   </programme>
   <programme start="20260927173000 +0000" stop="20260927183000 +0000" channel="UK-NOWTV| SKY SPORTS 2 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:f656a1744d4d0c0f28fc08b5085ed2925e0f8bbf/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20260927183000 +0000" stop="20260928003000 +0000" channel="UK-NOWTV| SKY SPORTS 2 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:0ce0090c675c8e9ec4ca8f7088e10253b3deb2ce/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -3559,19 +3933,19 @@
   </programme>
   <programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">90 in 30</title>
-    <desc lang="en">2026-27: AFCON Qualifiers, Nigeria vs. Madagascar.(n)</desc>
+    <desc lang="en">2026-27: AFCON Qualifiers, Nigeria vs. Madagascar.</desc>
     <category lang="en">Sports related</category>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">90 in 30</title>
-    <desc lang="en">2026-27: AFCON Qualifiers, Morocco vs. Gabon.(n)</desc>
+    <desc lang="en">2026-27: AFCON Qualifiers, Morocco vs. Gabon.</desc>
     <category lang="en">Sports related</category>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">2026 Commonwealth Games</title>
-    <desc lang="en">Women's Boxing - 51kg.(n)</desc>
+    <desc lang="en">Women's Boxing - 51kg.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Multi-sport event</category>
   </programme>
@@ -3587,7 +3961,7 @@
   </programme>
   <programme start="20260927063000 +0000" stop="20260927073000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">2026 Commonwealth Games</title>
-    <desc lang="en">Women's Boxing - 51kg.(n)</desc>
+    <desc lang="en">Women's Boxing - 51kg.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Multi-sport event</category>
   </programme>
@@ -3638,37 +4012,37 @@
   </programme>
   <programme start="20260927120000 +0000" stop="20260927140000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">2027 Africa Cup of Nations Qualifiers</title>
-    <desc lang="en">Côte d'Ivoire vs. Ghana.(n)</desc>
+    <desc lang="en">Côte d'Ivoire vs. Ghana.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20260927140000 +0000" stop="20260927160000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">2027 Africa Cup of Nations Qualifiers</title>
-    <desc lang="en">Nigeria vs. Madagascar.(n)</desc>
+    <desc lang="en">Nigeria vs. Madagascar.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20260927160000 +0000" stop="20260927180000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">2027 Africa Cup of Nations Qualifiers</title>
-    <desc lang="en">Morocco vs. Gabon.(n)</desc>
+    <desc lang="en">Morocco vs. Gabon.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20260927180000 +0000" stop="20260927210000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">GT World Challenge America</title>
-    <desc lang="en">Round 6: Barber Motorsports Park.(n)</desc>
+    <desc lang="en">Round 6: Barber Motorsports Park.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Auto racing</category>
   </programme>
   <programme start="20260927210000 +0000" stop="20260927220000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">World Climbing Series</title>
-    <desc lang="en">IFSC World Series: Women's Final, Keqiao.(n)</desc>
+    <desc lang="en">IFSC World Series: Women's Final, Keqiao.</desc>
     <category lang="en">Sports related</category>
     <category lang="en">Action sports</category>
   </programme>
   <programme start="20260927220000 +0000" stop="20260928000000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Canoeing</title>
-    <desc lang="en">ICF Slalom World Championships, Day 6.(n)</desc>
+    <desc lang="en">ICF Slalom World Championships, Day 6.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Boat racing</category>
   </programme>
