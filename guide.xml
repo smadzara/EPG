@@ -2076,6 +2076,122 @@
     <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
   </programme>
+  <programme start="20260926063000 +0200" stop="20260926070000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Golden Trail World Series – Pregled</title>
+    <sub-title lang="hr">Québec Mega Trail</sub-title>
+    <desc lang="hr">Golden Trail World Series je prestižna svjetska trail running liga koja okuplja najbolje trkače iz cijelog svijeta. Uživajte u odličnim utrkama i prisjetite se najboljih trenutaka ovog natjecanja.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4a6adc7bc7e94ceaba0b967c95efcf9b_thumb.jpg" />
+  </programme>
+  <programme start="20260926070000 +0200" stop="20260926073000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260926073000 +0200" stop="20260926080000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260926080000 +0200" stop="20260926083000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260926083000 +0200" stop="20260926100000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 1</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926100000 +0200" stop="20260926120000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 1</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926120000 +0200" stop="20260926130000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Biciklizam – Svjetsko Prvenstvo, Montreal, Žene: Junior, Drumska Utrka</title>
+    <desc lang="hr">Od 20. do 27. rujna 2026. oči biciklističkog svijeta bit će uprte u Montreal, gdje će se održati UCI Svjetsko prvenstvo u cestovnom biciklizmu.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7d770936d46e4c78bcfd21fe0a0cf481_thumb.jpg" />
+  </programme>
+  <programme start="20260926130000 +0200" stop="20260926150000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 5</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260926150000 +0200" stop="20260926201500 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Biciklizam – Svjetsko Prvenstvo, Montreal, Žene: Elite, Drumska Utrka</title>
+    <desc lang="hr">Od 20. do 27. rujna 2026. oči biciklističkog svijeta bit će uprte u Montreal, gdje će se održati UCI Svjetsko prvenstvo u cestovnom biciklizmu.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7d770936d46e4c78bcfd21fe0a0cf481_thumb.jpg" />
+  </programme>
+  <programme start="20260926201500 +0200" stop="20260926220000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926220000 +0200" stop="20260927000000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927000000 +0200" stop="20260927013000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927013000 +0200" stop="20260927033000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927033000 +0200" stop="20260927103000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Endurance Auto Utrka – 6 Sati Fujia: Utrka</title>
+    <desc lang="hr">Ljubitelje automobilizma ovog vikenda očekuje prava poslastica, jer će se od 25. do 27. rujna 2026. na japanskom Fuji Speedwayu održati 6 Hours of Fuji, jedna od utrka FIA World Endurance...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1e5ecd45ccb496fbf0d6c54c7330efd_thumb.jpg" />
+  </programme>
+  <programme start="20260927103000 +0200" stop="20260927120000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927120000 +0200" stop="20260927130000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Biciklizam – Svjetsko Prvenstvo, Montreal, Žene: Elite, Drumska Utrka</title>
+    <desc lang="hr">Od 20. do 27. rujna 2026. oči biciklističkog svijeta bit će uprte u Montreal, gdje će se održati UCI Svjetsko prvenstvo u cestovnom biciklizmu.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7d770936d46e4c78bcfd21fe0a0cf481_thumb.jpg" />
+  </programme>
+  <programme start="20260927130000 +0200" stop="20260927150000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 6</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260927150000 +0200" stop="20260927220000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Biciklizam – Grand Prix Montreal: Elite, Drumska Utrka</title>
+    <desc lang="hr">Oči ljubitelja biciklizma 13. će rujna biti uprte u Montréal, gdje će se održati jedno od najatraktivnijih jednodnevnih natjecanja svjetskog cestovnog biciklizma, Grand Prix Cycliste de Montréal.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6295e8d67c7c423ea10d52b99cd41b1b_thumb.jpg" />
+  </programme>
+  <programme start="20260927220000 +0200" stop="20260927230000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Biciklizam: Brdski Biciklizam – Svjetski Kup, Whistler (ž): Spust, Elite</title>
+    <desc lang="hr">Od 25. do 27. rujna 2026. oči ljubitelja brdskog biciklizma bit će usmjerene prema kanadskom Whistleru, gdje će se održati pretposljednja downhill runda WHOOP UCI Mountain Bike World Serije.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/fbbb78385dc645e89c64aa11c82fa80e_thumb.jpg" />
+  </programme>
+  <programme start="20260927230000 +0200" stop="20260928011500 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Biciklizam: Brdski Biciklizam – Svjetski Kup, Whistler (m): Spust, Elite</title>
+    <desc lang="hr">Od 25. do 27. rujna 2026. Whistler u kanadskoj pokrajini British Columbia bit će domaćin pretposljednje downhill runde WHOOP UCI Mountain Bike World Serije.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/942a00cd6a214f48bf7f5fba1c3e9f66_thumb.jpg" />
+  </programme>
+  <programme start="20260928011500 +0200" stop="20260928013000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Cycling Show</title>
+    <desc lang="hr">Uživajte u zabavnim sportskim minutama naše emisije koja donosi novosti iz svijeta biciklizma!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7ea5ae0ddb494f039951193bd3bbe451_thumb.jpg" />
+  </programme>
+  <programme start="20260928013000 +0200" stop="20260928030000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Endurance Auto Utrka – 6 Sati Fujia</title>
+    <desc lang="hr">Ljubitelje automobilizma ovog vikenda očekuje prava poslastica, jer će se od 25. do 27. rujna 2026. na japanskom Fuji Speedwayu održati 6 Hours of Fuji, jedna od utrka FIA World Endurance...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1e5ecd45ccb496fbf0d6c54c7330efd_thumb.jpg" />
+  </programme>
+  <programme start="20260928030000 +0200" stop="20260928050000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Biciklizam – Grand Prix Montreal: Elite, Drumska Utrka</title>
+    <desc lang="hr">Oči ljubitelja biciklizma 13. će rujna biti uprte u Montréal, gdje će se održati jedno od najatraktivnijih jednodnevnih natjecanja svjetskog cestovnog biciklizma, Grand Prix Cycliste de Montréal.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6295e8d67c7c423ea10d52b99cd41b1b_thumb.jpg" />
+  </programme>
   <programme start="20260924000000 +0200" stop="20260924013000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
     <title lang="hr">Snuker: Open Velike Britanije: Finale, Mark Selby – Jak Jones</title>
     <desc lang="hr">Ljubitelji snookera dobivaju veliki obračun za naslov pobjednika British Opena.</desc>
@@ -2269,6 +2385,122 @@
     <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
   </programme>
+  <programme start="20260926063000 +0200" stop="20260926070000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Golden Trail World Series – Pregled</title>
+    <sub-title lang="hr">Québec Mega Trail</sub-title>
+    <desc lang="hr">Golden Trail World Series je prestižna svjetska trail running liga koja okuplja najbolje trkače iz cijelog svijeta. Uživajte u odličnim utrkama i prisjetite se najboljih trenutaka ovog natjecanja.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4a6adc7bc7e94ceaba0b967c95efcf9b_thumb.jpg" />
+  </programme>
+  <programme start="20260926070000 +0200" stop="20260926073000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260926073000 +0200" stop="20260926080000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260926080000 +0200" stop="20260926083000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260926083000 +0200" stop="20260926100000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 1</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926100000 +0200" stop="20260926120000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 1</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926120000 +0200" stop="20260926130000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Biciklizam – Svjetsko Prvenstvo, Montreal, Žene: Junior, Drumska Utrka</title>
+    <desc lang="hr">Od 20. do 27. rujna 2026. oči biciklističkog svijeta bit će uprte u Montreal, gdje će se održati UCI Svjetsko prvenstvo u cestovnom biciklizmu.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7d770936d46e4c78bcfd21fe0a0cf481_thumb.jpg" />
+  </programme>
+  <programme start="20260926130000 +0200" stop="20260926150000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 5</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260926150000 +0200" stop="20260926201500 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Biciklizam – Svjetsko Prvenstvo, Montreal, Žene: Elite, Drumska Utrka</title>
+    <desc lang="hr">Od 20. do 27. rujna 2026. oči biciklističkog svijeta bit će uprte u Montreal, gdje će se održati UCI Svjetsko prvenstvo u cestovnom biciklizmu.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7d770936d46e4c78bcfd21fe0a0cf481_thumb.jpg" />
+  </programme>
+  <programme start="20260926201500 +0200" stop="20260926220000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926220000 +0200" stop="20260927000000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927000000 +0200" stop="20260927013000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927013000 +0200" stop="20260927033000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927033000 +0200" stop="20260927103000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Endurance Auto Utrka – 6 Sati Fujia: Utrka</title>
+    <desc lang="hr">Ljubitelje automobilizma ovog vikenda očekuje prava poslastica, jer će se od 25. do 27. rujna 2026. na japanskom Fuji Speedwayu održati 6 Hours of Fuji, jedna od utrka FIA World Endurance...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1e5ecd45ccb496fbf0d6c54c7330efd_thumb.jpg" />
+  </programme>
+  <programme start="20260927103000 +0200" stop="20260927120000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927120000 +0200" stop="20260927130000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Biciklizam – Svjetsko Prvenstvo, Montreal, Žene: Elite, Drumska Utrka</title>
+    <desc lang="hr">Od 20. do 27. rujna 2026. oči biciklističkog svijeta bit će uprte u Montreal, gdje će se održati UCI Svjetsko prvenstvo u cestovnom biciklizmu.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7d770936d46e4c78bcfd21fe0a0cf481_thumb.jpg" />
+  </programme>
+  <programme start="20260927130000 +0200" stop="20260927150000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 6</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260927150000 +0200" stop="20260927220000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Biciklizam – Grand Prix Montreal: Elite, Drumska Utrka</title>
+    <desc lang="hr">Oči ljubitelja biciklizma 13. će rujna biti uprte u Montréal, gdje će se održati jedno od najatraktivnijih jednodnevnih natjecanja svjetskog cestovnog biciklizma, Grand Prix Cycliste de Montréal.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6295e8d67c7c423ea10d52b99cd41b1b_thumb.jpg" />
+  </programme>
+  <programme start="20260927220000 +0200" stop="20260927230000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Biciklizam: Brdski Biciklizam – Svjetski Kup, Whistler (ž): Spust, Elite</title>
+    <desc lang="hr">Od 25. do 27. rujna 2026. oči ljubitelja brdskog biciklizma bit će usmjerene prema kanadskom Whistleru, gdje će se održati pretposljednja downhill runda WHOOP UCI Mountain Bike World Serije.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/fbbb78385dc645e89c64aa11c82fa80e_thumb.jpg" />
+  </programme>
+  <programme start="20260927230000 +0200" stop="20260928011500 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Biciklizam: Brdski Biciklizam – Svjetski Kup, Whistler (m): Spust, Elite</title>
+    <desc lang="hr">Od 25. do 27. rujna 2026. Whistler u kanadskoj pokrajini British Columbia bit će domaćin pretposljednje downhill runde WHOOP UCI Mountain Bike World Serije.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/942a00cd6a214f48bf7f5fba1c3e9f66_thumb.jpg" />
+  </programme>
+  <programme start="20260928011500 +0200" stop="20260928013000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Cycling Show</title>
+    <desc lang="hr">Uživajte u zabavnim sportskim minutama naše emisije koja donosi novosti iz svijeta biciklizma!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7ea5ae0ddb494f039951193bd3bbe451_thumb.jpg" />
+  </programme>
+  <programme start="20260928013000 +0200" stop="20260928030000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Endurance Auto Utrka – 6 Sati Fujia</title>
+    <desc lang="hr">Ljubitelje automobilizma ovog vikenda očekuje prava poslastica, jer će se od 25. do 27. rujna 2026. na japanskom Fuji Speedwayu održati 6 Hours of Fuji, jedna od utrka FIA World Endurance...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1e5ecd45ccb496fbf0d6c54c7330efd_thumb.jpg" />
+  </programme>
+  <programme start="20260928030000 +0200" stop="20260928050000 +0200" channel="UK| EUROSPORT 1 HEVC HD">
+    <title lang="hr">Biciklizam – Grand Prix Montreal: Elite, Drumska Utrka</title>
+    <desc lang="hr">Oči ljubitelja biciklizma 13. će rujna biti uprte u Montréal, gdje će se održati jedno od najatraktivnijih jednodnevnih natjecanja svjetskog cestovnog biciklizma, Grand Prix Cycliste de Montréal.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6295e8d67c7c423ea10d52b99cd41b1b_thumb.jpg" />
+  </programme>
   <programme start="20260924000000 +0200" stop="20260924013000 +0200" channel="eurosport2.uk">
     <title lang="hr">Biciklizam – Svjetsko Prvenstvo, Montreal, Mješovito: Elite, Hronometar Timski</title>
     <desc lang="hr">Od 20. do 27. rujna 2026. oči biciklističkog svijeta bit će uprte u Montreal, gdje će se održati UCI Svjetsko prvenstvo u cestovnom biciklizmu.</desc>
@@ -2337,8 +2569,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/53f3ebe5cf6541689131ab11072d7772_thumb.jpg" />
   </programme>
   <programme start="20260924173000 +0200" stop="20260924183000 +0200" channel="eurosport2.uk">
-    <title lang="hr">Konjički Sport: Fei Svjetski Kup U Preponskom Jahanju Williamsburg</title>
-    <desc lang="hr">Od 10. do 14. rujna 2025. godine održavaju se kvalifikacijske konjičke utrke u Williamsburgu, Michigan.</desc>
+    <title lang="hr">Longines Fei Jumping World Cup Nal: Vilijamsburg, Skakanje</title>
+    <desc lang="hr">Najbolji svjetski jahači i konji ponovno kreću u borbu za bodove Longines FEI World Cupa, a prva stanica nove North American League sezone vodi nas u Williamsburg, Michigan.(c)</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d78a2fe5857e4bafabca65e66bdfb76a_thumb.jpg" />
   </programme>
   <programme start="20260924183000 +0200" stop="20260925010000 +0200" channel="eurosport2.uk">
@@ -2426,6 +2658,156 @@
     <desc lang="hr">Ljubitelji snookera dobivaju veliki obračun za naslov pobjednika British Opena.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6dd75ad6716248d9bbb5ab139dad5eb9_thumb.jpg" />
   </programme>
+  <programme start="20260926050000 +0200" stop="20260926070000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Endurance Auto Utrke: Svjetsko Prvenstvo, Lone Star Le Mans: Utrka</title>
+    <desc lang="hr">Svjetsko prvenstvo u utrkama izdržljivosti vraća se u akciju. i to u srce Texasa!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1e5ecd45ccb496fbf0d6c54c7330efd_thumb.jpg" />
+  </programme>
+  <programme start="20260926070000 +0200" stop="20260926083000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 4</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260926083000 +0200" stop="20260926100000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
+    <desc lang="hr">Veliko finale BetVictor English Opena 2026. donosi dvoboj dvojice iskusnih igrača svjetskog snookera.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
+  </programme>
+  <programme start="20260926100000 +0200" stop="20260926110000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 4</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260926110000 +0200" stop="20260926120000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Biciklizam – Grand Prix Montreal: U23, Drumska Trka</title>
+    <desc lang="hr">Oči ljubitelja biciklizma 13. će rujna biti uprte u Montréal, gdje će se održati jedno od najatraktivnijih jednodnevnih natjecanja svjetskog cestovnog biciklizma, Grand Prix Cycliste de Montréal.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6295e8d67c7c423ea10d52b99cd41b1b_thumb.jpg" />
+  </programme>
+  <programme start="20260926120000 +0200" stop="20260926130000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 1</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926130000 +0200" stop="20260926140000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 1</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926140000 +0200" stop="20260926160000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926160000 +0200" stop="20260926180000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926180000 +0200" stop="20260927010000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Presidents Cup: Čikago, Dan 3</title>
+    <desc lang="hr">Od 24. do 27. rujna najbolje američke golfere i najbolje igrače ostatka svijeta očekuje jedan od najvećih događaja profesionalnog golfa, Presidents Cup 2026. Šesnaesto izdanje ovog prestižnog...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3c317bd1417046309b9f41723689c511_thumb.jpg" />
+  </programme>
+  <programme start="20260927010000 +0200" stop="20260927020000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Jedrenje Sail Gp: Vrhunci</title>
+    <desc lang="hr">Donosimo pregled SailGP-a – međunarodne jedriličarske serije u kojoj se nacionalni timovi natječu na identičnim F50 katamaranima visokih performansi.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ddbcce9ca56244fb82536b748e51481e_thumb.jpg" />
+  </programme>
+  <programme start="20260927020000 +0200" stop="20260927023000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927023000 +0200" stop="20260927030000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927030000 +0200" stop="20260927033000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927033000 +0200" stop="20260927061500 +0200" channel="eurosport2.uk">
+    <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
+    <desc lang="hr">Veliko finale BetVictor English Opena 2026. donosi dvoboj dvojice iskusnih igrača svjetskog snookera.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
+  </programme>
+  <programme start="20260927061500 +0200" stop="20260927064500 +0200" channel="eurosport2.uk">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927064500 +0200" stop="20260927071500 +0200" channel="eurosport2.uk">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927071500 +0200" stop="20260927074500 +0200" channel="eurosport2.uk">
+    <title lang="hr">Trail Trčanje: Sierre Zinal</title>
+    <desc lang="hr">Ovogodišnje izdanje Sierre-Zinala, utrke poznate i kao Race of the Five 4000s, održat će se 8. kolovoza u srcu švicarskih Alpi, gdje će natjecatelji svladati zahtjevnu dionicu od 31 kilometra...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/dead6e8a4a70428a9ee9d8cc09a88f72_thumb.jpg" />
+  </programme>
+  <programme start="20260927074500 +0200" stop="20260927081500 +0200" channel="eurosport2.uk">
+    <title lang="hr">Golden Trail World Series – Pregled</title>
+    <desc lang="hr">Golden Trail World Series je prestižna svjetska trail running liga koja okuplja najbolje trkače iz cijelog svijeta. Uživajte u odličnim utrkama i prisjetite se najboljih trenutaka ovog natjecanja.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4a6adc7bc7e94ceaba0b967c95efcf9b_thumb.jpg" />
+  </programme>
+  <programme start="20260927081500 +0200" stop="20260927104500 +0200" channel="eurosport2.uk">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Planine, usponi, tehnički spustovi i borba protiv štoperice, znači samo jedno, čeka nas nova sezona Golden Trail World Serije 2026. Devetu sezona ovog elitnog trail running serijala obilježit će...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/53f3ebe5cf6541689131ab11072d7772_thumb.jpg" />
+  </programme>
+  <programme start="20260927104500 +0200" stop="20260927120000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 5</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260927120000 +0200" stop="20260927130000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927130000 +0200" stop="20260927150000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927150000 +0200" stop="20260927170000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927170000 +0200" stop="20260927190000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927190000 +0200" stop="20260927210000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927210000 +0200" stop="20260928000000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Presidents Cup: Čikago, Dan 4</title>
+    <desc lang="hr">Od 24. do 27. rujna najbolje američke golfere i najbolje igrače ostatka svijeta očekuje jedan od najvećih događaja profesionalnog golfa, Presidents Cup 2026. Šesnaesto izdanje ovog prestižnog...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3c317bd1417046309b9f41723689c511_thumb.jpg" />
+  </programme>
+  <programme start="20260928000000 +0200" stop="20260928013000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Endurance Auto Utrka – 6 Sati Fujia: Utrka</title>
+    <desc lang="hr">Ljubitelje automobilizma ovog vikenda očekuje prava poslastica, jer će se od 25. do 27. rujna 2026. na japanskom Fuji Speedwayu održati 6 Hours of Fuji, jedna od utrka FIA World Endurance...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1e5ecd45ccb496fbf0d6c54c7330efd_thumb.jpg" />
+  </programme>
+  <programme start="20260928013000 +0200" stop="20260928030000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Biciklizam – Grand Prix Montreal: Elite, Drumska Utrka</title>
+    <desc lang="hr">Oči ljubitelja biciklizma 13. će rujna biti uprte u Montréal, gdje će se održati jedno od najatraktivnijih jednodnevnih natjecanja svjetskog cestovnog biciklizma, Grand Prix Cycliste de Montréal.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6295e8d67c7c423ea10d52b99cd41b1b_thumb.jpg" />
+  </programme>
+  <programme start="20260928030000 +0200" stop="20260928050000 +0200" channel="eurosport2.uk">
+    <title lang="hr">Snooker – British Open: Finale, Mark Selby – Jak Jones</title>
+    <desc lang="hr">Ljubitelji snookera dobivaju veliki obračun za naslov pobjednika British Opena.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6dd75ad6716248d9bbb5ab139dad5eb9_thumb.jpg" />
+  </programme>
   <programme start="20260924000000 +0200" stop="20260924013000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
     <title lang="hr">Biciklizam – Svjetsko Prvenstvo, Montreal, Mješovito: Elite, Hronometar Timski</title>
     <desc lang="hr">Od 20. do 27. rujna 2026. oči biciklističkog svijeta bit će uprte u Montreal, gdje će se održati UCI Svjetsko prvenstvo u cestovnom biciklizmu.</desc>
@@ -2494,8 +2876,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/53f3ebe5cf6541689131ab11072d7772_thumb.jpg" />
   </programme>
   <programme start="20260924173000 +0200" stop="20260924183000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
-    <title lang="hr">Konjički Sport: Fei Svjetski Kup U Preponskom Jahanju Williamsburg</title>
-    <desc lang="hr">Od 10. do 14. rujna 2025. godine održavaju se kvalifikacijske konjičke utrke u Williamsburgu, Michigan.</desc>
+    <title lang="hr">Longines Fei Jumping World Cup Nal: Vilijamsburg, Skakanje</title>
+    <desc lang="hr">Najbolji svjetski jahači i konji ponovno kreću u borbu za bodove Longines FEI World Cupa, a prva stanica nove North American League sezone vodi nas u Williamsburg, Michigan.(c)</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d78a2fe5857e4bafabca65e66bdfb76a_thumb.jpg" />
   </programme>
   <programme start="20260924183000 +0200" stop="20260925010000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
@@ -2583,6 +2965,156 @@
     <desc lang="hr">Ljubitelji snookera dobivaju veliki obračun za naslov pobjednika British Opena.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6dd75ad6716248d9bbb5ab139dad5eb9_thumb.jpg" />
   </programme>
+  <programme start="20260926050000 +0200" stop="20260926070000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Endurance Auto Utrke: Svjetsko Prvenstvo, Lone Star Le Mans: Utrka</title>
+    <desc lang="hr">Svjetsko prvenstvo u utrkama izdržljivosti vraća se u akciju. i to u srce Texasa!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1e5ecd45ccb496fbf0d6c54c7330efd_thumb.jpg" />
+  </programme>
+  <programme start="20260926070000 +0200" stop="20260926083000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 4</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260926083000 +0200" stop="20260926100000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
+    <desc lang="hr">Veliko finale BetVictor English Opena 2026. donosi dvoboj dvojice iskusnih igrača svjetskog snookera.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
+  </programme>
+  <programme start="20260926100000 +0200" stop="20260926110000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 4</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260926110000 +0200" stop="20260926120000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Biciklizam – Grand Prix Montreal: U23, Drumska Trka</title>
+    <desc lang="hr">Oči ljubitelja biciklizma 13. će rujna biti uprte u Montréal, gdje će se održati jedno od najatraktivnijih jednodnevnih natjecanja svjetskog cestovnog biciklizma, Grand Prix Cycliste de Montréal.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6295e8d67c7c423ea10d52b99cd41b1b_thumb.jpg" />
+  </programme>
+  <programme start="20260926120000 +0200" stop="20260926130000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 1</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926130000 +0200" stop="20260926140000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 1</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926140000 +0200" stop="20260926160000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926160000 +0200" stop="20260926180000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926180000 +0200" stop="20260927010000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Presidents Cup: Čikago, Dan 3</title>
+    <desc lang="hr">Od 24. do 27. rujna najbolje američke golfere i najbolje igrače ostatka svijeta očekuje jedan od najvećih događaja profesionalnog golfa, Presidents Cup 2026. Šesnaesto izdanje ovog prestižnog...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3c317bd1417046309b9f41723689c511_thumb.jpg" />
+  </programme>
+  <programme start="20260927010000 +0200" stop="20260927020000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Jedrenje Sail Gp: Vrhunci</title>
+    <desc lang="hr">Donosimo pregled SailGP-a – međunarodne jedriličarske serije u kojoj se nacionalni timovi natječu na identičnim F50 katamaranima visokih performansi.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ddbcce9ca56244fb82536b748e51481e_thumb.jpg" />
+  </programme>
+  <programme start="20260927020000 +0200" stop="20260927023000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927023000 +0200" stop="20260927030000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927030000 +0200" stop="20260927033000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927033000 +0200" stop="20260927061500 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
+    <desc lang="hr">Veliko finale BetVictor English Opena 2026. donosi dvoboj dvojice iskusnih igrača svjetskog snookera.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
+  </programme>
+  <programme start="20260927061500 +0200" stop="20260927064500 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927064500 +0200" stop="20260927071500 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927071500 +0200" stop="20260927074500 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Trail Trčanje: Sierre Zinal</title>
+    <desc lang="hr">Ovogodišnje izdanje Sierre-Zinala, utrke poznate i kao Race of the Five 4000s, održat će se 8. kolovoza u srcu švicarskih Alpi, gdje će natjecatelji svladati zahtjevnu dionicu od 31 kilometra...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/dead6e8a4a70428a9ee9d8cc09a88f72_thumb.jpg" />
+  </programme>
+  <programme start="20260927074500 +0200" stop="20260927081500 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Golden Trail World Series – Pregled</title>
+    <desc lang="hr">Golden Trail World Series je prestižna svjetska trail running liga koja okuplja najbolje trkače iz cijelog svijeta. Uživajte u odličnim utrkama i prisjetite se najboljih trenutaka ovog natjecanja.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4a6adc7bc7e94ceaba0b967c95efcf9b_thumb.jpg" />
+  </programme>
+  <programme start="20260927081500 +0200" stop="20260927104500 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Planine, usponi, tehnički spustovi i borba protiv štoperice, znači samo jedno, čeka nas nova sezona Golden Trail World Serije 2026. Devetu sezona ovog elitnog trail running serijala obilježit će...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/53f3ebe5cf6541689131ab11072d7772_thumb.jpg" />
+  </programme>
+  <programme start="20260927104500 +0200" stop="20260927120000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 5</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260927120000 +0200" stop="20260927130000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927130000 +0200" stop="20260927150000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927150000 +0200" stop="20260927170000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927170000 +0200" stop="20260927190000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927190000 +0200" stop="20260927210000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927210000 +0200" stop="20260928000000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Presidents Cup: Čikago, Dan 4</title>
+    <desc lang="hr">Od 24. do 27. rujna najbolje američke golfere i najbolje igrače ostatka svijeta očekuje jedan od najvećih događaja profesionalnog golfa, Presidents Cup 2026. Šesnaesto izdanje ovog prestižnog...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3c317bd1417046309b9f41723689c511_thumb.jpg" />
+  </programme>
+  <programme start="20260928000000 +0200" stop="20260928013000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Endurance Auto Utrka – 6 Sati Fujia: Utrka</title>
+    <desc lang="hr">Ljubitelje automobilizma ovog vikenda očekuje prava poslastica, jer će se od 25. do 27. rujna 2026. na japanskom Fuji Speedwayu održati 6 Hours of Fuji, jedna od utrka FIA World Endurance...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1e5ecd45ccb496fbf0d6c54c7330efd_thumb.jpg" />
+  </programme>
+  <programme start="20260928013000 +0200" stop="20260928030000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Biciklizam – Grand Prix Montreal: Elite, Drumska Utrka</title>
+    <desc lang="hr">Oči ljubitelja biciklizma 13. će rujna biti uprte u Montréal, gdje će se održati jedno od najatraktivnijih jednodnevnih natjecanja svjetskog cestovnog biciklizma, Grand Prix Cycliste de Montréal.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6295e8d67c7c423ea10d52b99cd41b1b_thumb.jpg" />
+  </programme>
+  <programme start="20260928030000 +0200" stop="20260928050000 +0200" channel="UK| EUROSPORTS 2 HEVC FHD">
+    <title lang="hr">Snooker – British Open: Finale, Mark Selby – Jak Jones</title>
+    <desc lang="hr">Ljubitelji snookera dobivaju veliki obračun za naslov pobjednika British Opena.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6dd75ad6716248d9bbb5ab139dad5eb9_thumb.jpg" />
+  </programme>
   <programme start="20260924000000 +0200" stop="20260924013000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
     <title lang="hr">Biciklizam – Svjetsko Prvenstvo, Montreal, Mješovito: Elite, Hronometar Timski</title>
     <desc lang="hr">Od 20. do 27. rujna 2026. oči biciklističkog svijeta bit će uprte u Montreal, gdje će se održati UCI Svjetsko prvenstvo u cestovnom biciklizmu.</desc>
@@ -2651,8 +3183,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/53f3ebe5cf6541689131ab11072d7772_thumb.jpg" />
   </programme>
   <programme start="20260924173000 +0200" stop="20260924183000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
-    <title lang="hr">Konjički Sport: Fei Svjetski Kup U Preponskom Jahanju Williamsburg</title>
-    <desc lang="hr">Od 10. do 14. rujna 2025. godine održavaju se kvalifikacijske konjičke utrke u Williamsburgu, Michigan.</desc>
+    <title lang="hr">Longines Fei Jumping World Cup Nal: Vilijamsburg, Skakanje</title>
+    <desc lang="hr">Najbolji svjetski jahači i konji ponovno kreću u borbu za bodove Longines FEI World Cupa, a prva stanica nove North American League sezone vodi nas u Williamsburg, Michigan.(c)</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/d78a2fe5857e4bafabca65e66bdfb76a_thumb.jpg" />
   </programme>
   <programme start="20260924183000 +0200" stop="20260925010000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
@@ -2738,6 +3270,156 @@
   <programme start="20260926033000 +0200" stop="20260926050000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
     <title lang="hr">Snooker – British Open: Finale, Mark Selby – Jak Jones</title>
     <desc lang="hr">Ljubitelji snookera dobivaju veliki obračun za naslov pobjednika British Opena.</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6dd75ad6716248d9bbb5ab139dad5eb9_thumb.jpg" />
+  </programme>
+  <programme start="20260926050000 +0200" stop="20260926070000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Endurance Auto Utrke: Svjetsko Prvenstvo, Lone Star Le Mans: Utrka</title>
+    <desc lang="hr">Svjetsko prvenstvo u utrkama izdržljivosti vraća se u akciju. i to u srce Texasa!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1e5ecd45ccb496fbf0d6c54c7330efd_thumb.jpg" />
+  </programme>
+  <programme start="20260926070000 +0200" stop="20260926083000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 4</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260926083000 +0200" stop="20260926100000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
+    <desc lang="hr">Veliko finale BetVictor English Opena 2026. donosi dvoboj dvojice iskusnih igrača svjetskog snookera.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
+  </programme>
+  <programme start="20260926100000 +0200" stop="20260926110000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 4</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260926110000 +0200" stop="20260926120000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Biciklizam – Grand Prix Montreal: U23, Drumska Trka</title>
+    <desc lang="hr">Oči ljubitelja biciklizma 13. će rujna biti uprte u Montréal, gdje će se održati jedno od najatraktivnijih jednodnevnih natjecanja svjetskog cestovnog biciklizma, Grand Prix Cycliste de Montréal.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6295e8d67c7c423ea10d52b99cd41b1b_thumb.jpg" />
+  </programme>
+  <programme start="20260926120000 +0200" stop="20260926130000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 1</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926130000 +0200" stop="20260926140000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 1</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926140000 +0200" stop="20260926160000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926160000 +0200" stop="20260926180000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260926180000 +0200" stop="20260927010000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Presidents Cup: Čikago, Dan 3</title>
+    <desc lang="hr">Od 24. do 27. rujna najbolje američke golfere i najbolje igrače ostatka svijeta očekuje jedan od najvećih događaja profesionalnog golfa, Presidents Cup 2026. Šesnaesto izdanje ovog prestižnog...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3c317bd1417046309b9f41723689c511_thumb.jpg" />
+  </programme>
+  <programme start="20260927010000 +0200" stop="20260927020000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Jedrenje Sail Gp: Vrhunci</title>
+    <desc lang="hr">Donosimo pregled SailGP-a – međunarodne jedriličarske serije u kojoj se nacionalni timovi natječu na identičnim F50 katamaranima visokih performansi.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/ddbcce9ca56244fb82536b748e51481e_thumb.jpg" />
+  </programme>
+  <programme start="20260927020000 +0200" stop="20260927023000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927023000 +0200" stop="20260927030000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927030000 +0200" stop="20260927033000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927033000 +0200" stop="20260927061500 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
+    <desc lang="hr">Veliko finale BetVictor English Opena 2026. donosi dvoboj dvojice iskusnih igrača svjetskog snookera.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
+  </programme>
+  <programme start="20260927061500 +0200" stop="20260927064500 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927064500 +0200" stop="20260927071500 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2637b540d56c470dad8701b3d6d9552c_thumb.jpg" />
+  </programme>
+  <programme start="20260927071500 +0200" stop="20260927074500 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Trail Trčanje: Sierre Zinal</title>
+    <desc lang="hr">Ovogodišnje izdanje Sierre-Zinala, utrke poznate i kao Race of the Five 4000s, održat će se 8. kolovoza u srcu švicarskih Alpi, gdje će natjecatelji svladati zahtjevnu dionicu od 31 kilometra...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/dead6e8a4a70428a9ee9d8cc09a88f72_thumb.jpg" />
+  </programme>
+  <programme start="20260927074500 +0200" stop="20260927081500 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Golden Trail World Series – Pregled</title>
+    <desc lang="hr">Golden Trail World Series je prestižna svjetska trail running liga koja okuplja najbolje trkače iz cijelog svijeta. Uživajte u odličnim utrkama i prisjetite se najboljih trenutaka ovog natjecanja.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4a6adc7bc7e94ceaba0b967c95efcf9b_thumb.jpg" />
+  </programme>
+  <programme start="20260927081500 +0200" stop="20260927104500 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Golden Trail Wt</title>
+    <desc lang="hr">Planine, usponi, tehnički spustovi i borba protiv štoperice, znači samo jedno, čeka nas nova sezona Golden Trail World Serije 2026. Devetu sezona ovog elitnog trail running serijala obilježit će...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/53f3ebe5cf6541689131ab11072d7772_thumb.jpg" />
+  </programme>
+  <programme start="20260927104500 +0200" stop="20260927120000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Biciklizam – Cro Race: Etapa 5</title>
+    <desc lang="hr">CRO Race je stigao do svog 11. izdanja, a ovogodišnja utrka donosi važan iskorak, jer će prvi put biti održana u UCI ProSeries kategoriji.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/7b98d27b9be04dc0986494ed8faf1bee_thumb.jpg" />
+  </programme>
+  <programme start="20260927120000 +0200" stop="20260927130000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 2</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927130000 +0200" stop="20260927150000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927150000 +0200" stop="20260927170000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927170000 +0200" stop="20260927190000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927190000 +0200" stop="20260927210000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Tenis – Laver Cup: London, Dan 3</title>
+    <desc lang="hr">Europa protiv ostatka svijeta, i to u jednom od najatraktivnijih formata u svjetskom tenisu!(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b79448d729d14ca294241efc05875d4b_thumb.jpg" />
+  </programme>
+  <programme start="20260927210000 +0200" stop="20260928000000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Presidents Cup: Čikago, Dan 4</title>
+    <desc lang="hr">Od 24. do 27. rujna najbolje američke golfere i najbolje igrače ostatka svijeta očekuje jedan od najvećih događaja profesionalnog golfa, Presidents Cup 2026. Šesnaesto izdanje ovog prestižnog...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3c317bd1417046309b9f41723689c511_thumb.jpg" />
+  </programme>
+  <programme start="20260928000000 +0200" stop="20260928013000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Endurance Auto Utrka – 6 Sati Fujia: Utrka</title>
+    <desc lang="hr">Ljubitelje automobilizma ovog vikenda očekuje prava poslastica, jer će se od 25. do 27. rujna 2026. na japanskom Fuji Speedwayu održati 6 Hours of Fuji, jedna od utrka FIA World Endurance...(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/e1e5ecd45ccb496fbf0d6c54c7330efd_thumb.jpg" />
+  </programme>
+  <programme start="20260928013000 +0200" stop="20260928030000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Biciklizam – Grand Prix Montreal: Elite, Drumska Utrka</title>
+    <desc lang="hr">Oči ljubitelja biciklizma 13. će rujna biti uprte u Montréal, gdje će se održati jedno od najatraktivnijih jednodnevnih natjecanja svjetskog cestovnog biciklizma, Grand Prix Cycliste de Montréal.(n)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6295e8d67c7c423ea10d52b99cd41b1b_thumb.jpg" />
+  </programme>
+  <programme start="20260928030000 +0200" stop="20260928050000 +0200" channel="UK| EUROSPORTS 2 HEVC HD">
+    <title lang="hr">Snooker – British Open: Finale, Mark Selby – Jak Jones</title>
+    <desc lang="hr">Ljubitelji snookera dobivaju veliki obračun za naslov pobjednika British Opena.(n)</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6dd75ad6716248d9bbb5ab139dad5eb9_thumb.jpg" />
   </programme>
   <programme start="20260924000000 +0000" stop="20260924003000 +0000" channel="US| BEIN SPORTS 2 HD">
@@ -3798,7 +4480,7 @@ Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 12:00 Good Morn
 Istodobno na DAZN-u (UTC): 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Bataeh vs. Palm City (DAZN 7); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8); 15:30 FK Gintra vs. MFA Žalgiris (DAZN 1); 16:00 Gibraltar vs. Sao Tome and Principe (DAZN 2)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20260924090000 +0000" stop="20260924113000 +0000" channel="CA| DAZN 3 HD">
+  <programme start="20260924090000 +0000" stop="20260924105609 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">FIFA ASEAN Cup: Laos vs. Brunei Darussalam</title>
     <desc lang="en">Watch Soccer action as Brunei takes on Laos
 
