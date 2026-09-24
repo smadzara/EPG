@@ -53,6 +53,58 @@
     <display-name>US| BEIN SPORTS 2 HD</display-name>
     <display-name>beIN SPORTS USA</display-name>
   </channel>
+  <channel id="CA| DAZN 1 HD">
+    <display-name>CA| DAZN 1 HD</display-name>
+    <display-name>DAZN CA 1</display-name>
+  </channel>
+  <channel id="CA| DAZN 2 HD">
+    <display-name>CA| DAZN 2 HD</display-name>
+    <display-name>DAZN CA 2</display-name>
+  </channel>
+  <channel id="CA| DAZN 3 HD">
+    <display-name>CA| DAZN 3 HD</display-name>
+    <display-name>DAZN CA 3</display-name>
+  </channel>
+  <channel id="CA| DAZN 4 HD">
+    <display-name>CA| DAZN 4 HD</display-name>
+    <display-name>DAZN CA 4</display-name>
+  </channel>
+  <channel id="CA| DAZN 5 HD">
+    <display-name>CA| DAZN 5 HD</display-name>
+    <display-name>DAZN CA 5</display-name>
+  </channel>
+  <channel id="CA| DAZN 6 HD">
+    <display-name>CA| DAZN 6 HD</display-name>
+    <display-name>DAZN CA 6</display-name>
+  </channel>
+  <channel id="CA| DAZN 7 HD">
+    <display-name>CA| DAZN 7 HD</display-name>
+    <display-name>DAZN CA 7</display-name>
+  </channel>
+  <channel id="CA| DAZN 8 HD">
+    <display-name>CA| DAZN 8 HD</display-name>
+    <display-name>DAZN CA 8</display-name>
+  </channel>
+  <channel id="CA| DAZN 9 HD">
+    <display-name>CA| DAZN 9 HD</display-name>
+    <display-name>DAZN CA 9</display-name>
+  </channel>
+  <channel id="CA| DAZN 10 HD">
+    <display-name>CA| DAZN 10 HD</display-name>
+    <display-name>DAZN CA 10</display-name>
+  </channel>
+  <channel id="CA| DAZN 11 HD">
+    <display-name>CA| DAZN 11 HD</display-name>
+    <display-name>DAZN CA 11</display-name>
+  </channel>
+  <channel id="CA| DAZN 12 HD">
+    <display-name>CA| DAZN 12 HD</display-name>
+    <display-name>DAZN CA 12</display-name>
+  </channel>
+  <channel id="CA| DAZN 13 HD">
+    <display-name>CA| DAZN 13 HD</display-name>
+    <display-name>DAZN CA 13</display-name>
+  </channel>
   <programme channel="US-NBA TV USA" start="20260923050000 +0000" stop="20260923063000 +0000">
     <title lang="en">WNBA Playback</title>
     <sub-title lang="en">Atlanta Dream at New York Liberty</sub-title>
@@ -2862,13 +2914,13 @@
   </programme>
   <programme start="20260925030000 +0000" stop="20260925033000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">2026 World Taekwondo Grand Prix Series</title>
-    <desc lang="en">Muju, Women's Under 67kg.(c)</desc>
+    <desc lang="en">Muju, Women's Under 67kg.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Martial arts</category>
   </programme>
   <programme start="20260925033000 +0000" stop="20260925040000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Canoe Highlights</title>
-    <desc lang="en">ICF Slalom World Cup, France.(c)</desc>
+    <desc lang="en">ICF Slalom World Cup, France.</desc>
     <category lang="en">Canoe</category>
     <category lang="en">Sports related</category>
   </programme>
@@ -3122,13 +3174,13 @@
   </programme>
   <programme start="20260926220000 +0000" stop="20260926223000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">2026 World Taekwondo Grand Prix Series</title>
-    <desc lang="en">Muju, Women's Under 67kg.(c)</desc>
+    <desc lang="en">Muju, Women's Under 67kg.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Martial arts</category>
   </programme>
   <programme start="20260926223000 +0000" stop="20260926230000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Copa de Europa de Baloncesto 3x3 de la FIBA 2026</title>
-    <desc lang="en">Men's Final: Netherlands vs. Latvia.(c)</desc>
+    <desc lang="en">Men's Final: Netherlands vs. Latvia.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">3x3 basketball</category>
   </programme>
@@ -3252,5 +3304,1422 @@
     <desc lang="en">ICF Slalom World Championships, Day 6.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Boat racing</category>
+  </programme>
+  <programme start="20260923050000 +0000" stop="20260923153000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Singapore Open: Day 3</title>
+    <sub-title lang="en">Singapore Tennis Open</sub-title>
+    <desc lang="en">Watch Day 3 of the Singapore Tennis Open Women Single on DAZN.
+
+Istodobno na DAZN-u (UTC): 10:00 Lesotho U20 vs. Angola U20 (DAZN 2); 10:00 South Africa U20 vs. Eswatini U20 (DAZN 3); 12:00 Good Morning Football (DAZN 4); 13:00 Malawi U20 vs. Comoros U20 (DAZN 2); 13:00 Zambia U20 vs. Botswana U20 (DAZN 3); 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Bataeh vs. Palm City (DAZN 7); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8)</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260923153000 +0000" stop="20260923180000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">A Lyga Women - Lithuania: FK Gintra vs. MFA Žalgiris</title>
+    <desc lang="en">Watch Soccer action as MFA Žalgiris takes on Gintra
+
+Istodobno na DAZN-u (UTC): 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Bataeh vs. Palm City (DAZN 7); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8); 16:00 Gibraltar vs. Sao Tome and Principe (DAZN 2); 16:00 Azerbaijan vs. Tajikistan (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923210000 +0000" stop="20260923221500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">NFL Fantasy Live</title>
+    <sub-title lang="en">NFL Game Pass</sub-title>
+    <desc lang="en">Join the panel on NFL Fantasy Live for all the latest expert advice and projections.
+
+Istodobno na DAZN-u (UTC): 22:00 NFL Live (DAZN 2)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260923230000 +0000" stop="20260924001500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">The Insiders</title>
+    <sub-title lang="en">NFL Game Pass</sub-title>
+    <desc lang="en">All the off-the-radar storylines, scoops and breaking news from the NFL.
+
+Istodobno na DAZN-u (UTC): 22:00 NFL Live (DAZN 2)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260924030000 +0000" stop="20260924100000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Korea Open: Day 4</title>
+    <sub-title lang="en">Seoul (WTA)</sub-title>
+    <desc lang="en">Watch Day four of the Korea Open on DAZN.
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 4 (DAZN 2); 09:00 Laos vs. Brunei Darussalam (DAZN 3)</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260924120000 +0000" stop="20260924130000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Queensberry Promotions: Davies vs. Collins: Press Conference</title>
+    <desc lang="en">Fight week begins on DAZN with the official press conference, as Queensberry Promotions prepares to bring an action-packed bill of fights to Birmingham's BP Pulse Live Arena.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 4 (DAZN 2); 12:00 Myanmar vs. Timor-Leste (DAZN 3)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20260924140000 +0000" stop="20260924150000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">BKFC 94 Manchester: BKFC 94: Till vs. Romero - Press Conference</title>
+    <desc lang="en">Darren Till and Yoel Romero face the media ahead of headlining at BKFC 94 in Manchester, England.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 4 (DAZN 2); 12:00 Myanmar vs. Timor-Leste (DAZN 3)</desc>
+    <category lang="en">BKFC</category>
+  </programme>
+  <programme start="20260924160000 +0000" stop="20260924181500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">UEFA Nations League: Andorra vs. Malta</title>
+    <desc lang="en">Watch Soccer action as Andorra takes on Malta
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:30 Ultimate Sevens Rugby - London Grand Final (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260924184500 +0000" stop="20260924210000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">UEFA Nations League: Austria vs. Israel</title>
+    <desc lang="en">Watch Soccer action as Israel takes on Austria
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:45 Norway vs. Denmark (DAZN 2); 18:45 Netherlands vs. Germany (DAZN 3); 18:45 Kosovo vs. Republic of Ireland (DAZN 4); 18:45 Portugal vs. Wales (DAZN 5); 18:45 Liechtenstein vs. Lithuania (DAZN 6); 18:45 Serbia vs. Greece (DAZN 7)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Misfits Boxing: Cejudo vs. Walton: Press Conference</title>
+    <desc lang="en">Henry Cejudo and Javon Walton begin the verbal sparring at the official press conference, as the duo prepare to headline an explosive Misfits event in Miami.
+(Kraj procijenjen.)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20260924220000 +0000" stop="20260925020000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">PPL Playa Del Carmen - Day 1</title>
+    <sub-title lang="en">Pro Padel League</sub-title>
+    <desc lang="en">Watch Pro Padel League on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 22:30 College Swimming League - Match 1 (DAZN 2); 00:15 Falcons @ Packers (DAZN 3); 00:15 Falcons @ Packers (In French) (DAZN 4)</desc>
+    <category lang="en">Padel</category>
+  </programme>
+  <programme start="20260925030000 +0000" stop="20260925110000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Korea Open: Day 5</title>
+    <sub-title lang="en">Seoul (WTA)</sub-title>
+    <desc lang="en">Watch Day five of the Korea Open on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 00:15 Falcons @ Packers (DAZN 3); 00:15 Falcons @ Packers (In French) (DAZN 4); 05:00 Singapore Open: Day 5 (DAZN 2); 09:00 Bangladesh vs. Malaysia (DAZN 3)</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260925120000 +0000" stop="20260925130000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Queensberry Promotions: Davies vs. Collins: Weigh-In</title>
+    <desc lang="en">Featherweight contenders Liam Davies and Nathaniel Collins tip the scales at the official weigh-in ceremony, ahead of their main event showdown in Birmingham.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 5 (DAZN 2)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20260925130000 +0000" stop="20260925151500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">FIFA ASEAN Cup: Indonesia vs. Singapore</title>
+    <desc lang="en">Watch Soccer action as Singapore takes on Indonesia
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:00 TMA FC vs. Stand United FC (DAZN 2); 13:20 TAIF Racing Season 2026 - Week 10, Day 1 (DAZN 3); 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925151500 +0000" stop="20260925174500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Vienna - GCL Round 1</title>
+    <sub-title lang="en">Longines Global Champions Tour</sub-title>
+    <desc lang="en">Watch the best riders and horses go head-to-head in the Global Champions Tour.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:20 TAIF Racing Season 2026 - Week 10, Day 1 (DAZN 3); 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 1 (DAZN 2); 15:30 Germany U20 vs. France U20 (DAZN 5); 16:00 Armenia vs. Latvia (DAZN 6); 16:00 Georgia vs. Northern Ireland (DAZN 7); 17:00 BKFC 94: Till vs. Romero - Weigh-In (DAZN 8)</desc>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20260925181000 +0000" stop="20260925204000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Vienna - GCL Round 2</title>
+    <sub-title lang="en">Longines Global Champions Tour</sub-title>
+    <desc lang="en">Watch the best riders and horses go head-to-head in the Global Champions Tour.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 1 (DAZN 2); 16:00 Armenia vs. Latvia (DAZN 6); 16:00 Georgia vs. Northern Ireland (DAZN 7); 18:30 Newcastle Eagles vs. Bristol Flyers (DAZN 2); 18:45 Sweden vs. Bosnia (DAZN 3); 18:45 Türkiye vs. France (DAZN 5); 18:45 Poland vs. Bosnia-Herzegovina (DAZN 6); 18:45 Hungary vs. Ukraine (DAZN 7); 18:45 Italy vs. Belgium (DAZN 8); 18:45 Montenegro vs. Cyprus (DAZN 9)</desc>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20260925210000 +0000" stop="20260926000000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Major League Table Tennis : MLTT - Week 2: Portland Paddlers vs. New York Slice</title>
+    <desc lang="en">Don't miss a minute of the action from week two of Major League Table Tennis, featuring matches between Bay Area Blasters, Chicago Wind, Portland Paddlers and New York Slice.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 Cejudo vs. Walton: Weigh-In (DAZN 2); 22:00 PPL Playa Del Carmen - Day 2 - Session 2 (DAZN 2); 22:30 College Swimming League - Match 2 (DAZN 3); 23:00 Howard @ Rutgers (DAZN 4)</desc>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926033000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">NCAA Football: Northwestern @ Indiana</title>
+    <desc lang="en">Watch American Football action as Northwestern takes on Indiana
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 22:00 PPL Playa Del Carmen - Day 2 - Session 2 (DAZN 2); 22:30 College Swimming League - Match 2 (DAZN 3); 23:00 Howard @ Rutgers (DAZN 4); 00:30 MLTT - Week 2: Bay Area Blasters vs. Chicago Wind (DAZN 3); 02:00 Waterside Karori AFC vs. Fencibles United AFC (DAZN 2); 02:30 Wellington Phoenix Reserves vs. Auckland United FC (DAZN 4); 03:00 West Coast Rangers FC vs. Eastern Suburbs AFC (DAZN 5)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260926033000 +0000" stop="20260926054500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">National League - New Zealand: Ferrymead Bays FC vs. Eastern Suburbs AFC</title>
+    <desc lang="en">Watch Soccer action as Eastern Suburbs takes on Ferrymead Bays
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 02:00 Waterside Karori AFC vs. Fencibles United AFC (DAZN 2); 02:30 Wellington Phoenix Reserves vs. Auckland United FC (DAZN 4); 03:00 West Coast Rangers FC vs. Eastern Suburbs AFC (DAZN 5); 05:00 Korea Open: Day 6 (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926063000 +0000" stop="20260926143000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Singapore Open: Day 6</title>
+    <sub-title lang="en">Singapore Tennis Open</sub-title>
+    <desc lang="en">Watch Day 6 of the Singapore Tennis Open Women Single on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Korea Open: Day 6 (DAZN 2); 09:00 Pakistan vs. Thailand (DAZN 3); 10:00 FK Banga vs. FK Žalgiris (DAZN 4); 10:30 Juventus vs. Napoli (DAZN 5); 10:50 Monza - Race 1 (DAZN 6); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260926144000 +0000" stop="20260926161000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Monza - Race 1</title>
+    <sub-title lang="en">TCR Europe</sub-title>
+    <desc lang="en">Watch the TCR Europe on DAZN, as the latest event heads to Monza for an action-packed weekend of racing.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926184500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">EFL League Two: Oldham vs. Salford</title>
+    <desc lang="en">Watch Soccer action as Oldham Athletic takes on Salford City
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:55 Davies vs. Collins: Prelims (DAZN 4); 15:00 ASVO FC vs. USS Krake FC (DAZN 7); 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 15:00 Bani Ganse FC vs. Sobemap FC; 15:00 JS Tahoua vs. AS ZAM; 15:30 FocuSport FC vs. AS Sonabel (DAZN 2); 15:30 US Comoé vs. Majestic FC (DAZN 3); 15:30 Sahel SC vs. Tagour PC (DAZN 5); 15:30 CFFEB vs. Rahimo FC (DAZN 6); 15:30 AS Douanes vs. Sporting Cascades; 15:30 ASN Nigelec vs. AS Police; 15:30 U15 Baseball World Cup 2026 - Day 2; 15:30 Réal du Faso vs. AS Maya; 15:35 Monza - Race 2; 16:00 Bulgaria vs. Luxembourg; 16:00 Faroe Islands vs. Kazakhstan; 16:00 Iceland vs. Estonia; 16:00 San Marino vs. Finland; 16:00 Uskov vs. Naeemi</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926184500 +0000" stop="20260926210000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">UEFA Nations League: Slovakia vs. Moldova</title>
+    <desc lang="en">Watch Soccer action as Moldova takes on Slovakia
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 16:00 Uskov vs. Naeemi; 16:00 Illinois @ Ohio State; 16:00 OKTAGON 94: Eckerlin vs. Kozma; 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 Davies vs. Collins (DAZN 2); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Albania vs. Belarus (DAZN 5); 18:45 England vs. Spain (DAZN 6); 18:45 Czechia vs. Croatia (DAZN 9); 18:45 North Macedonia vs. Switzerland (DAZN 10); 19:00 Barcelona vs. Coruña (DAZN 11); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260927000000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Major League Table Tennis : MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters</title>
+    <desc lang="en">Don't miss a minute of the action from week two of Major League Table Tennis, featuring matches between Bay Area Blasters, Chicago Wind, Portland Paddlers and New York Slice.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 Notre Dame @ Purdue (DAZN 4); 19:00 Barcelona vs. Coruña (DAZN 11); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10)</desc>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20260927000000 +0000" stop="20260927021500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">National Women's League - New Zealand: Wellington Phoenix Reserves vs. Canterbury United Pride</title>
+    <desc lang="en">Watch Soccer action as Wellington Phoenix II takes on Canterbury United
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3); 02:00 Birkenhead United AFC vs. Cashmere Technical FC (DAZN 4)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927023000 +0000" stop="20260927060000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">NCAA Football: Air Force @ Nevada</title>
+    <desc lang="en">Watch American Football action as Nevada takes on Air Force
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 23:30 Oregon @ USC (DAZN 8); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3); 02:00 Birkenhead United AFC vs. Cashmere Technical FC (DAZN 4); 03:00 Minnesota @ Washington (DAZN 5)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260927063000 +0000" stop="20260927143000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Korea Open: Day 7</title>
+    <sub-title lang="en">Seoul (WTA)</sub-title>
+    <desc lang="en">Watch Day 7 of the Korea Tennis Open Women Single on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 07:00 Hong Kong vs. Laos (DAZN 2); 07:40 Monza - Race 3 (DAZN 3); 08:00 Inoue vs. Nasukawa 2 (DAZN 4); 09:00 Singapore Open: Day 7 (DAZN 5); 09:35 Monza - Race 2 (DAZN 2); 10:00 Breogán vs. Joventut (DAZN 3); 10:00 Kauno Rajono FA vs. MFA Žalgiris (DAZN 6); 10:00 Cambodia vs. Myanmar (DAZN 7); 10:13 Monza Race (DAZN 8); 10:30 CB San Pablo Burgos vs. Baskonia (DAZN 9); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10)</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260927150000 +0000" stop="20260927171500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Championnat National - Benin: Djèffa FC vs. Panthères FC</title>
+    <desc lang="en">Watch Soccer action as Djeffa takes on Panthères
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 09:00 Singapore Open: Day 7 (DAZN 5); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 Monza Race 2 (DAZN 12); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927181500 +0000" stop="20260927204500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Vienna - Longines Champions Tour Grand Prix</title>
+    <sub-title lang="en">Longines Global Champions Tour</sub-title>
+    <desc lang="en">Watch the best riders and horses go head-to-head in the Global Champions Tour.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters; 16:30 Malta vs. Liechtenstein (DAZN 10); 16:30 Cheshire Phoenix vs. Leicester Riders (DAZN 11); 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE</desc>
+    <category lang="en">Equestrian</category>
+  </programme>
+  <programme start="20260927220000 +0000" stop="20260928001500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Premier League - St. Lucia: Anse La Raye vs. Vieux Fort South</title>
+    <desc lang="en">Watch Soccer action as Vieux Fort South takes on Anse La Raye
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 19:30 MLTT - Week 2: Portland Paddlers vs. Chicago Wind (DAZN 7); 20:00 Dynamo Puerto vs. Bolívar SC (DAZN 8); 20:05 Cardinals @ 49ers (DAZN 9); 20:05 Vikings @ Buccaneers (DAZN 10); 20:05 RedZone, MIN @ TB, BAL @ DAL, LV @ NO (DAZN 11); 20:05 ARI @ SF, MIN @ TB, BAL @ DAL, LV @ NO (DAZN 12); 20:05 RedZone, ARI @ SF, MIN @ TB, BAL @ DAL; 20:25 Raiders @ Saints; 20:25 Ravens @ Cowboys</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923100000 +0000" stop="20260923123000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier: Lesotho U20 vs. Angola U20</title>
+    <desc lang="en">Watch Soccer action as Angola U20 takes on Lesotho U20
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 10:00 South Africa U20 vs. Eswatini U20 (DAZN 3); 12:00 Good Morning Football (DAZN 4)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923130000 +0000" stop="20260923153000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier: Malawi U20 vs. Comoros U20</title>
+    <desc lang="en">Watch Soccer action as Malawi U20 takes on Comoros U20
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 12:00 Good Morning Football (DAZN 4); 13:00 Zambia U20 vs. Botswana U20 (DAZN 3); 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Bataeh vs. Palm City (DAZN 7); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923160000 +0000" stop="20260923180239 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">International Friendlies: Gibraltar vs. Sao Tome and Principe</title>
+    <desc lang="en">Watch Soccer action as São Tomé e Príncipe takes on Gibraltar
+
+Istodobno na DAZN-u (UTC): 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Bataeh vs. Palm City (DAZN 7); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8); 15:30 FK Gintra vs. MFA Žalgiris (DAZN 1); 16:00 Azerbaijan vs. Tajikistan (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923220000 +0000" stop="20260923231500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">NFL Live</title>
+    <sub-title lang="en">NFL Game Pass</sub-title>
+    <desc lang="en">Action from the 2026 Season on NFL Game Pass on DAZN.
+
+Istodobno na DAZN-u (UTC): 21:00 NFL Fantasy Live (DAZN 1); 23:00 The Insiders (DAZN 1)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260924050000 +0000" stop="20260924153000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Singapore Open: Day 4</title>
+    <sub-title lang="en">Singapore Tennis Open</sub-title>
+    <desc lang="en">Watch Day 4 of the Singapore Tennis Open Women Single on DAZN.
+
+Istodobno na DAZN-u (UTC): 03:00 Korea Open: Day 4 (DAZN 1); 09:00 Laos vs. Brunei Darussalam (DAZN 3); 12:00 Davies vs. Collins: Press Conference (DAZN 1); 12:00 Myanmar vs. Timor-Leste (DAZN 3); 14:00 BKFC 94: Till vs. Romero - Press Conference (DAZN 1)</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260924163000 +0000" stop="20260924183000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Ultimate Sevens Rugby - London Grand Final</title>
+    <desc lang="en">Ultimate Sevens Rugby - London Grand Final
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 Andorra vs. Malta (DAZN 1)</desc>
+    <category lang="en">Rugby Union</category>
+  </programme>
+  <programme start="20260924184500 +0000" stop="20260924210000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">UEFA Nations League: Norway vs. Denmark</title>
+    <desc lang="en">Watch Soccer action as Norway takes on Denmark
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:45 Austria vs. Israel (DAZN 1); 18:45 Netherlands vs. Germany (DAZN 3); 18:45 Kosovo vs. Republic of Ireland (DAZN 4); 18:45 Portugal vs. Wales (DAZN 5); 18:45 Liechtenstein vs. Lithuania (DAZN 6); 18:45 Serbia vs. Greece (DAZN 7)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260924223000 +0000" stop="20260925003000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">College Swimming League - Match 1</title>
+    <desc lang="en">The inaugural College Swimming League event is here, as teams from the universities of from Indiana, Michigan, Ohio State and Louisville compete in high-octane head-to-head matches in Westmont, Illinois.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 22:00 PPL Playa Del Carmen - Day 1 (DAZN 1); 00:15 Falcons @ Packers (DAZN 3); 00:15 Falcons @ Packers (In French) (DAZN 4)</desc>
+    <category lang="en">Swimming</category>
+  </programme>
+  <programme start="20260925050000 +0000" stop="20260925130000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Singapore Open: Day 5</title>
+    <sub-title lang="en">Singapore Tennis Open</sub-title>
+    <desc lang="en">Watch Day 5 of the Singapore Open on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 03:00 Korea Open: Day 5 (DAZN 1); 09:00 Bangladesh vs. Malaysia (DAZN 3); 12:00 Davies vs. Collins: Weigh-In (DAZN 1)</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260925130000 +0000" stop="20260925151500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Championship League - Tanzania : TMA FC vs. Stand United FC</title>
+    <desc lang="en">Watch Soccer action as Stand United takes on TMA
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:00 Indonesia vs. Singapore (DAZN 1); 13:20 TAIF Racing Season 2026 - Week 10, Day 1 (DAZN 3); 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925153000 +0000" stop="20260925183000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">U15 Baseball World Cup 2026 - Day 1</title>
+    <desc lang="en">Watch the U15 Baseball World Cup from Cancún, Mexico.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:20 TAIF Racing Season 2026 - Week 10, Day 1 (DAZN 3); 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 15:15 Vienna - GCL Round 1 (DAZN 1); 15:30 Germany U20 vs. France U20 (DAZN 5); 16:00 Armenia vs. Latvia (DAZN 6); 16:00 Georgia vs. Northern Ireland (DAZN 7); 17:00 BKFC 94: Till vs. Romero - Weigh-In (DAZN 8); 18:10 Vienna - GCL Round 2 (DAZN 1)</desc>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260925183000 +0000" stop="20260925204500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Super League Basketball: Newcastle Eagles vs. Bristol Flyers</title>
+    <desc lang="en">Watch Basketball action as Newcastle Eagles takes on Bristol Flyers
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 18:10 Vienna - GCL Round 2 (DAZN 1); 18:45 Sweden vs. Bosnia (DAZN 3); 18:45 Türkiye vs. France (DAZN 5); 18:45 Poland vs. Bosnia-Herzegovina (DAZN 6); 18:45 Hungary vs. Ukraine (DAZN 7); 18:45 Italy vs. Belgium (DAZN 8); 18:45 Montenegro vs. Cyprus (DAZN 9)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Misfits Boxing: Cejudo vs. Walton: Weigh-In</title>
+    <desc lang="en">The fighters tip the scales at the official weigh-in ceremony, as Misfits Boxing prepares to bring another epic night of crossover fights to DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 MLTT - Week 2: Portland Paddlers vs. New York Slice (DAZN 1)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260926020000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">PPL Playa Del Carmen - Day 2 - Session 2</title>
+    <sub-title lang="en">Pro Padel League</sub-title>
+    <desc lang="en">Watch Pro Padel League on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 MLTT - Week 2: Portland Paddlers vs. New York Slice (DAZN 1); 22:30 College Swimming League - Match 2 (DAZN 3); 23:00 Howard @ Rutgers (DAZN 4); 00:00 Northwestern @ Indiana (DAZN 1); 00:30 MLTT - Week 2: Bay Area Blasters vs. Chicago Wind (DAZN 3)</desc>
+    <category lang="en">Padel</category>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926041500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">National Women's League - New Zealand: Waterside Karori AFC vs. Fencibles United AFC</title>
+    <desc lang="en">Watch Soccer action as Waterside Karori takes on Fencibles United
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 23:00 Howard @ Rutgers (DAZN 4); 00:00 Northwestern @ Indiana (DAZN 1); 00:30 MLTT - Week 2: Bay Area Blasters vs. Chicago Wind (DAZN 3); 02:30 Wellington Phoenix Reserves vs. Auckland United FC (DAZN 4); 03:00 West Coast Rangers FC vs. Eastern Suburbs AFC (DAZN 5); 03:30 Ferrymead Bays FC vs. Eastern Suburbs AFC (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926130000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Korea Open: Day 6</title>
+    <sub-title lang="en">Seoul (WTA)</sub-title>
+    <desc lang="en">Watch Day 6 of the Korea Tennis Open Women Single on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 03:00 West Coast Rangers FC vs. Eastern Suburbs AFC (DAZN 5); 03:30 Ferrymead Bays FC vs. Eastern Suburbs AFC (DAZN 1); 06:30 Singapore Open: Day 6 (DAZN 1); 09:00 Pakistan vs. Thailand (DAZN 3); 10:00 FK Banga vs. FK Žalgiris (DAZN 4); 10:30 Juventus vs. Napoli (DAZN 5); 10:50 Monza - Race 1 (DAZN 6); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4)</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926151500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">UEFA Nations League: Slovenia vs. Scotland</title>
+    <desc lang="en">Watch Soccer action as Scotland takes on Slovenia
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Singapore Open: Day 6 (DAZN 1); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926174500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Ligue 1 - Burkina Faso: FocuSport FC vs. AS Sonabel</title>
+    <desc lang="en">Watch Soccer action as SONABEL takes on Focusport FC
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond; 14:00 Dorking vs. Braintree; 14:00 Bochum vs. Werder Bremen; 14:00 Oxford City vs. Morecambe; 14:00 Hednesford vs. Radcliffe; 14:00 Billericay vs. Torquay; 14:40 Monza - Race 1 (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926210000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Queensberry Promotions: Davies vs. Collins</title>
+    <desc lang="en">Queensberry Promotions presents a high-octane evening of boxing in Birmingham, with featherweight contenders Liam Davies (18-1) and Nathaniel Collins (17-1-1) locking horns in a fantastic main event showdown.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 15:30 U15 Baseball World Cup 2026 - Day 2; 16:00 Bulgaria vs. Luxembourg; 16:00 Faroe Islands vs. Kazakhstan; 16:00 Iceland vs. Estonia; 16:00 San Marino vs. Finland; 16:00 Uskov vs. Naeemi; 16:00 Bilbao vs. Manresa; 16:00 Latvia U21 vs. Germany U21; 16:00 Illinois @ Ohio State; 16:00 OKTAGON 94: Eckerlin vs. Kozma; 16:30 Oldham vs. Salford (DAZN 1); 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 Albania vs. Belarus (DAZN 5); 18:45 England vs. Spain (DAZN 6); 18:45 Czechia vs. Croatia (DAZN 9)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260927003000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">NCAA Football: Nebraska @ Michigan State</title>
+    <desc lang="en">Watch American Football action as Michigan State takes on Nebraska
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 Notre Dame @ Purdue (DAZN 4); 19:00 Barcelona vs. Coruña (DAZN 11); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8); 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260927003000 +0000" stop="20260927033000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Major League Table Tennis : MLTT - Week 2: New York vs. Chicago</title>
+    <desc lang="en">Watch all the action live on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3); 02:00 Birkenhead United AFC vs. Cashmere Technical FC (DAZN 4); 02:30 Air Force @ Nevada (DAZN 1); 03:00 Minnesota @ Washington (DAZN 5)</desc>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20260927070000 +0000" stop="20260927091500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">FIFA ASEAN Cup: Hong Kong vs. Laos</title>
+    <desc lang="en">Watch Soccer action as Laos takes on Hong Kong, China
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 07:40 Monza - Race 3 (DAZN 3); 08:00 Inoue vs. Nasukawa 2 (DAZN 4); 09:00 Singapore Open: Day 7 (DAZN 5)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927093500 +0000" stop="20260927110500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Monza - Race 2</title>
+    <sub-title lang="en">TCR Europe</sub-title>
+    <desc lang="en">Watch the TCR Europe on DAZN, as the latest event heads to Monza for an action-packed weekend of racing.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 08:00 Inoue vs. Nasukawa 2 (DAZN 4); 09:00 Singapore Open: Day 7 (DAZN 5); 10:00 Breogán vs. Joventut (DAZN 3); 10:00 Kauno Rajono FA vs. MFA Žalgiris (DAZN 6); 10:00 Cambodia vs. Myanmar (DAZN 7); 10:13 Monza Race (DAZN 8); 10:30 CB San Pablo Burgos vs. Baskonia (DAZN 9); 11:00 Tenerife vs. Zaragoza (DAZN 4)</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20260927113000 +0000" stop="20260927133000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Red Bull Cliff Diving Italy</title>
+    <sub-title lang="en">Red Bull TV</sub-title>
+    <desc lang="en">Watch the latest action from Red Bull TV.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 10:00 Breogán vs. Joventut (DAZN 3); 10:00 Kauno Rajono FA vs. MFA Žalgiris (DAZN 6); 10:00 Cambodia vs. Myanmar (DAZN 7); 10:13 Monza Race (DAZN 8); 10:30 CB San Pablo Burgos vs. Baskonia (DAZN 9); 11:00 Tenerife vs. Zaragoza (DAZN 4); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9)</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20260927133000 +0000" stop="20260927173000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">PPL Playa Del Carmen - Day 4</title>
+    <sub-title lang="en">Pro Padel League</sub-title>
+    <desc lang="en">Watch Pro Padel League on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 Monza Race 2 (DAZN 12); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6)</desc>
+    <category lang="en">Padel</category>
+  </programme>
+  <programme start="20260927184500 +0000" stop="20260927210000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">UEFA Nations League: Germany vs. Greece</title>
+    <desc lang="en">Watch Soccer action as Germany takes on Greece
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters; 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE; 17:00 LAC @ BUF, NE @ JAX, SEA @ WAS, NYJ @ DET; 17:00 SEA @ WAS, KC @ MIA, CAR @ CLE, RedZone; 17:00 NYJ @ DET, KC @ MIA, TEN @ NYG, RedZone</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923100000 +0000" stop="20260923123000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier: South Africa U20 vs. Eswatini U20</title>
+    <desc lang="en">Watch Soccer action as South Africa U20 takes on Eswatini U20
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 10:00 Lesotho U20 vs. Angola U20 (DAZN 2); 12:00 Good Morning Football (DAZN 4)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923130000 +0000" stop="20260923153000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">TotalEnergies CAF U20 Africa Cup of Nations | COSAFA Qualifier: Zambia U20 vs. Botswana U20</title>
+    <desc lang="en">Watch Soccer action as Zambia U20 takes on Botswana U20
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 12:00 Good Morning Football (DAZN 4); 13:00 Malawi U20 vs. Comoros U20 (DAZN 2); 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Bataeh vs. Palm City (DAZN 7); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923160000 +0000" stop="20260923175829 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">International Friendlies: Azerbaijan vs. Tajikistan</title>
+    <desc lang="en">Watch Soccer action as Tajikistan takes on Azerbaijan
+
+Istodobno na DAZN-u (UTC): 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Bataeh vs. Palm City (DAZN 7); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8); 15:30 FK Gintra vs. MFA Žalgiris (DAZN 1); 16:00 Gibraltar vs. Sao Tome and Principe (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260924090000 +0000" stop="20260924113000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">FIFA ASEAN Cup: Laos vs. Brunei Darussalam</title>
+    <desc lang="en">Watch Soccer action as Brunei takes on Laos
+
+Istodobno na DAZN-u (UTC): 03:00 Korea Open: Day 4 (DAZN 1); 05:00 Singapore Open: Day 4 (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260924120000 +0000" stop="20260924141500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">FIFA ASEAN Cup: Myanmar vs. Timor-Leste</title>
+    <desc lang="en">Watch Soccer action as Myanmar takes on Timor-Leste
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 4 (DAZN 2); 12:00 Davies vs. Collins: Press Conference (DAZN 1); 14:00 BKFC 94: Till vs. Romero - Press Conference (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260924184500 +0000" stop="20260924210000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">UEFA Nations League: Netherlands vs. Germany</title>
+    <desc lang="en">Watch Soccer action as Netherlands takes on Germany
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:45 Austria vs. Israel (DAZN 1); 18:45 Norway vs. Denmark (DAZN 2); 18:45 Kosovo vs. Republic of Ireland (DAZN 4); 18:45 Portugal vs. Wales (DAZN 5); 18:45 Liechtenstein vs. Lithuania (DAZN 6); 18:45 Serbia vs. Greece (DAZN 7)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925001500 +0000" stop="20260925034500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">NFL Game Pass: Falcons @ Packers</title>
+    <desc lang="en">The Atlanta Falcons travels to face The Green Bay Packers in NFL 26/27 action. Both sides bring playoff hopes into this matchup. Can the visitors find success on the road, or will the home side protect their turf? This clash promises drama from start to finish. Tune in for every thrilling moment!
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 22:00 PPL Playa Del Carmen - Day 1 (DAZN 1); 22:30 College Swimming League - Match 1 (DAZN 2); 00:15 Falcons @ Packers (In French) (DAZN 4); 03:00 Korea Open: Day 5 (DAZN 1)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260925090000 +0000" stop="20260925111500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">FIFA ASEAN Cup: Bangladesh vs. Malaysia</title>
+    <desc lang="en">Watch Soccer action as Bangladesh takes on Malaysia
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 03:00 Korea Open: Day 5 (DAZN 1); 05:00 Singapore Open: Day 5 (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925132000 +0000" stop="20260925172000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">TAIF Racing Season 2026 - Week 10, Day 1</title>
+    <desc lang="en">Catch every moment of an action-packed TAIF Racing weekend, on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:00 Indonesia vs. Singapore (DAZN 1); 13:00 TMA FC vs. Stand United FC (DAZN 2); 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 15:15 Vienna - GCL Round 1 (DAZN 1); 15:30 U15 Baseball World Cup 2026 - Day 1 (DAZN 2); 15:30 Germany U20 vs. France U20 (DAZN 5); 16:00 Armenia vs. Latvia (DAZN 6); 16:00 Georgia vs. Northern Ireland (DAZN 7); 17:00 BKFC 94: Till vs. Romero - Weigh-In (DAZN 8)</desc>
+    <category lang="en">Horse Racing</category>
+  </programme>
+  <programme start="20260925184500 +0000" stop="20260925210000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">UEFA Nations League: Sweden vs. Bosnia</title>
+    <desc lang="en">Watch Soccer action as Romania takes on Sweden
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 18:10 Vienna - GCL Round 2 (DAZN 1); 18:30 Newcastle Eagles vs. Bristol Flyers (DAZN 2); 18:45 Türkiye vs. France (DAZN 5); 18:45 Poland vs. Bosnia-Herzegovina (DAZN 6); 18:45 Hungary vs. Ukraine (DAZN 7); 18:45 Italy vs. Belgium (DAZN 8); 18:45 Montenegro vs. Cyprus (DAZN 9)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925223000 +0000" stop="20260926003000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">College Swimming League - Match 2</title>
+    <desc lang="en">Teams from the universities of North Carolina State, Virginia, Georgia and Alabama take to the pool for the first time in the inaugural College Swimming League, competing in high-octane matches in Westmont, Illinois.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 MLTT - Week 2: Portland Paddlers vs. New York Slice (DAZN 1); 22:00 PPL Playa Del Carmen - Day 2 - Session 2 (DAZN 2); 23:00 Howard @ Rutgers (DAZN 4); 00:00 Northwestern @ Indiana (DAZN 1)</desc>
+    <category lang="en">Swimming</category>
+  </programme>
+  <programme start="20260926003000 +0000" stop="20260926033000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Major League Table Tennis : MLTT - Week 2: Bay Area Blasters vs. Chicago Wind</title>
+    <desc lang="en">MLTT - Week 2 - Day 1 - Session 2
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 22:00 PPL Playa Del Carmen - Day 2 - Session 2 (DAZN 2); 23:00 Howard @ Rutgers (DAZN 4); 00:00 Northwestern @ Indiana (DAZN 1); 02:00 Waterside Karori AFC vs. Fencibles United AFC (DAZN 2); 02:30 Wellington Phoenix Reserves vs. Auckland United FC (DAZN 4); 03:00 West Coast Rangers FC vs. Eastern Suburbs AFC (DAZN 5)</desc>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926111500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">FIFA ASEAN Cup: Pakistan vs. Thailand</title>
+    <desc lang="en">Watch Soccer action as Pakistan takes on Thailand
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Korea Open: Day 6 (DAZN 2); 06:30 Singapore Open: Day 6 (DAZN 1); 10:00 FK Banga vs. FK Žalgiris (DAZN 4); 10:30 Juventus vs. Napoli (DAZN 5); 10:50 Monza - Race 1 (DAZN 6); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926121000 +0000" stop="20260926151000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">RWS Muay Thai: RWS: Maria Ruumet vs. Desiree Wodicker</title>
+    <desc lang="en">The Rajadamnern Stadium plays host to the latest RWS event.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Korea Open: Day 6 (DAZN 2); 06:30 Singapore Open: Day 6 (DAZN 1); 10:00 FK Banga vs. FK Žalgiris (DAZN 4); 10:30 Juventus vs. Napoli (DAZN 5); 10:50 Monza - Race 1 (DAZN 6); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh</desc>
+    <category lang="en">MMA</category>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926174500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Ligue 1 - Burkina Faso: US Comoé vs. Majestic FC</title>
+    <desc lang="en">Watch Soccer action as Majestic takes on USCO
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond; 14:00 Dorking vs. Braintree; 14:00 Bochum vs. Werder Bremen; 14:00 Oxford City vs. Morecambe; 14:00 Hednesford vs. Radcliffe; 14:00 Billericay vs. Torquay; 14:40 Monza - Race 1 (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926210000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">BKFC 94 Manchester: BKFC 94: Till vs. Romero - Prelims</title>
+    <desc lang="en">Watch the early fights on the BKFC 94 card at the AO Arena in Manchester, England.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 15:30 U15 Baseball World Cup 2026 - Day 2; 16:00 Bulgaria vs. Luxembourg; 16:00 Faroe Islands vs. Kazakhstan; 16:00 Iceland vs. Estonia; 16:00 San Marino vs. Finland; 16:00 Uskov vs. Naeemi; 16:00 Bilbao vs. Manresa; 16:00 Latvia U21 vs. Germany U21; 16:00 Illinois @ Ohio State; 16:00 OKTAGON 94: Eckerlin vs. Kozma; 16:30 Oldham vs. Salford (DAZN 1); 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 Davies vs. Collins (DAZN 2); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 Albania vs. Belarus (DAZN 5); 18:45 England vs. Spain (DAZN 6); 18:45 Czechia vs. Croatia (DAZN 9)</desc>
+    <category lang="en">BKFC</category>
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260927003000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">NCAA Football: Wisconsin @ Penn State</title>
+    <desc lang="en">Watch American Football action as Wisconsin takes on Penn State
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 Notre Dame @ Purdue (DAZN 4); 19:00 Barcelona vs. Coruña (DAZN 11); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8); 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260927010000 +0000" stop="20260927031500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">National League - New Zealand: Auckland FC Reserves vs. Wellington Olympic AFC</title>
+    <desc lang="en">Watch Soccer action as Wellington Olympic takes on Auckland II
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 02:00 Birkenhead United AFC vs. Cashmere Technical FC (DAZN 4); 02:30 Air Force @ Nevada (DAZN 1); 03:00 Minnesota @ Washington (DAZN 5)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927074000 +0000" stop="20260927091000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Monza - Race 3</title>
+    <sub-title lang="en">Euroformula Open</sub-title>
+    <desc lang="en">Watch the Euroformula Open on DAZN, as the latest event heads to Monza for an action-packed weekend of racing.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 07:00 Hong Kong vs. Laos (DAZN 2); 08:00 Inoue vs. Nasukawa 2 (DAZN 4); 09:00 Singapore Open: Day 7 (DAZN 5)</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20260927100000 +0000" stop="20260927121500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Liga Endesa: Breogán vs. Joventut</title>
+    <desc lang="en">Watch Basketball action as Joventut takes on Breogán
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 08:00 Inoue vs. Nasukawa 2 (DAZN 4); 09:00 Singapore Open: Day 7 (DAZN 5); 09:35 Monza - Race 2 (DAZN 2); 10:00 Kauno Rajono FA vs. MFA Žalgiris (DAZN 6); 10:00 Cambodia vs. Myanmar (DAZN 7); 10:13 Monza Race (DAZN 8); 10:30 CB San Pablo Burgos vs. Baskonia (DAZN 9); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927151500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">UEFA Nations League: Lithuania vs. Azerbaijan</title>
+    <desc lang="en">Watch Soccer action as Lithuania takes on Azerbaijan
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 Monza Race 2 (DAZN 12); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927153000 +0000" stop="20260927183000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">U15 Baseball World Cup 2026 - Day 3</title>
+    <desc lang="en">Watch the U15 Baseball World Cup from Cancún, Mexico.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 09:00 Singapore Open: Day 7 (DAZN 5); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida</desc>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20260927184500 +0000" stop="20260927210000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">UEFA Nations League: Norway vs. Portugal</title>
+    <desc lang="en">Watch Soccer action as Norway takes on Portugal
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters; 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE; 17:00 LAC @ BUF, NE @ JAX, SEA @ WAS, NYJ @ DET; 17:00 SEA @ WAS, KC @ MIA, CAR @ CLE, RedZone; 17:00 NYJ @ DET, KC @ MIA, TEN @ NYG, RedZone</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923120000 +0000" stop="20260923141500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Good Morning Football</title>
+    <sub-title lang="en">NFL Game Pass</sub-title>
+    <desc lang="en">Join us on Good Morning Football, where we bring you all of the news and opinion surrounding the NFL.
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 10:00 Lesotho U20 vs. Angola U20 (DAZN 2); 10:00 South Africa U20 vs. Eswatini U20 (DAZN 3); 13:00 Malawi U20 vs. Comoros U20 (DAZN 2); 13:00 Zambia U20 vs. Botswana U20 (DAZN 3); 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260923144000 +0000" stop="20260923171000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Presidents Cup - United Arab Emirates: Al Arabi vs. Emirates Club</title>
+    <desc lang="en">Watch Soccer action as Emirates takes on Al Arabi
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 13:00 Malawi U20 vs. Comoros U20 (DAZN 2); 13:00 Zambia U20 vs. Botswana U20 (DAZN 3); 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Bataeh vs. Palm City (DAZN 7); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8); 15:30 FK Gintra vs. MFA Žalgiris (DAZN 1); 16:00 Gibraltar vs. Sao Tome and Principe (DAZN 2); 16:00 Azerbaijan vs. Tajikistan (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260924184500 +0000" stop="20260924210000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">UEFA Nations League: Kosovo vs. Republic of Ireland</title>
+    <desc lang="en">Watch Soccer action as Kosovo takes on Republic of Ireland
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:45 Austria vs. Israel (DAZN 1); 18:45 Norway vs. Denmark (DAZN 2); 18:45 Netherlands vs. Germany (DAZN 3); 18:45 Portugal vs. Wales (DAZN 5); 18:45 Liechtenstein vs. Lithuania (DAZN 6); 18:45 Serbia vs. Greece (DAZN 7)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925001500 +0000" stop="20260925034500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">NFL Game Pass: Falcons @ Packers (In French)</title>
+    <desc lang="en">The Atlanta Falcons travels to face The Green Bay Packers in NFL 26/27 action. Both sides bring playoff hopes into this matchup. Can the visitors find success on the road, or will the home side protect their turf? This clash promises drama from start to finish. Tune in for every thrilling moment!
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 22:00 PPL Playa Del Carmen - Day 1 (DAZN 1); 22:30 College Swimming League - Match 1 (DAZN 2); 00:15 Falcons @ Packers (DAZN 3); 03:00 Korea Open: Day 5 (DAZN 1)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260925150000 +0000" stop="20260925190000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">PPL Playa Del Carmen - Day 2</title>
+    <sub-title lang="en">Pro Padel League</sub-title>
+    <desc lang="en">Watch Pro Padel League on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:00 Indonesia vs. Singapore (DAZN 1); 13:00 TMA FC vs. Stand United FC (DAZN 2); 13:20 TAIF Racing Season 2026 - Week 10, Day 1 (DAZN 3); 15:15 Vienna - GCL Round 1 (DAZN 1); 15:30 U15 Baseball World Cup 2026 - Day 1 (DAZN 2); 15:30 Germany U20 vs. France U20 (DAZN 5); 16:00 Armenia vs. Latvia (DAZN 6); 16:00 Georgia vs. Northern Ireland (DAZN 7); 17:00 BKFC 94: Till vs. Romero - Weigh-In (DAZN 8); 18:10 Vienna - GCL Round 2 (DAZN 1); 18:30 Newcastle Eagles vs. Bristol Flyers (DAZN 2); 18:45 Sweden vs. Bosnia (DAZN 3); 18:45 Türkiye vs. France (DAZN 5); 18:45 Poland vs. Bosnia-Herzegovina (DAZN 6); 18:45 Hungary vs. Ukraine (DAZN 7); 18:45 Italy vs. Belgium (DAZN 8); 18:45 Montenegro vs. Cyprus (DAZN 9)</desc>
+    <category lang="en">Padel</category>
+  </programme>
+  <programme start="20260925230000 +0000" stop="20260926023000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">NCAA Football: Howard @ Rutgers</title>
+    <desc lang="en">Watch American Football action as Howard takes on Rutgers
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 MLTT - Week 2: Portland Paddlers vs. New York Slice (DAZN 1); 22:00 PPL Playa Del Carmen - Day 2 - Session 2 (DAZN 2); 22:30 College Swimming League - Match 2 (DAZN 3); 00:00 Northwestern @ Indiana (DAZN 1); 00:30 MLTT - Week 2: Bay Area Blasters vs. Chicago Wind (DAZN 3); 02:00 Waterside Karori AFC vs. Fencibles United AFC (DAZN 2)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260926023000 +0000" stop="20260926044500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">National League - New Zealand: Wellington Phoenix Reserves vs. Auckland United FC</title>
+    <desc lang="en">Watch Soccer action as Auckland United takes on Wellington Phoenix Res
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 00:00 Northwestern @ Indiana (DAZN 1); 00:30 MLTT - Week 2: Bay Area Blasters vs. Chicago Wind (DAZN 3); 02:00 Waterside Karori AFC vs. Fencibles United AFC (DAZN 2); 03:00 West Coast Rangers FC vs. Eastern Suburbs AFC (DAZN 5); 03:30 Ferrymead Bays FC vs. Eastern Suburbs AFC (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926121500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">A Lyga Women - Lithuania: FK Banga vs. FK Žalgiris</title>
+    <desc lang="en">Watch Soccer action as Banga takes on Žalgiris
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Korea Open: Day 6 (DAZN 2); 06:30 Singapore Open: Day 6 (DAZN 1); 09:00 Pakistan vs. Thailand (DAZN 3); 10:30 Juventus vs. Napoli (DAZN 5); 10:50 Monza - Race 1 (DAZN 6); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926123000 +0000" stop="20260926144500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">FIFA ASEAN Cup: Vietnam vs. Philippines</title>
+    <desc lang="en">Watch Soccer action as Vietnam takes on Philippines
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Korea Open: Day 6 (DAZN 2); 06:30 Singapore Open: Day 6 (DAZN 1); 10:30 Juventus vs. Napoli (DAZN 5); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926145500 +0000" stop="20260926175500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Queensberry Promotions: Davies vs. Collins: Prelims</title>
+    <desc lang="en">A fantastic preliminary card begins live on DAZN, as Queensberry Promotions brings a fantastic night of boxing to Birmingham's BP Pulse Live.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond; 14:00 Dorking vs. Braintree; 14:00 Bochum vs. Werder Bremen</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926213000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">NCAA Football: Notre Dame @ Purdue</title>
+    <desc lang="en">Watch American Football action as Notre Dame takes on Purdue
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 15:30 U15 Baseball World Cup 2026 - Day 2; 16:00 Bulgaria vs. Luxembourg; 16:00 Faroe Islands vs. Kazakhstan; 16:00 Iceland vs. Estonia; 16:00 San Marino vs. Finland; 16:00 Uskov vs. Naeemi; 16:00 Bilbao vs. Manresa; 16:00 Latvia U21 vs. Germany U21; 16:00 Illinois @ Ohio State; 16:00 OKTAGON 94: Eckerlin vs. Kozma; 16:30 Oldham vs. Salford (DAZN 1); 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 Davies vs. Collins (DAZN 2); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 Albania vs. Belarus (DAZN 5); 18:45 England vs. Spain (DAZN 6); 18:45 Czechia vs. Croatia (DAZN 9)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260926220000 +0000" stop="20260927010000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Misfits Boxing: Cejudo vs. Walton</title>
+    <desc lang="en">Former two-time UFC champion Henry Cejudo makes his boxing debut under the Misfits lights in Miami, taking on Javon 'Wanna' Walton (3-0-1) live on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8); 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20260927020000 +0000" stop="20260927041500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">National League - New Zealand: Birkenhead United AFC vs. Cashmere Technical FC</title>
+    <desc lang="en">Watch Soccer action as Cashmere Technical takes on Birkenhead United
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 23:30 Oregon @ USC (DAZN 8); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3); 02:30 Air Force @ Nevada (DAZN 1); 03:00 Minnesota @ Washington (DAZN 5)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927080000 +0000" stop="20260927110000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Teiken: Inoue vs. Nasukawa 2</title>
+    <desc lang="en">Tokyo plays host to a scintillating rematch at bantamweight, as WBC champion Takuma Inoue (22-2) runs it back with Tenshin Nasukawa (8-1) in a must-watch all-Japanese showdown.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 07:00 Hong Kong vs. Laos (DAZN 2); 07:40 Monza - Race 3 (DAZN 3); 09:00 Singapore Open: Day 7 (DAZN 5); 09:35 Monza - Race 2 (DAZN 2); 10:00 Breogán vs. Joventut (DAZN 3); 10:00 Kauno Rajono FA vs. MFA Žalgiris (DAZN 6); 10:00 Cambodia vs. Myanmar (DAZN 7); 10:13 Monza Race (DAZN 8); 10:30 CB San Pablo Burgos vs. Baskonia (DAZN 9)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20260927110000 +0000" stop="20260927131500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Liga Endesa: Tenerife vs. Zaragoza</title>
+    <desc lang="en">Watch Basketball action as Tenerife takes on Zaragoza
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 09:35 Monza - Race 2 (DAZN 2); 10:00 Breogán vs. Joventut (DAZN 3); 10:00 Kauno Rajono FA vs. MFA Žalgiris (DAZN 6); 10:00 Cambodia vs. Myanmar (DAZN 7); 10:13 Monza Race (DAZN 8); 10:30 CB San Pablo Burgos vs. Baskonia (DAZN 9); 11:30 Red Bull Cliff Diving Italy (DAZN 2); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260927133000 +0000" stop="20260927154500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Superliga e Femrave - Kosovo: KFF Dukagjini vs. KFF Mitrovica</title>
+    <desc lang="en">Watch Soccer action as Mitrovica takes on Dukagjini
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 Monza Race 2 (DAZN 12); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927160000 +0000" stop="20260927181500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">UEFA Nations League: Denmark vs. Wales</title>
+    <desc lang="en">Watch Soccer action as Denmark takes on Wales
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 09:00 Singapore Open: Day 7 (DAZN 5); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida; 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927184500 +0000" stop="20260927210000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">UEFA Nations League: Israel vs. Republic of Ireland</title>
+    <desc lang="en">Watch Soccer action as Israel takes on Republic of Ireland
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters; 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE; 17:00 LAC @ BUF, NE @ JAX, SEA @ WAS, NYJ @ DET; 17:00 SEA @ WAS, KC @ MIA, CAR @ CLE, RedZone; 17:00 NYJ @ DET, KC @ MIA, TEN @ NYG, RedZone</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923140000 +0000" stop="20260923163000 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Ligue de Bangui - Central African Republic: AS Douanes vs. Tempête Mocaf</title>
+    <desc lang="en">Watch Soccer action as AS Tempete Mocaf takes on AS Douanes
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 12:00 Good Morning Football (DAZN 4); 13:00 Malawi U20 vs. Comoros U20 (DAZN 2); 13:00 Zambia U20 vs. Botswana U20 (DAZN 3); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Bataeh vs. Palm City (DAZN 7); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8); 15:30 FK Gintra vs. MFA Žalgiris (DAZN 1); 16:00 Gibraltar vs. Sao Tome and Principe (DAZN 2); 16:00 Azerbaijan vs. Tajikistan (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260924184500 +0000" stop="20260924210000 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">UEFA Nations League: Portugal vs. Wales</title>
+    <desc lang="en">Watch Soccer action as Portugal takes on Wales
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:45 Austria vs. Israel (DAZN 1); 18:45 Norway vs. Denmark (DAZN 2); 18:45 Netherlands vs. Germany (DAZN 3); 18:45 Kosovo vs. Republic of Ireland (DAZN 4); 18:45 Liechtenstein vs. Lithuania (DAZN 6); 18:45 Serbia vs. Greece (DAZN 7)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925153000 +0000" stop="20260925174500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">U20 National Team Friendlies: Germany U20 vs. France U20</title>
+    <desc lang="en">Watch Soccer action as Germany U20 takes on France U20
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:20 TAIF Racing Season 2026 - Week 10, Day 1 (DAZN 3); 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 15:15 Vienna - GCL Round 1 (DAZN 1); 15:30 U15 Baseball World Cup 2026 - Day 1 (DAZN 2); 16:00 Armenia vs. Latvia (DAZN 6); 16:00 Georgia vs. Northern Ireland (DAZN 7); 17:00 BKFC 94: Till vs. Romero - Weigh-In (DAZN 8)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925184500 +0000" stop="20260925210000 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">UEFA Nations League: Türkiye vs. France</title>
+    <desc lang="en">Watch Soccer action as Türkiye takes on France
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 18:10 Vienna - GCL Round 2 (DAZN 1); 18:30 Newcastle Eagles vs. Bristol Flyers (DAZN 2); 18:45 Sweden vs. Bosnia (DAZN 3); 18:45 Poland vs. Bosnia-Herzegovina (DAZN 6); 18:45 Hungary vs. Ukraine (DAZN 7); 18:45 Italy vs. Belgium (DAZN 8); 18:45 Montenegro vs. Cyprus (DAZN 9)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926051500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">National Women's League - New Zealand: West Coast Rangers FC vs. Eastern Suburbs AFC</title>
+    <desc lang="en">Watch Soccer action as Eastern Suburbs takes on West Coast Rangers
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 00:00 Northwestern @ Indiana (DAZN 1); 00:30 MLTT - Week 2: Bay Area Blasters vs. Chicago Wind (DAZN 3); 02:00 Waterside Karori AFC vs. Fencibles United AFC (DAZN 2); 02:30 Wellington Phoenix Reserves vs. Auckland United FC (DAZN 4); 03:30 Ferrymead Bays FC vs. Eastern Suburbs AFC (DAZN 1); 05:00 Korea Open: Day 6 (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926103000 +0000" stop="20260926124500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Serie A Women: Juventus vs. Napoli</title>
+    <desc lang="en">Watch Soccer action as Napoli takes on Juventus
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Korea Open: Day 6 (DAZN 2); 06:30 Singapore Open: Day 6 (DAZN 1); 09:00 Pakistan vs. Thailand (DAZN 3); 10:00 FK Banga vs. FK Žalgiris (DAZN 4); 10:50 Monza - Race 1 (DAZN 6); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926151500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Superliga e Femrave - Kosovo: KFV Prishtina vs. KFF Malisheva</title>
+    <desc lang="en">Watch Soccer action as KFV Prishtina takes on Malisheva
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Singapore Open: Day 6 (DAZN 1); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926174500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Niger Super Ligue 1 - Niger: Sahel SC vs. Tagour PC</title>
+    <desc lang="en">Watch Soccer action as Sahel takes on Tagour Provincial Club
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond; 14:00 Dorking vs. Braintree; 14:00 Bochum vs. Werder Bremen; 14:00 Oxford City vs. Morecambe; 14:00 Hednesford vs. Radcliffe; 14:00 Billericay vs. Torquay; 14:40 Monza - Race 1 (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926184500 +0000" stop="20260926210000 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">UEFA Nations League: Albania vs. Belarus</title>
+    <desc lang="en">Watch Soccer action as Albania takes on Belarus
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 16:00 Uskov vs. Naeemi; 16:00 Illinois @ Ohio State; 16:00 OKTAGON 94: Eckerlin vs. Kozma; 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 Davies vs. Collins (DAZN 2); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 England vs. Spain (DAZN 6); 18:45 Czechia vs. Croatia (DAZN 9); 18:45 North Macedonia vs. Switzerland (DAZN 10); 19:00 Barcelona vs. Coruña (DAZN 11); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926220000 +0000" stop="20260927013000 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">NCAA Football: Oklahoma State @ West Virginia</title>
+    <desc lang="en">Watch American Football action as West Virginia takes on Oklahoma State
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8); 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260927030000 +0000" stop="20260927063000 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">NCAA Football: Minnesota @ Washington</title>
+    <desc lang="en">Watch American Football action as Washington takes on Minnesota
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3); 02:00 Birkenhead United AFC vs. Cashmere Technical FC (DAZN 4); 02:30 Air Force @ Nevada (DAZN 1)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260927090000 +0000" stop="20260927170000 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Singapore Open: Day 7</title>
+    <sub-title lang="en">Singapore Tennis Open</sub-title>
+    <desc lang="en">Watch Day 7 of the Singapore Tennis Open Women Single on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 07:00 Hong Kong vs. Laos (DAZN 2); 07:40 Monza - Race 3 (DAZN 3); 08:00 Inoue vs. Nasukawa 2 (DAZN 4); 09:35 Monza - Race 2 (DAZN 2); 10:00 Breogán vs. Joventut (DAZN 3); 10:00 Kauno Rajono FA vs. MFA Žalgiris (DAZN 6); 10:00 Cambodia vs. Myanmar (DAZN 7); 10:13 Monza Race (DAZN 8); 10:30 CB San Pablo Burgos vs. Baskonia (DAZN 9); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10)</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20260927170000 +0000" stop="20260927203000 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">NFL Game Pass: Chiefs @ Dolphins</title>
+    <desc lang="en">The Kansas City Chiefs journeys to face The Miami Dolphins in NFL 26/27 action. Can the hosts contain their opponents' powerful offense, or will the visitors' playmaking ability prove too much to handle? This matchup promises explosive plays and strategic battles that will keep fans on the edge of their seats throughout!
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida; 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters; 16:30 Malta vs. Liechtenstein (DAZN 10); 16:30 Cheshire Phoenix vs. Leicester Riders (DAZN 11); 17:00 Chargers @ Bills (DAZN 13)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260923144000 +0000" stop="20260923171000 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Presidents Cup - United Arab Emirates: Gulf United vs. Fujairah</title>
+    <desc lang="en">Watch Soccer action as Fujairah takes on Gulf United
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 13:00 Malawi U20 vs. Comoros U20 (DAZN 2); 13:00 Zambia U20 vs. Botswana U20 (DAZN 3); 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Al Bataeh vs. Palm City (DAZN 7); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8); 15:30 FK Gintra vs. MFA Žalgiris (DAZN 1); 16:00 Gibraltar vs. Sao Tome and Principe (DAZN 2); 16:00 Azerbaijan vs. Tajikistan (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260924184500 +0000" stop="20260924210000 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">UEFA Nations League: Liechtenstein vs. Lithuania</title>
+    <desc lang="en">Watch Soccer action as Lithuania takes on Liechtenstein
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:45 Austria vs. Israel (DAZN 1); 18:45 Norway vs. Denmark (DAZN 2); 18:45 Netherlands vs. Germany (DAZN 3); 18:45 Kosovo vs. Republic of Ireland (DAZN 4); 18:45 Portugal vs. Wales (DAZN 5); 18:45 Serbia vs. Greece (DAZN 7)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925160000 +0000" stop="20260925181500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">UEFA Nations League: Armenia vs. Latvia</title>
+    <desc lang="en">Watch Soccer action as Latvia takes on Armenia
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:20 TAIF Racing Season 2026 - Week 10, Day 1 (DAZN 3); 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 15:15 Vienna - GCL Round 1 (DAZN 1); 15:30 U15 Baseball World Cup 2026 - Day 1 (DAZN 2); 15:30 Germany U20 vs. France U20 (DAZN 5); 16:00 Georgia vs. Northern Ireland (DAZN 7); 17:00 BKFC 94: Till vs. Romero - Weigh-In (DAZN 8); 18:10 Vienna - GCL Round 2 (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925184500 +0000" stop="20260925210000 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">UEFA Nations League: Poland vs. Bosnia-Herzegovina</title>
+    <desc lang="en">Watch Soccer action as Bosnia-Herzegovina takes on Poland
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 18:10 Vienna - GCL Round 2 (DAZN 1); 18:30 Newcastle Eagles vs. Bristol Flyers (DAZN 2); 18:45 Sweden vs. Bosnia (DAZN 3); 18:45 Türkiye vs. France (DAZN 5); 18:45 Hungary vs. Ukraine (DAZN 7); 18:45 Italy vs. Belgium (DAZN 8); 18:45 Montenegro vs. Cyprus (DAZN 9)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926105000 +0000" stop="20260926122000 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Monza - Race 1</title>
+    <sub-title lang="en">Euroformula Open</sub-title>
+    <desc lang="en">Watch the Euroformula Open on DAZN, as the latest event heads to Monza for an action-packed weekend of racing.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Korea Open: Day 6 (DAZN 2); 06:30 Singapore Open: Day 6 (DAZN 1); 09:00 Pakistan vs. Thailand (DAZN 3); 10:00 FK Banga vs. FK Žalgiris (DAZN 4); 10:30 Juventus vs. Napoli (DAZN 5); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3)</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926151500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">ZPL Men's National League - Zambia: River Plate Zambia vs. Aguila Stars</title>
+    <desc lang="en">Watch Soccer action as River Plate Zambia takes on Aguila Stars
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Singapore Open: Day 6 (DAZN 1); 11:00 FA Šiauliai vs. FK Gintra (DAZN 7); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926174500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Ligue 1 - Burkina Faso: CFFEB vs. Rahimo FC</title>
+    <desc lang="en">Watch Soccer action as CFFEB takes on Rahimo
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond; 14:00 Dorking vs. Braintree; 14:00 Bochum vs. Werder Bremen; 14:00 Oxford City vs. Morecambe; 14:00 Hednesford vs. Radcliffe; 14:00 Billericay vs. Torquay; 14:40 Monza - Race 1 (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926184500 +0000" stop="20260926210000 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">UEFA Nations League: England vs. Spain</title>
+    <desc lang="en">Watch Soccer action as England takes on Spain
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 16:00 Uskov vs. Naeemi; 16:00 Illinois @ Ohio State; 16:00 OKTAGON 94: Eckerlin vs. Kozma; 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 Davies vs. Collins (DAZN 2); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 Albania vs. Belarus (DAZN 5); 18:45 Czechia vs. Croatia (DAZN 9); 18:45 North Macedonia vs. Switzerland (DAZN 10); 19:00 Barcelona vs. Coruña (DAZN 11); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926220000 +0000" stop="20260927020000 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">PPL Playa Del Carmen - Day 3 - Session 2</title>
+    <sub-title lang="en">Pro Padel League</sub-title>
+    <desc lang="en">Watch Pro Padel League on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8); 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3)</desc>
+    <category lang="en">Padel</category>
+  </programme>
+  <programme start="20260927100000 +0000" stop="20260927121500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">A Lyga Women - Lithuania: Kauno Rajono FA vs. MFA Žalgiris</title>
+    <desc lang="en">Watch Soccer action as MFA Žalgiris takes on Kauno rajono FA
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 08:00 Inoue vs. Nasukawa 2 (DAZN 4); 09:00 Singapore Open: Day 7 (DAZN 5); 09:35 Monza - Race 2 (DAZN 2); 10:00 Breogán vs. Joventut (DAZN 3); 10:00 Cambodia vs. Myanmar (DAZN 7); 10:13 Monza Race (DAZN 8); 10:30 CB San Pablo Burgos vs. Baskonia (DAZN 9); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927151500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Serie A Women: Sassuolo vs. Roma</title>
+    <desc lang="en">Watch Soccer action as Roma takes on Sassuolo
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 Monza Race 2 (DAZN 12); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927153000 +0000" stop="20260927174500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Niger Super Ligue 1 - Niger: AS FAN vs. Liberté FC</title>
+    <desc lang="en">Watch Soccer action as AS-FAN takes on Liberté FC
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 09:00 Singapore Open: Day 7 (DAZN 5); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 ASFB vs. RCK (DAZN 7); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927193000 +0000" stop="20260927214500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Liga FUTVE 2 - Venezuela: Monagas B vs. Mineros de Guayana</title>
+    <desc lang="en">Watch Soccer action as Monagas II takes on Mineros de Guayana
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE; 17:00 LAC @ BUF, NE @ JAX, SEA @ WAS, NYJ @ DET; 17:00 SEA @ WAS, KC @ MIA, CAR @ CLE, RedZone; 17:00 NYJ @ DET, KC @ MIA, TEN @ NYG, RedZone; 17:00 LAC @ BUF, KC @ MIA, TEN @ NYG, RedZone</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260923144000 +0000" stop="20260923171000 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Presidents Cup - United Arab Emirates: Al Bataeh vs. Palm City</title>
+    <desc lang="en">Watch Soccer action as Al Bataeh takes on FC Palm City
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 13:00 Malawi U20 vs. Comoros U20 (DAZN 2); 13:00 Zambia U20 vs. Botswana U20 (DAZN 3); 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Jazira Al Hamra vs. Forte Virtus (DAZN 8); 15:30 FK Gintra vs. MFA Žalgiris (DAZN 1); 16:00 Gibraltar vs. Sao Tome and Principe (DAZN 2); 16:00 Azerbaijan vs. Tajikistan (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260924184500 +0000" stop="20260924210000 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">UEFA Nations League: Serbia vs. Greece</title>
+    <desc lang="en">Watch Soccer action as Greece takes on Serbia
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:45 Austria vs. Israel (DAZN 1); 18:45 Norway vs. Denmark (DAZN 2); 18:45 Netherlands vs. Germany (DAZN 3); 18:45 Kosovo vs. Republic of Ireland (DAZN 4); 18:45 Portugal vs. Wales (DAZN 5); 18:45 Liechtenstein vs. Lithuania (DAZN 6)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925160000 +0000" stop="20260925181500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">UEFA Nations League: Georgia vs. Northern Ireland</title>
+    <desc lang="en">Watch Soccer action as Georgia takes on Northern Ireland
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:20 TAIF Racing Season 2026 - Week 10, Day 1 (DAZN 3); 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 15:15 Vienna - GCL Round 1 (DAZN 1); 15:30 U15 Baseball World Cup 2026 - Day 1 (DAZN 2); 15:30 Germany U20 vs. France U20 (DAZN 5); 16:00 Armenia vs. Latvia (DAZN 6); 17:00 BKFC 94: Till vs. Romero - Weigh-In (DAZN 8); 18:10 Vienna - GCL Round 2 (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925184500 +0000" stop="20260925210000 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">UEFA Nations League: Hungary vs. Ukraine</title>
+    <desc lang="en">Watch Soccer action as Ukraine takes on Hungary
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 18:10 Vienna - GCL Round 2 (DAZN 1); 18:30 Newcastle Eagles vs. Bristol Flyers (DAZN 2); 18:45 Sweden vs. Bosnia (DAZN 3); 18:45 Türkiye vs. France (DAZN 5); 18:45 Poland vs. Bosnia-Herzegovina (DAZN 6); 18:45 Italy vs. Belgium (DAZN 8); 18:45 Montenegro vs. Cyprus (DAZN 9)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926131500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">A Lyga Women - Lithuania: FA Šiauliai vs. FK Gintra</title>
+    <desc lang="en">Watch Soccer action as Gintra takes on ŠSG-FA Šiauliai
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 05:00 Korea Open: Day 6 (DAZN 2); 06:30 Singapore Open: Day 6 (DAZN 1); 09:00 Pakistan vs. Thailand (DAZN 3); 10:00 FK Banga vs. FK Žalgiris (DAZN 4); 10:30 Juventus vs. Napoli (DAZN 5); 10:50 Monza - Race 1 (DAZN 6); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926132000 +0000" stop="20260926145000 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Monza Race 1</title>
+    <sub-title lang="en">GT Cup Europe</sub-title>
+    <desc lang="en">Watch the GT Cup Europe on DAZN, as the latest event heads to Monza for another action-packed weekend of racing.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Singapore Open: Day 6 (DAZN 1); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20260926150000 +0000" stop="20260926171500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Championnat National - Benin: ASVO FC vs. USS Krake FC</title>
+    <desc lang="en">Watch Soccer action as Kraké takes on ASVO
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond; 14:00 Dorking vs. Braintree; 14:00 Bochum vs. Werder Bremen</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926173000 +0000" stop="20260926210000 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">NCAA Football: UCLA @ Maryland</title>
+    <desc lang="en">Watch American Football action as UCLA takes on Maryland
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 14:55 Davies vs. Collins: Prelims (DAZN 4); 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 15:30 FocuSport FC vs. AS Sonabel (DAZN 2); 15:30 US Comoé vs. Majestic FC (DAZN 3); 15:30 Sahel SC vs. Tagour PC (DAZN 5); 15:30 CFFEB vs. Rahimo FC (DAZN 6); 15:30 AS Douanes vs. Sporting Cascades; 15:30 ASN Nigelec vs. AS Police; 15:30 U15 Baseball World Cup 2026 - Day 2; 15:30 Réal du Faso vs. AS Maya; 16:00 Bulgaria vs. Luxembourg; 16:00 Faroe Islands vs. Kazakhstan; 16:00 Iceland vs. Estonia; 16:00 San Marino vs. Finland; 16:00 Uskov vs. Naeemi; 16:00 Bilbao vs. Manresa; 16:00 Latvia U21 vs. Germany U21; 16:00 Illinois @ Ohio State; 16:00 OKTAGON 94: Eckerlin vs. Kozma; 16:30 Oldham vs. Salford (DAZN 1)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260926230000 +0000" stop="20260927020000 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">AEW: All Out - Tailgate Brawl</title>
+    <sub-title lang="en">All Elite Wrestling</sub-title>
+    <desc lang="en">The countdown in on to AEW All Out 2026. Jack Perry battles Katsuyori Shibata in a hard-hitting singles match, whilst the Death Riders feature in an eight-man Tornado Tailgate Brawl.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3)</desc>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20260927100000 +0000" stop="20260927121500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">FIFA ASEAN Cup: Cambodia vs. Myanmar</title>
+    <desc lang="en">Watch Soccer action as Cambodia takes on Myanmar
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 08:00 Inoue vs. Nasukawa 2 (DAZN 4); 09:00 Singapore Open: Day 7 (DAZN 5); 09:35 Monza - Race 2 (DAZN 2); 10:00 Breogán vs. Joventut (DAZN 3); 10:00 Kauno Rajono FA vs. MFA Žalgiris (DAZN 6); 10:13 Monza Race (DAZN 8); 10:30 CB San Pablo Burgos vs. Baskonia (DAZN 9); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927151500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Ligue A - Burundi: Ngozi City vs. Kayanza United</title>
+    <desc lang="en">Watch Soccer action as Kayanza United takes on Ngozi City
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 Monza Race 2 (DAZN 12); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927153000 +0000" stop="20260927174500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Ligue 1 - Burkina Faso: ASFB vs. RCK</title>
+    <desc lang="en">Watch Soccer action as RCK takes on ASFB
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 09:00 Singapore Open: Day 7 (DAZN 5); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927193000 +0000" stop="20260927223000 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Major League Table Tennis : MLTT - Week 2: Portland Paddlers vs. Chicago Wind</title>
+    <desc lang="en">Watch all the action live on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE; 17:00 LAC @ BUF, NE @ JAX, SEA @ WAS, NYJ @ DET; 17:00 SEA @ WAS, KC @ MIA, CAR @ CLE, RedZone; 17:00 NYJ @ DET, KC @ MIA, TEN @ NYG, RedZone; 17:00 LAC @ BUF, KC @ MIA, TEN @ NYG, RedZone</desc>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20260923144000 +0000" stop="20260923171000 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">Presidents Cup - United Arab Emirates: Al Jazira Al Hamra vs. Forte Virtus</title>
+    <desc lang="en">Watch Soccer action as Al Jazira Al Hamra takes on Forte Virtus
+
+Istodobno na DAZN-u (UTC): 05:00 Singapore Open: Day 3 (DAZN 1); 13:00 Malawi U20 vs. Comoros U20 (DAZN 2); 13:00 Zambia U20 vs. Botswana U20 (DAZN 3); 14:00 AS Douanes vs. Tempête Mocaf (DAZN 5); 14:40 Al Arabi vs. Emirates Club (DAZN 4); 14:40 Gulf United vs. Fujairah (DAZN 6); 14:40 Al Bataeh vs. Palm City (DAZN 7); 15:30 FK Gintra vs. MFA Žalgiris (DAZN 1); 16:00 Gibraltar vs. Sao Tome and Principe (DAZN 2); 16:00 Azerbaijan vs. Tajikistan (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925170000 +0000" stop="20260925180000 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">BKFC 94 Manchester: BKFC 94: Till vs. Romero - Weigh-In</title>
+    <desc lang="en">Darren Till and Yoel Romero step onto the scales ahead of headlining at BKFC 94 in Manchester, England.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:20 TAIF Racing Season 2026 - Week 10, Day 1 (DAZN 3); 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 15:15 Vienna - GCL Round 1 (DAZN 1); 15:30 U15 Baseball World Cup 2026 - Day 1 (DAZN 2); 15:30 Germany U20 vs. France U20 (DAZN 5); 16:00 Armenia vs. Latvia (DAZN 6); 16:00 Georgia vs. Northern Ireland (DAZN 7)</desc>
+    <category lang="en">BKFC</category>
+  </programme>
+  <programme start="20260925184500 +0000" stop="20260925210000 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">UEFA Nations League: Italy vs. Belgium</title>
+    <desc lang="en">Watch Soccer action as Belgium takes on Italy
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 18:10 Vienna - GCL Round 2 (DAZN 1); 18:30 Newcastle Eagles vs. Bristol Flyers (DAZN 2); 18:45 Sweden vs. Bosnia (DAZN 3); 18:45 Türkiye vs. France (DAZN 5); 18:45 Poland vs. Bosnia-Herzegovina (DAZN 6); 18:45 Hungary vs. Ukraine (DAZN 7); 18:45 Montenegro vs. Cyprus (DAZN 9)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926132500 +0000" stop="20260926172500 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">TAIF Racing Season 2026 - Week 10, Day 2</title>
+    <desc lang="en">Catch every moment of an action-packed TAIF Racing weekend, on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Singapore Open: Day 6 (DAZN 1); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond</desc>
+    <category lang="en">Horse Racing</category>
+  </programme>
+  <programme start="20260926173000 +0000" stop="20260926194500 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">Liga Endesa: Andorra vs. Obradoiro</title>
+    <desc lang="en">Watch Basketball action as Andorra takes on Obradoiro
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 14:55 Davies vs. Collins: Prelims (DAZN 4); 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 15:30 FocuSport FC vs. AS Sonabel (DAZN 2); 15:30 US Comoé vs. Majestic FC (DAZN 3); 15:30 Sahel SC vs. Tagour PC (DAZN 5); 15:30 CFFEB vs. Rahimo FC (DAZN 6); 15:30 AS Douanes vs. Sporting Cascades; 15:30 ASN Nigelec vs. AS Police; 15:30 U15 Baseball World Cup 2026 - Day 2; 15:30 Réal du Faso vs. AS Maya; 16:00 Bulgaria vs. Luxembourg; 16:00 Faroe Islands vs. Kazakhstan; 16:00 Iceland vs. Estonia; 16:00 San Marino vs. Finland; 16:00 Uskov vs. Naeemi; 16:00 Bilbao vs. Manresa; 16:00 Latvia U21 vs. Germany U21; 16:00 Illinois @ Ohio State; 16:00 OKTAGON 94: Eckerlin vs. Kozma; 16:30 Oldham vs. Salford (DAZN 1)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260926200000 +0000" stop="20260926221500 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">Liga FUTVE 2 - Venezuela: Aragua FC vs. Ávila FC</title>
+    <desc lang="en">Watch Soccer action as Ávila F.C takes on Aragua
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:30 UCLA @ Maryland (DAZN 7); 18:00 Davies vs. Collins (DAZN 2); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 Albania vs. Belarus (DAZN 5); 18:45 England vs. Spain (DAZN 6); 18:45 Czechia vs. Croatia (DAZN 9); 18:45 North Macedonia vs. Switzerland (DAZN 10); 19:00 Barcelona vs. Coruña (DAZN 11); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926233000 +0000" stop="20260927030000 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">NCAA Football: Oregon @ USC</title>
+    <desc lang="en">Watch American Football action as Oregon takes on USC
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3); 02:00 Birkenhead United AFC vs. Cashmere Technical FC (DAZN 4); 02:30 Air Force @ Nevada (DAZN 1)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260927101300 +0000" stop="20260927114300 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">Monza Race</title>
+    <sub-title lang="en">International GT Open</sub-title>
+    <desc lang="en">Watch all the latest motorsport action from the International GT Open
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 08:00 Inoue vs. Nasukawa 2 (DAZN 4); 09:00 Singapore Open: Day 7 (DAZN 5); 09:35 Monza - Race 2 (DAZN 2); 10:00 Breogán vs. Joventut (DAZN 3); 10:00 Kauno Rajono FA vs. MFA Žalgiris (DAZN 6); 10:00 Cambodia vs. Myanmar (DAZN 7); 10:30 CB San Pablo Burgos vs. Baskonia (DAZN 9); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2)</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927151500 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">DFB-Pokal Frauen: Mönchengladbach vs. Bayern Munich</title>
+    <desc lang="en">Watch Soccer action as Bayern München takes on Borussia M'gladbach
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 Monza Race 2 (DAZN 12); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927153000 +0000" stop="20260927174500 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">Ligue 1 - Burkina Faso: USFA vs. Salitas FC</title>
+    <desc lang="en">Watch Soccer action as Salitas takes on USFA
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 09:00 Singapore Open: Day 7 (DAZN 5); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927200000 +0000" stop="20260927221500 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">Liga FUTVE 2 - Venezuela: Dynamo Puerto vs. Bolívar SC</title>
+    <desc lang="en">Watch Soccer action as Bolívar takes on Dynamo Puerto
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE; 17:00 LAC @ BUF, NE @ JAX, SEA @ WAS, NYJ @ DET; 17:00 SEA @ WAS, KC @ MIA, CAR @ CLE, RedZone; 17:00 NYJ @ DET, KC @ MIA, TEN @ NYG, RedZone; 17:00 LAC @ BUF, KC @ MIA, TEN @ NYG, RedZone</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260925184500 +0000" stop="20260925210000 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">UEFA Nations League: Montenegro vs. Cyprus</title>
+    <desc lang="en">Watch Soccer action as Cyprus takes on Montenegro
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 2 (DAZN 4); 18:10 Vienna - GCL Round 2 (DAZN 1); 18:30 Newcastle Eagles vs. Bristol Flyers (DAZN 2); 18:45 Sweden vs. Bosnia (DAZN 3); 18:45 Türkiye vs. France (DAZN 5); 18:45 Poland vs. Bosnia-Herzegovina (DAZN 6); 18:45 Hungary vs. Ukraine (DAZN 7); 18:45 Italy vs. Belgium (DAZN 8)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926161500 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">Enterprise National League: Aldershot vs. Tamworth</title>
+    <desc lang="en">Watch all the action from the National League on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Singapore Open: Day 6 (DAZN 1); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926184500 +0000" stop="20260926210000 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">UEFA Nations League: Czechia vs. Croatia</title>
+    <desc lang="en">Watch Soccer action as Czechia takes on Croatia
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 16:00 Uskov vs. Naeemi; 16:00 Illinois @ Ohio State; 16:00 OKTAGON 94: Eckerlin vs. Kozma; 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 Davies vs. Collins (DAZN 2); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 Albania vs. Belarus (DAZN 5); 18:45 England vs. Spain (DAZN 6); 18:45 North Macedonia vs. Switzerland (DAZN 10); 19:00 Barcelona vs. Coruña (DAZN 11); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926233000 +0000" stop="20260927014500 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">National League - New Zealand: Napier City Rovers AFC vs. Miramar AFC</title>
+    <desc lang="en">Watch Soccer action as Miramar takes on Napier City Rovers
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927103000 +0000" stop="20260927124500 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">Liga Endesa: CB San Pablo Burgos vs. Baskonia</title>
+    <desc lang="en">Watch Basketball action as CB San Pablo Burgos takes on Baskonia
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 08:00 Inoue vs. Nasukawa 2 (DAZN 4); 09:00 Singapore Open: Day 7 (DAZN 5); 09:35 Monza - Race 2 (DAZN 2); 10:00 Breogán vs. Joventut (DAZN 3); 10:00 Kauno Rajono FA vs. MFA Žalgiris (DAZN 6); 10:00 Cambodia vs. Myanmar (DAZN 7); 10:13 Monza Race (DAZN 8); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260927130000 +0000" stop="20260927151500 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">Championship League - Tanzania : Tanzania Prisons SC vs. Mbuni FC</title>
+    <desc lang="en">Watch Soccer action as Tanzania Prisons takes on Mbuni FC
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 11:00 Tenerife vs. Zaragoza (DAZN 4); 11:30 Red Bull Cliff Diving Italy (DAZN 2); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 Monza Race 2 (DAZN 12); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927160000 +0000" stop="20260927181500 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">UEFA Nations League: Serbia vs. Netherlands</title>
+    <desc lang="en">Watch Soccer action as Serbia takes on Netherlands
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 09:00 Singapore Open: Day 7 (DAZN 5); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida; 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927200500 +0000" stop="20260927233500 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">NFL Game Pass: Cardinals @ 49ers</title>
+    <desc lang="en">The Arizona Cardinals prepares to face The San Francisco 49ers in NFL 26/27 action. Both sides bring talent and determination to this divisional showdown. Can the Cardinals find their rhythm, or will the 49ers control the game? This matchup could shape the playoff picture. Tune in for what promises to be a thrilling contest!
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE; 17:00 LAC @ BUF, NE @ JAX, SEA @ WAS, NYJ @ DET; 17:00 SEA @ WAS, KC @ MIA, CAR @ CLE, RedZone; 17:00 NYJ @ DET, KC @ MIA, TEN @ NYG, RedZone; 17:00 LAC @ BUF, KC @ MIA, TEN @ NYG, RedZone</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926161500 +0000" channel="CA| DAZN 10 HD">
+    <title lang="en">Enterprise National League: Wealdstone vs. Gateshead</title>
+    <desc lang="en">Watch all the action from the National League on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Singapore Open: Day 6 (DAZN 1); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926184500 +0000" stop="20260926210000 +0000" channel="CA| DAZN 10 HD">
+    <title lang="en">UEFA Nations League: North Macedonia vs. Switzerland</title>
+    <desc lang="en">Watch Soccer action as North Macedonia takes on Switzerland
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 PPL Playa Del Carmen - Day 3 - Session 1; 16:00 Uskov vs. Naeemi; 16:00 Illinois @ Ohio State; 16:00 OKTAGON 94: Eckerlin vs. Kozma; 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 Davies vs. Collins (DAZN 2); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 Albania vs. Belarus (DAZN 5); 18:45 England vs. Spain (DAZN 6); 18:45 Czechia vs. Croatia (DAZN 9); 19:00 Barcelona vs. Coruña (DAZN 11); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926233000 +0000" stop="20260927014500 +0000" channel="CA| DAZN 10 HD">
+    <title lang="en">National Women's League - New Zealand: Auckland United FC vs. Southern United FC</title>
+    <desc lang="en">Watch Soccer action as Auckland United takes on Southern United
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:00 AEW All Out: Chicago (DAZN 11); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927140000 +0000" stop="20260927161500 +0000" channel="CA| DAZN 10 HD">
+    <title lang="en">Super League Basketball: Manchester Basketball vs. Surrey 89ers</title>
+    <desc lang="en">Watch Basketball action as Manchester Basketball takes on Surrey 89ers
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 Monza Race 2 (DAZN 12); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260927163000 +0000" stop="20260927184500 +0000" channel="CA| DAZN 10 HD">
+    <title lang="en">International Friendlies: Malta vs. Liechtenstein</title>
+    <desc lang="en">Watch Soccer action as Liechtenstein takes on Malta
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 09:00 Singapore Open: Day 7 (DAZN 5); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida; 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters; 16:30 Cheshire Phoenix vs. Leicester Riders (DAZN 11); 17:00 Chiefs @ Dolphins (DAZN 5)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927200500 +0000" stop="20260927233500 +0000" channel="CA| DAZN 10 HD">
+    <title lang="en">NFL Game Pass: Vikings @ Buccaneers</title>
+    <desc lang="en">The Tampa Bay Buccaneers engages in a showdown with The Minnesota Vikings in NFL 26/27 action. Both sides bring playoff ambitions into this crucial matchup. Can the Buccaneers protect their home advantage, or will the Vikings steal a vital road victory? Tune in for what promises to be a thrilling contest!
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE; 17:00 LAC @ BUF, NE @ JAX, SEA @ WAS, NYJ @ DET; 17:00 SEA @ WAS, KC @ MIA, CAR @ CLE, RedZone; 17:00 NYJ @ DET, KC @ MIA, TEN @ NYG, RedZone; 17:00 LAC @ BUF, KC @ MIA, TEN @ NYG, RedZone</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926161500 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">Enterprise National League: Southend vs. Barrow</title>
+    <desc lang="en">Watch all the action from the National League on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Singapore Open: Day 6 (DAZN 1); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926211500 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">Liga Endesa: Barcelona vs. Coruña</title>
+    <desc lang="en">Watch Basketball action as Coruña takes on Barcelona
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 Illinois @ Ohio State; 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 Davies vs. Collins (DAZN 2); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 Albania vs. Belarus (DAZN 5); 18:45 England vs. Spain (DAZN 6); 18:45 Czechia vs. Croatia (DAZN 9); 18:45 North Macedonia vs. Switzerland (DAZN 10); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8); 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260927000000 +0000" stop="20260927030000 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">AEW All Out: Chicago</title>
+    <sub-title lang="en">All Elite Wrestling</sub-title>
+    <desc lang="en">All Elite Wrestling presents the eighth annual All Out event from the Now Arena in Chicago. The main event sees Will Ospreay defend the AEW World Championship against Jon Moxley.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4); 22:00 Oklahoma State @ West Virginia (DAZN 5); 22:00 PPL Playa Del Carmen - Day 3 - Session 2 (DAZN 6); 23:00 AEW: All Out - Tailgate Brawl (DAZN 7); 23:30 Oregon @ USC (DAZN 8); 23:30 Napier City Rovers AFC vs. Miramar AFC (DAZN 9); 23:30 Auckland United FC vs. Southern United FC (DAZN 10); 00:00 Wellington Phoenix Reserves vs. Canterbury United Pride (DAZN 1); 00:30 MLTT - Week 2: New York vs. Chicago (DAZN 2); 01:00 Auckland FC Reserves vs. Wellington Olympic AFC (DAZN 3); 02:00 Birkenhead United AFC vs. Cashmere Technical FC (DAZN 4); 02:30 Air Force @ Nevada (DAZN 1)</desc>
+    <category lang="en">Wrestling</category>
+  </programme>
+  <programme start="20260927140000 +0000" stop="20260927161500 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">Ligue de Bangui - Central African Republic: SCAF vs. Pius Njawe</title>
+    <desc lang="en">Watch Soccer action as SCAF takes on Pius Njawe
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 Monza Race 2 (DAZN 12); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927163000 +0000" stop="20260927184500 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">Super League Basketball: Cheshire Phoenix vs. Leicester Riders</title>
+    <desc lang="en">Watch Basketball action as Cheshire Phoenix takes on Leicester Riders
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 09:00 Singapore Open: Day 7 (DAZN 5); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida; 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters; 16:30 Malta vs. Liechtenstein (DAZN 10); 17:00 Chiefs @ Dolphins (DAZN 5)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20260927200500 +0000" stop="20260927233500 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">NFL Game Pass: RedZone, MIN @ TB, BAL @ DAL, LV @ NO</title>
+    <desc lang="en">Best of NCAA College Sports
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE; 17:00 LAC @ BUF, NE @ JAX, SEA @ WAS, NYJ @ DET; 17:00 SEA @ WAS, KC @ MIA, CAR @ CLE, RedZone; 17:00 NYJ @ DET, KC @ MIA, TEN @ NYG, RedZone; 17:00 LAC @ BUF, KC @ MIA, TEN @ NYG, RedZone</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926161500 +0000" channel="CA| DAZN 12 HD">
+    <title lang="en">Enterprise National League: Carlisle vs. Woking</title>
+    <desc lang="en">Watch Soccer action as Woking takes on Carlisle United
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Singapore Open: Day 6 (DAZN 1); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Solihull Moors vs. Boreham Wood (DAZN 13); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926220000 +0000" channel="CA| DAZN 12 HD">
+    <title lang="en">BKFC 94 Manchester: BKFC 94: Till vs. Romero</title>
+    <desc lang="en">Darren Till vs. Yoel Romero headlines BKFC 94 as two of the most dangerous names in combat sports finally do battle at AO Arena in Manchester, England.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 Illinois @ Ohio State; 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 Davies vs. Collins (DAZN 2); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 Albania vs. Belarus (DAZN 5); 18:45 England vs. Spain (DAZN 6); 18:45 Czechia vs. Croatia (DAZN 9); 18:45 North Macedonia vs. Switzerland (DAZN 10); 19:00 Barcelona vs. Coruña (DAZN 11); 19:30 IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU (DAZN 13); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8); 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3)</desc>
+    <category lang="en">BKFC</category>
+  </programme>
+  <programme start="20260927140000 +0000" stop="20260927153000 +0000" channel="CA| DAZN 12 HD">
+    <title lang="en">Monza Race 2</title>
+    <sub-title lang="en">GT Cup Europe</sub-title>
+    <desc lang="en">Watch the GT Cup Europe on DAZN, as the latest event heads to Monza for another action-packed weekend of racing.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20260927160000 +0000" stop="20260927181500 +0000" channel="CA| DAZN 12 HD">
+    <title lang="en">UEFA Nations League: Austria vs. Kosovo</title>
+    <desc lang="en">Watch Soccer action as Kosovo takes on Austria
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 09:00 Singapore Open: Day 7 (DAZN 5); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 KFF Kosova vs. KFF Feronikeli (DAZN 13); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida; 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927200500 +0000" stop="20260927233500 +0000" channel="CA| DAZN 12 HD">
+    <title lang="en">NFL Game Pass: ARI @ SF, MIN @ TB, BAL @ DAL, LV @ NO</title>
+    <desc lang="en">NFL Multigame 11: TBC v TBC (CANADA)
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 Chiefs @ Dolphins (DAZN 5); 17:00 Chargers @ Bills (DAZN 13); 17:00 Titans @ Giants; 17:00 Panthers @ Browns; 17:00 Jets @ Lions; 17:00 Seahawks @ Commanders; 17:00 Bengals @ Steelers; 17:00 Patriots @ Jaguars; 17:00 Texans @ Colts; 17:00 NE @ JAX, HOU @ IND, NYJ @ DET, RedZone; 17:00 CIN @ PIT, HOU @ IND, KC @ MIA, CAR @ CLE; 17:00 NFL Redzone - Week 3; 17:00 LAC @ BUF, NE @ JAX, CIN @ PIT, HOU @ IND; 17:00 HOU @ IND, NYJ @ DET, TEN @ HYG, CAR @ CLE; 17:00 CIN @ PIT, SEA @ WAS, TEN @ NYG, RedZone; 17:00 NE @ JAX, CIN @ PIT, SEA @ WAS, CAR @ CLE; 17:00 LAC @ BUF, NE @ JAX, SEA @ WAS, NYJ @ DET; 17:00 SEA @ WAS, KC @ MIA, CAR @ CLE, RedZone; 17:00 NYJ @ DET, KC @ MIA, TEN @ NYG, RedZone; 17:00 LAC @ BUF, KC @ MIA, TEN @ NYG, RedZone</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926161500 +0000" channel="CA| DAZN 13 HD">
+    <title lang="en">Enterprise National League: Solihull Moors vs. Boreham Wood</title>
+    <desc lang="en">Watch all the action from the National League on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Singapore Open: Day 6 (DAZN 1); 12:10 RWS: Maria Ruumet vs. Desiree Wodicker (DAZN 3); 12:30 Vietnam vs. Philippines (DAZN 4); 13:00 Slovenia vs. Scotland (DAZN 2); 13:00 KFV Prishtina vs. KFF Malisheva (DAZN 5); 13:00 River Plate Zambia vs. Aguila Stars (DAZN 6); 13:20 Monza Race 1 (DAZN 7); 13:25 TAIF Racing Season 2026 - Week 10, Day 2 (DAZN 8); 14:00 Aldershot vs. Tamworth (DAZN 9); 14:00 Wealdstone vs. Gateshead (DAZN 10); 14:00 Southend vs. Barrow (DAZN 11); 14:00 Carlisle vs. Woking (DAZN 12); 14:00 Scunthorpe vs. Hartlepool; 14:00 Sutton vs. Forest Green; 14:00 Harrogate vs. Eastleigh; 14:00 Kidderminster vs. Yeovil; 14:00 Altrincham vs. Hornchurch; 14:00 Boston vs. Fylde; 14:00 Worthing vs. FC Halifax Town; 14:00 Dagenham &amp; Redbridge vs. Hampton &amp; Richmond</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260926193000 +0000" stop="20260926230000 +0000" channel="CA| DAZN 13 HD">
+    <title lang="en">NCAA Football: IOWA @ UM, UTA @ ISU, WIS @ PSU, NEB @ MSU</title>
+    <desc lang="en">Watch all the action from the NCAA on DAZN
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:30 UCLA @ Maryland (DAZN 7); 17:30 Andorra vs. Obradoiro (DAZN 8); 18:00 Davies vs. Collins (DAZN 2); 18:00 BKFC 94: Till vs. Romero - Prelims (DAZN 3); 18:00 Notre Dame @ Purdue (DAZN 4); 18:45 Slovakia vs. Moldova (DAZN 1); 18:45 Albania vs. Belarus (DAZN 5); 18:45 England vs. Spain (DAZN 6); 18:45 Czechia vs. Croatia (DAZN 9); 18:45 North Macedonia vs. Switzerland (DAZN 10); 19:00 Barcelona vs. Coruña (DAZN 11); 19:00 BKFC 94: Till vs. Romero (DAZN 12); 19:30 TCU @ UCF; 19:30 Iowa @ Michigan; 19:30 Utah @ Iowa State; 20:00 Aragua FC vs. Ávila FC (DAZN 8); 21:00 MLTT - Week 2: Portland Paddlers vs. Bay Area Blasters (DAZN 1); 21:00 Nebraska @ Michigan State (DAZN 2); 21:00 Wisconsin @ Penn State (DAZN 3); 22:00 Cejudo vs. Walton (DAZN 4)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260927140000 +0000" stop="20260927161500 +0000" channel="CA| DAZN 13 HD">
+    <title lang="en">Superliga e Femrave - Kosovo: KFF Kosova vs. KFF Feronikeli</title>
+    <desc lang="en">Watch Soccer action as Kosova takes on Feronikeli
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 06:30 Korea Open: Day 7 (DAZN 1); 09:00 Singapore Open: Day 7 (DAZN 5); 13:00 Lithuania vs. Azerbaijan (DAZN 3); 13:00 Sassuolo vs. Roma (DAZN 6); 13:00 Ngozi City vs. Kayanza United (DAZN 7); 13:00 Mönchengladbach vs. Bayern Munich (DAZN 8); 13:00 Tanzania Prisons SC vs. Mbuni FC (DAZN 9); 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 13:30 KFF Dukagjini vs. KFF Mitrovica (DAZN 4); 14:00 Manchester Basketball vs. Surrey 89ers (DAZN 10); 14:00 SCAF vs. Pius Njawe (DAZN 11); 14:00 Monza Race 2 (DAZN 12); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20260927170000 +0000" stop="20260927203000 +0000" channel="CA| DAZN 13 HD">
+    <title lang="en">NFL Game Pass: Chargers @ Bills</title>
+    <desc lang="en">The Buffalo Bills is set to meet The Los Angeles Chargers in NFL 26/27 action. Buffalo looks to capitalize on home advantage while Los Angeles aims to maintain momentum. Can the Bills control the pace, or will the Chargers execute their game plan? This matchup promises edge-of-your-seat intensity throughout!
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:30 PPL Playa Del Carmen - Day 4 (DAZN 2); 15:00 Djèffa FC vs. Panthères FC (DAZN 1); 15:00 Internazionale vs. Fiorentina; 15:00 Sheffield Sharks vs. Caledonia Gladiators; 15:00 Hodio FC vs. AS Cotonou FC; 15:00 Girona vs. UCAM Murcia; 15:00 London Lions vs. Liverpool Basketball; 15:30 U15 Baseball World Cup 2026 - Day 3 (DAZN 3); 15:30 AS FAN vs. Liberté FC (DAZN 6); 15:30 ASFB vs. RCK (DAZN 7); 15:30 USFA vs. Salitas FC (DAZN 8); 16:00 Denmark vs. Wales (DAZN 4); 16:00 Serbia vs. Netherlands (DAZN 9); 16:00 Austria vs. Kosovo (DAZN 12); 16:00 Gibraltar vs. Andorra; 16:00 Valencia vs. Força Lleida; 16:00 MLTT - Week 2: New York Slice vs. Bay Area Blasters; 16:30 Malta vs. Liechtenstein (DAZN 10); 16:30 Cheshire Phoenix vs. Leicester Riders (DAZN 11); 17:00 Chiefs @ Dolphins (DAZN 5)</desc>
+    <category lang="en">Football</category>
   </programme>
 </tv>
