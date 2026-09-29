@@ -4120,15 +4120,14 @@ Istodobno na DAZN-u (UTC): 14:00 OR Bangui vs. Tempête Mocaf (DAZN 3); 14:30 Un
 Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 4 - Kukulkan (DAZN 3)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20260929090000 +0000" stop="20260929113000 +0000" channel="CA| DAZN 1 HD">
+  <programme start="20260929090000 +0000" stop="20260929114500 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">FIFA ASEAN Cup: Philippines vs. Pakistan</title>
     <desc lang="en">Watch Soccer action as Pakistan takes on Philippines</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20260929123000 +0000" stop="20260929144500 +0000" channel="CA| DAZN 1 HD">
+  <programme start="20260929123000 +0000" stop="20260929150000 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">FIFA ASEAN Cup: Thailand vs. Vietnam</title>
     <desc lang="en">Watch Soccer action as Thailand takes on Vietnam
-(Kraj procijenjen.)
 
 Istodobno na DAZN-u (UTC): 14:35 Fujairah vs. Al Jazira Al Hamra (DAZN 2); 14:40 Palm City vs. Dibba Al Hisn (DAZN 3)</desc>
     <category lang="en">Soccer</category>
@@ -4880,14 +4879,6 @@ Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 5 - Kukulkan 
 Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 5 - Kukulkan (DAZN 7); 18:00 Boreham Wood vs. Kidderminster (DAZN 1); 18:45 Barrow vs. Scunthorpe (DAZN 2); 18:45 San Marino vs. Albania (DAZN 3); 18:45 Forest Green vs. Wealdstone (DAZN 4); 18:45 Gateshead vs. Altrincham (DAZN 5); 18:45 Luxembourg vs. Iceland (DAZN 6); 18:45 FC Halifax Town vs. Boston (DAZN 8); 18:45 Hornchurch vs. Aldershot (DAZN 9); 18:45 Czechia vs. England (DAZN 10); 18:45 Slovakia vs. Kazakhstan (DAZN 11); 18:45 Spain vs. Croatia (DAZN 12); 18:45 Yeovil vs. Worthing; 18:45 Bulgaria vs. Estonia; 18:45 Fylde vs. Carlisle; 18:45 Woking vs. Solihull Moors; 18:45 Scotland vs. Switzerland; 18:45 Hartlepool vs. Harrogate</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20260928210000 +0000" stop="20260929020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20260929020000 +0000" stop="20260929060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
   <programme start="20260929060000 +0000" stop="20260929090000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
@@ -5006,11 +4997,11 @@ Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 5 - Kukulkan 
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20260928220000 +0000" stop="20260929020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261003010000 +0000" stop="20261003050000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20260929020000 +0000" stop="20260929060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261003050000 +0000" stop="20261003060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -5102,11 +5093,11 @@ Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 5 - Kukulkan 
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20260928220000 +0000" stop="20260929020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+  <programme start="20261003000000 +0000" stop="20261003040000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20260929020000 +0000" stop="20260929060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+  <programme start="20261003040000 +0000" stop="20261003080000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -5202,11 +5193,7 @@ Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 5 - Kukulkan 
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20260928220000 +0000" stop="20260929020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20260929020000 +0000" stop="20260929060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+  <programme start="20261003020000 +0000" stop="20261003060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -5299,6 +5286,10 @@ Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 5 - Kukulkan 
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261002220000 +0000" stop="20261003020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20261003020000 +0000" stop="20261003060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
