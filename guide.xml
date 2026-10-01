@@ -2243,14 +2243,14 @@
     <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c8f7b71fe5654983bba1cdf0070be78f_thumb.jpg" />
   </programme>
-  <programme start="20261004221500 +0200" stop="20261005001500 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+  <programme start="20261004221500 +0200" stop="20261005003000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Konjički Sport: Liga Nacija, Barcelona: Skakanje</title>
-    <desc lang="hr">Najbolje svjetske reprezentacije, vrhunski jahači i najuspješniji konji ponovno će se okupiti u Barceloni.</desc>
+    <desc lang="hr">Najbolje svjetske reprezentacije, vrhunski jahači i najuspješniji konji ponovno će se okupiti u Barceloni.(c)</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/189ad05228db49bd861b89fbd93e692b_thumb.jpg" />
   </programme>
-  <programme start="20261005001500 +0200" stop="20261005013000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
+  <programme start="20261005003000 +0200" stop="20261005013000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(c)</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cf1dd5562b344857aa3f2a88a9e8eed7_thumb.jpg" />
   </programme>
   <programme start="20261005013000 +0200" stop="20261005030000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
@@ -2623,14 +2623,14 @@
     <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c8f7b71fe5654983bba1cdf0070be78f_thumb.jpg" />
   </programme>
-  <programme start="20261004221500 +0200" stop="20261005001500 +0200" channel="eurosport1.uk">
+  <programme start="20261004221500 +0200" stop="20261005003000 +0200" channel="eurosport1.uk">
     <title lang="hr">Konjički Sport: Liga Nacija, Barcelona: Skakanje</title>
-    <desc lang="hr">Najbolje svjetske reprezentacije, vrhunski jahači i najuspješniji konji ponovno će se okupiti u Barceloni.</desc>
+    <desc lang="hr">Najbolje svjetske reprezentacije, vrhunski jahači i najuspješniji konji ponovno će se okupiti u Barceloni.(c)</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/189ad05228db49bd861b89fbd93e692b_thumb.jpg" />
   </programme>
-  <programme start="20261005001500 +0200" stop="20261005013000 +0200" channel="eurosport1.uk">
+  <programme start="20261005003000 +0200" stop="20261005013000 +0200" channel="eurosport1.uk">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(c)</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cf1dd5562b344857aa3f2a88a9e8eed7_thumb.jpg" />
   </programme>
   <programme start="20261005013000 +0200" stop="20261005030000 +0200" channel="eurosport1.uk">
@@ -4105,12 +4105,11 @@ Istodobno na DAZN-u (UTC): 20:00 Yaracuyanos FC vs. Puerto Cabello B (DAZN 5); 2
     <desc lang="en">Watch the latest World Rally Championship action from the Rally Italia Sardegna.</desc>
     <category lang="en">Motorsport</category>
   </programme>
-  <programme start="20261001123000 +0000" stop="20261001144500 +0000" channel="CA| DAZN 1 HD">
+  <programme start="20261001123000 +0000" stop="20261001150000 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">FIFA ASEAN Cup: Indonesia vs. Bangladesh</title>
     <desc lang="en">Watch Soccer action as Indonesia takes on Bangladesh
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 4); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261001153000 +0000" stop="20261001183000 +0000" channel="CA| DAZN 1 HD">
@@ -4118,7 +4117,7 @@ Istodobno na DAZN-u (UTC): 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittake
     <desc lang="en">Watch the U15 Baseball World Cup from Cancún, Mexico.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 5)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 14:00 Germany U17 vs. Israel U17 (DAZN 4); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6)</desc>
     <category lang="en">Baseball</category>
   </programme>
   <programme start="20261001184500 +0000" stop="20261001210000 +0000" channel="CA| DAZN 1 HD">
@@ -4126,7 +4125,7 @@ Istodobno na DAZN-u (UTC): 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Faro
     <desc lang="en">Watch Soccer action as Serbia takes on Germany
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 5); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 6); 18:45 Denmark vs. Portugal (DAZN 7); 18:45 Greece vs. Netherlands (DAZN 8); 18:45 Republic of Ireland vs. Austria (DAZN 9); 18:45 Wales vs. Norway (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 7); 18:45 Denmark vs. Portugal (DAZN 8); 18:45 Greece vs. Netherlands (DAZN 9); 18:45 Republic of Ireland vs. Austria (DAZN 10); 18:45 Wales vs. Norway (DAZN 11)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002001500 +0000" stop="20261002034500 +0000" channel="CA| DAZN 1 HD">
@@ -4160,7 +4159,7 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 3 (DAZN 4); 07:00 Grand Prix 
     <desc lang="en">Watch Soccer action as DFC8 takes on AS Douanes
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:05 Al Taliya vs. Muscat (DAZN 3); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 4); 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:00 Mbuni vs. Gunners FC (DAZN 3); 13:05 Al Taliya vs. Muscat (DAZN 4); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 5); 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002143800 +0000" stop="20261002160800 +0000" channel="CA| DAZN 1 HD">
@@ -4169,7 +4168,7 @@ Istodobno na DAZN-u (UTC): 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:05 
     <desc lang="en">Watch the latest World Rally Championship action from the Rally Italia Sardegna.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 13:05 Al Taliya vs. Muscat (DAZN 3); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 4); 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Mbuni vs. Gunners FC (DAZN 3); 13:05 Al Taliya vs. Muscat (DAZN 4); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 5); 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9)</desc>
     <category lang="en">Motorsport</category>
   </programme>
   <programme start="20261002163000 +0000" stop="20261002193000 +0000" channel="CA| DAZN 1 HD">
@@ -4177,7 +4176,7 @@ Istodobno na DAZN-u (UTC): 13:05 Al Taliya vs. Muscat (DAZN 3); 13:31 Rally Ital
     <desc lang="en">U15 Baseball World Cup 2026 - Day 7 - Kukulkan
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 5); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10); 18:30 London Lions vs. Leicester Riders (DAZN 2); 18:30 Bristol Flyers vs. Manchester Basketball (DAZN 3); 18:30 Newcastle Eagles vs. Caledonia Gladiators (DAZN 4); 18:45 France vs. Italy (DAZN 5); 18:45 Belgium vs. Türkiye (DAZN 6); 18:45 Faroe Islands vs. Slovakia (DAZN 7); 18:45 Poland vs. Romania (DAZN 8); 18:45 Hungary vs. Georgia (DAZN 9); 18:45 Bosnia-Herzegovina vs. Sweden (DAZN 11); 18:45 Ukraine vs. Northern Ireland (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 6); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10); 18:30 London Lions vs. Leicester Riders (DAZN 2); 18:30 Bristol Flyers vs. Manchester Basketball (DAZN 3); 18:30 Newcastle Eagles vs. Caledonia Gladiators (DAZN 4); 18:45 France vs. Italy (DAZN 5); 18:45 Belgium vs. Türkiye (DAZN 6); 18:45 Faroe Islands vs. Slovakia (DAZN 7); 18:45 Poland vs. Romania (DAZN 8); 18:45 Hungary vs. Georgia (DAZN 9); 18:45 Bosnia-Herzegovina vs. Sweden (DAZN 11); 18:45 Ukraine vs. Northern Ireland (DAZN 12)</desc>
     <category lang="en">Baseball</category>
   </programme>
   <programme start="20261002233000 +0000" stop="20261003023000 +0000" channel="CA| DAZN 1 HD">
@@ -4203,7 +4202,7 @@ Istodobno na DAZN-u (UTC): 00:00 Penn State @ Northwestern (DAZN 2); 01:00 Miram
     <desc lang="en">Watch Soccer action as Young Star FC takes on Rukinzo
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 08:30 Hepi vs. Shewmaker (DAZN 3); 09:45 Bantu FC vs. Mzamane FC (DAZN 2); 10:00 FK Garliava vs. DFK Dainava (DAZN 5); 10:30 Rally Italia Sardegna: Report from Media Zone Service D (DAZN 6); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United</desc>
+Istodobno na DAZN-u (UTC): 08:30 Hepi vs. Shewmaker (DAZN 3); 09:45 Bantu FC vs. Mzamane FC (DAZN 2); 10:00 FK Garliava vs. DFK Dainava (DAZN 5); 10:30 Rally Italia Sardegna: Report from Media Zone Service D (DAZN 6); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003134100 +0000" stop="20261003151100 +0000" channel="CA| DAZN 1 HD">
@@ -4212,7 +4211,7 @@ Istodobno na DAZN-u (UTC): 08:30 Hepi vs. Shewmaker (DAZN 3); 09:45 Bantu FC vs.
     <desc lang="en">Watch the latest World Rally Championship action from the Rally Italia Sardegna.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7); 14:00 Hartlepool vs. Tamworth</desc>
+Istodobno na DAZN-u (UTC): 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham</desc>
     <category lang="en">Motorsport</category>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003174500 +0000" channel="CA| DAZN 1 HD">
@@ -4335,12 +4334,11 @@ Istodobno na DAZN-u (UTC): 16:00 U15 Baseball World Cup 2026 - Make Up Day (DAZN
 Istodobno na DAZN-u (UTC): 22:00 NFL Live (DAZN 1); 23:00 Deportivo Lara vs. Real Frontera (DAZN 3)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261001123000 +0000" stop="20261001144500 +0000" channel="CA| DAZN 2 HD">
+  <programme start="20261001123000 +0000" stop="20261001150000 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">FIFA ASEAN Cup: Malaysia vs. Singapore</title>
     <desc lang="en">Watch Soccer action as Malaysia takes on Singapore
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 4); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261001160000 +0000" stop="20261001181500 +0000" channel="CA| DAZN 2 HD">
@@ -4348,7 +4346,7 @@ Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 13:00 Whitta
     <desc lang="en">Watch Soccer action as Azerbaijan takes on Liechtenstein
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8); 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 5)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 14:00 Germany U17 vs. Israel U17 (DAZN 4); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8); 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261001184500 +0000" stop="20261001210000 +0000" channel="CA| DAZN 2 HD">
@@ -4356,7 +4354,7 @@ Istodobno na DAZN-u (UTC): 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Faro
     <desc lang="en">Watch Soccer action as Israel takes on Kosovo
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 5); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Malta vs. Gibraltar (DAZN 6); 18:45 Denmark vs. Portugal (DAZN 7); 18:45 Greece vs. Netherlands (DAZN 8); 18:45 Republic of Ireland vs. Austria (DAZN 9); 18:45 Wales vs. Norway (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Malta vs. Gibraltar (DAZN 7); 18:45 Denmark vs. Portugal (DAZN 8); 18:45 Greece vs. Netherlands (DAZN 9); 18:45 Republic of Ireland vs. Austria (DAZN 10); 18:45 Wales vs. Norway (DAZN 11)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002001500 +0000" stop="20261002034500 +0000" channel="CA| DAZN 2 HD">
@@ -4390,7 +4388,7 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 3 (DAZN 4); 08:08 Rally Itali
     <desc lang="en">Watch the latest World Rally Championship action from the Rally Italia Sardegna.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 13:05 Al Taliya vs. Muscat (DAZN 3); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 4); 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 13:00 Mbuni vs. Gunners FC (DAZN 3); 13:05 Al Taliya vs. Muscat (DAZN 4); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 5); 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7)</desc>
     <category lang="en">Motorsport</category>
   </programme>
   <programme start="20261002150000 +0000" stop="20261002170000 +0000" channel="CA| DAZN 2 HD">
@@ -4399,7 +4397,7 @@ Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 13:05 Al Taliya v
     <desc lang="en">Part 2 of the 2026 Freestyle Friday Championship returns following a three-month summer break, with all points accrued carrying over to the second phase of the tournament.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 13:05 Al Taliya vs. Muscat (DAZN 3); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 4); 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 5); 16:30 Leverkusen vs. Werder Bremen (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Mbuni vs. Gunners FC (DAZN 3); 13:05 Al Taliya vs. Muscat (DAZN 4); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 5); 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 6); 16:30 Leverkusen vs. Werder Bremen (DAZN 7)</desc>
     <category lang="en">Chess</category>
   </programme>
   <programme start="20261002170000 +0000" stop="20261002180000 +0000" channel="CA| DAZN 2 HD">
@@ -4407,7 +4405,7 @@ Istodobno na DAZN-u (UTC): 13:05 Al Taliya vs. Muscat (DAZN 3); 13:31 Rally Ital
     <desc lang="en">Light heavyweight contenders Ben Whittaker and Conor Wallace tip the scales at the pre-fight weigh-in ceremony, as the duo prepare to headline a fantastic event in Birmingham.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 5); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 6); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
     <category lang="en">Boxing</category>
   </programme>
   <programme start="20261002183000 +0000" stop="20261002204500 +0000" channel="CA| DAZN 2 HD">
@@ -4415,7 +4413,7 @@ Istodobno na DAZN-u (UTC): 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS
     <desc lang="en">Watch Basketball action as Leicester Riders takes on London Lions
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Faour vs. Sachbazjan (DAZN 10); 18:30 Bristol Flyers vs. Manchester Basketball (DAZN 3); 18:30 Newcastle Eagles vs. Caledonia Gladiators (DAZN 4); 18:45 France vs. Italy (DAZN 5); 18:45 Belgium vs. Türkiye (DAZN 6); 18:45 Faroe Islands vs. Slovakia (DAZN 7); 18:45 Poland vs. Romania (DAZN 8); 18:45 Hungary vs. Georgia (DAZN 9); 18:45 Bosnia-Herzegovina vs. Sweden (DAZN 11); 18:45 Ukraine vs. Northern Ireland (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Faour vs. Sachbazjan (DAZN 10); 18:30 Bristol Flyers vs. Manchester Basketball (DAZN 3); 18:30 Newcastle Eagles vs. Caledonia Gladiators (DAZN 4); 18:45 France vs. Italy (DAZN 5); 18:45 Belgium vs. Türkiye (DAZN 6); 18:45 Faroe Islands vs. Slovakia (DAZN 7); 18:45 Poland vs. Romania (DAZN 8); 18:45 Hungary vs. Georgia (DAZN 9); 18:45 Bosnia-Herzegovina vs. Sweden (DAZN 11); 18:45 Ukraine vs. Northern Ireland (DAZN 12)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261003000000 +0000" stop="20261003033000 +0000" channel="CA| DAZN 2 HD">
@@ -4456,7 +4454,7 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 4 (DAZN 1); 08:30 Hepi vs. Sh
     <desc lang="en">The Rajadamnern Stadium plays host to the latest RWS event.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:00 FK Garliava vs. DFK Dainava (DAZN 5); 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5)</desc>
+Istodobno na DAZN-u (UTC): 10:00 FK Garliava vs. DFK Dainava (DAZN 5); 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6)</desc>
     <category lang="en">MMA</category>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003174500 +0000" channel="CA| DAZN 2 HD">
@@ -4547,28 +4545,19 @@ Istodobno na DAZN-u (UTC): 18:45 Tamworth vs. Sutton (DAZN 1); 18:45 Eastleigh v
 Istodobno na DAZN-u (UTC): 22:00 NFL Live (DAZN 1); 23:00 The Insiders (DAZN 2)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261001130000 +0000" stop="20261001140000 +0000" channel="CA| DAZN 3 HD">
+  <programme start="20261001130000 +0000" stop="20261001143000 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">Matchroom Boxing: Whittaker vs. Wallace: Press Conference</title>
     <desc lang="en">British light heavyweight star Ben Whittaker prepares to make his return on DAZN, as he meets Connor Wallace at the official press conference.
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 4); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
     <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20261001140000 +0000" stop="20261001161500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">International Friendly - Men's U17: Germany U17 vs. Israel U17</title>
-    <desc lang="en">Watch Soccer action as Germany U17 takes on Israel U17
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8); 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2)</desc>
-    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261001163000 +0000" stop="20261001193000 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">U15 Baseball World Cup 2026 - Day 6 - Kukulkan</title>
     <desc lang="en">Watch all the action live on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 5); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 6); 18:45 Denmark vs. Portugal (DAZN 7); 18:45 Greece vs. Netherlands (DAZN 8); 18:45 Republic of Ireland vs. Austria (DAZN 9); 18:45 Wales vs. Norway (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 7); 18:45 Denmark vs. Portugal (DAZN 8); 18:45 Greece vs. Netherlands (DAZN 9); 18:45 Republic of Ireland vs. Austria (DAZN 10); 18:45 Wales vs. Norway (DAZN 11)</desc>
     <category lang="en">Baseball</category>
   </programme>
   <programme start="20261002021500 +0000" stop="20261002041500 +0000" channel="CA| DAZN 3 HD">
@@ -4597,12 +4586,12 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 3 (DAZN 4); 06:01 Rally Itali
 Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 3 (DAZN 4); 08:08 Rally Italia Sardegna: Stage 4 (DAZN 1); 09:00 Vietnam vs. Pakistan (DAZN 2)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261002130500 +0000" stop="20261002152000 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">First Division League - Oman: Al Taliya vs. Muscat</title>
-    <desc lang="en">Watch Soccer action as Muscat takes on Al Taliya
+  <programme start="20261002130000 +0000" stop="20261002151500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Championship League - Tanzania : Mbuni vs. Gunners FC</title>
+    <desc lang="en">Watch Soccer action as Mbuni FC takes on Gunners FC
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 4); 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2)</desc>
+Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:05 Al Taliya vs. Muscat (DAZN 4); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 5); 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002153000 +0000" stop="20261002174500 +0000" channel="CA| DAZN 3 HD">
@@ -4610,7 +4599,7 @@ Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 12:31 Rally Itali
     <desc lang="en">Watch Soccer action as Salitas takes on Réal du Faso
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 5); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 6); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002183000 +0000" stop="20261002204500 +0000" channel="CA| DAZN 3 HD">
@@ -4618,7 +4607,7 @@ Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minij
     <desc lang="en">Watch the latest Super League Basketball action between Bristol Flyers and Manchester Basketball.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Faour vs. Sachbazjan (DAZN 10); 18:30 London Lions vs. Leicester Riders (DAZN 2); 18:30 Newcastle Eagles vs. Caledonia Gladiators (DAZN 4); 18:45 France vs. Italy (DAZN 5); 18:45 Belgium vs. Türkiye (DAZN 6); 18:45 Faroe Islands vs. Slovakia (DAZN 7); 18:45 Poland vs. Romania (DAZN 8); 18:45 Hungary vs. Georgia (DAZN 9); 18:45 Bosnia-Herzegovina vs. Sweden (DAZN 11); 18:45 Ukraine vs. Northern Ireland (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Faour vs. Sachbazjan (DAZN 10); 18:30 London Lions vs. Leicester Riders (DAZN 2); 18:30 Newcastle Eagles vs. Caledonia Gladiators (DAZN 4); 18:45 France vs. Italy (DAZN 5); 18:45 Belgium vs. Türkiye (DAZN 6); 18:45 Faroe Islands vs. Slovakia (DAZN 7); 18:45 Poland vs. Romania (DAZN 8); 18:45 Hungary vs. Georgia (DAZN 9); 18:45 Bosnia-Herzegovina vs. Sweden (DAZN 11); 18:45 Ukraine vs. Northern Ireland (DAZN 12)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261003000000 +0000" stop="20261003030000 +0000" channel="CA| DAZN 3 HD">
@@ -4650,7 +4639,7 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 4 (DAZN 1); 07:11 Rally Itali
     <desc lang="en">Watch Soccer action as Tranmere Rovers takes on Chesterfield
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:45 Bantu FC vs. Mzamane FC (DAZN 2); 10:00 FK Garliava vs. DFK Dainava (DAZN 5); 10:30 Rally Italia Sardegna: Report from Media Zone Service D (DAZN 6); 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 09:45 Bantu FC vs. Mzamane FC (DAZN 2); 10:00 FK Garliava vs. DFK Dainava (DAZN 5); 10:30 Rally Italia Sardegna: Report from Media Zone Service D (DAZN 6); 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003134500 +0000" stop="20261003160000 +0000" channel="CA| DAZN 3 HD">
@@ -4658,7 +4647,7 @@ Istodobno na DAZN-u (UTC): 09:45 Bantu FC vs. Mzamane FC (DAZN 2); 10:00 FK Garl
     <desc lang="en">Watch Soccer action as Olympic Star takes on Muzinga
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham</desc>
+Istodobno na DAZN-u (UTC): 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham; 14:00 Scunthorpe vs. Forest Green</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003160000 +0000" stop="20261003181500 +0000" channel="CA| DAZN 3 HD">
@@ -4757,21 +4746,28 @@ Istodobno na DAZN-u (UTC): 14:00 OR Bambari vs. OR Bangui (DAZN 1); 16:00 Lithua
 Istodobno na DAZN-u (UTC): 18:45 Tamworth vs. Sutton (DAZN 1); 18:45 Eastleigh vs. Southend (DAZN 2); 19:30 Atlético Barinas vs. Barquisimeto SC (DAZN 3); 20:00 Yaracuyanos FC vs. Puerto Cabello B (DAZN 5); 21:00 NFL Fantasy Live (DAZN 6)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261001130000 +0000" stop="20261001143000 +0000" channel="CA| DAZN 4 HD">
+  <programme start="20261001130000 +0000" stop="20261001140000 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">Rally Italia Sardegna: Pre Show from Alghero Sea Front</title>
     <sub-title lang="en">WRC</sub-title>
     <desc lang="en">Watch the latest World Rally Championship action from the Rally Italia Sardegna.
+
+Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6)</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261001140000 +0000" stop="20261001161500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">International Friendly - Men's U17: Germany U17 vs. Israel U17</title>
+    <desc lang="en">Watch Soccer action as Germany U17 takes on Israel U17
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
-    <category lang="en">Motorsport</category>
+Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8); 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261001170000 +0000" stop="20261001200000 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">Extreme Fighting Championship: EFC 138: Djikasa vs. Born</title>
     <desc lang="en">The heavyweight championship is on the line at EFC 138, as Matunga Djikasa takes on Terrence Born in the headline fight in Sandton, South Africa.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:30 Carter Efe vs. Speed (DAZN 5); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 6); 18:45 Denmark vs. Portugal (DAZN 7); 18:45 Greece vs. Netherlands (DAZN 8); 18:45 Republic of Ireland vs. Austria (DAZN 9); 18:45 Wales vs. Norway (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:30 Carter Efe vs. Speed (DAZN 6); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 7); 18:45 Denmark vs. Portugal (DAZN 8); 18:45 Greece vs. Netherlands (DAZN 9); 18:45 Republic of Ireland vs. Austria (DAZN 10); 18:45 Wales vs. Norway (DAZN 11)</desc>
     <category lang="en">MMA</category>
   </programme>
   <programme start="20261002030000 +0000" stop="20261002110000 +0000" channel="CA| DAZN 4 HD">
@@ -4783,21 +4779,20 @@ Istodobno na DAZN-u (UTC): 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avil
 Istodobno na DAZN-u (UTC): 00:15 Steelers @ Browns (DAZN 1); 00:15 Steelers @ Browns (In French) (DAZN 2); 02:15 Grand Prix of Shanghai - Pole Position (DAZN 3); 06:01 Rally Italia Sardegna: Stage 2 (DAZN 1); 07:00 Grand Prix of Shanghai - Moto 1 (DAZN 2); 07:01 Rally Italia Sardegna: Stage 3 (DAZN 3); 08:08 Rally Italia Sardegna: Stage 4 (DAZN 1); 09:00 Vietnam vs. Pakistan (DAZN 2); 09:00 Thailand vs. Philippines (DAZN 3)</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20261002133100 +0000" stop="20261002150100 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Rally Italia Sardegna: Stage 6</title>
-    <sub-title lang="en">WRC</sub-title>
-    <desc lang="en">Watch the latest World Rally Championship action from the Rally Italia Sardegna.
+  <programme start="20261002130500 +0000" stop="20261002152000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">First Division League - Oman: Al Taliya vs. Muscat</title>
+    <desc lang="en">Watch Soccer action as Muscat takes on Al Taliya
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:05 Al Taliya vs. Muscat (DAZN 3); 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2)</desc>
-    <category lang="en">Motorsport</category>
+Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:00 Mbuni vs. Gunners FC (DAZN 3); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 5); 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002153000 +0000" stop="20261002174500 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">Niger Super Ligue 1 - Niger: AS UAM vs. AS Douanes</title>
     <desc lang="en">Watch Soccer action as AS UAM takes on Douanes Niamey
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 5); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 6); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002183000 +0000" stop="20261002204500 +0000" channel="CA| DAZN 4 HD">
@@ -4805,7 +4800,7 @@ Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minij
     <desc lang="en">Watch the latest Super League Basketball action between Newcastle Eagles and Caledonia Gladiators.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Faour vs. Sachbazjan (DAZN 10); 18:30 London Lions vs. Leicester Riders (DAZN 2); 18:30 Bristol Flyers vs. Manchester Basketball (DAZN 3); 18:45 France vs. Italy (DAZN 5); 18:45 Belgium vs. Türkiye (DAZN 6); 18:45 Faroe Islands vs. Slovakia (DAZN 7); 18:45 Poland vs. Romania (DAZN 8); 18:45 Hungary vs. Georgia (DAZN 9); 18:45 Bosnia-Herzegovina vs. Sweden (DAZN 11); 18:45 Ukraine vs. Northern Ireland (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Faour vs. Sachbazjan (DAZN 10); 18:30 London Lions vs. Leicester Riders (DAZN 2); 18:30 Bristol Flyers vs. Manchester Basketball (DAZN 3); 18:45 France vs. Italy (DAZN 5); 18:45 Belgium vs. Türkiye (DAZN 6); 18:45 Faroe Islands vs. Slovakia (DAZN 7); 18:45 Poland vs. Romania (DAZN 8); 18:45 Hungary vs. Georgia (DAZN 9); 18:45 Bosnia-Herzegovina vs. Sweden (DAZN 11); 18:45 Ukraine vs. Northern Ireland (DAZN 12)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261003003000 +0000" stop="20261003023000 +0000" channel="CA| DAZN 4 HD">
@@ -4839,7 +4834,7 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 4 (DAZN 1); 08:07 Rally Itali
     <desc lang="en">Watch Soccer action as Atletico Lusaka takes on Aguila Stars
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 08:30 Hepi vs. Shewmaker (DAZN 3); 09:45 Bantu FC vs. Mzamane FC (DAZN 2); 10:00 FK Garliava vs. DFK Dainava (DAZN 5); 10:30 Rally Italia Sardegna: Report from Media Zone Service D (DAZN 6); 11:00 Rukinzo vs. Young Star (DAZN 1); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United</desc>
+Istodobno na DAZN-u (UTC): 08:30 Hepi vs. Shewmaker (DAZN 3); 09:45 Bantu FC vs. Mzamane FC (DAZN 2); 10:00 FK Garliava vs. DFK Dainava (DAZN 5); 10:30 Rally Italia Sardegna: Report from Media Zone Service D (DAZN 6); 11:00 Rukinzo vs. Young Star (DAZN 1); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003134500 +0000" stop="20261003160000 +0000" channel="CA| DAZN 4 HD">
@@ -4847,7 +4842,7 @@ Istodobno na DAZN-u (UTC): 08:30 Hepi vs. Shewmaker (DAZN 3); 09:45 Bantu FC vs.
     <desc lang="en">Watch Soccer action as Lijabatho takes on Lioli
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham</desc>
+Istodobno na DAZN-u (UTC): 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham; 14:00 Scunthorpe vs. Forest Green</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003160000 +0000" stop="20261003181500 +0000" channel="CA| DAZN 4 HD">
@@ -4922,38 +4917,29 @@ Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 17:00 C
 Istodobno na DAZN-u (UTC): 18:45 Tamworth vs. Sutton (DAZN 1); 18:45 Eastleigh vs. Southend (DAZN 2); 19:30 Atlético Barinas vs. Barquisimeto SC (DAZN 3); 19:30 El Vigía FC vs. Zamora B (DAZN 4); 21:00 NFL Fantasy Live (DAZN 6); 22:00 NFL Live (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261001130000 +0000" stop="20261001151500 +0000" channel="CA| DAZN 5 HD">
+  <programme start="20261001130000 +0000" stop="20261001191500 +0000" channel="CA| DAZN 5 HD">
     <title lang="en">Vertex Cup London 2026 - Matchday 1</title>
     <desc lang="en">Watch the Vertex Cup London 2026 on DAZN, featuring top U17 talent from Argentina, Mexico, China and Tanzania.
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 4); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8); 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 7); 18:45 Denmark vs. Portugal (DAZN 8); 18:45 Greece vs. Netherlands (DAZN 9); 18:45 Republic of Ireland vs. Austria (DAZN 10); 18:45 Wales vs. Norway (DAZN 11)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261001173000 +0000" stop="20261001203000 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">Balmoral Group: Carter Efe vs. Speed</title>
-    <desc lang="en">Nigerian Independence Day sees the latest edition of 'Chaos in the Ring' on DAZN, as Carter Efe and Speed collide in a high-octane crossover matchup on DAZN.
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 6); 18:45 Denmark vs. Portugal (DAZN 7); 18:45 Greece vs. Netherlands (DAZN 8); 18:45 Republic of Ireland vs. Austria (DAZN 9); 18:45 Wales vs. Norway (DAZN 10)</desc>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20261002140000 +0000" stop="20261002161500 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">UEFA Nations League: Kazakhstan vs. Moldova</title>
-    <desc lang="en">Watch Soccer action as Moldova takes on Kazakhstan
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:05 Al Taliya vs. Muscat (DAZN 3); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 4); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9)</desc>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261002163000 +0000" stop="20261002180000 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">Rally Italia Sardegna: Report from Media Zone Service C</title>
+  <programme start="20261002133100 +0000" stop="20261002150100 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Rally Italia Sardegna: Stage 6</title>
     <sub-title lang="en">WRC</sub-title>
     <desc lang="en">Watch the latest World Rally Championship action from the Rally Italia Sardegna.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:00 Mbuni vs. Gunners FC (DAZN 3); 13:05 Al Taliya vs. Muscat (DAZN 4); 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2)</desc>
     <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261002153000 +0000" stop="20261002183000 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">U15 Baseball World Cup 2026 - Day 7 - Beto Avila</title>
+    <desc lang="en">U15 Baseball World Cup 2026 - Day 7 - Beto Avila
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 6); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
+    <category lang="en">Baseball</category>
   </programme>
   <programme start="20261002184500 +0000" stop="20261002210000 +0000" channel="CA| DAZN 5 HD">
     <title lang="en">UEFA Nations League: France vs. Italy</title>
@@ -4994,7 +4980,7 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 4 (DAZN 1); 08:30 Hepi vs. Sh
     <desc lang="en">Watch the Grand Turismo World Series on DAZN, as the latest event heads to Singapore where the top competitors face off for another action-packed weekend of racing.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4)</desc>
     <category lang="en">Motorsport</category>
   </programme>
   <programme start="20261003140000 +0000" stop="20261003161500 +0000" channel="CA| DAZN 5 HD">
@@ -5002,7 +4988,7 @@ Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico
     <desc lang="en">Watch Soccer action as Carlisle United takes on Aldershot Town
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham; 14:00 Scunthorpe vs. Forest Green; 14:00 Yeovil vs. Boston; 14:00 Eastleigh vs. Woking</desc>
+Istodobno na DAZN-u (UTC): 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham; 14:00 Scunthorpe vs. Forest Green; 14:00 Yeovil vs. Boston; 14:00 Eastleigh vs. Woking; 14:00 Harrogate vs. Hornchurch</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003161500 +0000" stop="20261003174500 +0000" channel="CA| DAZN 5 HD">
@@ -5084,32 +5070,33 @@ Istodobno na DAZN-u (UTC): 18:45 Tamworth vs. Sutton (DAZN 1); 18:45 Eastleigh v
     <desc lang="en">Watch Soccer action as Nizwa takes on Bidiyah
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 14:00 Germany U17 vs. Israel U17 (DAZN 4); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261001184500 +0000" stop="20261001210000 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">UEFA Nations League: Malta vs. Gibraltar</title>
-    <desc lang="en">Watch Soccer action as Gibraltar takes on Malta
+  <programme start="20261001173000 +0000" stop="20261001203000 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Balmoral Group: Carter Efe vs. Speed</title>
+    <desc lang="en">Nigerian Independence Day sees the latest edition of 'Chaos in the Ring' on DAZN, as Carter Efe and Speed collide in a high-octane crossover matchup on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 5); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Denmark vs. Portugal (DAZN 7); 18:45 Greece vs. Netherlands (DAZN 8); 18:45 Republic of Ireland vs. Austria (DAZN 9); 18:45 Wales vs. Norway (DAZN 10)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 7); 18:45 Denmark vs. Portugal (DAZN 8); 18:45 Greece vs. Netherlands (DAZN 9); 18:45 Republic of Ireland vs. Austria (DAZN 10); 18:45 Wales vs. Norway (DAZN 11)</desc>
+    <category lang="en">Boxing</category>
   </programme>
   <programme start="20261002140000 +0000" stop="20261002161500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">1 Lyga - Lithuania: FK Minija vs. FK Žalgiris B</title>
-    <desc lang="en">Watch Soccer action as Kauno Žalgiris takes on Minija
+    <title lang="en">UEFA Nations League: Kazakhstan vs. Moldova</title>
+    <desc lang="en">Watch Soccer action as Moldova takes on Kazakhstan
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:05 Al Taliya vs. Muscat (DAZN 3); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 4); 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:00 Mbuni vs. Gunners FC (DAZN 3); 13:05 Al Taliya vs. Muscat (DAZN 4); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261002163000 +0000" stop="20261002184500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">Frauen Bundesliga: Leverkusen vs. Werder Bremen</title>
-    <desc lang="en">Watch Soccer action as Bayer Leverkusen takes on Werder Bremen
+  <programme start="20261002163000 +0000" stop="20261002180000 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Rally Italia Sardegna: Report from Media Zone Service C</title>
+    <sub-title lang="en">WRC</sub-title>
+    <desc lang="en">Watch the latest World Rally Championship action from the Rally Italia Sardegna.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 5); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10); 18:30 London Lions vs. Leicester Riders (DAZN 2); 18:30 Bristol Flyers vs. Manchester Basketball (DAZN 3); 18:30 Newcastle Eagles vs. Caledonia Gladiators (DAZN 4)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
+    <category lang="en">Motorsport</category>
   </programme>
   <programme start="20261002184500 +0000" stop="20261002210000 +0000" channel="CA| DAZN 6 HD">
     <title lang="en">UEFA Nations League: Belgium vs. Türkiye</title>
@@ -5151,7 +5138,7 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 4 (DAZN 1); 08:30 Hepi vs. Sh
     <desc lang="en">Watch the latest World Rally Championship action from the Rally Italia Sardegna.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4)</desc>
     <category lang="en">Motorsport</category>
   </programme>
   <programme start="20261003140000 +0000" stop="20261003161500 +0000" channel="CA| DAZN 6 HD">
@@ -5159,7 +5146,7 @@ Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico
     <desc lang="en">Watch Soccer action as Worthing takes on Gateshead
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham; 14:00 Scunthorpe vs. Forest Green; 14:00 Yeovil vs. Boston; 14:00 Eastleigh vs. Woking</desc>
+Istodobno na DAZN-u (UTC): 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham; 14:00 Scunthorpe vs. Forest Green; 14:00 Yeovil vs. Boston; 14:00 Eastleigh vs. Woking; 14:00 Harrogate vs. Hornchurch</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003163000 +0000" stop="20261003200000 +0000" channel="CA| DAZN 6 HD">
@@ -5224,24 +5211,32 @@ Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 17:00 C
     <desc lang="en">Watch the latest World Rally Championship action from the Rally Italia Sardegna.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 4); 14:00 Faroe Islands U19 vs. Slovenia U19 (DAZN 8)</desc>
     <category lang="en">Motorsport</category>
   </programme>
   <programme start="20261001184500 +0000" stop="20261001210000 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">UEFA Nations League: Denmark vs. Portugal</title>
-    <desc lang="en">Watch Soccer action as Portugal takes on Denmark
+    <title lang="en">UEFA Nations League: Malta vs. Gibraltar</title>
+    <desc lang="en">Watch Soccer action as Gibraltar takes on Malta
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 5); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 6); 18:45 Greece vs. Netherlands (DAZN 8); 18:45 Republic of Ireland vs. Austria (DAZN 9); 18:45 Wales vs. Norway (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Denmark vs. Portugal (DAZN 8); 18:45 Greece vs. Netherlands (DAZN 9); 18:45 Republic of Ireland vs. Austria (DAZN 10); 18:45 Wales vs. Norway (DAZN 11)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261002153000 +0000" stop="20261002183000 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">U15 Baseball World Cup 2026 - Day 7 - Beto Avila</title>
-    <desc lang="en">U15 Baseball World Cup 2026 - Day 7 - Beto Avila
+  <programme start="20261002140000 +0000" stop="20261002161500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">1 Lyga - Lithuania: FK Minija vs. FK Žalgiris B</title>
+    <desc lang="en">Watch Soccer action as Kauno Žalgiris takes on Minija
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 5); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
-    <category lang="en">Baseball</category>
+Istodobno na DAZN-u (UTC): 12:00 DFC8 vs. AS Douanes (DAZN 1); 12:31 Rally Italia Sardegna: Stage 5 (DAZN 2); 13:00 Mbuni vs. Gunners FC (DAZN 3); 13:05 Al Taliya vs. Muscat (DAZN 4); 13:31 Rally Italia Sardegna: Stage 6 (DAZN 5); 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261002163000 +0000" stop="20261002184500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Frauen Bundesliga: Leverkusen vs. Werder Bremen</title>
+    <desc lang="en">Watch Soccer action as Bayer Leverkusen takes on Werder Bremen
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 6); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10); 18:30 London Lions vs. Leicester Riders (DAZN 2); 18:30 Bristol Flyers vs. Manchester Basketball (DAZN 3); 18:30 Newcastle Eagles vs. Caledonia Gladiators (DAZN 4)</desc>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002184500 +0000" stop="20261002210000 +0000" channel="CA| DAZN 7 HD">
     <title lang="en">UEFA Nations League: Faroe Islands vs. Slovakia</title>
@@ -5274,7 +5269,7 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 4 (DAZN 1); 05:00 Pocheon Cit
     <desc lang="en">Watch Soccer action as Limkokwing University takes on Linare
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:45 Bantu FC vs. Mzamane FC (DAZN 2); 10:00 FK Garliava vs. DFK Dainava (DAZN 5); 10:30 Rally Italia Sardegna: Report from Media Zone Service D (DAZN 6); 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 09:45 Bantu FC vs. Mzamane FC (DAZN 2); 10:00 FK Garliava vs. DFK Dainava (DAZN 5); 10:30 Rally Italia Sardegna: Report from Media Zone Service D (DAZN 6); 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003140000 +0000" stop="20261003161500 +0000" channel="CA| DAZN 7 HD">
@@ -5282,7 +5277,7 @@ Istodobno na DAZN-u (UTC): 09:45 Bantu FC vs. Mzamane FC (DAZN 2); 10:00 FK Garl
     <desc lang="en">Watch all the action from the National League on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham; 14:00 Scunthorpe vs. Forest Green; 14:00 Yeovil vs. Boston; 14:00 Eastleigh vs. Woking</desc>
+Istodobno na DAZN-u (UTC): 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Hartlepool vs. Tamworth; 14:00 Boreham Wood vs. Altrincham; 14:00 Scunthorpe vs. Forest Green; 14:00 Yeovil vs. Boston; 14:00 Eastleigh vs. Woking; 14:00 Harrogate vs. Hornchurch</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003163000 +0000" stop="20261003193000 +0000" channel="CA| DAZN 7 HD">
@@ -5346,15 +5341,15 @@ Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 17:00 C
     <desc lang="en">Watch Soccer action as Faroe Islands U19 takes on Slovenia U19
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Rally Italia Sardegna: Pre Show from Alghero Sea Front (DAZN 4); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 3); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2)</desc>
+Istodobno na DAZN-u (UTC): 12:30 Indonesia vs. Bangladesh (DAZN 1); 12:30 Malaysia vs. Singapore (DAZN 2); 13:00 Whittaker vs. Wallace: Press Conference (DAZN 3); 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 13:15 Nizwa vs. Bidiyah (DAZN 6); 14:00 Germany U17 vs. Israel U17 (DAZN 4); 14:00 Rally Italia Sardegna: Stage 1 (DAZN 7); 15:30 U15 Baseball World Cup 2026 - Day 6 - Beto Avila (DAZN 1); 16:00 Azerbaijan vs. Liechtenstein (DAZN 2)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261001184500 +0000" stop="20261001210000 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">UEFA Nations League: Greece vs. Netherlands</title>
-    <desc lang="en">Watch Soccer action as Netherlands takes on Greece
+    <title lang="en">UEFA Nations League: Denmark vs. Portugal</title>
+    <desc lang="en">Watch Soccer action as Portugal takes on Denmark
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 5); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 6); 18:45 Denmark vs. Portugal (DAZN 7); 18:45 Republic of Ireland vs. Austria (DAZN 9); 18:45 Wales vs. Norway (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 7); 18:45 Greece vs. Netherlands (DAZN 9); 18:45 Republic of Ireland vs. Austria (DAZN 10); 18:45 Wales vs. Norway (DAZN 11)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002160000 +0000" stop="20261002181500 +0000" channel="CA| DAZN 8 HD">
@@ -5362,7 +5357,7 @@ Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan 
     <desc lang="en">Watch Soccer action as Armenia takes on Cyprus
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 5); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 6); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002184500 +0000" stop="20261002210000 +0000" channel="CA| DAZN 8 HD">
@@ -5386,7 +5381,7 @@ Istodobno na DAZN-u (UTC): 23:30 Gamebred FC - Dominican Republic (DAZN 1); 00:0
     <desc lang="en">Watch Soccer action as Finland takes on Albania
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003174500 +0000" channel="CA| DAZN 8 HD">
@@ -5438,11 +5433,11 @@ Istodobno na DAZN-u (UTC): 17:00 Cowboys @ Texans (DAZN 1); 17:00 Jaguars @ Beng
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261001184500 +0000" stop="20261001210000 +0000" channel="CA| DAZN 9 HD">
-    <title lang="en">UEFA Nations League: Republic of Ireland vs. Austria</title>
-    <desc lang="en">Watch Soccer action as Republic of Ireland takes on Austria
+    <title lang="en">UEFA Nations League: Greece vs. Netherlands</title>
+    <desc lang="en">Watch Soccer action as Netherlands takes on Greece
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 5); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 6); 18:45 Denmark vs. Portugal (DAZN 7); 18:45 Greece vs. Netherlands (DAZN 8); 18:45 Wales vs. Norway (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 7); 18:45 Denmark vs. Portugal (DAZN 8); 18:45 Republic of Ireland vs. Austria (DAZN 10); 18:45 Wales vs. Norway (DAZN 11)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002160000 +0000" stop="20261002181500 +0000" channel="CA| DAZN 9 HD">
@@ -5450,7 +5445,7 @@ Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan 
     <desc lang="en">Watch Soccer action as Latvia takes on Montenegro
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 5); 14:00 FK Minija vs. FK Žalgiris B (DAZN 6); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 5); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Moldova (DAZN 6); 14:00 FK Minija vs. FK Žalgiris B (DAZN 7); 14:38 Rally Italia Sardegna: Stage 7 (DAZN 1); 15:00 Freestyle Friday Season Restart (DAZN 2); 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 6); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 17:00 Faour vs. Sachbazjan (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002184500 +0000" stop="20261002210000 +0000" channel="CA| DAZN 9 HD">
@@ -5475,7 +5470,7 @@ Istodobno na DAZN-u (UTC): 23:30 Gamebred FC - Dominican Republic (DAZN 1); 00:0
     <desc lang="en">Watch Soccer action as Gintra takes on TransINVEST Vilnius
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003174500 +0000" channel="CA| DAZN 9 HD">
@@ -5519,11 +5514,11 @@ Istodobno na DAZN-u (UTC): 17:00 Cowboys @ Texans (DAZN 1); 17:00 Jaguars @ Beng
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261001184500 +0000" stop="20261001210000 +0000" channel="CA| DAZN 10 HD">
-    <title lang="en">UEFA Nations League: Wales vs. Norway</title>
-    <desc lang="en">Watch Soccer action as Norway takes on Wales
+    <title lang="en">UEFA Nations League: Republic of Ireland vs. Austria</title>
+    <desc lang="en">Watch Soccer action as Republic of Ireland takes on Austria
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 5); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 6); 18:45 Denmark vs. Portugal (DAZN 7); 18:45 Greece vs. Netherlands (DAZN 8); 18:45 Republic of Ireland vs. Austria (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 7); 18:45 Denmark vs. Portugal (DAZN 8); 18:45 Greece vs. Netherlands (DAZN 9); 18:45 Wales vs. Norway (DAZN 11)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261002170000 +0000" stop="20261002200000 +0000" channel="CA| DAZN 10 HD">
@@ -5531,7 +5526,7 @@ Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan 
     <desc lang="en">Primetime Boxing returns to DAZN in emphatic fashion, as Narek Sachbazjan (6-0-1) collides with Elias Faour (8-0) in a fantastic super featherweight main event.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 7); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 5); 16:30 Leverkusen vs. Werder Bremen (DAZN 6); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 18:30 London Lions vs. Leicester Riders (DAZN 2); 18:30 Bristol Flyers vs. Manchester Basketball (DAZN 3); 18:30 Newcastle Eagles vs. Caledonia Gladiators (DAZN 4); 18:45 France vs. Italy (DAZN 5); 18:45 Belgium vs. Türkiye (DAZN 6); 18:45 Faroe Islands vs. Slovakia (DAZN 7); 18:45 Poland vs. Romania (DAZN 8); 18:45 Hungary vs. Georgia (DAZN 9); 18:45 Bosnia-Herzegovina vs. Sweden (DAZN 11); 18:45 Ukraine vs. Northern Ireland (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS UAM vs. AS Douanes (DAZN 4); 15:30 U15 Baseball World Cup 2026 - Day 7 - Beto Avila (DAZN 5); 16:00 Cyprus vs. Armenia (DAZN 8); 16:00 Latvia vs. Montenegro (DAZN 9); 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan (DAZN 1); 16:30 Rally Italia Sardegna: Report from Media Zone Service C (DAZN 6); 16:30 Leverkusen vs. Werder Bremen (DAZN 7); 17:00 Whittaker vs. Wallace: Weigh-In (DAZN 2); 18:30 London Lions vs. Leicester Riders (DAZN 2); 18:30 Bristol Flyers vs. Manchester Basketball (DAZN 3); 18:30 Newcastle Eagles vs. Caledonia Gladiators (DAZN 4); 18:45 France vs. Italy (DAZN 5); 18:45 Belgium vs. Türkiye (DAZN 6); 18:45 Faroe Islands vs. Slovakia (DAZN 7); 18:45 Poland vs. Romania (DAZN 8); 18:45 Hungary vs. Georgia (DAZN 9); 18:45 Bosnia-Herzegovina vs. Sweden (DAZN 11); 18:45 Ukraine vs. Northern Ireland (DAZN 12)</desc>
     <category lang="en">Boxing</category>
   </programme>
   <programme start="20261003130000 +0000" stop="20261003151500 +0000" channel="CA| DAZN 10 HD">
@@ -5539,7 +5534,7 @@ Istodobno na DAZN-u (UTC): 15:30 Salitas FC vs. Réal du Faso (DAZN 3); 15:30 AS
     <desc lang="en">Watch Soccer action as Musongati takes on Never Give Up Academy
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003174500 +0000" channel="CA| DAZN 10 HD">
@@ -5574,6 +5569,14 @@ Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 13:30 C
 Istodobno na DAZN-u (UTC): 17:00 Cowboys @ Texans (DAZN 1); 17:00 Jaguars @ Bengals (DAZN 11); 17:00 Patriots @ Bills (DAZN 12); 17:00 Cardinals @ Giants (DAZN 13); 17:00 Packers @ Buccaneers; 17:00 Rams @ Eagles; 17:00 Titans @ Ravens; 17:00 Jets @ Bears; 17:00 JAX @ CIN, GB @ TB, TEN @ BAL, RedZone; 17:00 LAR @ PHI, GB @ TB, NYJ @ CHI, TEN @ BAL; 17:00 LAR @ PHI, JAX @ CIN, NE @ BUF, RedZone; 17:00 DAL @ HOU, NYJ @ CHI, TEN @ BAL, ARI @ NYG; 17:00 LAR @ PHI, JAX @ CIN, NE @ BUF, DAL @ HOU; 17:00 NE @ BUF, GB @ TB, ARI @ NYG, RedZone; 17:00 GB @ TB, NYJ @ CHI, TEN @ BAL, ARI @ NYG; 17:00 JAX @ CIN, DAL @ HOU, GB @ TB, ARI @ NYG; 17:00 JAX @ CIN, NE @ BUF, DAL @ HOU, RedZone; 17:00 NFL Redzone - Week 4; 17:00 NE @ BUF, DAL @ HOU, NYJ @ CHI, RedZone; 17:00 U15 Baseball World Cup 2026 - Day 9</desc>
     <category lang="en">Soccer</category>
   </programme>
+  <programme start="20261001184500 +0000" stop="20261001210000 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">UEFA Nations League: Wales vs. Norway</title>
+    <desc lang="en">Watch Soccer action as Norway takes on Wales
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:00 Vertex Cup London 2026 - Matchday 1 (DAZN 5); 16:30 U15 Baseball World Cup 2026 - Day 6 - Kukulkan (DAZN 3); 17:00 EFC 138: Djikasa vs. Born (DAZN 4); 17:30 Carter Efe vs. Speed (DAZN 6); 18:45 Germany vs. Serbia (DAZN 1); 18:45 Israel vs. Kosovo (DAZN 2); 18:45 Malta vs. Gibraltar (DAZN 7); 18:45 Denmark vs. Portugal (DAZN 8); 18:45 Greece vs. Netherlands (DAZN 9); 18:45 Republic of Ireland vs. Austria (DAZN 10)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
   <programme start="20261002184500 +0000" stop="20261002210000 +0000" channel="CA| DAZN 11 HD">
     <title lang="en">UEFA Nations League: Bosnia-Herzegovina vs. Sweden</title>
     <desc lang="en">Watch Soccer action as Sweden takes on Bosnia-Herzegovina
@@ -5587,7 +5590,7 @@ Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan 
     <desc lang="en">Watch Soccer action as Fiorentina takes on Sassuolo
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003153000 +0000" stop="20261003183000 +0000" channel="CA| DAZN 11 HD">
@@ -5627,7 +5630,7 @@ Istodobno na DAZN-u (UTC): 16:30 U15 Baseball World Cup 2026 - Day 7 - Kukulkan 
     <desc lang="en">Watch Soccer action as Aigle Noir takes on Ngozi City
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Tanzania Prisons SC vs. Songea United FC (DAZN 13); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 KFV Mitrovica vs. KFF Malisheva (DAZN 13); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003155500 +0000" stop="20261003181000 +0000" channel="CA| DAZN 12 HD">
@@ -5655,11 +5658,11 @@ Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 15:00 Z
     <category lang="en">Football</category>
   </programme>
   <programme start="20261003130000 +0000" stop="20261003151500 +0000" channel="CA| DAZN 13 HD">
-    <title lang="en">Championship League - Tanzania : Tanzania Prisons SC vs. Songea United FC</title>
-    <desc lang="en">Watch Soccer action as Tanzania Prisons takes on Songea United
+    <title lang="en">Superliga e Femrave - Kosovo: KFV Mitrovica vs. KFF Malisheva</title>
+    <desc lang="en">Watch Soccer action as Malisheva takes on Mitrovica
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 KFV Mitrovica vs. KFF Malisheva; 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 11:00 Rukinzo vs. Young Star (DAZN 1); 11:00 Atletico Lusaka vs. Aguila Stars (DAZN 4); 11:30 Chesterfield vs. Tranmere (DAZN 3); 11:45 Limkokwing FC vs. Linare FC (DAZN 7); 12:10 RWS: Duan 99 vs. Kradooklek (DAZN 2); 12:20 Singapore - Nations Cup Show (DAZN 5); 12:30 Rally Italia Sardegna: Stage 11 (DAZN 6); 13:00 Finland vs. Albania (DAZN 8); 13:00 FK Gintra vs. FK TransINVEST (DAZN 9); 13:00 Never Give Up vs. Musongati (DAZN 10); 13:00 Fiorentina vs. Sassuolo (DAZN 11); 13:00 Aigle Noir vs. Ngozi City (DAZN 12); 13:00 LCS FC vs. Matlama FC; 13:00 Kitwe United vs. Ndola United; 13:41 Rally Italia Sardegna: Stage 12 (DAZN 1); 13:45 Muzinga vs. Olympic Star (DAZN 3); 13:45 Lijabatho FC vs. Lioli FC (DAZN 4); 14:00 Aldershot vs. Carlisle (DAZN 5); 14:00 Gateshead vs. Worthing (DAZN 6); 14:00 Solihull Moors vs. FC Halifax Town (DAZN 7)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261003160000 +0000" stop="20261003181500 +0000" channel="CA| DAZN 13 HD">
@@ -5685,14 +5688,6 @@ Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 13:00 L
 
 Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 15:00 Zaragoza vs. Valencia; 15:00 Coton FC vs. Bani Ganse FC; 15:00 Cavaliers FC v Dynamo FC AB; 15:00 Manchester Basketball vs. Liverpool; 15:15 Wombèye AC vs. AS FAN (DAZN 4); 15:30 AS ZAM vs. AS GNN (DAZN 5); 15:30 Sporting Cascades vs. FocuSport FC (DAZN 6); 15:30 AS Maya vs. CFFEB (DAZN 7); 15:30 RC Kadiogo vs. US Forces Armées (DAZN 8); 16:00 Kosovo vs. Austria (DAZN 3); 16:00 Malta vs. Andorra (DAZN 9); 16:00 Baskonia vs. Girona (DAZN 10); 17:00 Cowboys @ Texans (DAZN 1); 17:00 Jaguars @ Bengals (DAZN 11); 17:00 Patriots @ Bills (DAZN 12); 17:00 Packers @ Buccaneers; 17:00 Rams @ Eagles; 17:00 Titans @ Ravens; 17:00 Jets @ Bears</desc>
     <category lang="en">Football</category>
-  </programme>
-  <programme start="20260930220000 +0000" stop="20261001020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261001020000 +0000" stop="20261001060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261001060000 +0000" stop="20261001090000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
@@ -5826,11 +5821,11 @@ Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 15:00 Z
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20260930220000 +0000" stop="20261001020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261005000000 +0000" stop="20261005040000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261001020000 +0000" stop="20261001060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261005040000 +0000" stop="20261005080000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -5950,11 +5945,7 @@ Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 15:00 Z
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20260930220000 +0000" stop="20261001020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261001020000 +0000" stop="20261001060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+  <programme start="20261005020000 +0000" stop="20261005060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -6062,11 +6053,7 @@ Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 15:00 Z
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20260930220000 +0000" stop="20261001020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261001020000 +0000" stop="20261001060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+  <programme start="20261005020000 +0000" stop="20261005060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -6171,6 +6158,10 @@ Istodobno na DAZN-u (UTC): 11:00 Beijing Open: Day 5 Session 2 (DAZN 2); 15:00 Z
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261004220000 +0000" stop="20261005020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20261005020000 +0000" stop="20261005060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
