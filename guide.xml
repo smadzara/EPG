@@ -3543,7 +3543,7 @@
   </programme>
   <programme start="20261007173000 +0000" stop="20261007180000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Ligue 1 Highlights Show</title>
-    <desc lang="en">Match Day 3.(c)</desc>
+    <desc lang="en">Match Day 3.</desc>
     <category lang="en">Sports related</category>
     <category lang="en">Sports talk</category>
   </programme>
@@ -3567,7 +3567,7 @@
   </programme>
   <programme start="20261007223000 +0000" stop="20261007230000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Ligue 1 Highlights Show</title>
-    <desc lang="en">Match Day 3.(c)</desc>
+    <desc lang="en">Match Day 3.</desc>
     <category lang="en">Sports related</category>
     <category lang="en">Sports talk</category>
   </programme>
@@ -3849,7 +3849,7 @@
   </programme>
   <programme start="20261009165500 +0000" stop="20261009190000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Turkish Super Lig Soccer</title>
-    <desc lang="en">Galatasaray vs. Kasimpasa.(c)</desc>
+    <desc lang="en">Galatasaray vs. Kasimpasa.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Soccer</category>
   </programme>
@@ -3949,12 +3949,11 @@ Istodobno na DAZN-u (UTC): 19:00 NFL Live (DAZN 10)</desc>
 Istodobno na DAZN-u (UTC): 00:15 Falcons @ Saints (DAZN 2); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:00 Beijing Open: Day 7 (DAZN 4); 03:30 NFL GameDay Final (DAZN 5)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261006113000 +0000" stop="20261006134500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Flamurtari vs. KF Gramshi</title>
+  <programme start="20261006113000 +0000" stop="20261006140000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Kupa e Shqipërisë - Albania: Flamurtari FC vs. KF Gramshi</title>
     <desc lang="en">Watch Soccer action as KF Gramshi takes on Flamurtari
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 7 (DAZN 4); 11:30 Besëlidhja Lezhë vs. Sopoti Librazhd (DAZN 2); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 3); 12:00 Kabayel vs. Hysa: Launch Press Conference (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 7 (DAZN 4); 11:30 KF Besëlidhja vs. KF Sopoti (DAZN 2); 11:30 KF Skënderbeu vs. KF Naftëtari (DAZN 3); 12:00 Kabayel vs. Hysa: Launch Press Conference (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261006140000 +0000" stop="20261006161500 +0000" channel="CA| DAZN 1 HD">
@@ -3993,7 +3992,7 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
     <desc lang="en">Watch Day 8 of the Beijing Open on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 KF Besa vs. KS Devolli (DAZN 3); 11:30 KF Laçi vs. KF Këlcyra (DAZN 4); 11:30 KS Lushnja vs. KF Shiroka (DAZN 5); 11:30 KS Kastrioti vs. Luzi 2008 (DAZN 6); 11:30 KF Oriku vs. KF Butrinti (DAZN 7); 11:30 FK Kukësi vs. KF Erzeni (DAZN 8); 11:30 KS Pogradeci vs. KS Delvina (DAZN 9); 11:30 FK Apolonia vs. KF Maliqi (DAZN 10)</desc>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20261007160000 +0000" stop="20261007181500 +0000" channel="CA| DAZN 1 HD">
@@ -4023,9 +4022,7 @@ Istodobno na DAZN-u (UTC): 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Spartak Sub
     <title lang="en">Beijing Open: Day 9</title>
     <sub-title lang="en">WTA China Open</sub-title>
     <desc lang="en">Watch Day 9 of the China Open Women Single on DAZN.
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 13:00 Muzinga vs. Young Star (DAZN 2)</desc>
+(Kraj procijenjen.)</desc>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20261008160000 +0000" stop="20261008170000 +0000" channel="CA| DAZN 1 HD">
@@ -4066,15 +4063,15 @@ Istodobno na DAZN-u (UTC): 00:15 Buccaneers @ Cowboys (DAZN 2)</desc>
     <desc lang="en">Watch Day 10 of the China Open Women Single on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 13:00 KMC FC vs. Gunners FC (DAZN 2); 13:00 Royal Vision vs. Kayanza United (DAZN 3); 13:10 Al Jazira Al Hamra vs. Dibba Al Fujairah (DAZN 4); 13:15 Al Ittifaq vs. Al Dhaid (DAZN 5); 13:15 Al Arabi vs. Gulf United (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 13:00 KMC FC vs. Gunners FC (DAZN 2); 13:10 Al Jazira Al Hamra vs. Dibba Al Fujairah (DAZN 3); 13:15 Al Ittifaq vs. Al Dhaid (DAZN 4); 13:15 Al Arabi vs. Gulf United (DAZN 5)</desc>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20261009153000 +0000" stop="20261009174500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">Ligue 1 - Burkina Faso: CFFEB vs. Salitas FC</title>
-    <desc lang="en">Watch Soccer action as CFFEB takes on Salitas
+    <title lang="en">Ligue 1 - Burkina Faso: ASF Bobo vs. Majestic FC</title>
+    <desc lang="en">Watch Soccer action as Majestic takes on ASFB
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Joey Essex vs. Dapper Laughs: Weigh-In (DAZN 2)</desc>
+Istodobno na DAZN-u (UTC): 15:30 CFFEB vs. Salitas FC (DAZN 2); 16:00 Joey Essex vs. Dapper Laughs: Weigh-In (DAZN 3)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261009180000 +0000" stop="20261009190000 +0000" channel="CA| DAZN 1 HD">
@@ -4129,12 +4126,11 @@ Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs.
 Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:00 Beijing Open: Day 7 (DAZN 4); 03:30 NFL GameDay Final (DAZN 5)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261006113000 +0000" stop="20261006134500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Besëlidhja Lezhë vs. Sopoti Librazhd</title>
+  <programme start="20261006113000 +0000" stop="20261006140000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Kupa e Shqipërisë - Albania: KF Besëlidhja vs. KF Sopoti</title>
     <desc lang="en">Watch Soccer action as Besëlidhja Lezhë takes on Sopoti Librazhd
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 7 (DAZN 4); 11:30 Flamurtari vs. KF Gramshi (DAZN 1); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 3); 12:00 Kabayel vs. Hysa: Launch Press Conference (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 7 (DAZN 4); 11:30 Flamurtari FC vs. KF Gramshi (DAZN 1); 11:30 KF Skënderbeu vs. KF Naftëtari (DAZN 3); 12:00 Kabayel vs. Hysa: Launch Press Conference (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261006154500 +0000" stop="20261006180000 +0000" channel="CA| DAZN 2 HD">
@@ -4158,7 +4154,7 @@ Istodobno na DAZN-u (UTC): 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:00 Germa
     <desc lang="en">Watch the Vertex Cup London 2026 on DAZN, featuring top U17 talent from Argentina, Mexico, China and Tanzania.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 11:30 KF Besa vs. KS Devolli (DAZN 3); 11:30 KF Laçi vs. KF Këlcyra (DAZN 4); 11:30 KS Lushnja vs. KF Shiroka (DAZN 5); 11:30 KS Kastrioti vs. Luzi 2008 (DAZN 6); 11:30 KF Oriku vs. KF Butrinti (DAZN 7); 11:30 FK Kukësi vs. KF Erzeni (DAZN 8); 11:30 KS Pogradeci vs. KS Delvina (DAZN 9); 11:30 FK Apolonia vs. KF Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007160000 +0000" stop="20261007181500 +0000" channel="CA| DAZN 2 HD">
@@ -4168,14 +4164,6 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 11:30 Besa Kavaj�
 
 Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1); 16:00 SK Slavia Prague vs. Berlin (DAZN 3); 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Bonn vs. Porto (DAZN 6); 18:00 Antwerp Giants vs. Szombathely (DAZN 7)</desc>
     <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20261008130000 +0000" stop="20261008151500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Ligue A - Burundi: Muzinga vs. Young Star</title>
-    <desc lang="en">Watch Soccer action as Young Star FC takes on Muzinga
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 9 (DAZN 1)</desc>
-    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261008160000 +0000" stop="20261008180000 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">Women's Red Bull Rampage</title>
@@ -4207,16 +4195,16 @@ Istodobno na DAZN-u (UTC): 22:30 Iglesias vs. Zaren (DAZN 1)</desc>
     <desc lang="en">Watch Soccer action as KMC takes on Gunners FC
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 10 (DAZN 1); 13:00 Royal Vision vs. Kayanza United (DAZN 3); 13:10 Al Jazira Al Hamra vs. Dibba Al Fujairah (DAZN 4); 13:15 Al Ittifaq vs. Al Dhaid (DAZN 5); 13:15 Al Arabi vs. Gulf United (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 10 (DAZN 1); 13:10 Al Jazira Al Hamra vs. Dibba Al Fujairah (DAZN 3); 13:15 Al Ittifaq vs. Al Dhaid (DAZN 4); 13:15 Al Arabi vs. Gulf United (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261009160000 +0000" stop="20261009170000 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Misfits Boxing: Joey Essex vs. Dapper Laughs: Weigh-In</title>
-    <desc lang="en">The fighters hit the scales at the official weigh-in ceremony on DAZN, ahead of a scintillating night of crossover boxing at London's Copper Box Arena.
+  <programme start="20261009153000 +0000" stop="20261009174500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Ligue 1 - Burkina Faso: CFFEB vs. Salitas FC</title>
+    <desc lang="en">Watch Soccer action as CFFEB takes on Salitas
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:30 CFFEB vs. Salitas FC (DAZN 1)</desc>
-    <category lang="en">Boxing</category>
+Istodobno na DAZN-u (UTC): 15:30 ASF Bobo vs. Majestic FC (DAZN 1); 16:00 Joey Essex vs. Dapper Laughs: Weigh-In (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261009183000 +0000" stop="20261009204500 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">Bundesliga: Dortmund vs. Werder Bremen</title>
@@ -4256,12 +4244,11 @@ Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs.
 Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (DAZN 2); 03:00 Beijing Open: Day 7 (DAZN 4); 03:30 NFL GameDay Final (DAZN 5)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261006113000 +0000" stop="20261006134500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Skënderbeu Korçë vs. Naftëtari Kuçovë</title>
+  <programme start="20261006113000 +0000" stop="20261006140000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Kupa e Shqipërisë - Albania: KF Skënderbeu vs. KF Naftëtari</title>
     <desc lang="en">Watch Soccer action as Skënderbeu Korçë takes on Naftëtari Kuçovë
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 7 (DAZN 4); 11:30 Flamurtari vs. KF Gramshi (DAZN 1); 11:30 Besëlidhja Lezhë vs. Sopoti Librazhd (DAZN 2); 12:00 Kabayel vs. Hysa: Launch Press Conference (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 7 (DAZN 4); 11:30 Flamurtari FC vs. KF Gramshi (DAZN 1); 11:30 KF Besëlidhja vs. KF Sopoti (DAZN 2); 12:00 Kabayel vs. Hysa: Launch Press Conference (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261006160000 +0000" stop="20261006181500 +0000" channel="CA| DAZN 3 HD">
@@ -4281,11 +4268,11 @@ Istodobno na DAZN-u (UTC): 16:30 Peristeri vs. Bamberg (DAZN 1); 16:30 Vilnius R
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Besa Kavajë vs. Devolli</title>
+    <title lang="en">Kupa e Shqipërisë - Albania: KF Besa vs. KS Devolli</title>
     <desc lang="en">Watch Soccer action as Besa Kavajë takes on Devolli
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 KF Laçi vs. KF Këlcyra (DAZN 4); 11:30 KS Lushnja vs. KF Shiroka (DAZN 5); 11:30 KS Kastrioti vs. Luzi 2008 (DAZN 6); 11:30 KF Oriku vs. KF Butrinti (DAZN 7); 11:30 FK Kukësi vs. KF Erzeni (DAZN 8); 11:30 KS Pogradeci vs. KS Delvina (DAZN 9); 11:30 FK Apolonia vs. KF Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007160000 +0000" stop="20261007181500 +0000" channel="CA| DAZN 3 HD">
@@ -4296,13 +4283,21 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
 Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1); 16:00 AEK vs. Salon Vilpas Vikings (DAZN 2); 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Bonn vs. Porto (DAZN 6); 18:00 Antwerp Giants vs. Szombathely (DAZN 7)</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261009130000 +0000" stop="20261009151500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Ligue A - Burundi: Royal Vision vs. Kayanza United</title>
-    <desc lang="en">Watch Soccer action as Royal Vision takes on Kayanza United
+  <programme start="20261009131000 +0000" stop="20261009152500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Division 1 - UAE: Al Jazira Al Hamra vs. Dibba Al Fujairah</title>
+    <desc lang="en">Watch Soccer action as Al Jazira Al Hamra takes on Dibba Al Fujairah
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 10 (DAZN 1); 13:00 KMC FC vs. Gunners FC (DAZN 2); 13:10 Al Jazira Al Hamra vs. Dibba Al Fujairah (DAZN 4); 13:15 Al Ittifaq vs. Al Dhaid (DAZN 5); 13:15 Al Arabi vs. Gulf United (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 10 (DAZN 1); 13:00 KMC FC vs. Gunners FC (DAZN 2); 13:15 Al Ittifaq vs. Al Dhaid (DAZN 4); 13:15 Al Arabi vs. Gulf United (DAZN 5)</desc>
     <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261009160000 +0000" stop="20261009170000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Misfits Boxing: Joey Essex vs. Dapper Laughs: Weigh-In</title>
+    <desc lang="en">The fighters hit the scales at the official weigh-in ceremony on DAZN, ahead of a scintillating night of crossover boxing at London's Copper Box Arena.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:30 ASF Bobo vs. Majestic FC (DAZN 1); 15:30 CFFEB vs. Salitas FC (DAZN 2)</desc>
+    <category lang="en">Boxing</category>
   </programme>
   <programme start="20261009183000 +0000" stop="20261009204500 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">Super League Basketball: Manchester Basketball vs. Cheshire Phoenix</title>
@@ -4334,21 +4329,13 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 6 (DAZN 3); 12:00 Good Mornin
 Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs. Gibraltar (DAZN 1); 18:45 Northern Ireland vs. Georgia (DAZN 2); 18:45 Romania vs. Sweden (DAZN 3); 18:45 France vs. Belgium (DAZN 5); 18:45 Montenegro vs. Armenia (DAZN 7); 18:45 Ukraine vs. Hungary (DAZN 8); 18:45 Bosnia-Herzegovina vs. Poland (DAZN 9); 19:00 NFL Live (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261006030000 +0000" stop="20261006120000 +0000" channel="CA| DAZN 4 HD">
+  <programme start="20261006030000 +0000" stop="20261006130000 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">Beijing Open: Day 7</title>
     <sub-title lang="en">WTA China Open</sub-title>
     <desc lang="en">Watch Day 7 of the Beijing Open on DAZN.
 
-Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (DAZN 2); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:30 NFL GameDay Final (DAZN 5); 11:30 Flamurtari vs. KF Gramshi (DAZN 1); 11:30 Besëlidhja Lezhë vs. Sopoti Librazhd (DAZN 2); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (DAZN 2); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:30 NFL GameDay Final (DAZN 5); 11:30 Flamurtari FC vs. KF Gramshi (DAZN 1); 11:30 KF Besëlidhja vs. KF Sopoti (DAZN 2); 11:30 KF Skënderbeu vs. KF Naftëtari (DAZN 3); 12:00 Kabayel vs. Hysa: Launch Press Conference (DAZN 5)</desc>
     <category lang="en">Tennis</category>
-  </programme>
-  <programme start="20261006120000 +0000" stop="20261006130000 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Kabayel v Hysa: Kabayel vs. Hysa: Launch Press Conference</title>
-    <desc lang="en">Watch the latest big fight announcement from Queensberry Promotions.
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 11:30 Flamurtari vs. KF Gramshi (DAZN 1); 11:30 Besëlidhja Lezhë vs. Sopoti Librazhd (DAZN 2); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 3)</desc>
-    <category lang="en">Boxing</category>
   </programme>
   <programme start="20261006160000 +0000" stop="20261006181500 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">UEFA U21 Championship Qualification: Germany U21 vs. Georgia U21</title>
@@ -4367,11 +4354,11 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Laçi vs. Këlcyra</title>
+    <title lang="en">Kupa e Shqipërisë - Albania: KF Laçi vs. KF Këlcyra</title>
     <desc lang="en">Watch Soccer action as Këlcyra takes on Laçi
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 KF Besa vs. KS Devolli (DAZN 3); 11:30 KS Lushnja vs. KF Shiroka (DAZN 5); 11:30 KS Kastrioti vs. Luzi 2008 (DAZN 6); 11:30 KF Oriku vs. KF Butrinti (DAZN 7); 11:30 FK Kukësi vs. KF Erzeni (DAZN 8); 11:30 KS Pogradeci vs. KS Delvina (DAZN 9); 11:30 FK Apolonia vs. KF Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007170000 +0000" stop="20261007191500 +0000" channel="CA| DAZN 4 HD">
@@ -4382,12 +4369,12 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
 Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1); 16:00 AEK vs. Salon Vilpas Vikings (DAZN 2); 16:00 SK Slavia Prague vs. Berlin (DAZN 3); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Bonn vs. Porto (DAZN 6); 18:00 Antwerp Giants vs. Szombathely (DAZN 7); 18:30 UCAM Murcia vs. Varese (DAZN 1)</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261009131000 +0000" stop="20261009152500 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Division 1 - UAE: Al Jazira Al Hamra vs. Dibba Al Fujairah</title>
-    <desc lang="en">Watch Soccer action as Al Jazira Al Hamra takes on Dibba Al Fujairah
+  <programme start="20261009131500 +0000" stop="20261009153000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Division 1 - UAE: Al Ittifaq vs. Al Dhaid</title>
+    <desc lang="en">Watch Soccer action as Al Dhaid takes on Al Ittifaq
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 10 (DAZN 1); 13:00 KMC FC vs. Gunners FC (DAZN 2); 13:00 Royal Vision vs. Kayanza United (DAZN 3); 13:15 Al Ittifaq vs. Al Dhaid (DAZN 5); 13:15 Al Arabi vs. Gulf United (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 10 (DAZN 1); 13:00 KMC FC vs. Gunners FC (DAZN 2); 13:10 Al Jazira Al Hamra vs. Dibba Al Fujairah (DAZN 3); 13:15 Al Arabi vs. Gulf United (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261009183000 +0000" stop="20261009204500 +0000" channel="CA| DAZN 4 HD">
@@ -4420,6 +4407,13 @@ Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs.
 Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (DAZN 2); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:00 Beijing Open: Day 7 (DAZN 4)</desc>
     <category lang="en">Football</category>
   </programme>
+  <programme start="20261006120000 +0000" stop="20261006124457 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Queensberry Promotions: Kabayel vs. Hysa: Launch Press Conference</title>
+    <desc lang="en">Watch the latest big fight announcement from Queensberry Promotions.
+
+Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 7 (DAZN 4); 11:30 Flamurtari FC vs. KF Gramshi (DAZN 1); 11:30 KF Besëlidhja vs. KF Sopoti (DAZN 2); 11:30 KF Skënderbeu vs. KF Naftëtari (DAZN 3)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
   <programme start="20261006163000 +0000" stop="20261006184500 +0000" channel="CA| DAZN 5 HD">
     <title lang="en">Basketball Champions League: Vilnius Rytas vs. Sabah</title>
     <desc lang="en">Watch Basketball action as Sabah takes on Vilnius Rytas
@@ -4437,11 +4431,11 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Lushnja vs. KF Shiroka</title>
+    <title lang="en">Kupa e Shqipërisë - Albania: KS Lushnja vs. KF Shiroka</title>
     <desc lang="en">Watch Soccer action as KF Shiroka takes on Lushnja
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 KF Besa vs. KS Devolli (DAZN 3); 11:30 KF Laçi vs. KF Këlcyra (DAZN 4); 11:30 KS Kastrioti vs. Luzi 2008 (DAZN 6); 11:30 KF Oriku vs. KF Butrinti (DAZN 7); 11:30 FK Kukësi vs. KF Erzeni (DAZN 8); 11:30 KS Pogradeci vs. KS Delvina (DAZN 9); 11:30 FK Apolonia vs. KF Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007180000 +0000" stop="20261007201500 +0000" channel="CA| DAZN 5 HD">
@@ -4453,11 +4447,11 @@ Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1);
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261009131500 +0000" stop="20261009153000 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">Division 1 - UAE: Al Ittifaq vs. Al Dhaid</title>
-    <desc lang="en">Watch Soccer action as Al Dhaid takes on Al Ittifaq
+    <title lang="en">Division 1 - UAE: Al Arabi vs. Gulf United</title>
+    <desc lang="en">Watch Soccer action as Gulf United takes on Al Arabi
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 10 (DAZN 1); 13:00 KMC FC vs. Gunners FC (DAZN 2); 13:00 Royal Vision vs. Kayanza United (DAZN 3); 13:10 Al Jazira Al Hamra vs. Dibba Al Fujairah (DAZN 4); 13:15 Al Arabi vs. Gulf United (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 10 (DAZN 1); 13:00 KMC FC vs. Gunners FC (DAZN 2); 13:10 Al Jazira Al Hamra vs. Dibba Al Fujairah (DAZN 3); 13:15 Al Ittifaq vs. Al Dhaid (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261009183000 +0000" stop="20261009204500 +0000" channel="CA| DAZN 5 HD">
@@ -4485,11 +4479,11 @@ Istodobno na DAZN-u (UTC): 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:00 Germa
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Kastrioti Krujë vs. Luzi 2008</title>
+    <title lang="en">Kupa e Shqipërisë - Albania: KS Kastrioti vs. Luzi 2008</title>
     <desc lang="en">Watch Soccer action as Kastrioti Krujë takes on Luzi 2008
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 KF Besa vs. KS Devolli (DAZN 3); 11:30 KF Laçi vs. KF Këlcyra (DAZN 4); 11:30 KS Lushnja vs. KF Shiroka (DAZN 5); 11:30 KF Oriku vs. KF Butrinti (DAZN 7); 11:30 FK Kukësi vs. KF Erzeni (DAZN 8); 11:30 KS Pogradeci vs. KS Delvina (DAZN 9); 11:30 FK Apolonia vs. KF Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007180000 +0000" stop="20261007201500 +0000" channel="CA| DAZN 6 HD">
@@ -4499,14 +4493,6 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
 
 Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1); 16:00 AEK vs. Salon Vilpas Vikings (DAZN 2); 16:00 SK Slavia Prague vs. Berlin (DAZN 3); 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Antwerp Giants vs. Szombathely (DAZN 7); 18:30 UCAM Murcia vs. Varese (DAZN 1)</desc>
     <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20261009131500 +0000" stop="20261009153000 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">Division 1 - UAE: Al Arabi vs. Gulf United</title>
-    <desc lang="en">Watch Soccer action as Gulf United takes on Al Arabi
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 10 (DAZN 1); 13:00 KMC FC vs. Gunners FC (DAZN 2); 13:00 Royal Vision vs. Kayanza United (DAZN 3); 13:10 Al Jazira Al Hamra vs. Dibba Al Fujairah (DAZN 4); 13:15 Al Ittifaq vs. Al Dhaid (DAZN 5)</desc>
-    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261009184500 +0000" stop="20261009210000 +0000" channel="CA| DAZN 6 HD">
     <title lang="en">Enterprise National League: Sutton vs. Boreham Wood</title>
@@ -4532,11 +4518,11 @@ Istodobno na DAZN-u (UTC): 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:00 Germa
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Oriku vs. Butrinti Sarandë</title>
+    <title lang="en">Kupa e Shqipërisë - Albania: KF Oriku vs. KF Butrinti</title>
     <desc lang="en">Watch Soccer action as Butrinti Sarandë takes on Oriku
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 KF Besa vs. KS Devolli (DAZN 3); 11:30 KF Laçi vs. KF Këlcyra (DAZN 4); 11:30 KS Lushnja vs. KF Shiroka (DAZN 5); 11:30 KS Kastrioti vs. Luzi 2008 (DAZN 6); 11:30 FK Kukësi vs. KF Erzeni (DAZN 8); 11:30 KS Pogradeci vs. KS Delvina (DAZN 9); 11:30 FK Apolonia vs. KF Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007180000 +0000" stop="20261007201500 +0000" channel="CA| DAZN 7 HD">
@@ -4571,11 +4557,11 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Kukësi vs. Erzeni Shijak</title>
+    <title lang="en">Kupa e Shqipërisë - Albania: FK Kukësi vs. KF Erzeni</title>
     <desc lang="en">Watch Soccer action as Erzeni Shijak takes on Kukësi
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 KF Besa vs. KS Devolli (DAZN 3); 11:30 KF Laçi vs. KF Këlcyra (DAZN 4); 11:30 KS Lushnja vs. KF Shiroka (DAZN 5); 11:30 KS Kastrioti vs. Luzi 2008 (DAZN 6); 11:30 KF Oriku vs. KF Butrinti (DAZN 7); 11:30 KS Pogradeci vs. KS Delvina (DAZN 9); 11:30 FK Apolonia vs. KF Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261005184500 +0000" stop="20261005204635 +0000" channel="CA| DAZN 9 HD">
@@ -4594,11 +4580,11 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 9 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Pogradeci vs. Delvina</title>
+    <title lang="en">Kupa e Shqipërisë - Albania: KS Pogradeci vs. KS Delvina</title>
     <desc lang="en">Watch Soccer action as Pogradeci takes on Delvina
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 KF Besa vs. KS Devolli (DAZN 3); 11:30 KF Laçi vs. KF Këlcyra (DAZN 4); 11:30 KS Lushnja vs. KF Shiroka (DAZN 5); 11:30 KS Kastrioti vs. Luzi 2008 (DAZN 6); 11:30 KF Oriku vs. KF Butrinti (DAZN 7); 11:30 FK Kukësi vs. KF Erzeni (DAZN 8); 11:30 FK Apolonia vs. KF Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261005190000 +0000" stop="20261005211500 +0000" channel="CA| DAZN 10 HD">
@@ -4618,11 +4604,11 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 10 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi</title>
+    <title lang="en">Kupa e Shqipërisë - Albania: FK Apolonia vs. KF Maliqi</title>
     <desc lang="en">Watch Soccer action as Apolonia Fier takes on Maliqi
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 KF Besa vs. KS Devolli (DAZN 3); 11:30 KF Laçi vs. KF Këlcyra (DAZN 4); 11:30 KS Lushnja vs. KF Shiroka (DAZN 5); 11:30 KS Kastrioti vs. Luzi 2008 (DAZN 6); 11:30 KF Oriku vs. KF Butrinti (DAZN 7); 11:30 FK Kukësi vs. KF Erzeni (DAZN 8); 11:30 KS Pogradeci vs. KS Delvina (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 11 HD">
@@ -4648,14 +4634,6 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
 
 Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12)</desc>
     <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261005210000 +0000" stop="20261006020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261006020000 +0000" stop="20261006060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261006060000 +0000" stop="20261006090000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
@@ -4775,11 +4753,11 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261005220000 +0000" stop="20261006020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261010010000 +0000" stop="20261010050000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261006020000 +0000" stop="20261006060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261010050000 +0000" stop="20261010070000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -4877,11 +4855,11 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261005220000 +0000" stop="20261006020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+  <programme start="20261010000000 +0000" stop="20261010040000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261006020000 +0000" stop="20261006060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+  <programme start="20261010040000 +0000" stop="20261010080000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -4977,11 +4955,7 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261005220000 +0000" stop="20261006020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261006020000 +0000" stop="20261006060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+  <programme start="20261010020000 +0000" stop="20261010060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -5074,6 +5048,10 @@ Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261009220000 +0000" stop="20261010020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20261010020000 +0000" stop="20261010060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
