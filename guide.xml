@@ -98,6 +98,10 @@
     <display-name>CA| DAZN 12 HD</display-name>
     <display-name>DAZN CA 12</display-name>
   </channel>
+  <channel id="CA| DAZN 13 HD">
+    <display-name>CA| DAZN 13 HD</display-name>
+    <display-name>DAZN CA 13</display-name>
+  </channel>
   <channel id="CA| SPORTSNET WORLD EXTRA 1">
     <display-name>CA| SPORTSNET WORLD EXTRA 1</display-name>
     <display-name>Sportsnet World Plus 1</display-name>
@@ -1260,28 +1264,28 @@
   </programme>
   <programme start="20261009050000 +0000" stop="20261009053000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:fc05ecdaf34375cdf80667bf1c3bc15ec2401d41/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009053000 +0000" stop="20261009113000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:0be63b7a23191b3d00ab8ec3d5bf02161808baab/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009113000 +0000" stop="20261009173000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:0978d2e07020bdde33ee6d8e6c0b10059fd8005c/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009173000 +0000" stop="20261009183000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:576d93015b6888680811287f921ff4c3423e6426/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1289,7 +1293,7 @@
   <programme start="20261009183000 +0000" stop="20261009213000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">Live: EFL Championship</title>
     <sub-title lang="en">West Ham United v Queens Park Rangers</sub-title>
-    <desc lang="en">West Ham and QPR mark the return of the Sky Bet Championship with a London derby. The Irons return to their pursuit of an immediate top-flight return sat second in the table with 15 points.(n)</desc>
+    <desc lang="en">West Ham and QPR mark the return of the Sky Bet Championship with a London derby. The Irons return to their pursuit of an immediate top-flight return sat second in the table with 15 points.</desc>
     <date>2026</date>
     <category lang="en">Sports Show</category>
     <category lang="en">Football</category>
@@ -1299,14 +1303,14 @@
   </programme>
   <programme start="20261009213000 +0000" stop="20261009223000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:1456d1b7e4a18c9e51460503073789e42acec095/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009223000 +0000" stop="20261010050000 +0000" channel="4K| SKY SPORTS 1 UHD">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:4604f7b07f79e38c889dc0b71c30ba6284e23e8a/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1397,28 +1401,28 @@
   </programme>
   <programme start="20261009050000 +0000" stop="20261009053000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:fc05ecdaf34375cdf80667bf1c3bc15ec2401d41/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009053000 +0000" stop="20261009113000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:0be63b7a23191b3d00ab8ec3d5bf02161808baab/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009113000 +0000" stop="20261009173000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:0978d2e07020bdde33ee6d8e6c0b10059fd8005c/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009173000 +0000" stop="20261009183000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:576d93015b6888680811287f921ff4c3423e6426/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1426,7 +1430,7 @@
   <programme start="20261009183000 +0000" stop="20261009213000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">Live: EFL Championship</title>
     <sub-title lang="en">West Ham United v Queens Park Rangers</sub-title>
-    <desc lang="en">West Ham and QPR mark the return of the Sky Bet Championship with a London derby. The Irons return to their pursuit of an immediate top-flight return sat second in the table with 15 points.(n)</desc>
+    <desc lang="en">West Ham and QPR mark the return of the Sky Bet Championship with a London derby. The Irons return to their pursuit of an immediate top-flight return sat second in the table with 15 points.</desc>
     <date>2026</date>
     <category lang="en">Sports Show</category>
     <category lang="en">Football</category>
@@ -1436,14 +1440,14 @@
   </programme>
   <programme start="20261009213000 +0000" stop="20261009223000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:1456d1b7e4a18c9e51460503073789e42acec095/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009223000 +0000" stop="20261010050000 +0000" channel="UK-NOWTV| SKY SPORTS 1 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:4604f7b07f79e38c889dc0b71c30ba6284e23e8a/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1534,28 +1538,28 @@
   </programme>
   <programme start="20261009030000 +0000" stop="20261009090000 +0000" channel="skysports2.uk">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:2549e9102f3266429379acc9a837116a09ab08a3/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009090000 +0000" stop="20261009150000 +0000" channel="skysports2.uk">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:ec907738bd6e9ac017dc6197fa34f5c2c8d502ea/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009150000 +0000" stop="20261009210000 +0000" channel="skysports2.uk">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:d1791f3c1ee25b003517b456dcbb3ebf66a54314/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009210000 +0000" stop="20261010030000 +0000" channel="skysports2.uk">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:3866e79573c1118a82114c24c5bfb29e198d9871/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1646,28 +1650,28 @@
   </programme>
   <programme start="20261009030000 +0000" stop="20261009090000 +0000" channel="UK-NOWTV| SKY SPORTS 2 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:2549e9102f3266429379acc9a837116a09ab08a3/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009090000 +0000" stop="20261009150000 +0000" channel="UK-NOWTV| SKY SPORTS 2 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:ec907738bd6e9ac017dc6197fa34f5c2c8d502ea/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009150000 +0000" stop="20261009210000 +0000" channel="UK-NOWTV| SKY SPORTS 2 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:d1791f3c1ee25b003517b456dcbb3ebf66a54314/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
   </programme>
   <programme start="20261009210000 +0000" stop="20261010030000 +0000" channel="UK-NOWTV| SKY SPORTS 2 (UHD/4K)">
     <title lang="en">This is Ultra HD</title>
-    <desc lang="en">This is Ultra HD.(n)</desc>
+    <desc lang="en">This is Ultra HD.</desc>
     <category lang="en">Sports Show</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F19235406~~2FSH037182230000~~2Fspecial,imi:3866e79573c1118a82114c24c5bfb29e198d9871/posterTile?imageVersion=xI6ZyA&amp;w=200" />
     <country lang="en">GB</country>
@@ -1979,92 +1983,92 @@
   </programme>
   <programme start="20261009050000 +0200" stop="20261009063000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eef745cef5e24ca597118e560f8d358c_thumb.jpg" />
   </programme>
   <programme start="20261009063000 +0200" stop="20261009083000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
-    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.(n)</desc>
+    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2e2bedd11a0a4f1a9d5a1c6c68abeab9_thumb.jpg" />
   </programme>
   <programme start="20261009083000 +0200" stop="20261009093000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Penjanje: Svjetska Serija, Chongqing: Brzina Štafeta, Muškarci I Žene, Finale</title>
-    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.(n)</desc>
+    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4e2d62915fe048fd8735b3edbf12650b_thumb.jpg" />
   </programme>
   <programme start="20261009093000 +0200" stop="20261009101500 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Brdski Biciklizam: Svjetski Kup, Lake Placid (ž): Xc Olympic, Elite</title>
-    <desc lang="hr">Najbolje svjetske brdske biciklistice okupit će se od 2. do 4. listopada u Lake Placidu, gdje ih očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U spektakularnom olimpijskom...(n)</desc>
+    <desc lang="hr">Najbolje svjetske brdske biciklistice okupit će se od 2. do 4. listopada u Lake Placidu, gdje ih očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U spektakularnom olimpijskom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f7002c121e5745868877c86ff3c3befa_thumb.jpg" />
   </programme>
   <programme start="20261009101500 +0200" stop="20261009110000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Brdski Biciklizam: Svjetski Kup, Lake Placid (m): Xc Olympic, Elite</title>
-    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...(n)</desc>
+    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f7002c121e5745868877c86ff3c3befa_thumb.jpg" />
   </programme>
   <programme start="20261009110000 +0200" stop="20261009130000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(n)</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2e2bedd11a0a4f1a9d5a1c6c68abeab9_thumb.jpg" />
   </programme>
   <programme start="20261009130000 +0200" stop="20261009140000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eef745cef5e24ca597118e560f8d358c_thumb.jpg" />
   </programme>
   <programme start="20261009140000 +0200" stop="20261009173000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Biciklizam – Utrka Kroz Lombardiju (m)</title>
-    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.(n)</desc>
+    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eef745cef5e24ca597118e560f8d358c_thumb.jpg" />
   </programme>
   <programme start="20261009173000 +0200" stop="20261009180000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Brdski Biciklizam: Svjetski Kup, Lake Placid (m): Xc Olympic, Elite</title>
-    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...(n)</desc>
+    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f7002c121e5745868877c86ff3c3befa_thumb.jpg" />
   </programme>
   <programme start="20261009180000 +0200" stop="20261009190000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Penjanje: Svjetska Serija, Chongqing: Brzina, Muškarci I Žene, Finale</title>
-    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.(n)</desc>
+    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4e2d62915fe048fd8735b3edbf12650b_thumb.jpg" />
   </programme>
   <programme start="20261009190000 +0200" stop="20261009200000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Penjanje: Svjetska Serija, Chongqing: Brzina Štafeta, Mešovito, Finale</title>
-    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.(n)</desc>
+    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4e2d62915fe048fd8735b3edbf12650b_thumb.jpg" />
   </programme>
   <programme start="20261009200000 +0200" stop="20261009210000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
-    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.(n)</desc>
+    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2e2bedd11a0a4f1a9d5a1c6c68abeab9_thumb.jpg" />
   </programme>
   <programme start="20261009210000 +0200" stop="20261009220000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Golden Trail Wt</title>
-    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/65807962074a476fadecb95de1fe97c7_thumb.jpg" />
   </programme>
   <programme start="20261009220000 +0200" stop="20261010000000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Biciklizam – Utrka Kroz Lombardiju (m)</title>
-    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.(n)</desc>
+    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eef745cef5e24ca597118e560f8d358c_thumb.jpg" />
   </programme>
   <programme start="20261010000000 +0200" stop="20261010013000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(n)</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2e2bedd11a0a4f1a9d5a1c6c68abeab9_thumb.jpg" />
   </programme>
   <programme start="20261010013000 +0200" stop="20261010030000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eef745cef5e24ca597118e560f8d358c_thumb.jpg" />
   </programme>
   <programme start="20261010030000 +0200" stop="20261010050000 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(n)</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2e2bedd11a0a4f1a9d5a1c6c68abeab9_thumb.jpg" />
   </programme>
   <programme start="20261010050000 +0200" stop="20261010054500 +0200" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Motokros – Motokros Nacija: Utrka 2</title>
-    <desc lang="hr">Ljubitelje motocrossa od 2. do 4. listopada očekuje jedan od najvećih događaja godine.(n)</desc>
+    <desc lang="hr">Ljubitelje motocrossa od 2. do 4. listopada očekuje jedan od najvećih događaja godine.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2cf488eca7694b5eae5c22ebe1953544_thumb.jpg" />
   </programme>
   <programme start="20261006000000 +0200" stop="20261006013000 +0200" channel="eurosport1.uk">
@@ -2374,92 +2378,92 @@
   </programme>
   <programme start="20261009050000 +0200" stop="20261009063000 +0200" channel="eurosport1.uk">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eef745cef5e24ca597118e560f8d358c_thumb.jpg" />
   </programme>
   <programme start="20261009063000 +0200" stop="20261009083000 +0200" channel="eurosport1.uk">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
-    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.(n)</desc>
+    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2e2bedd11a0a4f1a9d5a1c6c68abeab9_thumb.jpg" />
   </programme>
   <programme start="20261009083000 +0200" stop="20261009093000 +0200" channel="eurosport1.uk">
     <title lang="hr">Penjanje: Svjetska Serija, Chongqing: Brzina Štafeta, Muškarci I Žene, Finale</title>
-    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.(n)</desc>
+    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4e2d62915fe048fd8735b3edbf12650b_thumb.jpg" />
   </programme>
   <programme start="20261009093000 +0200" stop="20261009101500 +0200" channel="eurosport1.uk">
     <title lang="hr">Brdski Biciklizam: Svjetski Kup, Lake Placid (ž): Xc Olympic, Elite</title>
-    <desc lang="hr">Najbolje svjetske brdske biciklistice okupit će se od 2. do 4. listopada u Lake Placidu, gdje ih očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U spektakularnom olimpijskom...(n)</desc>
+    <desc lang="hr">Najbolje svjetske brdske biciklistice okupit će se od 2. do 4. listopada u Lake Placidu, gdje ih očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U spektakularnom olimpijskom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f7002c121e5745868877c86ff3c3befa_thumb.jpg" />
   </programme>
   <programme start="20261009101500 +0200" stop="20261009110000 +0200" channel="eurosport1.uk">
     <title lang="hr">Brdski Biciklizam: Svjetski Kup, Lake Placid (m): Xc Olympic, Elite</title>
-    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...(n)</desc>
+    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f7002c121e5745868877c86ff3c3befa_thumb.jpg" />
   </programme>
   <programme start="20261009110000 +0200" stop="20261009130000 +0200" channel="eurosport1.uk">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(n)</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2e2bedd11a0a4f1a9d5a1c6c68abeab9_thumb.jpg" />
   </programme>
   <programme start="20261009130000 +0200" stop="20261009140000 +0200" channel="eurosport1.uk">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eef745cef5e24ca597118e560f8d358c_thumb.jpg" />
   </programme>
   <programme start="20261009140000 +0200" stop="20261009173000 +0200" channel="eurosport1.uk">
     <title lang="hr">Biciklizam – Utrka Kroz Lombardiju (m)</title>
-    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.(n)</desc>
+    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eef745cef5e24ca597118e560f8d358c_thumb.jpg" />
   </programme>
   <programme start="20261009173000 +0200" stop="20261009180000 +0200" channel="eurosport1.uk">
     <title lang="hr">Brdski Biciklizam: Svjetski Kup, Lake Placid (m): Xc Olympic, Elite</title>
-    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...(n)</desc>
+    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/f7002c121e5745868877c86ff3c3befa_thumb.jpg" />
   </programme>
   <programme start="20261009180000 +0200" stop="20261009190000 +0200" channel="eurosport1.uk">
     <title lang="hr">Penjanje: Svjetska Serija, Chongqing: Brzina, Muškarci I Žene, Finale</title>
-    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.(n)</desc>
+    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4e2d62915fe048fd8735b3edbf12650b_thumb.jpg" />
   </programme>
   <programme start="20261009190000 +0200" stop="20261009200000 +0200" channel="eurosport1.uk">
     <title lang="hr">Penjanje: Svjetska Serija, Chongqing: Brzina Štafeta, Mešovito, Finale</title>
-    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.(n)</desc>
+    <desc lang="hr">Od 18. do 20. rujna kineski Chongqing bit će domaćin World Climbing Seriesa 2026, jedne od najvažnijih postaja svjetskog natjecateljskog sportskog penjanja.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/4e2d62915fe048fd8735b3edbf12650b_thumb.jpg" />
   </programme>
   <programme start="20261009200000 +0200" stop="20261009210000 +0200" channel="eurosport1.uk">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
-    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.(n)</desc>
+    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2e2bedd11a0a4f1a9d5a1c6c68abeab9_thumb.jpg" />
   </programme>
   <programme start="20261009210000 +0200" stop="20261009220000 +0200" channel="eurosport1.uk">
     <title lang="hr">Golden Trail Wt</title>
-    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.(n)</desc>
+    <desc lang="hr">Pratite Golden Trail, seriju natjecanja u orijentacijskom trčanju koja se održava od 2018. godine.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/65807962074a476fadecb95de1fe97c7_thumb.jpg" />
   </programme>
   <programme start="20261009220000 +0200" stop="20261010000000 +0200" channel="eurosport1.uk">
     <title lang="hr">Biciklizam – Utrka Kroz Lombardiju (m)</title>
-    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.(n)</desc>
+    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eef745cef5e24ca597118e560f8d358c_thumb.jpg" />
   </programme>
   <programme start="20261010000000 +0200" stop="20261010013000 +0200" channel="eurosport1.uk">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(n)</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2e2bedd11a0a4f1a9d5a1c6c68abeab9_thumb.jpg" />
   </programme>
   <programme start="20261010013000 +0200" stop="20261010030000 +0200" channel="eurosport1.uk">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/eef745cef5e24ca597118e560f8d358c_thumb.jpg" />
   </programme>
   <programme start="20261010030000 +0200" stop="20261010050000 +0200" channel="eurosport1.uk">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(n)</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2e2bedd11a0a4f1a9d5a1c6c68abeab9_thumb.jpg" />
   </programme>
   <programme start="20261010050000 +0200" stop="20261010054500 +0200" channel="eurosport1.uk">
     <title lang="hr">Motokros – Motokros Nacija: Utrka 2</title>
-    <desc lang="hr">Ljubitelje motocrossa od 2. do 4. listopada očekuje jedan od najvećih događaja godine.(n)</desc>
+    <desc lang="hr">Ljubitelje motocrossa od 2. do 4. listopada očekuje jedan od najvećih događaja godine.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/2cf488eca7694b5eae5c22ebe1953544_thumb.jpg" />
   </programme>
   <programme start="20261006000000 +0200" stop="20261006013000 +0200" channel="eurosport2.uk">
@@ -2759,87 +2763,87 @@
   </programme>
   <programme start="20261009050000 +0200" stop="20261009090000 +0200" channel="eurosport2.uk">
     <title lang="hr">Golf – Japan Open Championship: Dan 2</title>
-    <desc lang="hr">Japan Open championship profesionalni je golf turnir u sklopu Japan Golf toura. Osnovan je 2000 godine i jedan je od četiri najveća turnira na ovom golf touru.(n)</desc>
+    <desc lang="hr">Japan Open championship profesionalni je golf turnir u sklopu Japan Golf toura. Osnovan je 2000 godine i jedan je od četiri najveća turnira na ovom golf touru.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6cf5014da02c45a2afad9f97a05f2f71_thumb.jpg" />
   </programme>
   <programme start="20261009090000 +0200" stop="20261009110000 +0200" channel="eurosport2.uk">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
-    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.(n)</desc>
+    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
   </programme>
   <programme start="20261009110000 +0200" stop="20261009120000 +0200" channel="eurosport2.uk">
     <title lang="hr">Brdski Biciklizam: Svjetski Kup, Lake Placid (m): Xc Olympic, Elite</title>
-    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...(n)</desc>
+    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c8f7b71fe5654983bba1cdf0070be78f_thumb.jpg" />
   </programme>
   <programme start="20261009120000 +0200" stop="20261009130000 +0200" channel="eurosport2.uk">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aa153fdb5af04cad9b38188b6322fe47_thumb.jpg" />
   </programme>
   <programme start="20261009130000 +0200" stop="20261009143000 +0200" channel="eurosport2.uk">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
-    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.(n)</desc>
+    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
   </programme>
   <programme start="20261009143000 +0200" stop="20261009153000 +0200" channel="eurosport2.uk">
     <title lang="hr">Penjanje: Svjetski Kup U Guiyangu: Brzina Štafeta, Mešovito, Finale</title>
-    <desc lang="hr">Kineski Guiyang će od 11. do 13. rujna biti domaćin jedne od postaja World Climbing Serije 2026., međunarodnog natjecanja koje okuplja najbolje svjetske sportaše u sportskom penjanju.(n)</desc>
+    <desc lang="hr">Kineski Guiyang će od 11. do 13. rujna biti domaćin jedne od postaja World Climbing Serije 2026., međunarodnog natjecanja koje okuplja najbolje svjetske sportaše u sportskom penjanju.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3e235a846c0d47ea9fb5360397365843_thumb.jpg" />
   </programme>
   <programme start="20261009153000 +0200" stop="20261009163000 +0200" channel="eurosport2.uk">
     <title lang="hr">Penjanje: Svjetski Kup U Guiyangu: Brzina Štafeta, Muškarci I Žene, Finale</title>
-    <desc lang="hr">Kineski Guiyang će od 11. do 13. rujna biti domaćin jedne od postaja World Climbing Serije 2026., međunarodnog natjecanja koje okuplja najbolje svjetske sportaše u sportskom penjanju.(n)</desc>
+    <desc lang="hr">Kineski Guiyang će od 11. do 13. rujna biti domaćin jedne od postaja World Climbing Serije 2026., međunarodnog natjecanja koje okuplja najbolje svjetske sportaše u sportskom penjanju.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3e235a846c0d47ea9fb5360397365843_thumb.jpg" />
   </programme>
   <programme start="20261009163000 +0200" stop="20261009180000 +0200" channel="eurosport2.uk">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(n)</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cf1dd5562b344857aa3f2a88a9e8eed7_thumb.jpg" />
   </programme>
   <programme start="20261009180000 +0200" stop="20261009190000 +0200" channel="eurosport2.uk">
     <title lang="hr">Tenis – Australian Open: Singl, Žene, Finale, Arina Sabalenka – Elena Ribakina</title>
-    <desc lang="hr">Australian Open 2026 otvara sezonu Grand Slam turnira od 12. siječnja do 1. veljače.(n)</desc>
+    <desc lang="hr">Australian Open 2026 otvara sezonu Grand Slam turnira od 12. siječnja do 1. veljače.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8b0efe5163d2444898008104984bd127_thumb.jpg" />
   </programme>
   <programme start="20261009190000 +0200" stop="20261009200000 +0200" channel="eurosport2.uk">
     <title lang="hr">Biciklizam: Europsko Prvenstvo, Ljubljana: Žene, Elite, Drumska Trka</title>
-    <desc lang="hr">Najbolji europski cestovni biciklisti i biciklistice okupit će se od 2. do 7. listopada u Sloveniji, gdje će se održati Europsko prvenstvo u cestovnom biciklizmu 2026. Slovenija prvi put preuzima...(n)</desc>
+    <desc lang="hr">Najbolji europski cestovni biciklisti i biciklistice okupit će se od 2. do 7. listopada u Sloveniji, gdje će se održati Europsko prvenstvo u cestovnom biciklizmu 2026. Slovenija prvi put preuzima...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/282487a1c8ce475788ddaaad13c987f5_thumb.jpg" />
   </programme>
   <programme start="20261009200000 +0200" stop="20261009220000 +0200" channel="eurosport2.uk">
     <title lang="hr">Biciklizam – Utrka Kroz Lombardiju (m)</title>
-    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.(n)</desc>
+    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8ae46532df5d4b03a815f0428c2bcf82_thumb.jpg" />
   </programme>
   <programme start="20261009220000 +0200" stop="20261009230000 +0200" channel="eurosport2.uk">
     <title lang="hr">Konjički Šport: Longines Fei Svjetski Kup U Skokovima, Puebla</title>
-    <desc lang="hr">Od 29. rujna do 4. listopada oči ljubitelja konjičkog sporta bit će usmjerene prema Puebli u Meksiku, gdje se održava nova stanica Longines FEI Jumping World Cupa!(n)</desc>
+    <desc lang="hr">Od 29. rujna do 4. listopada oči ljubitelja konjičkog sporta bit će usmjerene prema Puebli u Meksiku, gdje se održava nova stanica Longines FEI Jumping World Cupa!</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/043e0091a0a64554b7b895e2beb17c45_thumb.jpg" />
   </programme>
   <programme start="20261009230000 +0200" stop="20261010000000 +0200" channel="eurosport2.uk">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
-    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.(n)</desc>
+    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
   </programme>
   <programme start="20261010000000 +0200" stop="20261010013000 +0200" channel="eurosport2.uk">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aa153fdb5af04cad9b38188b6322fe47_thumb.jpg" />
   </programme>
   <programme start="20261010013000 +0200" stop="20261010030000 +0200" channel="eurosport2.uk">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(n)</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cf1dd5562b344857aa3f2a88a9e8eed7_thumb.jpg" />
   </programme>
   <programme start="20261010030000 +0200" stop="20261010040000 +0200" channel="eurosport2.uk">
     <title lang="hr">Biciklizam – Tri Doline Varesine: Muškarci</title>
-    <desc lang="hr">Tre Valli Varesine 2025 održat će se 7. listopada u Vareseu, Italija, kao dio UCI ProSeries kalendara.(n)</desc>
+    <desc lang="hr">Tre Valli Varesine 2025 održat će se 7. listopada u Vareseu, Italija, kao dio UCI ProSeries kalendara.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aa153fdb5af04cad9b38188b6322fe47_thumb.jpg" />
   </programme>
   <programme start="20261010040000 +0200" stop="20261010050000 +0200" channel="eurosport2.uk">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aa153fdb5af04cad9b38188b6322fe47_thumb.jpg" />
   </programme>
   <programme start="20261006000000 +0200" stop="20261006013000 +0200" channel="RS| EUROSPORT 2 HD">
@@ -3139,87 +3143,87 @@
   </programme>
   <programme start="20261009050000 +0200" stop="20261009090000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Golf – Japan Open Championship: Dan 2</title>
-    <desc lang="hr">Japan Open championship profesionalni je golf turnir u sklopu Japan Golf toura. Osnovan je 2000 godine i jedan je od četiri najveća turnira na ovom golf touru.(n)</desc>
+    <desc lang="hr">Japan Open championship profesionalni je golf turnir u sklopu Japan Golf toura. Osnovan je 2000 godine i jedan je od četiri najveća turnira na ovom golf touru.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/6cf5014da02c45a2afad9f97a05f2f71_thumb.jpg" />
   </programme>
   <programme start="20261009090000 +0200" stop="20261009110000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
-    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.(n)</desc>
+    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
   </programme>
   <programme start="20261009110000 +0200" stop="20261009120000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Brdski Biciklizam: Svjetski Kup, Lake Placid (m): Xc Olympic, Elite</title>
-    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...(n)</desc>
+    <desc lang="hr">Najbolji svjetski brdski biciklisti početkom listopada stižu u Lake Placid, gdje ih od 2. do 4. listopada očekuje velika završnica WHOOP UCI Mountain Bike World Seriesa 2026. U poznatom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c8f7b71fe5654983bba1cdf0070be78f_thumb.jpg" />
   </programme>
   <programme start="20261009120000 +0200" stop="20261009130000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aa153fdb5af04cad9b38188b6322fe47_thumb.jpg" />
   </programme>
   <programme start="20261009130000 +0200" stop="20261009143000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
-    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.(n)</desc>
+    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
   </programme>
   <programme start="20261009143000 +0200" stop="20261009153000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Penjanje: Svjetski Kup U Guiyangu: Brzina Štafeta, Mešovito, Finale</title>
-    <desc lang="hr">Kineski Guiyang će od 11. do 13. rujna biti domaćin jedne od postaja World Climbing Serije 2026., međunarodnog natjecanja koje okuplja najbolje svjetske sportaše u sportskom penjanju.(n)</desc>
+    <desc lang="hr">Kineski Guiyang će od 11. do 13. rujna biti domaćin jedne od postaja World Climbing Serije 2026., međunarodnog natjecanja koje okuplja najbolje svjetske sportaše u sportskom penjanju.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3e235a846c0d47ea9fb5360397365843_thumb.jpg" />
   </programme>
   <programme start="20261009153000 +0200" stop="20261009163000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Penjanje: Svjetski Kup U Guiyangu: Brzina Štafeta, Muškarci I Žene, Finale</title>
-    <desc lang="hr">Kineski Guiyang će od 11. do 13. rujna biti domaćin jedne od postaja World Climbing Serije 2026., međunarodnog natjecanja koje okuplja najbolje svjetske sportaše u sportskom penjanju.(n)</desc>
+    <desc lang="hr">Kineski Guiyang će od 11. do 13. rujna biti domaćin jedne od postaja World Climbing Serije 2026., međunarodnog natjecanja koje okuplja najbolje svjetske sportaše u sportskom penjanju.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/3e235a846c0d47ea9fb5360397365843_thumb.jpg" />
   </programme>
   <programme start="20261009163000 +0200" stop="20261009180000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(n)</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cf1dd5562b344857aa3f2a88a9e8eed7_thumb.jpg" />
   </programme>
   <programme start="20261009180000 +0200" stop="20261009190000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Tenis – Australian Open: Singl, Žene, Finale, Arina Sabalenka – Elena Ribakina</title>
-    <desc lang="hr">Australian Open 2026 otvara sezonu Grand Slam turnira od 12. siječnja do 1. veljače.(n)</desc>
+    <desc lang="hr">Australian Open 2026 otvara sezonu Grand Slam turnira od 12. siječnja do 1. veljače.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8b0efe5163d2444898008104984bd127_thumb.jpg" />
   </programme>
   <programme start="20261009190000 +0200" stop="20261009200000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Biciklizam: Europsko Prvenstvo, Ljubljana: Žene, Elite, Drumska Trka</title>
-    <desc lang="hr">Najbolji europski cestovni biciklisti i biciklistice okupit će se od 2. do 7. listopada u Sloveniji, gdje će se održati Europsko prvenstvo u cestovnom biciklizmu 2026. Slovenija prvi put preuzima...(n)</desc>
+    <desc lang="hr">Najbolji europski cestovni biciklisti i biciklistice okupit će se od 2. do 7. listopada u Sloveniji, gdje će se održati Europsko prvenstvo u cestovnom biciklizmu 2026. Slovenija prvi put preuzima...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/282487a1c8ce475788ddaaad13c987f5_thumb.jpg" />
   </programme>
   <programme start="20261009200000 +0200" stop="20261009220000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Biciklizam – Utrka Kroz Lombardiju (m)</title>
-    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.(n)</desc>
+    <desc lang="hr">U subotu, 11. listopada 2025., vozi se prestižna utrka kroz Lombardiju, posljednji veliki klasik biciklističke sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/8ae46532df5d4b03a815f0428c2bcf82_thumb.jpg" />
   </programme>
   <programme start="20261009220000 +0200" stop="20261009230000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Konjički Šport: Longines Fei Svjetski Kup U Skokovima, Puebla</title>
-    <desc lang="hr">Od 29. rujna do 4. listopada oči ljubitelja konjičkog sporta bit će usmjerene prema Puebli u Meksiku, gdje se održava nova stanica Longines FEI Jumping World Cupa!(n)</desc>
+    <desc lang="hr">Od 29. rujna do 4. listopada oči ljubitelja konjičkog sporta bit će usmjerene prema Puebli u Meksiku, gdje se održava nova stanica Longines FEI Jumping World Cupa!</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/043e0091a0a64554b7b895e2beb17c45_thumb.jpg" />
   </programme>
   <programme start="20261009230000 +0200" stop="20261010000000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
-    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.(n)</desc>
+    <desc lang="hr">U engleskom Brentwoodu od 7. do 13. rujna održat će se BetVictor English Open 2026, jedan od najvažnijih turnira profesionalne snooker sezone.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/75e1737f12df4f19b379ee388d9cefb7_thumb.jpg" />
   </programme>
   <programme start="20261010000000 +0200" stop="20261010013000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aa153fdb5af04cad9b38188b6322fe47_thumb.jpg" />
   </programme>
   <programme start="20261010013000 +0200" stop="20261010030000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Snooker: Shenzhen Open: Finale</title>
-    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.(n)</desc>
+    <desc lang="hr">Od 28. rujna do 4. listopada 2026. u kineskom gradu Shenzhenu održat će se premijerno izdanje Shenzhen Opena, novog ranking turnira World Snooker Toura.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/cf1dd5562b344857aa3f2a88a9e8eed7_thumb.jpg" />
   </programme>
   <programme start="20261010030000 +0200" stop="20261010040000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Biciklizam – Tri Doline Varesine: Muškarci</title>
-    <desc lang="hr">Tre Valli Varesine 2025 održat će se 7. listopada u Vareseu, Italija, kao dio UCI ProSeries kalendara.(n)</desc>
+    <desc lang="hr">Tre Valli Varesine 2025 održat će se 7. listopada u Vareseu, Italija, kao dio UCI ProSeries kalendara.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aa153fdb5af04cad9b38188b6322fe47_thumb.jpg" />
   </programme>
   <programme start="20261010040000 +0200" stop="20261010050000 +0200" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Biciklizam – Gran Piemonte</title>
-    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.(n)</desc>
+    <desc lang="hr">Giro del Piemonte je poluklasična europska biciklistička utrka koja se održava na Apeninskim planinama u Italiji.</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/aa153fdb5af04cad9b38188b6322fe47_thumb.jpg" />
   </programme>
   <programme start="20261006000000 +0000" stop="20261006003000 +0000" channel="US| BEIN SPORTS 2 HD">
@@ -3538,8 +3542,8 @@
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007173000 +0000" stop="20261007180000 +0000" channel="US| BEIN SPORTS 2 HD">
-    <title lang="en">Ligue 1 -- Highlight Show</title>
-    <desc lang="en">Match Day 3.</desc>
+    <title lang="en">Ligue 1 Highlights Show</title>
+    <desc lang="en">Match Day 3.(c)</desc>
     <category lang="en">Sports related</category>
     <category lang="en">Sports talk</category>
   </programme>
@@ -3562,8 +3566,8 @@
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007223000 +0000" stop="20261007230000 +0000" channel="US| BEIN SPORTS 2 HD">
-    <title lang="en">Ligue 1 -- Highlight Show</title>
-    <desc lang="en">Match Day 3.</desc>
+    <title lang="en">Ligue 1 Highlights Show</title>
+    <desc lang="en">Match Day 3.(c)</desc>
     <category lang="en">Sports related</category>
     <category lang="en">Sports talk</category>
   </programme>
@@ -3746,19 +3750,19 @@
   </programme>
   <programme start="20261009000000 +0000" stop="20261009010000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Equestrian</title>
-    <desc lang="en">League of Nations: St. Tropez.(n)</desc>
+    <desc lang="en">League of Nations: St. Tropez.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Equestrian</category>
   </programme>
   <programme start="20261009010000 +0000" stop="20261009013000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Copa Mundial Sub-23 de la FIBA 3x3 2026</title>
-    <desc lang="en">Men's First Semifinal: Serbia U23 vs. Lithuania U23.(n)</desc>
+    <desc lang="en">Men's First Semifinal: Serbia U23 vs. Lithuania U23.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">3x3 basketball</category>
   </programme>
   <programme start="20261009013000 +0000" stop="20261009020100 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Copa Mundial Sub-23 de la FIBA 3x3 2026</title>
-    <desc lang="en">Men's Second Semifinal: Latvia U23 vs. Australia U23.(n)</desc>
+    <desc lang="en">Men's Second Semifinal: Latvia U23 vs. Australia U23.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">3x3 basketball</category>
   </programme>
@@ -3773,7 +3777,7 @@
   </programme>
   <programme start="20261009053000 +0000" stop="20261009073000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Premier Padel</title>
-    <desc lang="en">Rotterdam, Men's Final.(n)</desc>
+    <desc lang="en">Rotterdam, Men's Final.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Racquet</category>
   </programme>
@@ -3819,7 +3823,7 @@
   </programme>
   <programme start="20261009113000 +0000" stop="20261009123000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Pro Footvolley Tour</title>
-    <desc lang="en">Nations Cup.(n)</desc>
+    <desc lang="en">Nations Cup.</desc>
     <category lang="en">Sports related</category>
     <category lang="en">Footvolley</category>
   </programme>
@@ -3839,13 +3843,13 @@
     <category lang="en">Martial arts</category>
   </programme>
   <programme start="20261009163000 +0000" stop="20261009165500 +0000" channel="US| BEIN SPORTS 2 HD">
-    <title lang="en">Ligue 1 Show</title>
+    <title lang="en">Ligue 1 Highlights Show</title>
     <category lang="en">Sports related</category>
     <category lang="en">Sports talk</category>
   </programme>
   <programme start="20261009165500 +0000" stop="20261009190000 +0000" channel="US| BEIN SPORTS 2 HD">
-    <title lang="en">Fútbol Turco Superliga</title>
-    <desc lang="en">Galatasaray vs. Kasimpasa.(n)</desc>
+    <title lang="en">Turkish Super Lig Soccer</title>
+    <desc lang="en">Galatasaray vs. Kasimpasa.(c)</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Soccer</category>
   </programme>
@@ -3856,7 +3860,7 @@
   </programme>
   <programme start="20261009191000 +0000" stop="20261009211500 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Liga Portugal</title>
-    <desc lang="en">SC Braga vs. Sporting CP.(n)</desc>
+    <desc lang="en">SC Braga vs. Sporting CP.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Soccer</category>
   </programme>
@@ -3871,18 +3875,18 @@
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261009220000 +0000" stop="20261009223000 +0000" channel="US| BEIN SPORTS 2 HD">
-    <title lang="en">Ligue 1 Show</title>
+    <title lang="en">Ligue 1 Highlights Show</title>
     <category lang="en">Sports related</category>
     <category lang="en">Sports talk</category>
   </programme>
   <programme start="20261009223000 +0000" stop="20261009230000 +0000" channel="US| BEIN SPORTS 2 HD">
-    <title lang="en">Ligue 1 Show</title>
+    <title lang="en">Ligue 1 Highlights Show</title>
     <category lang="en">Sports related</category>
     <category lang="en">Sports talk</category>
   </programme>
   <programme start="20261009230000 +0000" stop="20261010010000 +0000" channel="US| BEIN SPORTS 2 HD">
     <title lang="en">Fútbol Ligue 1</title>
-    <desc lang="en">RC Lens vs. Olympique Lyonnais.(n)</desc>
+    <desc lang="en">RC Lens vs. Olympique Lyonnais.</desc>
     <category lang="en">Sports event</category>
     <category lang="en">Soccer</category>
   </programme>
@@ -3938,18 +3942,19 @@ Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Northern Ireland 
 Istodobno na DAZN-u (UTC): 19:00 NFL Live (DAZN 10)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261006000000 +0000" stop="20261006033000 +0000" channel="CA| DAZN 1 HD">
+  <programme start="20261006000000 +0000" stop="20261006033412 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">NFL Game Pass: Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints</title>
     <desc lang="en">Action from the 2026 Season on NFL Game Pass on DAZN.
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 00:15 Falcons @ Saints (DAZN 2); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:00 Beijing Open: Day 7 (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 00:15 Falcons @ Saints (DAZN 2); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:00 Beijing Open: Day 7 (DAZN 4); 03:30 NFL GameDay Final (DAZN 5)</desc>
     <category lang="en">Football</category>
   </programme>
   <programme start="20261006113000 +0000" stop="20261006134500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Besëlidhja Lezhë vs. Sopoti Librazhd</title>
-    <desc lang="en">Watch Soccer action as Besëlidhja Lezhë takes on Sopoti Librazhd
-(Kraj procijenjen.)</desc>
+    <title lang="en">Kupa e Shqipërisë - Albania: Flamurtari vs. KF Gramshi</title>
+    <desc lang="en">Watch Soccer action as KF Gramshi takes on Flamurtari
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 7 (DAZN 4); 11:30 Besëlidhja Lezhë vs. Sopoti Librazhd (DAZN 2); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 3); 12:00 Kabayel vs. Hysa: Launch Press Conference (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261006140000 +0000" stop="20261006161500 +0000" channel="CA| DAZN 1 HD">
@@ -3957,16 +3962,15 @@ Istodobno na DAZN-u (UTC): 00:15 Falcons @ Saints (DAZN 2); 00:15 Falcons @ Sain
     <desc lang="en">Watch Soccer action as Faroe Islands takes on Kazakhstan
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:45 Hapoel Holon v Cholet (DAZN 2); 16:00 Germany U21 vs. Georgia U21 (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 15:45 Hapoel Holon vs. Cholet (DAZN 2); 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:00 Germany U21 vs. Georgia U21 (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261006163000 +0000" stop="20261006184500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">Vilnius Rytas v Sabah</title>
-    <sub-title lang="en">Basketball Champions League</sub-title>
-    <desc lang="en">Watch Basketball action as Sabah takes on Vilnius Rytas
+    <title lang="en">Basketball Champions League: Peristeri vs. Bamberg</title>
+    <desc lang="en">Watch Basketball action as Peristeri takes on Bamberg
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:45 Hapoel Holon v Cholet (DAZN 2); 16:00 Germany U21 vs. Georgia U21 (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 15:45 Hapoel Holon vs. Cholet (DAZN 2); 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:00 Germany U21 vs. Georgia U21 (DAZN 4); 16:30 Vilnius Rytas vs. Sabah (DAZN 5); 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 1 HD">
@@ -3974,7 +3978,7 @@ Istodobno na DAZN-u (UTC): 15:45 Hapoel Holon v Cholet (DAZN 2); 16:00 Germany U
     <desc lang="en">Watch Soccer action as Croatia takes on Spain
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:45 Scotland vs. Slovenia (DAZN 2); 18:45 England vs Czechia (DAZN 3); 18:45 Switzerland vs. North Macedonia (DAZN 4); 18:45 Luxembourg vs. Bulgaria (DAZN 5); 18:45 Estonia vs. Iceland (DAZN 6); 18:45 Belarus vs. Finland (DAZN 7); 18:45 Moldova vs. Slovakia (DAZN 8); 18:45 Albania vs. San Marino (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007000000 +0000" stop="20261007021500 +0000" channel="CA| DAZN 1 HD">
@@ -3989,8 +3993,24 @@ Istodobno na DAZN-u (UTC): 18:45 Scotland vs. Slovenia (DAZN 2); 18:45 England v
     <desc lang="en">Watch Day 8 of the Beijing Open on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
     <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261007160000 +0000" stop="20261007181500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Basketball Champions League: Trabzonspor Basketbol vs. Nanterre 92</title>
+    <desc lang="en">Watch Basketball action as Trabzonspor Basketbol takes on Nanterre 92
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 AEK vs. Salon Vilpas Vikings (DAZN 2); 16:00 SK Slavia Prague vs. Berlin (DAZN 3); 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Bonn vs. Porto (DAZN 6); 18:00 Antwerp Giants vs. Szombathely (DAZN 7)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20261007183000 +0000" stop="20261007204500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Basketball Champions League: UCAM Murcia vs. Varese</title>
+    <desc lang="en">Watch Basketball action as Varese takes on UCAM Murcia
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Bonn vs. Porto (DAZN 6); 18:00 Antwerp Giants vs. Szombathely (DAZN 7)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261008000000 +0000" stop="20261008021500 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">UNAN Managua v Real Estelí</title>
@@ -4016,13 +4036,21 @@ Istodobno na DAZN-u (UTC): 13:00 Muzinga vs. Young Star (DAZN 2)</desc>
 Istodobno na DAZN-u (UTC): 16:00 Women's Red Bull Rampage (DAZN 2)</desc>
     <category lang="en">Boxing</category>
   </programme>
-  <programme start="20261008180000 +0000" stop="20261008201500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">U23 Women's National : Scotland U23 vs. Germany U23</title>
-    <desc lang="en">Watch Soccer action as Scotland U23 takes on Germany U23
+  <programme start="20261008180000 +0000" stop="20261008190000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Golden Boy Promotions: Schofield vs. Bahdi: Press Conference</title>
+    <desc lang="en">Floyd Schofield Jr. and Lucas Bahdi come face-to-face at the official fight week press conference ahead of their eagerly awaited clash for the vacant WBA lightweight title.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Inside The Ring - 8 Oct (DAZN 2)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 18:00 Scotland U23 vs. Germany U23 (DAZN 2)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20261008190000 +0000" stop="20261008220000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Inside The Ring - 8 Oct</title>
+    <desc lang="en">Join the team on Inside The Ring every week for the latest boxing news, exclusive interviews, and in-depth reactions to recent results.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 Scotland U23 vs. Germany U23 (DAZN 2)</desc>
+    <category lang="en">Boxing</category>
   </programme>
   <programme start="20261008223000 +0000" stop="20261009013000 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">Eye of the Tiger: Iglesias vs. Zaren</title>
@@ -4094,38 +4122,52 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 6 (DAZN 3); 12:00 Good Mornin
 Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs. Gibraltar (DAZN 1); 18:45 Romania vs. Sweden (DAZN 3); 18:45 Italy vs. Türkiye (DAZN 4); 18:45 France vs. Belgium (DAZN 5); 18:45 Montenegro vs. Armenia (DAZN 7); 18:45 Ukraine vs. Hungary (DAZN 8); 18:45 Bosnia-Herzegovina vs. Poland (DAZN 9); 19:00 NFL Live (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261006001500 +0000" stop="20261006034500 +0000" channel="CA| DAZN 2 HD">
+  <programme start="20261006001500 +0000" stop="20261006033058 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">NFL Game Pass: Falcons @ Saints</title>
     <desc lang="en">The Atlanta Falcons readies to challenge The New Orleans Saints in NFL 26/27 action. This rivalry matchup features two sides eager to claim victory and gain ground in the standings. Can the visitors pull off a statement win, or will the home side protect their turf? Tune in for what promises to be a hard-fought battle!
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:00 Beijing Open: Day 7 (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:00 Beijing Open: Day 7 (DAZN 4); 03:30 NFL GameDay Final (DAZN 5)</desc>
     <category lang="en">Football</category>
   </programme>
+  <programme start="20261006113000 +0000" stop="20261006134500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Kupa e Shqipërisë - Albania: Besëlidhja Lezhë vs. Sopoti Librazhd</title>
+    <desc lang="en">Watch Soccer action as Besëlidhja Lezhë takes on Sopoti Librazhd
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 7 (DAZN 4); 11:30 Flamurtari vs. KF Gramshi (DAZN 1); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 3); 12:00 Kabayel vs. Hysa: Launch Press Conference (DAZN 4)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
   <programme start="20261006154500 +0000" stop="20261006180000 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Hapoel Holon v Cholet</title>
-    <sub-title lang="en">Basketball Champions League</sub-title>
+    <title lang="en">Basketball Champions League: Hapoel Holon vs. Cholet</title>
     <desc lang="en">Watch Basketball action as Cholet takes on Hapoel Holon
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Faroe Islands (DAZN 1); 16:00 Germany U21 vs. Georgia U21 (DAZN 3); 16:30 Vilnius Rytas v Sabah (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Faroe Islands (DAZN 1); 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:00 Germany U21 vs. Georgia U21 (DAZN 4); 16:30 Peristeri vs. Bamberg (DAZN 1); 16:30 Vilnius Rytas vs. Sabah (DAZN 5)</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">UEFA Nations League: Scotland vs. Slovenia</title>
-    <desc lang="en">Watch Soccer action as Scotland takes on Slovenia
+  <programme start="20261006180000 +0000" stop="20261006201500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Basketball Champions League: Igokea vs. Bilbao</title>
+    <desc lang="en">Watch Basketball action as Igokea takes on Bilbao
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:45 Croatia vs. Spain (DAZN 1); 18:45 England vs Czechia (DAZN 3); 18:45 Switzerland vs. North Macedonia (DAZN 4); 18:45 Luxembourg vs. Bulgaria (DAZN 5); 18:45 Estonia vs. Iceland (DAZN 6); 18:45 Belarus vs. Finland (DAZN 7); 18:45 Moldova vs. Slovakia (DAZN 8); 18:45 Albania vs. San Marino (DAZN 9)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:00 Germany U21 vs. Georgia U21 (DAZN 4); 16:30 Peristeri vs. Bamberg (DAZN 1); 16:30 Vilnius Rytas vs. Sabah (DAZN 5); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261007100000 +0000" stop="20261007121500 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">Vertex Cup London 2026 - Matchday 3</title>
     <desc lang="en">Watch the Vertex Cup London 2026 on DAZN, featuring top U17 talent from Argentina, Mexico, China and Tanzania.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261007160000 +0000" stop="20261007181500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Basketball Champions League: AEK vs. Salon Vilpas Vikings</title>
+    <desc lang="en">Watch Basketball action as Salon Vilpas Vikings takes on AEK
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1); 16:00 SK Slavia Prague vs. Berlin (DAZN 3); 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Bonn vs. Porto (DAZN 6); 18:00 Antwerp Giants vs. Szombathely (DAZN 7)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261008130000 +0000" stop="20261008151500 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">Ligue A - Burundi: Muzinga vs. Young Star</title>
@@ -4144,13 +4186,13 @@ Istodobno na DAZN-u (UTC): 07:00 Beijing Open: Day 9 (DAZN 1)</desc>
 Istodobno na DAZN-u (UTC): 16:00 Joey Essex vs. Dapper Laughs: Press Conference (DAZN 1)</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
-  <programme start="20261008190000 +0000" stop="20261008220000 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Inside The Ring - 8 Oct</title>
-    <desc lang="en">Join the team on Inside The Ring every week for the latest boxing news, exclusive interviews, and in-depth reactions to recent results.
+  <programme start="20261008180000 +0000" stop="20261008201500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">U23 Women's National : Scotland U23 vs. Germany U23</title>
+    <desc lang="en">Watch Soccer action as Scotland U23 takes on Germany U23
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Scotland U23 vs. Germany U23 (DAZN 1)</desc>
-    <category lang="en">Boxing</category>
+Istodobno na DAZN-u (UTC): 18:00 Schofield vs. Bahdi: Press Conference (DAZN 1); 19:00 Inside The Ring - 8 Oct (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261009001500 +0000" stop="20261009034500 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">NFL Game Pass: Buccaneers @ Cowboys</title>
@@ -4207,37 +4249,52 @@ Istodobno na DAZN-u (UTC): 00:20 Lions @ Panthers (DAZN 1); 00:20 Lions @ Panthe
 Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs. Gibraltar (DAZN 1); 18:45 Northern Ireland vs. Georgia (DAZN 2); 18:45 Italy vs. Türkiye (DAZN 4); 18:45 France vs. Belgium (DAZN 5); 18:45 Montenegro vs. Armenia (DAZN 7); 18:45 Ukraine vs. Hungary (DAZN 8); 18:45 Bosnia-Herzegovina vs. Poland (DAZN 9); 19:00 NFL Live (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261006001500 +0000" stop="20261006034500 +0000" channel="CA| DAZN 3 HD">
+  <programme start="20261006001500 +0000" stop="20261006033149 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">NFL Game Pass: Falcons @ Saints (In French)</title>
     <desc lang="en">The Atlanta Falcons readies to challenge The New Orleans Saints in NFL 26/27 action. This rivalry matchup features two sides eager to claim victory and gain ground in the standings. Can the visitors pull off a statement win, or will the home side protect their turf? Tune in for what promises to be a hard-fought battle!
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (DAZN 2); 03:00 Beijing Open: Day 7 (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (DAZN 2); 03:00 Beijing Open: Day 7 (DAZN 4); 03:30 NFL GameDay Final (DAZN 5)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261006160000 +0000" stop="20261006181500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">UEFA U21 Championship Qualification: Germany U21 vs. Georgia U21</title>
-    <desc lang="en">Watch Soccer action as Germany U21 takes on Georgia U21
+  <programme start="20261006113000 +0000" stop="20261006134500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Kupa e Shqipërisë - Albania: Skënderbeu Korçë vs. Naftëtari Kuçovë</title>
+    <desc lang="en">Watch Soccer action as Skënderbeu Korçë takes on Naftëtari Kuçovë
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Faroe Islands (DAZN 1); 15:45 Hapoel Holon v Cholet (DAZN 2); 16:30 Vilnius Rytas v Sabah (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 7 (DAZN 4); 11:30 Flamurtari vs. KF Gramshi (DAZN 1); 11:30 Besëlidhja Lezhë vs. Sopoti Librazhd (DAZN 2); 12:00 Kabayel vs. Hysa: Launch Press Conference (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">UEFA Nations League: England vs Czechia</title>
-    <desc lang="en">Watch Soccer action as Czechia takes on England
+  <programme start="20261006160000 +0000" stop="20261006181500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Basketball Champions League: KK Cibona vs. Galatasaray</title>
+    <desc lang="en">Watch Basketball action as KK Cibona takes on Galatasaray
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 2); 18:45 Switzerland vs. North Macedonia (DAZN 4); 18:45 Luxembourg vs. Bulgaria (DAZN 5); 18:45 Estonia vs. Iceland (DAZN 6); 18:45 Belarus vs. Finland (DAZN 7); 18:45 Moldova vs. Slovakia (DAZN 8); 18:45 Albania vs. San Marino (DAZN 9)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Faroe Islands (DAZN 1); 15:45 Hapoel Holon vs. Cholet (DAZN 2); 16:00 Germany U21 vs. Georgia U21 (DAZN 4); 16:30 Peristeri vs. Bamberg (DAZN 1); 16:30 Vilnius Rytas vs. Sabah (DAZN 5); 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20261006183000 +0000" stop="20261006204500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Basketball Champions League: Joventut vs. Bnei Herzliya</title>
+    <desc lang="en">Watch Basketball action as Joventut takes on Bnei Herzliya
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:30 Peristeri vs. Bamberg (DAZN 1); 16:30 Vilnius Rytas vs. Sabah (DAZN 5); 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">Kupa e Shqipërisë - Albania: Besa Kavajë vs. Devolli</title>
     <desc lang="en">Watch Soccer action as Besa Kavajë takes on Devolli
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261007160000 +0000" stop="20261007181500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Basketball Champions League: SK Slavia Prague vs. Berlin</title>
+    <desc lang="en">Watch Basketball action as SK Slavia Prague takes on Berlin
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1); 16:00 AEK vs. Salon Vilpas Vikings (DAZN 2); 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Bonn vs. Porto (DAZN 6); 18:00 Antwerp Giants vs. Szombathely (DAZN 7)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261009130000 +0000" stop="20261009151500 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">Ligue A - Burundi: Royal Vision vs. Kayanza United</title>
@@ -4277,30 +4334,53 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 6 (DAZN 3); 12:00 Good Mornin
 Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs. Gibraltar (DAZN 1); 18:45 Northern Ireland vs. Georgia (DAZN 2); 18:45 Romania vs. Sweden (DAZN 3); 18:45 France vs. Belgium (DAZN 5); 18:45 Montenegro vs. Armenia (DAZN 7); 18:45 Ukraine vs. Hungary (DAZN 8); 18:45 Bosnia-Herzegovina vs. Poland (DAZN 9); 19:00 NFL Live (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261006030000 +0000" stop="20261006110000 +0000" channel="CA| DAZN 4 HD">
+  <programme start="20261006030000 +0000" stop="20261006120000 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">Beijing Open: Day 7</title>
     <sub-title lang="en">WTA China Open</sub-title>
     <desc lang="en">Watch Day 7 of the Beijing Open on DAZN.
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (DAZN 2); 00:15 Falcons @ Saints (In French) (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (DAZN 2); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:30 NFL GameDay Final (DAZN 5); 11:30 Flamurtari vs. KF Gramshi (DAZN 1); 11:30 Besëlidhja Lezhë vs. Sopoti Librazhd (DAZN 2); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 3)</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">UEFA Nations League: Switzerland vs. North Macedonia</title>
-    <desc lang="en">Watch Soccer action as Switzerland takes on North Macedonia
+  <programme start="20261006120000 +0000" stop="20261006130000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Kabayel v Hysa: Kabayel vs. Hysa: Launch Press Conference</title>
+    <desc lang="en">Watch the latest big fight announcement from Queensberry Promotions.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 2); 18:45 England vs Czechia (DAZN 3); 18:45 Luxembourg vs. Bulgaria (DAZN 5); 18:45 Estonia vs. Iceland (DAZN 6); 18:45 Belarus vs. Finland (DAZN 7); 18:45 Moldova vs. Slovakia (DAZN 8); 18:45 Albania vs. San Marino (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 11:30 Flamurtari vs. KF Gramshi (DAZN 1); 11:30 Besëlidhja Lezhë vs. Sopoti Librazhd (DAZN 2); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 3)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20261006160000 +0000" stop="20261006181500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">UEFA U21 Championship Qualification: Germany U21 vs. Georgia U21</title>
+    <desc lang="en">Watch Soccer action as Germany U21 takes on Georgia U21
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 14:00 Kazakhstan vs. Faroe Islands (DAZN 1); 15:45 Hapoel Holon vs. Cholet (DAZN 2); 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:30 Peristeri vs. Bamberg (DAZN 1); 16:30 Vilnius Rytas vs. Sabah (DAZN 5); 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">UEFA Nations League: Scotland vs. Slovenia</title>
+    <desc lang="en">Watch Soccer action as Scotland takes on Slovenia
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Flamurtari vs. KF Gramshi</title>
-    <desc lang="en">Watch Soccer action as KF Gramshi takes on Flamurtari
+    <title lang="en">Kupa e Shqipërisë - Albania: Laçi vs. Këlcyra</title>
+    <desc lang="en">Watch Soccer action as Këlcyra takes on Laçi
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261007170000 +0000" stop="20261007191500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Basketball Champions League: Juventus vs. Malaga</title>
+    <desc lang="en">Watch Basketball action as Juventus takes on Malaga
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1); 16:00 AEK vs. Salon Vilpas Vikings (DAZN 2); 16:00 SK Slavia Prague vs. Berlin (DAZN 3); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Bonn vs. Porto (DAZN 6); 18:00 Antwerp Giants vs. Szombathely (DAZN 7); 18:30 UCAM Murcia vs. Varese (DAZN 1)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261009131000 +0000" stop="20261009152500 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">Division 1 - UAE: Al Jazira Al Hamra vs. Dibba Al Fujairah</title>
@@ -4332,21 +4412,45 @@ Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 6 (DAZN 3); 13:00 Final | Ind
 Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs. Gibraltar (DAZN 1); 18:45 Northern Ireland vs. Georgia (DAZN 2); 18:45 Romania vs. Sweden (DAZN 3); 18:45 Italy vs. Türkiye (DAZN 4); 18:45 Montenegro vs. Armenia (DAZN 7); 18:45 Ukraine vs. Hungary (DAZN 8); 18:45 Bosnia-Herzegovina vs. Poland (DAZN 9); 19:00 NFL Live (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">UEFA Nations League: Luxembourg vs. Bulgaria</title>
-    <desc lang="en">Watch Soccer action as Bulgaria takes on Luxembourg
+  <programme start="20261006033000 +0000" stop="20261006051500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">NFL GameDay Final</title>
+    <sub-title lang="en">NFL Game Pass</sub-title>
+    <desc lang="en">Wrap up the latest action with NFL GameDay Final as the panel review the key highlights and post-game reaction.
+
+Istodobno na DAZN-u (UTC): 00:00 Manningcast | MNF with Peyton &amp; Eli: Falcons @ Saints (DAZN 1); 00:15 Falcons @ Saints (DAZN 2); 00:15 Falcons @ Saints (In French) (DAZN 3); 03:00 Beijing Open: Day 7 (DAZN 4)</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261006163000 +0000" stop="20261006184500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Basketball Champions League: Vilnius Rytas vs. Sabah</title>
+    <desc lang="en">Watch Basketball action as Sabah takes on Vilnius Rytas
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 2); 18:45 England vs Czechia (DAZN 3); 18:45 Switzerland vs. North Macedonia (DAZN 4); 18:45 Estonia vs. Iceland (DAZN 6); 18:45 Belarus vs. Finland (DAZN 7); 18:45 Moldova vs. Slovakia (DAZN 8); 18:45 Albania vs. San Marino (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 15:45 Hapoel Holon vs. Cholet (DAZN 2); 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:00 Germany U21 vs. Georgia U21 (DAZN 4); 16:30 Peristeri vs. Bamberg (DAZN 1); 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">UEFA Nations League: England vs Czechia</title>
+    <desc lang="en">Watch Soccer action as Czechia takes on England
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Laçi vs. Këlcyra</title>
-    <desc lang="en">Watch Soccer action as Këlcyra takes on Laçi
+    <title lang="en">Kupa e Shqipërisë - Albania: Lushnja vs. KF Shiroka</title>
+    <desc lang="en">Watch Soccer action as KF Shiroka takes on Lushnja
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261007180000 +0000" stop="20261007201500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Basketball Champions League: Spartak Subotica vs. Rasta Vechta</title>
+    <desc lang="en">Watch Basketball action as Rasta Vechta takes on Spartak Subotica
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1); 16:00 AEK vs. Salon Vilpas Vikings (DAZN 2); 16:00 SK Slavia Prague vs. Berlin (DAZN 3); 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Bonn vs. Porto (DAZN 6); 18:00 Antwerp Giants vs. Szombathely (DAZN 7); 18:30 UCAM Murcia vs. Varese (DAZN 1)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261009131500 +0000" stop="20261009153000 +0000" channel="CA| DAZN 5 HD">
     <title lang="en">Division 1 - UAE: Al Ittifaq vs. Al Dhaid</title>
@@ -4372,21 +4476,29 @@ Istodobno na DAZN-u (UTC): 18:00 Schofield vs. Bahdi: Weigh-In (DAZN 1); 18:30 D
 Istodobno na DAZN-u (UTC): 03:00 Beijing Open: Day 6 (DAZN 3); 13:00 Final | Indonesia vs. Thailand (DAZN 2); 14:00 EFC5 vs. SCAF (DAZN 4); 15:30 AS Sonabel vs. US Comoé (DAZN 1); 16:00 Cyprus vs. Latvia (DAZN 5); 18:45 Liechtenstein vs. Gibraltar (DAZN 1); 18:45 Northern Ireland vs. Georgia (DAZN 2); 18:45 Romania vs. Sweden (DAZN 3); 18:45 Italy vs. Türkiye (DAZN 4); 18:45 France vs. Belgium (DAZN 5); 18:45 Montenegro vs. Armenia (DAZN 7); 18:45 Ukraine vs. Hungary (DAZN 8); 18:45 Bosnia-Herzegovina vs. Poland (DAZN 9); 19:00 NFL Live (DAZN 10)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">UEFA Nations League: Estonia vs. Iceland</title>
-    <desc lang="en">Watch Soccer action as Estonia takes on Iceland
+  <programme start="20261006180000 +0000" stop="20261006201500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Basketball Champions League: Strasbourg vs. Legia Warszawa</title>
+    <desc lang="en">Watch Basketball action as Strasbourg takes on Legia Warszawa
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 2); 18:45 England vs Czechia (DAZN 3); 18:45 Switzerland vs. North Macedonia (DAZN 4); 18:45 Luxembourg vs. Bulgaria (DAZN 5); 18:45 Belarus vs. Finland (DAZN 7); 18:45 Moldova vs. Slovakia (DAZN 8); 18:45 Albania vs. San Marino (DAZN 9)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:00 Germany U21 vs. Georgia U21 (DAZN 4); 16:30 Peristeri vs. Bamberg (DAZN 1); 16:30 Vilnius Rytas vs. Sabah (DAZN 5); 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Lushnja vs. KF Shiroka</title>
-    <desc lang="en">Watch Soccer action as KF Shiroka takes on Lushnja
+    <title lang="en">Kupa e Shqipërisë - Albania: Kastrioti Krujë vs. Luzi 2008</title>
+    <desc lang="en">Watch Soccer action as Kastrioti Krujë takes on Luzi 2008
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261007180000 +0000" stop="20261007201500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Basketball Champions League: Bonn vs. Porto</title>
+    <desc lang="en">Watch Basketball action as Bonn takes on Porto
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1); 16:00 AEK vs. Salon Vilpas Vikings (DAZN 2); 16:00 SK Slavia Prague vs. Berlin (DAZN 3); 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Antwerp Giants vs. Szombathely (DAZN 7); 18:30 UCAM Murcia vs. Varese (DAZN 1)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261009131500 +0000" stop="20261009153000 +0000" channel="CA| DAZN 6 HD">
     <title lang="en">Division 1 - UAE: Al Arabi vs. Gulf United</title>
@@ -4411,21 +4523,29 @@ Istodobno na DAZN-u (UTC): 18:00 Schofield vs. Bahdi: Weigh-In (DAZN 1); 18:30 D
 Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs. Gibraltar (DAZN 1); 18:45 Northern Ireland vs. Georgia (DAZN 2); 18:45 Romania vs. Sweden (DAZN 3); 18:45 Italy vs. Türkiye (DAZN 4); 18:45 France vs. Belgium (DAZN 5); 18:45 Ukraine vs. Hungary (DAZN 8); 18:45 Bosnia-Herzegovina vs. Poland (DAZN 9); 19:00 NFL Live (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">UEFA Nations League: Belarus vs. Finland</title>
-    <desc lang="en">Watch Soccer action as Finland takes on Belarus
+  <programme start="20261006180000 +0000" stop="20261006201500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Basketball Champions League: Reggiana vs. BK Pardubice</title>
+    <desc lang="en">Watch Basketball action as BK Pardubice takes on Reggiana
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 2); 18:45 England vs Czechia (DAZN 3); 18:45 Switzerland vs. North Macedonia (DAZN 4); 18:45 Luxembourg vs. Bulgaria (DAZN 5); 18:45 Estonia vs. Iceland (DAZN 6); 18:45 Moldova vs. Slovakia (DAZN 8); 18:45 Albania vs. San Marino (DAZN 9)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 16:00 KK Cibona vs. Galatasaray (DAZN 3); 16:00 Germany U21 vs. Georgia U21 (DAZN 4); 16:30 Peristeri vs. Bamberg (DAZN 1); 16:30 Vilnius Rytas vs. Sabah (DAZN 5); 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Kastrioti Krujë vs. Luzi 2008</title>
-    <desc lang="en">Watch Soccer action as Kastrioti Krujë takes on Luzi 2008
+    <title lang="en">Kupa e Shqipërisë - Albania: Oriku vs. Butrinti Sarandë</title>
+    <desc lang="en">Watch Soccer action as Butrinti Sarandë takes on Oriku
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261007180000 +0000" stop="20261007201500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Basketball Champions League: Antwerp Giants vs. Szombathely</title>
+    <desc lang="en">Watch Basketball action as Szombathely takes on Antwerp Giants
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 16:00 Trabzonspor Basketbol vs. Nanterre 92 (DAZN 1); 16:00 AEK vs. Salon Vilpas Vikings (DAZN 2); 16:00 SK Slavia Prague vs. Berlin (DAZN 3); 17:00 Juventus vs. Malaga (DAZN 4); 18:00 Spartak Subotica vs. Rasta Vechta (DAZN 5); 18:00 Bonn vs. Porto (DAZN 6); 18:30 UCAM Murcia vs. Varese (DAZN 1)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261009200000 +0000" stop="20261009230000 +0000" channel="CA| DAZN 7 HD">
     <title lang="en">Major League Table Tennis : MLTT - Week 3: Texas Smash vs. Florida Crocs</title>
@@ -4443,19 +4563,19 @@ Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs.
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">UEFA Nations League: Moldova vs. Slovakia</title>
-    <desc lang="en">Watch Soccer action as Slovakia takes on Moldova
+    <title lang="en">UEFA Nations League: Switzerland vs. North Macedonia</title>
+    <desc lang="en">Watch Soccer action as Switzerland takes on North Macedonia
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 2); 18:45 England vs Czechia (DAZN 3); 18:45 Switzerland vs. North Macedonia (DAZN 4); 18:45 Luxembourg vs. Bulgaria (DAZN 5); 18:45 Estonia vs. Iceland (DAZN 6); 18:45 Belarus vs. Finland (DAZN 7); 18:45 Albania vs. San Marino (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Oriku vs. Butrinti Sarandë</title>
-    <desc lang="en">Watch Soccer action as Butrinti Sarandë takes on Oriku
+    <title lang="en">Kupa e Shqipërisë - Albania: Kukësi vs. Erzeni Shijak</title>
+    <desc lang="en">Watch Soccer action as Erzeni Shijak takes on Kukësi
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Pogradeci vs. Delvina (DAZN 9); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261005184500 +0000" stop="20261005204635 +0000" channel="CA| DAZN 9 HD">
@@ -4466,19 +4586,19 @@ Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs.
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 9 HD">
-    <title lang="en">UEFA Nations League: Albania vs. San Marino</title>
-    <desc lang="en">Watch Soccer action as Albania takes on San Marino
+    <title lang="en">UEFA Nations League: Luxembourg vs. Bulgaria</title>
+    <desc lang="en">Watch Soccer action as Bulgaria takes on Luxembourg
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 2); 18:45 England vs Czechia (DAZN 3); 18:45 Switzerland vs. North Macedonia (DAZN 4); 18:45 Luxembourg vs. Bulgaria (DAZN 5); 18:45 Estonia vs. Iceland (DAZN 6); 18:45 Belarus vs. Finland (DAZN 7); 18:45 Moldova vs. Slovakia (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 9 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Kukësi vs. Erzeni Shijak</title>
-    <desc lang="en">Watch Soccer action as Erzeni Shijak takes on Kukësi
+    <title lang="en">Kupa e Shqipërisë - Albania: Pogradeci vs. Delvina</title>
+    <desc lang="en">Watch Soccer action as Pogradeci takes on Delvina
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261005190000 +0000" stop="20261005211500 +0000" channel="CA| DAZN 10 HD">
@@ -4489,28 +4609,44 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
 Istodobno na DAZN-u (UTC): 16:00 The Aftermath (DAZN 6); 18:45 Liechtenstein vs. Gibraltar (DAZN 1); 18:45 Northern Ireland vs. Georgia (DAZN 2); 18:45 Romania vs. Sweden (DAZN 3); 18:45 Italy vs. Türkiye (DAZN 4); 18:45 France vs. Belgium (DAZN 5); 18:45 Montenegro vs. Armenia (DAZN 7); 18:45 Ukraine vs. Hungary (DAZN 8); 18:45 Bosnia-Herzegovina vs. Poland (DAZN 9); 21:00 NFL Fantasy Live (DAZN 1)</desc>
     <category lang="en">Football</category>
   </programme>
+  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 10 HD">
+    <title lang="en">UEFA Nations League: Estonia vs. Iceland</title>
+    <desc lang="en">Watch Soccer action as Estonia takes on Iceland
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
   <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 10 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Pogradeci vs. Delvina</title>
-    <desc lang="en">Watch Soccer action as Pogradeci takes on Delvina
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 11 HD">
-    <title lang="en">Kupa e Shqipërisë - Albania: Skënderbeu Korçë vs. Naftëtari Kuçovë</title>
-    <desc lang="en">Watch Soccer action as Skënderbeu Korçë takes on Naftëtari Kuçovë
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi (DAZN 12)</desc>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261007113000 +0000" stop="20261007134500 +0000" channel="CA| DAZN 12 HD">
     <title lang="en">Kupa e Shqipërisë - Albania: Apolonia Fier vs. MaliqiApolonia Fier vs. Maliqi</title>
     <desc lang="en">Watch Soccer action as Apolonia Fier takes on Maliqi
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Flamurtari vs. KF Gramshi (DAZN 4); 11:30 Laçi vs. Këlcyra (DAZN 5); 11:30 Lushnja vs. KF Shiroka (DAZN 6); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 7); 11:30 Oriku vs. Butrinti Sarandë (DAZN 8); 11:30 Kukësi vs. Erzeni Shijak (DAZN 9); 11:30 Pogradeci vs. Delvina (DAZN 10); 11:30 Skënderbeu Korçë vs. Naftëtari Kuçovë (DAZN 11)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup London 2026 - Matchday 3 (DAZN 2); 11:30 Besa Kavajë vs. Devolli (DAZN 3); 11:30 Laçi vs. Këlcyra (DAZN 4); 11:30 Lushnja vs. KF Shiroka (DAZN 5); 11:30 Kastrioti Krujë vs. Luzi 2008 (DAZN 6); 11:30 Oriku vs. Butrinti Sarandë (DAZN 7); 11:30 Kukësi vs. Erzeni Shijak (DAZN 8); 11:30 Pogradeci vs. Delvina (DAZN 9)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">UEFA Nations League: Belarus vs. Finland</title>
+    <desc lang="en">Watch Soccer action as Finland takes on Belarus
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Moldova vs. Slovakia (DAZN 12); 18:45 Albania vs. San Marino (DAZN 13)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 12 HD">
+    <title lang="en">UEFA Nations League: Moldova vs. Slovakia</title>
+    <desc lang="en">Watch Soccer action as Slovakia takes on Moldova
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Albania vs. San Marino (DAZN 13)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261006184500 +0000" stop="20261006210000 +0000" channel="CA| DAZN 13 HD">
+    <title lang="en">UEFA Nations League: Albania vs. San Marino</title>
+    <desc lang="en">Watch Soccer action as Albania takes on San Marino
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 Igokea vs. Bilbao (DAZN 2); 18:00 Strasbourg vs. Legia Warszawa (DAZN 6); 18:00 Reggiana vs. BK Pardubice (DAZN 7); 18:30 Joventut vs. Bnei Herzliya (DAZN 3); 18:45 Croatia vs. Spain (DAZN 1); 18:45 Scotland vs. Slovenia (DAZN 4); 18:45 England vs Czechia (DAZN 5); 18:45 Switzerland vs. North Macedonia (DAZN 8); 18:45 Luxembourg vs. Bulgaria (DAZN 9); 18:45 Estonia vs. Iceland (DAZN 10); 18:45 Belarus vs. Finland (DAZN 11); 18:45 Moldova vs. Slovakia (DAZN 12)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261005210000 +0000" stop="20261006020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
@@ -8893,7 +9029,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009000000 +0000" stop="20261009010000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Fantasy Island</title>
     <sub-title lang="en">War of the Roses (And the Hutchinsons)</sub-title>
-    <desc lang="en">A middle-aged couple and a younger couple arrive separately with their own unique fantasies, and Javier and Roarke finally have a conversation discussing their relationship.(n)</desc>
+    <desc lang="en">A middle-aged couple and a younger couple arrive separately with their own unique fantasies, and Javier and Roarke finally have a conversation discussing their relationship.</desc>
     <credits>
       <actor>Roselyn Sanchez</actor>
       <actor>Kiara Barnes</actor>
@@ -8919,7 +9055,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009010000 +0000" stop="20261009020000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">The Walking Dead</title>
     <sub-title lang="en">The World Before</sub-title>
-    <desc lang="en">Flashbacks reveal the history of Dante; a fight causes some tension in Oceanside; the Alexandrians set out on a high-stakes mission.(n)</desc>
+    <desc lang="en">Flashbacks reveal the history of Dante; a fight causes some tension in Oceanside; the Alexandrians set out on a high-stakes mission.</desc>
     <credits>
       <director>John Dahl</director>
       <actor>Norman Reedus</actor>
@@ -8949,7 +9085,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009020000 +0000" stop="20261009030000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Reginald the Vampire</title>
     <sub-title lang="en">The Odyssey</sub-title>
-    <desc lang="en">Reginald leaves home to find a legendary vampire named Abraham who has a legendary power: he can turn a vampire back to human.(n)</desc>
+    <desc lang="en">Reginald leaves home to find a legendary vampire named Abraham who has a legendary power: he can turn a vampire back to human.</desc>
     <credits>
       <actor>Jacob Batalon</actor>
       <actor>Mandela Van Peebles</actor>
@@ -8968,7 +9104,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009030000 +0000" stop="20261009040000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">Hellens Manor, Herefordshire</sub-title>
-    <desc lang="en">The team investigate Hellens Manor, a rural retreat that has witnessed heartbreak and bloodshed over the centuries, and two victims from the manor's past may hold the answer to its shocking tales.(n)</desc>
+    <desc lang="en">The team investigate Hellens Manor, a rural retreat that has witnessed heartbreak and bloodshed over the centuries, and two victims from the manor's past may hold the answer to its shocking tales.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -8993,7 +9129,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009040000 +0000" stop="20261009050000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">Tretower Court and Castle</sub-title>
-    <desc lang="en">Yvette Fielding and the team visit Tretower Court in Wales, which may be home to the ghost of a 'White Lady' some think is the wife of Roger Vaughan, who owned the manor house in the 1400s.(n)</desc>
+    <desc lang="en">Yvette Fielding and the team visit Tretower Court in Wales, which may be home to the ghost of a 'White Lady' some think is the wife of Roger Vaughan, who owned the manor house in the 1400s.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -9018,7 +9154,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">East Riddlesden Hall</sub-title>
-    <desc lang="en">Yvette Fielding and the team of paranormal investigators uncover ghostly phenomena in Keighley, West Yorkshire, as they visit East Riddleseden Hall along with guest medium Ian Shillito.(n)</desc>
+    <desc lang="en">Yvette Fielding and the team of paranormal investigators uncover ghostly phenomena in Keighley, West Yorkshire, as they visit East Riddleseden Hall along with guest medium Ian Shillito.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -9043,7 +9179,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009060000 +0000" stop="20261009070000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">RRS Discovery &amp; HMS Unicorn, Dundee</sub-title>
-    <desc lang="en">Yvette Fielding and the paranormal investigation team are in Dundee to discover the ghostly inhabitants of two historic ships, HMS Unicorn of the Royal Navy and the iconic RRS Discovery.(n)</desc>
+    <desc lang="en">Yvette Fielding and the paranormal investigation team are in Dundee to discover the ghostly inhabitants of two historic ships, HMS Unicorn of the Royal Navy and the iconic RRS Discovery.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -9067,7 +9203,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009070000 +0000" stop="20261009073000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023505,imi:f3a1b6e01678f9b5aa2904e01520af85cba34f8d/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -9078,7 +9214,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009073000 +0000" stop="20261009080000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023506,imi:c0dbe67f07a748fcd8b200e8b4afc6bb11bfc7ff/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -9089,7 +9225,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009080000 +0000" stop="20261009083000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023507,imi:f08b75be0caf52e332ab3c01c2137a1b30bb0797/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -9100,7 +9236,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009083000 +0000" stop="20261009090000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023508,imi:69d807d1ef7ef5968335145cd4bdb99ea7b97e8c/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -9111,7 +9247,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009090000 +0000" stop="20261009100000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023509,imi:d624c2e3fe9258b428b652353fb89045846f1589/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -9123,7 +9259,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009100000 +0000" stop="20261009110000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Star Trek: Deep Space Nine</title>
     <sub-title lang="en">The Storyteller</sub-title>
-    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.(n)</desc>
+    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.</desc>
     <credits>
       <director>David Livingston</director>
       <actor>Avery Brooks</actor>
@@ -9149,7 +9285,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009110000 +0000" stop="20261009120000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Star Trek: The Next Generation</title>
     <sub-title lang="en">Hide and Q</sub-title>
-    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.(n)</desc>
+    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.</desc>
     <credits>
       <director>Cliff Bole</director>
       <actor>Patrick Stewart</actor>
@@ -9174,7 +9310,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009120000 +0000" stop="20261009130000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Stargate Universe</title>
     <sub-title lang="en">Divided</sub-title>
-    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.(n)</desc>
+    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.</desc>
     <credits>
       <director>Felix Alcala</director>
       <actor>Robert Carlyle</actor>
@@ -9203,7 +9339,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">La Brea</title>
     <sub-title lang="en">The Fort</sub-title>
-    <desc lang="en">Eve, Levi and the rest of the search party explore a mysterious fort that raises more questions than answers; with the help of a new ally, Gavin and Izzy embark on a dangerous and unauthorised mission to save their family despite government warnings.(n)</desc>
+    <desc lang="en">Eve, Levi and the rest of the search party explore a mysterious fort that raises more questions than answers; with the help of a new ally, Gavin and Izzy embark on a dangerous and unauthorised mission to save their family despite government warnings.</desc>
     <credits>
       <director>Greg McLean</director>
       <actor>Natalie Zea</actor>
@@ -9233,7 +9369,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Fantasy Island</title>
     <sub-title lang="en">Peaches &amp; The Jilted Bride</sub-title>
-    <desc lang="en">Jilted bride Laura arrives on the island still in her wedding dress, having just been stood up at the altar, and Isla tells Ruby about the complicated past between her people and the Roarkes.(n)</desc>
+    <desc lang="en">Jilted bride Laura arrives on the island still in her wedding dress, having just been stood up at the altar, and Isla tells Ruby about the complicated past between her people and the Roarkes.</desc>
     <credits>
       <director>Milan Cheylov</director>
       <actor>Roselyn Sanchez</actor>
@@ -9262,7 +9398,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009150000 +0000" stop="20261009160000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Stargate SG-1</title>
     <sub-title lang="en">Counterstrike</sub-title>
-    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.(n)</desc>
+    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.</desc>
     <credits>
       <director>Andy Mikita</director>
       <actor>Beau Bridges</actor>
@@ -9290,7 +9426,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009160000 +0000" stop="20261009170000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Star Trek: The Next Generation</title>
     <sub-title lang="en">Hide and Q</sub-title>
-    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.(n)</desc>
+    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.</desc>
     <credits>
       <director>Cliff Bole</director>
       <actor>Patrick Stewart</actor>
@@ -9315,7 +9451,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009170000 +0000" stop="20261009180000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Star Trek: Deep Space Nine</title>
     <sub-title lang="en">The Storyteller</sub-title>
-    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.(n)</desc>
+    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.</desc>
     <credits>
       <director>David Livingston</director>
       <actor>Avery Brooks</actor>
@@ -9341,7 +9477,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009180000 +0000" stop="20261009190000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Stargate Universe</title>
     <sub-title lang="en">Divided</sub-title>
-    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.(n)</desc>
+    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.</desc>
     <credits>
       <director>Felix Alcala</director>
       <actor>Robert Carlyle</actor>
@@ -9370,7 +9506,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009190000 +0000" stop="20261009200000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Stargate SG-1</title>
     <sub-title lang="en">Counterstrike</sub-title>
-    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.(n)</desc>
+    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.</desc>
     <credits>
       <director>Andy Mikita</director>
       <actor>Beau Bridges</actor>
@@ -9397,7 +9533,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009200000 +0000" stop="20261009220000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">The Lake</title>
-    <desc lang="en">A gigantic and bloodthirsty monster emerges from a lake and unleashes its fury on a small town, leaving a trail of destruction in its wake.(n)</desc>
+    <desc lang="en">A gigantic and bloodthirsty monster emerges from a lake and unleashes its fury on a small town, leaving a trail of destruction in its wake.</desc>
     <credits>
       <director>Lee Thongkham</director>
       <actor>Sushar Manaying</actor>
@@ -9419,7 +9555,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009220000 +0000" stop="20261009230000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">The Walking Dead</title>
     <sub-title lang="en">Stalker</sub-title>
-    <desc lang="en">The group must defend Alexandria from a threatening, outside force.(n)</desc>
+    <desc lang="en">The group must defend Alexandria from a threatening, outside force.</desc>
     <credits>
       <director>Bronwen Hughes</director>
       <actor>Norman Reedus</actor>
@@ -9449,7 +9585,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009230000 +0000" stop="20261010000000 +0000" channel="UK| SYFY HEVC FHD">
     <title lang="en">Reginald the Vampire</title>
     <sub-title lang="en">No One Dies for Failing the SATs</sub-title>
-    <desc lang="en">The Assessment is twenty-four hours away and Reginald must use his big brain to figure out a way to survive various tests. Will he find a solution in time?(n)</desc>
+    <desc lang="en">The Assessment is twenty-four hours away and Reginald must use his big brain to figure out a way to survive various tests. Will he find a solution in time?</desc>
     <credits>
       <actor>Jacob Batalon</actor>
       <actor>Mandela Van Peebles</actor>
@@ -11308,7 +11444,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009000000 +0000" stop="20261009010000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Fantasy Island</title>
     <sub-title lang="en">War of the Roses (And the Hutchinsons)</sub-title>
-    <desc lang="en">A middle-aged couple and a younger couple arrive separately with their own unique fantasies, and Javier and Roarke finally have a conversation discussing their relationship.(n)</desc>
+    <desc lang="en">A middle-aged couple and a younger couple arrive separately with their own unique fantasies, and Javier and Roarke finally have a conversation discussing their relationship.</desc>
     <credits>
       <actor>Roselyn Sanchez</actor>
       <actor>Kiara Barnes</actor>
@@ -11334,7 +11470,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009010000 +0000" stop="20261009020000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">The Walking Dead</title>
     <sub-title lang="en">The World Before</sub-title>
-    <desc lang="en">Flashbacks reveal the history of Dante; a fight causes some tension in Oceanside; the Alexandrians set out on a high-stakes mission.(n)</desc>
+    <desc lang="en">Flashbacks reveal the history of Dante; a fight causes some tension in Oceanside; the Alexandrians set out on a high-stakes mission.</desc>
     <credits>
       <director>John Dahl</director>
       <actor>Norman Reedus</actor>
@@ -11364,7 +11500,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009020000 +0000" stop="20261009030000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Reginald the Vampire</title>
     <sub-title lang="en">The Odyssey</sub-title>
-    <desc lang="en">Reginald leaves home to find a legendary vampire named Abraham who has a legendary power: he can turn a vampire back to human.(n)</desc>
+    <desc lang="en">Reginald leaves home to find a legendary vampire named Abraham who has a legendary power: he can turn a vampire back to human.</desc>
     <credits>
       <actor>Jacob Batalon</actor>
       <actor>Mandela Van Peebles</actor>
@@ -11383,7 +11519,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009030000 +0000" stop="20261009040000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">Hellens Manor, Herefordshire</sub-title>
-    <desc lang="en">The team investigate Hellens Manor, a rural retreat that has witnessed heartbreak and bloodshed over the centuries, and two victims from the manor's past may hold the answer to its shocking tales.(n)</desc>
+    <desc lang="en">The team investigate Hellens Manor, a rural retreat that has witnessed heartbreak and bloodshed over the centuries, and two victims from the manor's past may hold the answer to its shocking tales.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -11408,7 +11544,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009040000 +0000" stop="20261009050000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">Tretower Court and Castle</sub-title>
-    <desc lang="en">Yvette Fielding and the team visit Tretower Court in Wales, which may be home to the ghost of a 'White Lady' some think is the wife of Roger Vaughan, who owned the manor house in the 1400s.(n)</desc>
+    <desc lang="en">Yvette Fielding and the team visit Tretower Court in Wales, which may be home to the ghost of a 'White Lady' some think is the wife of Roger Vaughan, who owned the manor house in the 1400s.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -11433,7 +11569,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">East Riddlesden Hall</sub-title>
-    <desc lang="en">Yvette Fielding and the team of paranormal investigators uncover ghostly phenomena in Keighley, West Yorkshire, as they visit East Riddleseden Hall along with guest medium Ian Shillito.(n)</desc>
+    <desc lang="en">Yvette Fielding and the team of paranormal investigators uncover ghostly phenomena in Keighley, West Yorkshire, as they visit East Riddleseden Hall along with guest medium Ian Shillito.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -11458,7 +11594,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009060000 +0000" stop="20261009070000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">RRS Discovery &amp; HMS Unicorn, Dundee</sub-title>
-    <desc lang="en">Yvette Fielding and the paranormal investigation team are in Dundee to discover the ghostly inhabitants of two historic ships, HMS Unicorn of the Royal Navy and the iconic RRS Discovery.(n)</desc>
+    <desc lang="en">Yvette Fielding and the paranormal investigation team are in Dundee to discover the ghostly inhabitants of two historic ships, HMS Unicorn of the Royal Navy and the iconic RRS Discovery.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -11482,7 +11618,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009070000 +0000" stop="20261009073000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023505,imi:f3a1b6e01678f9b5aa2904e01520af85cba34f8d/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -11493,7 +11629,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009073000 +0000" stop="20261009080000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023506,imi:c0dbe67f07a748fcd8b200e8b4afc6bb11bfc7ff/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -11504,7 +11640,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009080000 +0000" stop="20261009083000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023507,imi:f08b75be0caf52e332ab3c01c2137a1b30bb0797/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -11515,7 +11651,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009083000 +0000" stop="20261009090000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023508,imi:69d807d1ef7ef5968335145cd4bdb99ea7b97e8c/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -11526,7 +11662,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009090000 +0000" stop="20261009100000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023509,imi:d624c2e3fe9258b428b652353fb89045846f1589/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -11538,7 +11674,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009100000 +0000" stop="20261009110000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Star Trek: Deep Space Nine</title>
     <sub-title lang="en">The Storyteller</sub-title>
-    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.(n)</desc>
+    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.</desc>
     <credits>
       <director>David Livingston</director>
       <actor>Avery Brooks</actor>
@@ -11564,7 +11700,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009110000 +0000" stop="20261009120000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Star Trek: The Next Generation</title>
     <sub-title lang="en">Hide and Q</sub-title>
-    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.(n)</desc>
+    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.</desc>
     <credits>
       <director>Cliff Bole</director>
       <actor>Patrick Stewart</actor>
@@ -11589,7 +11725,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009120000 +0000" stop="20261009130000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Stargate Universe</title>
     <sub-title lang="en">Divided</sub-title>
-    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.(n)</desc>
+    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.</desc>
     <credits>
       <director>Felix Alcala</director>
       <actor>Robert Carlyle</actor>
@@ -11618,7 +11754,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">La Brea</title>
     <sub-title lang="en">The Fort</sub-title>
-    <desc lang="en">Eve, Levi and the rest of the search party explore a mysterious fort that raises more questions than answers; with the help of a new ally, Gavin and Izzy embark on a dangerous and unauthorised mission to save their family despite government warnings.(n)</desc>
+    <desc lang="en">Eve, Levi and the rest of the search party explore a mysterious fort that raises more questions than answers; with the help of a new ally, Gavin and Izzy embark on a dangerous and unauthorised mission to save their family despite government warnings.</desc>
     <credits>
       <director>Greg McLean</director>
       <actor>Natalie Zea</actor>
@@ -11648,7 +11784,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Fantasy Island</title>
     <sub-title lang="en">Peaches &amp; The Jilted Bride</sub-title>
-    <desc lang="en">Jilted bride Laura arrives on the island still in her wedding dress, having just been stood up at the altar, and Isla tells Ruby about the complicated past between her people and the Roarkes.(n)</desc>
+    <desc lang="en">Jilted bride Laura arrives on the island still in her wedding dress, having just been stood up at the altar, and Isla tells Ruby about the complicated past between her people and the Roarkes.</desc>
     <credits>
       <director>Milan Cheylov</director>
       <actor>Roselyn Sanchez</actor>
@@ -11677,7 +11813,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009150000 +0000" stop="20261009160000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Stargate SG-1</title>
     <sub-title lang="en">Counterstrike</sub-title>
-    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.(n)</desc>
+    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.</desc>
     <credits>
       <director>Andy Mikita</director>
       <actor>Beau Bridges</actor>
@@ -11705,7 +11841,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009160000 +0000" stop="20261009170000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Star Trek: The Next Generation</title>
     <sub-title lang="en">Hide and Q</sub-title>
-    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.(n)</desc>
+    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.</desc>
     <credits>
       <director>Cliff Bole</director>
       <actor>Patrick Stewart</actor>
@@ -11730,7 +11866,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009170000 +0000" stop="20261009180000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Star Trek: Deep Space Nine</title>
     <sub-title lang="en">The Storyteller</sub-title>
-    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.(n)</desc>
+    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.</desc>
     <credits>
       <director>David Livingston</director>
       <actor>Avery Brooks</actor>
@@ -11756,7 +11892,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009180000 +0000" stop="20261009190000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Stargate Universe</title>
     <sub-title lang="en">Divided</sub-title>
-    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.(n)</desc>
+    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.</desc>
     <credits>
       <director>Felix Alcala</director>
       <actor>Robert Carlyle</actor>
@@ -11785,7 +11921,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009190000 +0000" stop="20261009200000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Stargate SG-1</title>
     <sub-title lang="en">Counterstrike</sub-title>
-    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.(n)</desc>
+    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.</desc>
     <credits>
       <director>Andy Mikita</director>
       <actor>Beau Bridges</actor>
@@ -11812,7 +11948,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009200000 +0000" stop="20261009220000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">The Lake</title>
-    <desc lang="en">A gigantic and bloodthirsty monster emerges from a lake and unleashes its fury on a small town, leaving a trail of destruction in its wake.(n)</desc>
+    <desc lang="en">A gigantic and bloodthirsty monster emerges from a lake and unleashes its fury on a small town, leaving a trail of destruction in its wake.</desc>
     <credits>
       <director>Lee Thongkham</director>
       <actor>Sushar Manaying</actor>
@@ -11834,7 +11970,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009220000 +0000" stop="20261009230000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">The Walking Dead</title>
     <sub-title lang="en">Stalker</sub-title>
-    <desc lang="en">The group must defend Alexandria from a threatening, outside force.(n)</desc>
+    <desc lang="en">The group must defend Alexandria from a threatening, outside force.</desc>
     <credits>
       <director>Bronwen Hughes</director>
       <actor>Norman Reedus</actor>
@@ -11864,7 +12000,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009230000 +0000" stop="20261010000000 +0000" channel="UK| SYFY HEVC HD">
     <title lang="en">Reginald the Vampire</title>
     <sub-title lang="en">No One Dies for Failing the SATs</sub-title>
-    <desc lang="en">The Assessment is twenty-four hours away and Reginald must use his big brain to figure out a way to survive various tests. Will he find a solution in time?(n)</desc>
+    <desc lang="en">The Assessment is twenty-four hours away and Reginald must use his big brain to figure out a way to survive various tests. Will he find a solution in time?</desc>
     <credits>
       <actor>Jacob Batalon</actor>
       <actor>Mandela Van Peebles</actor>
@@ -13723,7 +13859,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009000000 +0000" stop="20261009010000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Fantasy Island</title>
     <sub-title lang="en">War of the Roses (And the Hutchinsons)</sub-title>
-    <desc lang="en">A middle-aged couple and a younger couple arrive separately with their own unique fantasies, and Javier and Roarke finally have a conversation discussing their relationship.(n)</desc>
+    <desc lang="en">A middle-aged couple and a younger couple arrive separately with their own unique fantasies, and Javier and Roarke finally have a conversation discussing their relationship.</desc>
     <credits>
       <actor>Roselyn Sanchez</actor>
       <actor>Kiara Barnes</actor>
@@ -13749,7 +13885,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009010000 +0000" stop="20261009020000 +0000" channel="UK| SYFY FHD">
     <title lang="en">The Walking Dead</title>
     <sub-title lang="en">The World Before</sub-title>
-    <desc lang="en">Flashbacks reveal the history of Dante; a fight causes some tension in Oceanside; the Alexandrians set out on a high-stakes mission.(n)</desc>
+    <desc lang="en">Flashbacks reveal the history of Dante; a fight causes some tension in Oceanside; the Alexandrians set out on a high-stakes mission.</desc>
     <credits>
       <director>John Dahl</director>
       <actor>Norman Reedus</actor>
@@ -13779,7 +13915,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009020000 +0000" stop="20261009030000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Reginald the Vampire</title>
     <sub-title lang="en">The Odyssey</sub-title>
-    <desc lang="en">Reginald leaves home to find a legendary vampire named Abraham who has a legendary power: he can turn a vampire back to human.(n)</desc>
+    <desc lang="en">Reginald leaves home to find a legendary vampire named Abraham who has a legendary power: he can turn a vampire back to human.</desc>
     <credits>
       <actor>Jacob Batalon</actor>
       <actor>Mandela Van Peebles</actor>
@@ -13798,7 +13934,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009030000 +0000" stop="20261009040000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">Hellens Manor, Herefordshire</sub-title>
-    <desc lang="en">The team investigate Hellens Manor, a rural retreat that has witnessed heartbreak and bloodshed over the centuries, and two victims from the manor's past may hold the answer to its shocking tales.(n)</desc>
+    <desc lang="en">The team investigate Hellens Manor, a rural retreat that has witnessed heartbreak and bloodshed over the centuries, and two victims from the manor's past may hold the answer to its shocking tales.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -13823,7 +13959,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009040000 +0000" stop="20261009050000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">Tretower Court and Castle</sub-title>
-    <desc lang="en">Yvette Fielding and the team visit Tretower Court in Wales, which may be home to the ghost of a 'White Lady' some think is the wife of Roger Vaughan, who owned the manor house in the 1400s.(n)</desc>
+    <desc lang="en">Yvette Fielding and the team visit Tretower Court in Wales, which may be home to the ghost of a 'White Lady' some think is the wife of Roger Vaughan, who owned the manor house in the 1400s.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -13848,7 +13984,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">East Riddlesden Hall</sub-title>
-    <desc lang="en">Yvette Fielding and the team of paranormal investigators uncover ghostly phenomena in Keighley, West Yorkshire, as they visit East Riddleseden Hall along with guest medium Ian Shillito.(n)</desc>
+    <desc lang="en">Yvette Fielding and the team of paranormal investigators uncover ghostly phenomena in Keighley, West Yorkshire, as they visit East Riddleseden Hall along with guest medium Ian Shillito.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -13873,7 +14009,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009060000 +0000" stop="20261009070000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Most Haunted</title>
     <sub-title lang="en">RRS Discovery &amp; HMS Unicorn, Dundee</sub-title>
-    <desc lang="en">Yvette Fielding and the paranormal investigation team are in Dundee to discover the ghostly inhabitants of two historic ships, HMS Unicorn of the Royal Navy and the iconic RRS Discovery.(n)</desc>
+    <desc lang="en">Yvette Fielding and the paranormal investigation team are in Dundee to discover the ghostly inhabitants of two historic ships, HMS Unicorn of the Royal Navy and the iconic RRS Discovery.</desc>
     <credits>
       <director>Karl Beattie</director>
       <actor>Yvette Fielding</actor>
@@ -13897,7 +14033,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009070000 +0000" stop="20261009073000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023505,imi:f3a1b6e01678f9b5aa2904e01520af85cba34f8d/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -13908,7 +14044,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009073000 +0000" stop="20261009080000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023506,imi:c0dbe67f07a748fcd8b200e8b4afc6bb11bfc7ff/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -13919,7 +14055,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009080000 +0000" stop="20261009083000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023507,imi:f08b75be0caf52e332ab3c01c2137a1b30bb0797/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -13930,7 +14066,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009083000 +0000" stop="20261009090000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023508,imi:69d807d1ef7ef5968335145cd4bdb99ea7b97e8c/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -13941,7 +14077,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009090000 +0000" stop="20261009100000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Teleshopping</title>
-    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.(n)</desc>
+    <desc lang="en">Presenting the latest products live on television that can be ordered directly. The product range extends from vacuum cleaners and bath towels to sports equipment.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Consumer</category>
     <icon src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/intent/crid:~~2F~~2Fgn.tv~~2F501178~~2FSH012613290000~~2F555023509,imi:d624c2e3fe9258b428b652353fb89045846f1589/posterTile?imageVersion=ZNdoVA&amp;w=200" />
@@ -13953,7 +14089,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009100000 +0000" stop="20261009110000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Star Trek: Deep Space Nine</title>
     <sub-title lang="en">The Storyteller</sub-title>
-    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.(n)</desc>
+    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.</desc>
     <credits>
       <director>David Livingston</director>
       <actor>Avery Brooks</actor>
@@ -13979,7 +14115,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009110000 +0000" stop="20261009120000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Star Trek: The Next Generation</title>
     <sub-title lang="en">Hide and Q</sub-title>
-    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.(n)</desc>
+    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.</desc>
     <credits>
       <director>Cliff Bole</director>
       <actor>Patrick Stewart</actor>
@@ -14004,7 +14140,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009120000 +0000" stop="20261009130000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Stargate Universe</title>
     <sub-title lang="en">Divided</sub-title>
-    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.(n)</desc>
+    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.</desc>
     <credits>
       <director>Felix Alcala</director>
       <actor>Robert Carlyle</actor>
@@ -14033,7 +14169,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="UK| SYFY FHD">
     <title lang="en">La Brea</title>
     <sub-title lang="en">The Fort</sub-title>
-    <desc lang="en">Eve, Levi and the rest of the search party explore a mysterious fort that raises more questions than answers; with the help of a new ally, Gavin and Izzy embark on a dangerous and unauthorised mission to save their family despite government warnings.(n)</desc>
+    <desc lang="en">Eve, Levi and the rest of the search party explore a mysterious fort that raises more questions than answers; with the help of a new ally, Gavin and Izzy embark on a dangerous and unauthorised mission to save their family despite government warnings.</desc>
     <credits>
       <director>Greg McLean</director>
       <actor>Natalie Zea</actor>
@@ -14063,7 +14199,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Fantasy Island</title>
     <sub-title lang="en">Peaches &amp; The Jilted Bride</sub-title>
-    <desc lang="en">Jilted bride Laura arrives on the island still in her wedding dress, having just been stood up at the altar, and Isla tells Ruby about the complicated past between her people and the Roarkes.(n)</desc>
+    <desc lang="en">Jilted bride Laura arrives on the island still in her wedding dress, having just been stood up at the altar, and Isla tells Ruby about the complicated past between her people and the Roarkes.</desc>
     <credits>
       <director>Milan Cheylov</director>
       <actor>Roselyn Sanchez</actor>
@@ -14092,7 +14228,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009150000 +0000" stop="20261009160000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Stargate SG-1</title>
     <sub-title lang="en">Counterstrike</sub-title>
-    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.(n)</desc>
+    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.</desc>
     <credits>
       <director>Andy Mikita</director>
       <actor>Beau Bridges</actor>
@@ -14120,7 +14256,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009160000 +0000" stop="20261009170000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Star Trek: The Next Generation</title>
     <sub-title lang="en">Hide and Q</sub-title>
-    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.(n)</desc>
+    <desc lang="en">Q gives superhuman powers to Riker and tells him his shipmates' wishes will be granted if he joins with Q.</desc>
     <credits>
       <director>Cliff Bole</director>
       <actor>Patrick Stewart</actor>
@@ -14145,7 +14281,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009170000 +0000" stop="20261009180000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Star Trek: Deep Space Nine</title>
     <sub-title lang="en">The Storyteller</sub-title>
-    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.(n)</desc>
+    <desc lang="en">O'Brien plays a pivotal role in the survival of a Bajoran village; a 15-year-old faction leader gets advice from Nog on settling a dispute.</desc>
     <credits>
       <director>David Livingston</director>
       <actor>Avery Brooks</actor>
@@ -14171,7 +14307,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009180000 +0000" stop="20261009190000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Stargate Universe</title>
     <sub-title lang="en">Divided</sub-title>
-    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.(n)</desc>
+    <desc lang="en">Rush suspects that a tracking device has been planted on Destiny, while a group of dissidents stages a coup that has life-threatening consequences.</desc>
     <credits>
       <director>Felix Alcala</director>
       <actor>Robert Carlyle</actor>
@@ -14200,7 +14336,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009190000 +0000" stop="20261009200000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Stargate SG-1</title>
     <sub-title lang="en">Counterstrike</sub-title>
-    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.(n)</desc>
+    <desc lang="en">The Jaffa take the fight to the Ori when they destroy a world that has converted to the Origin. Have their actions landed SG-1 in the middle of a war they can't control? Meanwhile, Vala encounters her now fully-grown daughter, who is intent on converting her mother to the one true faith.</desc>
     <credits>
       <director>Andy Mikita</director>
       <actor>Beau Bridges</actor>
@@ -14227,7 +14363,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   </programme>
   <programme start="20261009200000 +0000" stop="20261009220000 +0000" channel="UK| SYFY FHD">
     <title lang="en">The Lake</title>
-    <desc lang="en">A gigantic and bloodthirsty monster emerges from a lake and unleashes its fury on a small town, leaving a trail of destruction in its wake.(n)</desc>
+    <desc lang="en">A gigantic and bloodthirsty monster emerges from a lake and unleashes its fury on a small town, leaving a trail of destruction in its wake.</desc>
     <credits>
       <director>Lee Thongkham</director>
       <actor>Sushar Manaying</actor>
@@ -14249,7 +14385,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009220000 +0000" stop="20261009230000 +0000" channel="UK| SYFY FHD">
     <title lang="en">The Walking Dead</title>
     <sub-title lang="en">Stalker</sub-title>
-    <desc lang="en">The group must defend Alexandria from a threatening, outside force.(n)</desc>
+    <desc lang="en">The group must defend Alexandria from a threatening, outside force.</desc>
     <credits>
       <director>Bronwen Hughes</director>
       <actor>Norman Reedus</actor>
@@ -14279,7 +14415,7 @@ Istodobno na DAZN-u (UTC): 05:00 Beijing Open: Day 8 (DAZN 1); 10:00 Vertex Cup 
   <programme start="20261009230000 +0000" stop="20261010000000 +0000" channel="UK| SYFY FHD">
     <title lang="en">Reginald the Vampire</title>
     <sub-title lang="en">No One Dies for Failing the SATs</sub-title>
-    <desc lang="en">The Assessment is twenty-four hours away and Reginald must use his big brain to figure out a way to survive various tests. Will he find a solution in time?(n)</desc>
+    <desc lang="en">The Assessment is twenty-four hours away and Reginald must use his big brain to figure out a way to survive various tests. Will he find a solution in time?</desc>
     <credits>
       <actor>Jacob Batalon</actor>
       <actor>Mandela Van Peebles</actor>
