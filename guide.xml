@@ -3838,21 +3838,26 @@ Istodobno na DAZN-u (UTC): 17:00 NFL Redzone - Week 6; 20:00 UNA vs. COFUTPA; 20
 Istodobno na DAZN-u (UTC): 00:20 Cowboys @ Packers (DAZN 8); 00:20 Cowboys @ Packers (In French) (DAZN 9)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261019113000 +0000" stop="20261019193000 +0000" channel="CA| DAZN 1 HD">
+  <programme start="20261019113000 +0000" stop="20261019143000 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">Ningbo Open: Day 1</title>
     <sub-title lang="en">Ningbo Open Women Single</sub-title>
-    <desc lang="en">Watch Day one of the Ningbo Open Women Single on DAZN.
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 16:00 Bayern Munich vs. Stuttgart (DAZN 2); 16:30 Monza vs. Cagliari (DAZN 3); 17:00 ASC Police vs. Kaedi FC (DAZN 4); 18:45 Parma vs. Torino (DAZN 2); 19:00 Spurs vs. Coventry (DAZN 3)</desc>
+    <desc lang="en">Watch Day one of the Ningbo Open Women Single on DAZN.</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20261019195000 +0000" stop="20261019220500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">Premier League - Mauritania: AS Armee vs. ASC Kedia Zouerate</title>
-    <desc lang="en">Watch Soccer action as Armée takes on Kédia
+  <programme start="20261019160000 +0000" stop="20261019181500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Frauen Bundesliga: Bayern Munich vs. Stuttgart</title>
+    <desc lang="en">Watch Soccer action as Bayern München takes on Stuttgart
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:45 Parma vs. Torino (DAZN 2); 19:00 Spurs vs. Coventry (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 16:30 Monza vs. Cagliari (DAZN 2); 17:00 ASC Police vs. Kaedi FC (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261019184500 +0000" stop="20261019210000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Lega Serie A: Parma vs. Torino</title>
+    <desc lang="en">Watch Lega Serie A through Fubo Sports on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 ASC Police vs. Kaedi FC (DAZN 3); 19:00 Spurs vs. Coventry (DAZN 2); 19:50 AS Armee vs. ASC Kedia Zouerate (DAZN 3)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261020000000 +0000" stop="20261020033000 +0000" channel="CA| DAZN 1 HD">
@@ -3910,15 +3915,15 @@ Istodobno na DAZN-u (UTC): 12:00 Lille U19 vs. Galatasaray U19 (DAZN 2)</desc>
     <desc lang="en">Watch Soccer action as Shakhtar Donetsk U19 takes on Inter Milano
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:00 Lille U19 vs. Galatasaray U19 (DAZN 2); 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK vs. Antwerp Giants (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 12:00 Lille U19 vs. Galatasaray U19 (DAZN 2); 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK BC vs. Windrose Giants Antwerp (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261021163000 +0000" stop="20261021184500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">Basketball Champions League: Bnei Herzliya vs. Porto</title>
+    <title lang="en">Basketball Champions League: Bnei Penlink Herzliya vs. FC Porto</title>
     <desc lang="en">Watch Basketball action as Porto takes on Bnei Herzliya
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK vs. Antwerp Giants (DAZN 4); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK BC vs. Windrose Giants Antwerp (DAZN 4); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261021190000 +0000" stop="20261021211500 +0000" channel="CA| DAZN 1 HD">
@@ -3926,7 +3931,7 @@ Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK Tr
     <desc lang="en">Watch Soccer action as Sporting CP takes on LASK
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261021230000 +0000" stop="20261022011500 +0000" channel="CA| DAZN 1 HD">
@@ -3957,7 +3962,7 @@ Istodobno na DAZN-u (UTC): 13:00 Al Jazira vs. Ajman (DAZN 2); 13:30 Smith vs. P
     <desc lang="en">Watch Soccer action as Shabab Al Ahli takes on Al Ain
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 1 HD">
@@ -3965,7 +3970,7 @@ Istodobno na DAZN-u (UTC): 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. 
     <desc lang="en">Watch Soccer action as Ajax takes on Atalanta
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018000000 +0000" stop="20261018040518 +0000" channel="CA| DAZN 2 HD">
@@ -4018,20 +4023,20 @@ Istodobno na DAZN-u (UTC): 17:00 NFL Redzone - Week 6; 19:00 Real Madrid vs. Sev
 Istodobno na DAZN-u (UTC): 17:00 NFL Redzone - Week 6; 20:25 Bills @ Raiders; 22:00 Tigers SC vs. Elite SC (DAZN 1); 22:00 Robinhood vs. Broki (DAZN 3); 22:30 Santos Football Club vs. Guyana Defence Force FC (DAZN 4); 22:30 Barquisimeto vs. Lara (DAZN 5); 23:00 Old Road FC vs. Pigotts Bullets SC (DAZN 6); 00:00 Soufrière vs. La Clery (DAZN 7); 00:20 Cowboys @ Packers (DAZN 8); 00:20 Cowboys @ Packers (In French) (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261019160000 +0000" stop="20261019181500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Frauen Bundesliga: Bayern Munich vs. Stuttgart</title>
-    <desc lang="en">Watch Soccer action as Bayern München takes on Stuttgart
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 11:30 Ningbo Open: Day 1 (DAZN 1); 16:30 Monza vs. Cagliari (DAZN 3); 17:00 ASC Police vs. Kaedi FC (DAZN 4)</desc>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261019184500 +0000" stop="20261019210000 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Lega Serie A: Parma vs. Torino</title>
+  <programme start="20261019163000 +0000" stop="20261019184500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Lega Serie A: Monza vs. Cagliari</title>
     <desc lang="en">Watch Lega Serie A through Fubo Sports on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:30 Ningbo Open: Day 1 (DAZN 1); 17:00 ASC Police vs. Kaedi FC (DAZN 4); 19:00 Spurs vs. Coventry (DAZN 3); 19:50 AS Armee vs. ASC Kedia Zouerate (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Bayern Munich vs. Stuttgart (DAZN 1); 17:00 ASC Police vs. Kaedi FC (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261019190000 +0000" stop="20261019211500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Premier League: Spurs vs. Coventry</title>
+    <desc lang="en">Watch the Premier League through Fubo Sports on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 ASC Police vs. Kaedi FC (DAZN 3); 18:45 Parma vs. Torino (DAZN 1); 19:50 AS Armee vs. ASC Kedia Zouerate (DAZN 3)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261020000000 +0000" stop="20261020033000 +0000" channel="CA| DAZN 2 HD">
@@ -4079,7 +4084,7 @@ Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 3 (DAZN 1); 14:00 Inter U19 vs
     <desc lang="en">Watch Soccer action as Banga takes on ŠSG-FA Šiauliai
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Inter U19 vs. Shakhtar Donetsk U19 (DAZN 1); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK vs. Antwerp Giants (DAZN 4); 16:30 Bnei Herzliya vs. Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 14:00 Inter U19 vs. Shakhtar Donetsk U19 (DAZN 1); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK BC vs. Windrose Giants Antwerp (DAZN 4); 16:30 Bnei Penlink Herzliya vs. FC Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261021190000 +0000" stop="20261021211500 +0000" channel="CA| DAZN 2 HD">
@@ -4087,7 +4092,7 @@ Istodobno na DAZN-u (UTC): 14:00 Inter U19 vs. Shakhtar Donetsk U19 (DAZN 1); 16
     <desc lang="en">Watch Soccer action as Real Betis takes on Feyenoord
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022050000 +0000" stop="20261022130000 +0000" channel="CA| DAZN 2 HD">
@@ -4112,7 +4117,7 @@ Istodobno na DAZN-u (UTC): 13:00 Al Wasl vs. Ittihad Kalba FC (DAZN 1); 13:30 Sm
     <desc lang="en">Watch Soccer action as Lugano takes on Getafe
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 2 HD">
@@ -4120,7 +4125,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Jablo
     <desc lang="en">Watch Soccer action as Monaco takes on Freiburg
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018000000 +0000" stop="20261018030000 +0000" channel="CA| DAZN 3 HD">
@@ -4174,20 +4179,20 @@ Istodobno na DAZN-u (UTC): 10:30 Wuhan Open: Day 7 (DAZN 7); 16:00 Milan vs. Ata
 Istodobno na DAZN-u (UTC): 17:00 NFL Redzone - Week 6; 20:00 UNA vs. COFUTPA; 20:05 Cardinals @ Rams; 20:25 Chargers @ Chiefs; 20:25 Bills @ Raiders; 21:00 Cayon Rockets vs. Dieppe Bay Eagles (DAZN 2); 22:00 Tigers SC vs. Elite SC (DAZN 1); 22:30 Santos Football Club vs. Guyana Defence Force FC (DAZN 4); 22:30 Barquisimeto vs. Lara (DAZN 5); 23:00 Old Road FC vs. Pigotts Bullets SC (DAZN 6); 23:30 Conaree FC vs. Old Road Jets (DAZN 2); 00:00 Soufrière vs. La Clery (DAZN 7); 00:20 Cowboys @ Packers (DAZN 8); 00:20 Cowboys @ Packers (In French) (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261019163000 +0000" stop="20261019184500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Lega Serie A: Monza vs. Cagliari</title>
-    <desc lang="en">Watch Lega Serie A through Fubo Sports on DAZN.
+  <programme start="20261019170000 +0000" stop="20261019191500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Premier League - Mauritania: ASC Police vs. Kaedi FC</title>
+    <desc lang="en">Watch Soccer action as Kaédi takes on Police
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:30 Ningbo Open: Day 1 (DAZN 1); 16:00 Bayern Munich vs. Stuttgart (DAZN 2); 17:00 ASC Police vs. Kaedi FC (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Bayern Munich vs. Stuttgart (DAZN 1); 16:30 Monza vs. Cagliari (DAZN 2); 18:45 Parma vs. Torino (DAZN 1); 19:00 Spurs vs. Coventry (DAZN 2)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261019190000 +0000" stop="20261019211500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Premier League: Spurs vs. Coventry</title>
-    <desc lang="en">Watch the Premier League through Fubo Sports on DAZN.
+  <programme start="20261019195000 +0000" stop="20261019220500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Premier League - Mauritania: AS Armee vs. ASC Kedia Zouerate</title>
+    <desc lang="en">Watch Soccer action as Armée takes on Kédia
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 11:30 Ningbo Open: Day 1 (DAZN 1); 17:00 ASC Police vs. Kaedi FC (DAZN 4); 18:45 Parma vs. Torino (DAZN 2); 19:50 AS Armee vs. ASC Kedia Zouerate (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:45 Parma vs. Torino (DAZN 1); 19:00 Spurs vs. Coventry (DAZN 2)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261020001500 +0000" stop="20261020034500 +0000" channel="CA| DAZN 3 HD">
@@ -4219,7 +4224,7 @@ Istodobno na DAZN-u (UTC): 17:00 Galatasaray MCT Technic vs. SIG Strasbourg (DAZ
     <desc lang="en">Watch Soccer action as Gintra takes on TransINVEST Vilnius
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Inter U19 vs. Shakhtar Donetsk U19 (DAZN 1); 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 AEK vs. Antwerp Giants (DAZN 4); 16:30 Bnei Herzliya vs. Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 14:00 Inter U19 vs. Shakhtar Donetsk U19 (DAZN 1); 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 AEK BC vs. Windrose Giants Antwerp (DAZN 4); 16:30 Bnei Penlink Herzliya vs. FC Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261021190000 +0000" stop="20261021211500 +0000" channel="CA| DAZN 3 HD">
@@ -4227,7 +4232,7 @@ Istodobno na DAZN-u (UTC): 14:00 Inter U19 vs. Shakhtar Donetsk U19 (DAZN 1); 16
     <desc lang="en">Watch Soccer action as Lens takes on Club Brugge
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022133000 +0000" stop="20261022143000 +0000" channel="CA| DAZN 3 HD">
@@ -4243,7 +4248,7 @@ Istodobno na DAZN-u (UTC): 13:00 Al Wasl vs. Ittihad Kalba FC (DAZN 1); 13:00 Al
     <desc lang="en">Watch Soccer action as Brighton &amp; Hove Albion takes on FK Jablonec
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 3 HD">
@@ -4251,7 +4256,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getaf
     <desc lang="en">Watch Soccer action as Sporting Braga takes on Gent
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018003000 +0000" stop="20261018030000 +0000" channel="CA| DAZN 4 HD">
@@ -4303,14 +4308,6 @@ Istodobno na DAZN-u (UTC): 10:30 Wuhan Open: Day 7 (DAZN 7); 16:00 Milan vs. Ata
 Istodobno na DAZN-u (UTC): 17:00 NFL Redzone - Week 6; 20:05 Cardinals @ Rams; 20:25 Chargers @ Chiefs; 20:25 Bills @ Raiders; 21:00 Cayon Rockets vs. Dieppe Bay Eagles (DAZN 2); 22:00 Tigers SC vs. Elite SC (DAZN 1); 22:00 Robinhood vs. Broki (DAZN 3); 22:30 Barquisimeto vs. Lara (DAZN 5); 23:00 Old Road FC vs. Pigotts Bullets SC (DAZN 6); 23:30 Conaree FC vs. Old Road Jets (DAZN 2); 00:00 Soufrière vs. La Clery (DAZN 7); 00:20 Cowboys @ Packers (DAZN 8); 00:20 Cowboys @ Packers (In French) (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261019170000 +0000" stop="20261019191500 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Premier League - Mauritania: ASC Police vs. Kaedi FC</title>
-    <desc lang="en">Watch Soccer action as Kaédi takes on Police
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 11:30 Ningbo Open: Day 1 (DAZN 1); 16:00 Bayern Munich vs. Stuttgart (DAZN 2); 16:30 Monza vs. Cagliari (DAZN 3); 18:45 Parma vs. Torino (DAZN 2); 19:00 Spurs vs. Coventry (DAZN 3)</desc>
-    <category lang="en">Soccer</category>
-  </programme>
   <programme start="20261020001500 +0000" stop="20261020034500 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">NFL Game Pass: Commanders @ 49ers (In French)</title>
     <desc lang="en">The Washington Commanders visits The San Francisco 49ers in NFL 26/27 action. Can the Commanders find success on the road, or will the 49ers defend their ground? This matchup features two sides ready to battle for a crucial victory. Tune in to witness every thrilling moment!
@@ -4336,11 +4333,11 @@ Istodobno na DAZN-u (UTC): 17:00 Galatasaray MCT Technic vs. SIG Strasbourg (DAZ
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261021160000 +0000" stop="20261021181500 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Basketball Champions League: AEK vs. Antwerp Giants</title>
+    <title lang="en">Basketball Champions League: AEK BC vs. Windrose Giants Antwerp</title>
     <desc lang="en">Watch Basketball action as Antwerp Giants takes on AEK
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 14:00 Inter U19 vs. Shakhtar Donetsk U19 (DAZN 1); 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:30 Bnei Herzliya vs. Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 14:00 Inter U19 vs. Shakhtar Donetsk U19 (DAZN 1); 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:30 Bnei Penlink Herzliya vs. FC Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261021190000 +0000" stop="20261021211500 +0000" channel="CA| DAZN 4 HD">
@@ -4348,7 +4345,7 @@ Istodobno na DAZN-u (UTC): 14:00 Inter U19 vs. Shakhtar Donetsk U19 (DAZN 1); 16
     <desc lang="en">Watch Soccer action as Internazionale takes on Shakhtar Donetsk
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022164500 +0000" stop="20261022190000 +0000" channel="CA| DAZN 4 HD">
@@ -4356,7 +4353,7 @@ Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut 
     <desc lang="en">Watch Soccer action as Trabzonspor takes on Hearts
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 4 HD">
@@ -4364,7 +4361,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getaf
     <desc lang="en">Watch Soccer action as Real Sociedad takes on Lillestroem SK
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018003000 +0000" stop="20261018033000 +0000" channel="CA| DAZN 5 HD">
@@ -4422,7 +4419,7 @@ Istodobno na DAZN-u (UTC): 16:00 Falco-Vulcano Szombathely vs. Salon Vilpas (DAZ
     <desc lang="en">Watch Soccer action as Como takes on Manchester United
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK vs. Antwerp Giants (DAZN 4); 16:30 Bnei Herzliya vs. Porto (DAZN 1); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK BC vs. Windrose Giants Antwerp (DAZN 4); 16:30 Bnei Penlink Herzliya vs. FC Porto (DAZN 1); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261021190000 +0000" stop="20261021211500 +0000" channel="CA| DAZN 5 HD">
@@ -4430,7 +4427,7 @@ Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK Tr
     <desc lang="en">Watch Soccer action as Real Madrid takes on RB Leipzig
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022164500 +0000" stop="20261022190000 +0000" channel="CA| DAZN 5 HD">
@@ -4438,7 +4435,7 @@ Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut 
     <desc lang="en">Watch Soccer action as Ferencváros takes on Torreense
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 5 HD">
@@ -4446,7 +4443,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getaf
     <desc lang="en">Watch Soccer action as Olympique Lyonnais takes on Hoffenheim
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018010000 +0000" stop="20261018053000 +0000" channel="CA| DAZN 6 HD">
@@ -4504,7 +4501,7 @@ Istodobno na DAZN-u (UTC): 16:00 Falco-Vulcano Szombathely vs. Salon Vilpas (DAZ
     <desc lang="en">Watch Soccer action as Lille takes on Galatasaray
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK vs. Antwerp Giants (DAZN 4); 16:30 Bnei Herzliya vs. Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK BC vs. Windrose Giants Antwerp (DAZN 4); 16:30 Bnei Penlink Herzliya vs. FC Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261021190000 +0000" stop="20261021211500 +0000" channel="CA| DAZN 6 HD">
@@ -4512,7 +4509,7 @@ Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK Tr
     <desc lang="en">Watch Soccer action as Aston Villa takes on Viking
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022164500 +0000" stop="20261022190000 +0000" channel="CA| DAZN 6 HD">
@@ -4520,7 +4517,7 @@ Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut 
     <desc lang="en">Watch Soccer action as OFI Crete takes on Bayer Leverkusen
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 6 HD">
@@ -4528,7 +4525,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getaf
     <desc lang="en">Watch Soccer action as Viktoria Plzeň takes on Levski Sofia
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018011000 +0000" stop="20261018023500 +0000" channel="CA| DAZN 7 HD">
@@ -4570,11 +4567,11 @@ Istodobno na DAZN-u (UTC): 16:00 Falco-Vulcano Szombathely vs. Salon Vilpas (DAZ
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261021180000 +0000" stop="20261021201500 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">Basketball Champions League: Reggiana vs. Juventus</title>
+    <title lang="en">Basketball Champions League: Pallacanestro Reggiana vs. BC Juventus Utena</title>
     <desc lang="en">Watch Basketball action as Reggiana takes on Juventus
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK vs. Antwerp Giants (DAZN 4); 16:30 Bnei Herzliya vs. Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Joventut vs. Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK BC vs. Windrose Giants Antwerp (DAZN 4); 16:30 Bnei Penlink Herzliya vs. FC Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261022164500 +0000" stop="20261022190000 +0000" channel="CA| DAZN 7 HD">
@@ -4582,7 +4579,7 @@ Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK Tr
     <desc lang="en">Watch Soccer action as Sturm Graz takes on Olympique Marseille
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 7 HD">
@@ -4590,7 +4587,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getaf
     <desc lang="en">Watch Soccer action as Crystal Palace takes on Beşiktaş
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018023000 +0000" stop="20261018060505 +0000" channel="CA| DAZN 8 HD">
@@ -4644,11 +4641,11 @@ Istodobno na DAZN-u (UTC): 17:00 Galatasaray MCT Technic vs. SIG Strasbourg (DAZ
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261021180000 +0000" stop="20261021201500 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">Basketball Champions League: Joventut vs. Bonn</title>
+    <title lang="en">Basketball Champions League: Asisa Joventut vs. Telekom Baskets Bonn</title>
     <desc lang="en">Watch Basketball action as Bonn takes on Joventut
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK vs. Antwerp Giants (DAZN 4); 16:30 Bnei Herzliya vs. Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Reggiana vs. Juventus (DAZN 7); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK TransINVEST vs. FK Gintra (DAZN 3); 16:00 AEK BC vs. Windrose Giants Antwerp (DAZN 4); 16:30 Bnei Penlink Herzliya vs. FC Porto (DAZN 1); 16:45 Como vs. Man United (DAZN 5); 16:45 Lille vs. Galatasaray (DAZN 6); 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261022164500 +0000" stop="20261022190000 +0000" channel="CA| DAZN 8 HD">
@@ -4656,7 +4653,7 @@ Istodobno na DAZN-u (UTC): 16:00 FA Šiauliai vs. FK Banga (DAZN 2); 16:00 FK Tr
     <desc lang="en">Watch Soccer action as Rennes takes on Juventus
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 8 HD">
@@ -4664,7 +4661,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getaf
     <desc lang="en">Watch Soccer action as Celta de Vigo takes on Celtic
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018103000 +0000" stop="20261018133000 +0000" channel="CA| DAZN 9 HD">
@@ -4708,7 +4705,7 @@ Istodobno na DAZN-u (UTC): 17:00 Galatasaray MCT Technic vs. SIG Strasbourg (DAZ
     <desc lang="en">Watch Soccer action as Arsenal takes on Bayern München
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Reading vs. Leyton Orient (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022164500 +0000" stop="20261022190000 +0000" channel="CA| DAZN 9 HD">
@@ -4716,7 +4713,7 @@ Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut 
     <desc lang="en">Watch Soccer action as Dinamo Zagreb takes on NEC
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 9 HD">
@@ -4724,7 +4721,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getaf
     <desc lang="en">Watch Soccer action as Omonia Nicosia takes on Benfica
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018103000 +0000" stop="20261018130000 +0000" channel="CA| DAZN 10 HD">
@@ -4768,7 +4765,7 @@ Istodobno na DAZN-u (UTC): 17:00 Galatasaray MCT Technic vs. SIG Strasbourg (DAZ
     <desc lang="en">Watch Soccer action as Reading takes on Leyton Orient
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut vs. Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Pallacanestro Reggiana vs. BC Juventus Utena (DAZN 7); 18:00 Asisa Joventut vs. Telekom Baskets Bonn (DAZN 8); 19:00 Sporting CP vs. LASK (DAZN 1); 19:00 Real Betis vs. Feyenoord (DAZN 2); 19:00 Club Brugge vs. Lens (DAZN 3); 19:00 Inter vs. Shakhtar Donetsk (DAZN 4); 19:00 Real Madrid vs. Leipzig (DAZN 5); 19:00 Aston Villa vs. Viking (DAZN 6); 19:00 Bayern Munich vs. Arsenal (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022164500 +0000" stop="20261022190000 +0000" channel="CA| DAZN 10 HD">
@@ -4776,7 +4773,7 @@ Istodobno na DAZN-u (UTC): 18:00 Reggiana vs. Juventus (DAZN 7); 18:00 Joventut 
     <desc lang="en">Watch Soccer action as Ararat-Armenia takes on AZ
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022200000 +0000" channel="CA| DAZN 10 HD">
@@ -4784,7 +4781,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getaf
     <desc lang="en">Emanuel Navarrete and O'Shaquie Foster meet at the official press conference, as the duo prepare for a huge super featherweight unification.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Boxing</category>
   </programme>
   <programme start="20261018110000 +0000" stop="20261018133000 +0000" channel="CA| DAZN 11 HD">
@@ -4828,7 +4825,7 @@ Istodobno na DAZN-u (UTC): 17:00 Galatasaray MCT Technic vs. SIG Strasbourg (DAZ
     <desc lang="en">Watch Soccer action as Lech Poznań takes on Sunderland
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 11 HD">
@@ -4836,7 +4833,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getaf
     <desc lang="en">Watch Soccer action as Salzburg takes on Celje
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018110000 +0000" stop="20261018133000 +0000" channel="CA| DAZN 12 HD">
@@ -4865,7 +4862,7 @@ Istodobno na DAZN-u (UTC): 10:30 Wuhan Open: Day 7 (DAZN 7); 13:30 Texans vs. Ja
     <desc lang="en">Watch Soccer action as Union Saint-Gilloise takes on Hapoel Be'er Sheva
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 18:00 Inside The Ring - Oct 22 (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 12 HD">
@@ -4873,7 +4870,7 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getaf
     <desc lang="en">Watch Soccer action as Sparta Praha takes on Olympiakos Piraeus
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Jagiellonia Białystok vs. Anderlecht (DAZN 13); 19:00 Bournemouth vs. Milan</desc>
+Istodobno na DAZN-u (UTC): 18:00 Inside The Ring - Oct 22 (DAZN 13); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261018110000 +0000" stop="20261018133000 +0000" channel="CA| DAZN 13 HD">
@@ -4904,17 +4901,13 @@ Istodobno na DAZN-u (UTC): 10:30 Wuhan Open: Day 7 (DAZN 7); 12:30 Fight Clubbin
 Istodobno na DAZN-u (UTC): 10:30 Wuhan Open: Day 7 (DAZN 7); 17:00 Steelers @ Buccaneers (DAZN 12); 17:00 Saints @ Giants; 17:00 Titans @ Colts; 17:00 Panthers @ Eagles; 17:00 Ravens @ Browns; 17:00 Jets @ Patriots; 17:00 Bears @ Falcons; 17:00 NFL Redzone - Week 6; 17:00 Joventut vs. Barcelona; 18:00 Bea Mountain vs. Black Man Warriors (DAZN 2); 18:00 St. George's Colts vs. Dandy Town Hornets (DAZN 3); 18:00 X-Roads Warriors vs. PHC Zebras (DAZN 4); 18:45 Juventus vs. Lazio (DAZN 5); 19:00 Real Madrid vs. Sevilla (DAZN 1); 19:30 Monagas B vs. Miranda (DAZN 6); 19:30 Ávila vs. Bolívar (DAZN 8); 19:30 Ureña vs. Yaracuyanos (DAZN 9); 19:30 Zamora B vs. Real Frontera (DAZN 10); 19:30 Dynamo Puerto vs. Aragua (DAZN 11)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261022190000 +0000" stop="20261022211500 +0000" channel="CA| DAZN 13 HD">
-    <title lang="en">UEFA Europa League: Jagiellonia Białystok vs. Anderlecht</title>
-    <desc lang="en">Watch Soccer action as Jagiellonia Białystok takes on Anderlecht
+  <programme start="20261022180000 +0000" stop="20261022210000 +0000" channel="CA| DAZN 13 HD">
+    <title lang="en">Inside The Ring - Oct 22</title>
+    <desc lang="en">Join the Inside The Ring team every week for the latest news, exclusive interviews and in-depth reaction to recent results.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8); 19:00 Omonia vs. Benfica (DAZN 9); 19:00 Navarrete vs. Foster: Press Conference (DAZN 10); 19:00 Celje vs. Salzburg (DAZN 11); 19:00 Olympiacos vs. Sparta Prague (DAZN 12); 19:00 Bournemouth vs. Milan</desc>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261019000000 +0000" stop="20261019040000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 1); 16:45 Getafe vs. Lugano (DAZN 2); 16:45 Jablonec vs. Brighton (DAZN 3); 16:45 Trabzonspor vs. Hearts (DAZN 4); 16:45 Ferencváros vs. Torreense (DAZN 5); 16:45 OFI vs. Leverkusen (DAZN 6); 16:45 Sturm Graz vs. Marseille (DAZN 7); 16:45 Juventus vs. Rennes (DAZN 8); 16:45 Dinamo Zagreb vs. NEC (DAZN 9); 16:45 Ararat-Armenia vs. AZ (DAZN 10); 16:45 Lech Poznań vs. Sunderland (DAZN 11); 16:45 Union Saint-Gilloise vs. Hapoel Be'er Sheva (DAZN 12); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 3); 19:00 Lillestrøm vs. Real Sociedad (DAZN 4); 19:00 Hoffenheim vs. Lyon (DAZN 5); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 6); 19:00 Beşiktaş vs. Crystal Palace (DAZN 7); 19:00 Celtic vs. Celta Vigo (DAZN 8)</desc>
+    <category lang="en">Boxing</category>
   </programme>
   <programme start="20261019040000 +0000" stop="20261019080000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
@@ -5028,11 +5021,11 @@ Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Fr
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261018220000 +0000" stop="20261019020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261023000000 +0000" stop="20261023040000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261019020000 +0000" stop="20261019060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261023040000 +0000" stop="20261023070000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -5128,11 +5121,7 @@ Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Fr
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261018220000 +0000" stop="20261019020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261019020000 +0000" stop="20261019060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+  <programme start="20261023020000 +0000" stop="20261023060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -5228,11 +5217,7 @@ Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Fr
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261018220000 +0000" stop="20261019020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261019020000 +0000" stop="20261019060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+  <programme start="20261023020000 +0000" stop="20261023060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -5325,6 +5310,10 @@ Istodobno na DAZN-u (UTC): 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Fr
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261022220000 +0000" stop="20261023020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20261023020000 +0000" stop="20261023060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
