@@ -2890,10 +2890,15 @@
     <desc lang="hr">U nedjelju, 25. listopada 2026., oči ljubitelja skijanja bit će uprte u austrijski Sölden, gdje će se na ledenjaku Rettenbach održati muški veleslalom u sklopu Audi FIS Svjetskog kupa u alpskom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/73f7a84ea2684a2d8a7039cc4a236ab5_thumb.jpg" />
   </programme>
-  <programme start="20261026200000 +0100" stop="20261026220000 +0100" channel="UK| EUROSPORT 1  HEVC FHD">
+  <programme start="20261026200000 +0100" stop="20261026213000 +0100" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Konjički Sport – Svjetska Turneja Prvaka, Kairo: Skakanje</title>
-    <desc lang="hr">Od 22. do 24. listopada 2026. Kairo će biti svjetsko središte konjičkog sporta!</desc>
+    <desc lang="hr">Od 22. do 24. listopada 2026. Kairo će biti svjetsko središte konjičkog sporta!(c)</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/11b4c2a65269476cb33debf28b02c229_thumb.jpg" />
+  </programme>
+  <programme start="20261026213000 +0100" stop="20261026220000 +0100" channel="UK| EUROSPORT 1  HEVC FHD">
+    <title lang="hr">Snooker: Open Sjeverne Irske: Finale</title>
+    <desc lang="hr">Belfast će od 18. do 25. listopada 2026. biti domaćin jednog od istaknutih turnira profesionalnog snookera, BetVictor Northern Ireland Opena.(c)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/795228cf8ab343e6bd080384d5feb27d_thumb.jpg" />
   </programme>
   <programme start="20261026220000 +0100" stop="20261026230000 +0100" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Trail Trčanje: Muju</title>
@@ -3238,10 +3243,15 @@
     <desc lang="hr">U nedjelju, 25. listopada 2026., oči ljubitelja skijanja bit će uprte u austrijski Sölden, gdje će se na ledenjaku Rettenbach održati muški veleslalom u sklopu Audi FIS Svjetskog kupa u alpskom...</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/73f7a84ea2684a2d8a7039cc4a236ab5_thumb.jpg" />
   </programme>
-  <programme start="20261026200000 +0100" stop="20261026220000 +0100" channel="eurosport1.uk">
+  <programme start="20261026200000 +0100" stop="20261026213000 +0100" channel="eurosport1.uk">
     <title lang="hr">Konjički Sport – Svjetska Turneja Prvaka, Kairo: Skakanje</title>
-    <desc lang="hr">Od 22. do 24. listopada 2026. Kairo će biti svjetsko središte konjičkog sporta!</desc>
+    <desc lang="hr">Od 22. do 24. listopada 2026. Kairo će biti svjetsko središte konjičkog sporta!(c)</desc>
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/11b4c2a65269476cb33debf28b02c229_thumb.jpg" />
+  </programme>
+  <programme start="20261026213000 +0100" stop="20261026220000 +0100" channel="eurosport1.uk">
+    <title lang="hr">Snooker: Open Sjeverne Irske: Finale</title>
+    <desc lang="hr">Belfast će od 18. do 25. listopada 2026. biti domaćin jednog od istaknutih turnira profesionalnog snookera, BetVictor Northern Ireland Opena.(c)</desc>
+    <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/795228cf8ab343e6bd080384d5feb27d_thumb.jpg" />
   </programme>
   <programme start="20261026220000 +0100" stop="20261026230000 +0100" channel="eurosport1.uk">
     <title lang="hr">Trail Trčanje: Muju</title>
@@ -4789,7 +4799,7 @@ Istodobno na DAZN-u (UTC): 02:30 Osaka Open: Day 5 (DAZN 3)</desc>
     <sub-title lang="en">Ningbo Open Women Single</sub-title>
     <desc lang="en">Watch Day 5 of the Ningbo Open Women Single on DAZN.
 
-Istodobno na DAZN-u (UTC): 02:30 Osaka Open: Day 5 (DAZN 3); 06:15 Ferrymead Bays vs. Cashmere Technical (DAZN 2); 06:30 Wellington United vs. Waterside Karori (DAZN 4); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 02:30 Osaka Open: Day 5 (DAZN 3); 06:15 Ferrymead Bays vs. Cashmere Technical (DAZN 2); 06:30 Wellington United vs. Waterside Karori (DAZN 4); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8)</desc>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20261023140000 +0000" stop="20261023150000 +0000" channel="CA| DAZN 1 HD">
@@ -4797,7 +4807,7 @@ Istodobno na DAZN-u (UTC): 02:30 Osaka Open: Day 5 (DAZN 3); 06:15 Ferrymead Bay
     <desc lang="en">UFC 333: Weigh In
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4)</desc>
     <category lang="en">MMA</category>
   </programme>
   <programme start="20261023150000 +0000" stop="20261023171500 +0000" channel="CA| DAZN 1 HD">
@@ -4805,7 +4815,7 @@ Istodobno na DAZN-u (UTC): 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fuj
     <desc lang="en">Watch Soccer action as Riyadi Abbasiya takes on Al Ahed FC
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:30 JAC d'Angré vs. FC OSA (DAZN 2); 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 16:30 Leipzig vs. Bayern Munich (DAZN 6); 17:00 Smith vs. Puello: Weigh-In (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4); 15:30 JAC d'Angré vs. FC OSA (DAZN 5); 16:00 Al Nasr vs. Bani Yas (DAZN 6); 16:15 Bhantal vs. Wusum Stars (DAZN 2); 16:30 Leipzig vs. Bayern Munich (DAZN 7); 17:00 Smith vs. Puello: Weigh-In (DAZN 3)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261023180000 +0000" stop="20261023201500 +0000" channel="CA| DAZN 1 HD">
@@ -4813,7 +4823,7 @@ Istodobno na DAZN-u (UTC): 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya
     <desc lang="en">Watch Soccer action as 2 Plateaux FC takes on Racing d'Abidjan
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 16:30 Leipzig vs. Bayern Munich (DAZN 6); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 2); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7); 18:45 Gateshead vs. Tamworth (DAZN 6); 18:45 Torino vs. Monza (DAZN 8); 19:00 Ipswich vs. Nottingham Forest (DAZN 2); 19:00 Bolton vs. Middlesbrough (DAZN 9); 19:15 Pennarossa vs. San Giovanni (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Al Nasr vs. Bani Yas (DAZN 6); 16:15 Bhantal vs. Wusum Stars (DAZN 2); 16:30 Leipzig vs. Bayern Munich (DAZN 7); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 3); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 2); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 6); 18:45 Torino vs. Monza (DAZN 7); 19:00 Ipswich vs. Nottingham Forest (DAZN 3); 19:00 Bolton vs. Middlesbrough (DAZN 8); 19:15 Pennarossa vs. San Giovanni (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261023213000 +0000" stop="20261023233000 +0000" channel="CA| DAZN 1 HD">
@@ -4898,8 +4908,8 @@ Istodobno na DAZN-u (UTC): 05:00 Pitch 1B | Day 2: Morning Session (DAZN 2); 05:
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20261025123000 +0000" stop="20261025144500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">Jupiler Pro League: Genk vs. Standard Liège</title>
-    <desc lang="en">Watch Soccer action as Genk takes on Standard Liège
+    <title lang="en">LFA First Division - Liberia: Heaven Eleven vs. NPA Anchors FC</title>
+    <desc lang="en">Watch Soccer action as Heaven Eleven takes on NPA Anchors
 (Kraj procijenjen.)
 
 Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 10:30 Pitch 6B | Day 2: Afternoon Session (DAZN 8); 10:30 Pitch 2A | Day 2: Afternoon Session (DAZN 9); 10:30 Pitch 5B | Day 2: Afternoon Session (DAZN 10); 10:30 Pitch 8A | Day 2: Afternoon Session (DAZN 11); 10:30 Pitch 7A | Day 2: Afternoon Session (DAZN 12); 10:30 Pitch 5A | Day 2: Afternoon Session (DAZN 13); 10:30 Pitch 4A | Day 2: Afternoon Session; 10:30 Pitch 3A | Day 2: Afternoon Session; 10:30 Pitch 1B | Day 2: Afternoon Session; 10:30 Pitch 3B | Day 2: Afternoon Session; 10:30 Pitch 6A | Day 2: Afternoon Session; 10:30 Pitch 2B | Day 2: Afternoon Session; 10:30 Pitch 4B | Day 2: Afternoon Session; 10:30 Pitch 1A | Day 2: Afternoon Session; 10:30 Pitch 9A | Day 2: Afternoon Session; 10:30 Pitch 10A | Day 2: Afternoon Session; 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra</desc>
@@ -4918,7 +4928,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:00 Pitch 10B | 
     <desc lang="en">Watch Soccer action as Egnatia Rrogozhinë takes on Dinamo City
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6); 17:00 Dolphins @ Jets; 17:00 Browns @ Titans; 17:00 Buccaneers @ Panthers; 17:00 Bengals @ Ravens; 17:00 SF @ ATL, CIN @ BAL, TB @ CAR, NYG @ HOU</desc>
+Istodobno na DAZN-u (UTC): 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC; 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:00 Paynesville FC vs. Shaita FC; 16:00 LPRC Oilers vs. Black Man Warriors; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025194500 +0000" stop="20261025220000 +0000" channel="CA| DAZN 1 HD">
@@ -5004,44 +5014,35 @@ Istodobno na DAZN-u (UTC): 00:15 Patriots @ Bears (DAZN 1); 02:30 Osaka Open: Da
 Istodobno na DAZN-u (UTC): 02:30 Osaka Open: Day 5 (DAZN 3); 05:00 Ningbo Open: Day 5 (DAZN 1); 06:30 Wellington United vs. Waterside Karori (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023104500 +0000" stop="20261023130000 +0000" channel="CA| DAZN 2 HD">
+  <programme start="20261023104500 +0000" stop="20261023131500 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">Premier League - Seychelles : Light Stars FC vs. Bel Air FC</title>
     <desc lang="en">Watch Soccer action as Lightstars takes on Bel Air FC
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 02:30 Osaka Open: Day 5 (DAZN 3); 05:00 Ningbo Open: Day 5 (DAZN 1); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5)</desc>
+Istodobno na DAZN-u (UTC): 02:30 Osaka Open: Day 5 (DAZN 3); 05:00 Ningbo Open: Day 5 (DAZN 1); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023130000 +0000" stop="20261023151500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">FDH Bank Premiership - Malawi: Ekhaya FC vs. Blue Eagles</title>
-    <desc lang="en">Watch Soccer action as Ekhaya takes on Blue Eagles
+  <programme start="20261023140000 +0000" stop="20261023161500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">1st Division - Albania: Flamurtari FC vs. KF Besëlidhja</title>
+    <desc lang="en">Watch Soccer action as Flamurtari takes on Besëlidhja Lezhë
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 5); 16:00 Al Nasr vs. Bani Yas (DAZN 6)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023153000 +0000" stop="20261023174500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Ligue 2 - Côte d'Ivoire : JAC d'Angré vs. FC OSA</title>
-    <desc lang="en">Watch Soccer action as Olympique Sport d'Abobo takes on Jeunesse Club d'Abidjan Treichville
+  <programme start="20261023161500 +0000" stop="20261023183000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Premier League - Sierra Leone: Bhantal vs. Wusum Stars</title>
+    <desc lang="en">Watch Soccer action as Bhantal takes on Wusum Stars
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 16:30 Leipzig vs. Bayern Munich (DAZN 6); 17:00 Smith vs. Puello: Weigh-In (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 5); 16:00 Al Nasr vs. Bani Yas (DAZN 6); 16:30 Leipzig vs. Bayern Munich (DAZN 7); 17:00 Smith vs. Puello: Weigh-In (DAZN 3); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 3); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023180000 +0000" stop="20261023190000 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Top Rank: Navarrete vs. Foster: Weigh-In</title>
-    <desc lang="en">Emanuel Navarrete and O'Shaquie Foster hit the scales at the official weigh-in ceremony, as the duo prepare for a huge super featherweight unification.
+  <programme start="20261023183000 +0000" stop="20261023204500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Bundesliga: Stuttgart vs. Mönchengladbach</title>
+    <desc lang="en">Borussia M'gladbach travels to face Stuttgart in a crucial Bundesliga 26/27 clash that could shape the standings. Both sides are hungry for points as they look to build momentum. Can the visitors find their rhythm, or will Stuttgart control the game at home? This one promises drama from start to finish!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 16:30 Leipzig vs. Bayern Munich (DAZN 6); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7); 18:45 Gateshead vs. Tamworth (DAZN 6); 18:45 Torino vs. Monza (DAZN 8)</desc>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20261023190000 +0000" stop="20261023211500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Premier League: Ipswich vs. Nottingham Forest</title>
-    <desc lang="en">Watch the Premier League through Fubo Sports on DAZN.
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7); 18:45 Gateshead vs. Tamworth (DAZN 6); 18:45 Torino vs. Monza (DAZN 8); 19:00 Bolton vs. Middlesbrough (DAZN 9); 19:15 Pennarossa vs. San Giovanni (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 16:30 Leipzig vs. Bayern Munich (DAZN 7); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 3); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 6); 18:45 Torino vs. Monza (DAZN 7); 19:00 Ipswich vs. Nottingham Forest (DAZN 3); 19:00 Bolton vs. Middlesbrough (DAZN 8); 19:15 Pennarossa vs. San Giovanni (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261024000000 +0000" stop="20261024021500 +0000" channel="CA| DAZN 2 HD">
@@ -5167,7 +5168,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <desc lang="en">Watch Lega Serie A through Fubo Sports on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:30 Genk vs. Standard Liège (DAZN 1); 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10); 13:00 Bumamuru vs. Kayanza United (DAZN 11); 13:00 Werder Bremen vs. Freiburg (DAZN 12); 13:00 Le Messager vs. Young Star (DAZN 13); 13:00 Musongati vs. Olympic Star; 13:00 Panthere Noir vs. Flambeau du Centre; 13:00 CRECK Sporting FC vs. Red Lions; 13:00 Karonga United vs. Mighty Mukuru Wanderers; 13:00 Pitch 9B | Day 2: Afternoon Session; 13:00 Never Give Up vs. Vital'O; 13:00 Dedza Dynamos FC vs. Moyale Barracks; 13:26 Rally Six Cities North of Portugal : Stage 16 (DAZN 5)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège; 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10); 13:00 Bumamuru vs. Kayanza United (DAZN 11); 13:00 Werder Bremen vs. Freiburg (DAZN 12); 13:00 Le Messager vs. Young Star (DAZN 13); 13:00 Musongati vs. Olympic Star; 13:00 Panthere Noir vs. Flambeau du Centre; 13:00 CRECK Sporting FC vs. Red Lions; 13:00 Karonga United vs. Mighty Mukuru Wanderers; 13:00 Pitch 9B | Day 2: Afternoon Session; 13:00 Never Give Up vs. Vital'O</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025161500 +0000" stop="20261025183000 +0000" channel="CA| DAZN 2 HD">
@@ -5175,7 +5176,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 12:00 Tenerife vs.
     <desc lang="en">Watch Soccer action as Kamboi Eagles takes on Ports Authority
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs. Saints (DAZN 6); 13:30 Steelers vs. Saints (In French); 14:30 Hoffenheim vs. Leverkusen (DAZN 3); 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Rally Six Cities North of Portugal : Stage 17 (DAZN 8); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 East End Lions FC vs. Waterloo FC (DAZN 7)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs. Saints (DAZN 6); 13:30 Steelers vs. Saints (In French); 14:30 Hoffenheim vs. Leverkusen (DAZN 3); 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Rally Six Cities North of Portugal : Stage 17 (DAZN 8); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:00 FC Inter Bombom vs. Sporting Praia Cruz; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025193000 +0000" stop="20261025214500 +0000" channel="CA| DAZN 2 HD">
@@ -5242,36 +5243,43 @@ Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 4); 16:00 Shait
 Istodobno na DAZN-u (UTC): 00:15 Patriots @ Bears (DAZN 1); 00:15 Patriots @ Bears (In French) (DAZN 2); 03:30 NFL GameDay Final (DAZN 1); 05:00 Ningbo Open: Day 5 (DAZN 1); 06:15 Ferrymead Bays vs. Cashmere Technical (DAZN 2); 06:30 Wellington United vs. Waterside Karori (DAZN 4); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2)</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20261023113000 +0000" stop="20261023134500 +0000" channel="CA| DAZN 3 HD">
+  <programme start="20261023113000 +0000" stop="20261023140000 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">1st Division - Albania: KF Bylis vs. KS Pogradeci</title>
     <desc lang="en">Watch Soccer action as Pogradeci takes on Bylis
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023140000 +0000" stop="20261023161500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">1st Division - Albania: Flamurtari FC vs. KF Besëlidhja</title>
-    <desc lang="en">Watch Soccer action as Flamurtari takes on Besëlidhja Lezhë
+  <programme start="20261023143000 +0000" stop="20261023164500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Premier League - Seychelles : Saint Louis Suns United vs. La Passe FC</title>
+    <desc lang="en">Watch Soccer action as St Louis Suns United takes on La Passe
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 2); 16:00 Al Nasr vs. Bani Yas (DAZN 5)</desc>
+Istodobno na DAZN-u (UTC): 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2); 14:45 Freestyle Friday #17 (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 5); 16:00 Al Nasr vs. Bani Yas (DAZN 6); 16:15 Bhantal vs. Wusum Stars (DAZN 2); 16:30 Leipzig vs. Bayern Munich (DAZN 7)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023161500 +0000" stop="20261023183000 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Premier League - Sierra Leone: Bhantal vs. Wusum Stars</title>
-    <desc lang="en">Watch Soccer action as Bhantal takes on Wusum Stars
+  <programme start="20261023170000 +0000" stop="20261023180000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Matchroom Boxing: Smith vs. Puello: Weigh-In</title>
+    <desc lang="en">Dalton Smith and Alberto Puello hit the scale at the official Sheffield weigh-in ceremony, as the duo prepare to face off for the WBC super lightweight championship.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 13:20 General Intelligence Presidency Cup (DAZN 8); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 2); 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:30 Leipzig vs. Bayern Munich (DAZN 6); 17:00 Smith vs. Puello: Weigh-In (DAZN 4); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 2); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 5); 16:00 Al Nasr vs. Bani Yas (DAZN 6); 16:15 Bhantal vs. Wusum Stars (DAZN 2); 16:30 Leipzig vs. Bayern Munich (DAZN 7)</desc>
+    <category lang="en">Boxing</category>
   </programme>
-  <programme start="20261023183000 +0000" stop="20261023204500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Bundesliga: Stuttgart vs. Mönchengladbach</title>
-    <desc lang="en">Borussia M'gladbach travels to face Stuttgart in a crucial Bundesliga 26/27 clash that could shape the standings. Both sides are hungry for points as they look to build momentum. Can the visitors find their rhythm, or will Stuttgart control the game at home? This one promises drama from start to finish!
+  <programme start="20261023180000 +0000" stop="20261023190000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Top Rank: Navarrete vs. Foster: Weigh-In</title>
+    <desc lang="en">Emanuel Navarrete and O'Shaquie Foster hit the scales at the official weigh-in ceremony, as the duo prepare for a huge super featherweight unification.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 Leipzig vs. Bayern Munich (DAZN 6); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 2); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7); 18:45 Gateshead vs. Tamworth (DAZN 6); 18:45 Torino vs. Monza (DAZN 8); 19:00 Ipswich vs. Nottingham Forest (DAZN 2); 19:00 Bolton vs. Middlesbrough (DAZN 9); 19:15 Pennarossa vs. San Giovanni (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Al Nasr vs. Bani Yas (DAZN 6); 16:15 Bhantal vs. Wusum Stars (DAZN 2); 16:30 Leipzig vs. Bayern Munich (DAZN 7); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 2); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 6); 18:45 Torino vs. Monza (DAZN 7)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20261023190000 +0000" stop="20261023211500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Premier League: Ipswich vs. Nottingham Forest</title>
+    <desc lang="en">Watch the Premier League through Fubo Sports on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 2); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 6); 18:45 Torino vs. Monza (DAZN 7); 19:00 Bolton vs. Middlesbrough (DAZN 8); 19:15 Pennarossa vs. San Giovanni (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261024003000 +0000" stop="20261024024500 +0000" channel="CA| DAZN 3 HD">
@@ -5319,7 +5327,7 @@ Istodobno na DAZN-u (UTC): 07:00 Ningbo Open: Day 6; 12:00 Rovers FC vs. Côte d
     <desc lang="en">Watch Soccer action as Western United FC takes on Diamond Stars
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 13:20 Prep for Prince Mohammed Bin Saud Alkabeer Cup (DAZN 1); 15:00 Vitória Guimarães vs. Portimonense (DAZN 5); 15:00 Cavaliers FC vs. Sobemap FC; 15:00 Barcelona - Race 1; 15:00 Bani Ganse FC vs. Espoir FC; 15:00 AS FAR vs. Wydad AC; 15:00 Rally Six Cities North of Portugal : Stage 7; 15:10 Opening Ceremony &amp; Azerbaijan vs. Timor-Leste (DAZN 6); 15:15 USGN vs. AS Douanes (DAZN 7); 15:15 ASN Nigelec vs. Wombèye AC (DAZN 8); 15:30 Rahimo FC vs. AS Sonabel; 15:30 Focusport FC vs. Salitas FC; 15:30 CFFEB vs. ASFA Yennenga; 15:30 Sporting Cascades vs. AS Maaya; 15:30 US Forces Armées vs. US Comoé; 15:50 Rally Six Cities North of Portugal : Stage 8 (DAZN 2); 16:00 Napoli vs. Roma (DAZN 4); 16:00 Manresa vs. CB San Pablo Burgos (DAZN 9); 16:00 Indiana @ Michigan (DAZN 10); 16:00 Rutgers @ Northwestern (DAZN 11)</desc>
+Istodobno na DAZN-u (UTC): 13:20 Prep for Prince Mohammed Bin Saud Alkabeer Cup (DAZN 1); 15:00 Vitória Guimarães vs. Portimonense (DAZN 5); 15:00 Cavaliers FC vs. Sobemap FC; 15:00 Barcelona - Race 1; 15:00 Bani Ganse FC vs. Espoir FC; 15:00 AS FAR vs. Wydad AC; 15:00 Rally Six Cities North of Portugal : Stage 7; 15:00 6 de Setembro vs. Juba FC; 15:10 Opening Ceremony &amp; Azerbaijan vs. Timor-Leste (DAZN 6); 15:15 USGN vs. AS Douanes (DAZN 7); 15:15 ASN Nigelec vs. Wombèye AC (DAZN 8); 15:30 Rahimo FC vs. AS Sonabel; 15:30 Focusport FC vs. Salitas FC; 15:30 CFFEB vs. ASFA Yennenga; 15:30 Sporting Cascades vs. AS Maaya; 15:30 US Forces Armées vs. US Comoé; 15:50 Rally Six Cities North of Portugal : Stage 8 (DAZN 2); 16:00 Napoli vs. Roma (DAZN 4); 16:00 Manresa vs. CB San Pablo Burgos (DAZN 9); 16:00 Indiana @ Michigan (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261024183000 +0000" stop="20261024204500 +0000" channel="CA| DAZN 3 HD">
@@ -5385,7 +5393,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <desc lang="en">Bayer Leverkusen readies to challenge Hoffenheim in a compelling Bundesliga 26/27 clash. Can the visitors maintain their momentum, or will the home side seize control? Expect an intense battle as both sides push for crucial points in this season's campaign. Tune in for what promises to be a captivating encounter!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 12:30 Genk vs. Standard Liège (DAZN 1); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10); 13:00 Bumamuru vs. Kayanza United (DAZN 11); 13:00 Werder Bremen vs. Freiburg (DAZN 12); 13:00 Le Messager vs. Young Star (DAZN 13); 13:00 Musongati vs. Olympic Star; 13:00 Panthere Noir vs. Flambeau du Centre; 13:00 CRECK Sporting FC vs. Red Lions; 13:00 Karonga United vs. Mighty Mukuru Wanderers; 13:00 Pitch 9B | Day 2: Afternoon Session; 13:00 Never Give Up vs. Vital'O; 13:00 Dedza Dynamos FC vs. Moyale Barracks; 13:26 Rally Six Cities North of Portugal : Stage 16 (DAZN 5); 13:30 Steelers vs. Saints (DAZN 6); 13:30 Steelers vs. Saints (In French); 13:30 Mbabane Swallows FC vs. Moneni Pirates FC; 13:30 Bantu FC vs. LU FC; 14:00 Genoa vs. Venezia (DAZN 2)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège; 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10); 13:00 Bumamuru vs. Kayanza United (DAZN 11); 13:00 Werder Bremen vs. Freiburg (DAZN 12); 13:00 Le Messager vs. Young Star (DAZN 13); 13:00 Musongati vs. Olympic Star; 13:00 Panthere Noir vs. Flambeau du Centre; 13:00 CRECK Sporting FC vs. Red Lions; 13:00 Karonga United vs. Mighty Mukuru Wanderers; 13:00 Pitch 9B | Day 2: Afternoon Session; 13:00 Never Give Up vs. Vital'O; 13:00 Dedza Dynamos FC vs. Moyale Barracks; 13:26 Rally Six Cities North of Portugal : Stage 16 (DAZN 5); 13:30 Steelers vs. Saints (DAZN 6); 13:30 Steelers vs. Saints (In French); 13:30 Mbabane Swallows FC vs. Moneni Pirates FC</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025170000 +0000" stop="20261025203000 +0000" channel="CA| DAZN 3 HD">
@@ -5393,7 +5401,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 12:30 Genk vs. Sta
     <desc lang="en">San Francisco 49ers is up against Atlanta Falcons in this NFL 26/27 showdown. Can the visiting squad continue their momentum, or will the home side prove too strong? Expect a hard-fought battle with playoff implications hanging in the balance. Tune in for every thrilling moment!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 Giants @ Texans (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:00 FC Inter Bombom vs. Sporting Praia Cruz; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC; 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:00 Paynesville FC vs. Shaita FC; 16:00 LPRC Oilers vs. Black Man Warriors</desc>
     <category lang="en">Football</category>
   </programme>
   <programme start="20261025210000 +0000" stop="20261025231500 +0000" channel="CA| DAZN 3 HD">
@@ -5441,37 +5449,29 @@ Istodobno na DAZN-u (UTC): 14:05 Muscat vs. Al-Wahda (DAZN 2); 14:30 PTL Bazar B
 Istodobno na DAZN-u (UTC): 02:30 Osaka Open: Day 5 (DAZN 3); 05:00 Ningbo Open: Day 5 (DAZN 1); 06:15 Ferrymead Bays vs. Cashmere Technical (DAZN 2)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023120000 +0000" stop="20261023141500 +0000" channel="CA| DAZN 4 HD">
+  <programme start="20261023120000 +0000" stop="20261023143000 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">Premier League - Lebanon: AC Tripoli vs. Tadamon Sour</title>
     <desc lang="en">Watch Soccer action as Tripoli SC takes on Tadamon Sour SC
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023143000 +0000" stop="20261023164500 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Premier League - Seychelles : Saint Louis Suns United vs. La Passe FC</title>
-    <desc lang="en">Watch Soccer action as St Louis Suns United takes on La Passe
+  <programme start="20261023144500 +0000" stop="20261023164500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Freestyle Friday #17</title>
+    <sub-title lang="en">Freestyle Friday Championship</sub-title>
+    <desc lang="en">Watch Freestyle Friday as the latest round of chess action gets underway on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 2); 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 16:30 Leipzig vs. Bayern Munich (DAZN 6)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 5); 16:00 Al Nasr vs. Bani Yas (DAZN 6); 16:15 Bhantal vs. Wusum Stars (DAZN 2); 16:30 Leipzig vs. Bayern Munich (DAZN 7)</desc>
+    <category lang="en">Chess</category>
   </programme>
-  <programme start="20261023170000 +0000" stop="20261023180000 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Matchroom Boxing: Smith vs. Puello: Weigh-In</title>
-    <desc lang="en">Dalton Smith and Alberto Puello hit the scale at the official Sheffield weigh-in ceremony, as the duo prepare to face off for the WBC super lightweight championship.
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 13:20 General Intelligence Presidency Cup (DAZN 8); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 2); 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 16:30 Leipzig vs. Bayern Munich (DAZN 6)</desc>
-    <category lang="en">Boxing</category>
-  </programme>
-  <programme start="20261023180500 +0000" stop="20261023193500 +0000" channel="CA| DAZN 4 HD">
+  <programme start="20261023182500 +0000" stop="20261023195500 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">Rally Six Cities North of Portugal : Stage 1</title>
     <sub-title lang="en">ERC</sub-title>
     <desc lang="en">Watch the FIA European Rally Championship on DAZN, as the latest event heads to Portugal for an action-packed weekend of racing.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 16:30 Leipzig vs. Bayern Munich (DAZN 6); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 2); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7); 18:45 Gateshead vs. Tamworth (DAZN 6); 18:45 Torino vs. Monza (DAZN 8); 19:00 Ipswich vs. Nottingham Forest (DAZN 2); 19:00 Bolton vs. Middlesbrough (DAZN 9); 19:15 Pennarossa vs. San Giovanni (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 16:15 Bhantal vs. Wusum Stars (DAZN 2); 16:30 Leipzig vs. Bayern Munich (DAZN 7); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 3); 18:30 Stuttgart vs. Mönchengladbach (DAZN 2); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 6); 18:45 Torino vs. Monza (DAZN 7); 19:00 Ipswich vs. Nottingham Forest (DAZN 3); 19:00 Bolton vs. Middlesbrough (DAZN 8); 19:15 Pennarossa vs. San Giovanni (DAZN 9)</desc>
     <category lang="en">Motorsport</category>
   </programme>
   <programme start="20261024010000 +0000" stop="20261024031500 +0000" channel="CA| DAZN 4 HD">
@@ -5570,7 +5570,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 07:00 Naegohyang Wo
     <desc lang="en">The Houston Texans and New York Giants are set to collide in an NFL 26/27 showdown. Can the Texans protect their home field, or will the Giants claim victory on the road? This matchup promises plenty of action and drama from start to finish. Tune in to witness every thrilling moment!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:00 FC Inter Bombom vs. Sporting Praia Cruz; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC; 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:00 Paynesville FC vs. Shaita FC; 16:00 LPRC Oilers vs. Black Man Warriors</desc>
     <category lang="en">Football</category>
   </programme>
   <programme start="20261025213000 +0000" stop="20261025234500 +0000" channel="CA| DAZN 4 HD">
@@ -5610,20 +5610,19 @@ Istodobno na DAZN-u (UTC): 14:05 Muscat vs. Al-Wahda (DAZN 2); 14:30 PTL Bazar B
 Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 4); 18:05 Cairo - GCL Round 2 (DAZN 3); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Lillestrøm vs. Real Sociedad (DAZN 6); 19:00 Hoffenheim vs. Lyon (DAZN 7); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 8); 19:00 Beşiktaş vs. Crystal Palace (DAZN 9); 19:00 Celtic vs. Celta Vigo (DAZN 10); 19:00 Omonia vs. Benfica (DAZN 11); 19:00 Navarrete vs. Foster: Press Conference (DAZN 12); 19:00 Celje vs. Salzburg (DAZN 13); 19:00 Olympiacos vs. Sparta Prague; 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023125500 +0000" stop="20261023151000 +0000" channel="CA| DAZN 5 HD">
+  <programme start="20261023125500 +0000" stop="20261023152500 +0000" channel="CA| DAZN 5 HD">
     <title lang="en">Presidents Cup - United Arab Emirates: Fujairah vs. Al Wahda FC</title>
     <desc lang="en">Watch Soccer action as Al Wahda FC (UAE) takes on Fujairah
-(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023160000 +0000" stop="20261023181500 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">Presidents Cup - United Arab Emirates: Al Nasr vs. Bani Yas</title>
-    <desc lang="en">Watch Soccer action as Bani Yas takes on Al Nasr
+  <programme start="20261023153000 +0000" stop="20261023174500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Ligue 2 - Côte d'Ivoire : JAC d'Angré vs. FC OSA</title>
+    <desc lang="en">Watch Soccer action as Olympique Sport d'Abobo takes on Jeunesse Club d'Abidjan Treichville
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 2); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 16:30 Leipzig vs. Bayern Munich (DAZN 6); 17:00 Smith vs. Puello: Weigh-In (DAZN 4); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 2); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 16:00 Al Nasr vs. Bani Yas (DAZN 6); 16:15 Bhantal vs. Wusum Stars (DAZN 2); 16:30 Leipzig vs. Bayern Munich (DAZN 7); 17:00 Smith vs. Puello: Weigh-In (DAZN 3)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261023183000 +0000" stop="20261023204500 +0000" channel="CA| DAZN 5 HD">
@@ -5631,7 +5630,7 @@ Istodobno na DAZN-u (UTC): 13:20 General Intelligence Presidency Cup (DAZN 8); 1
     <desc lang="en">Watch the latest Super League Basketball action between Leicester Riders and Manchester Basketball.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 Leipzig vs. Bayern Munich (DAZN 6); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 2); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7); 18:45 Gateshead vs. Tamworth (DAZN 6); 18:45 Torino vs. Monza (DAZN 8); 19:00 Ipswich vs. Nottingham Forest (DAZN 2); 19:00 Bolton vs. Middlesbrough (DAZN 9); 19:15 Pennarossa vs. San Giovanni (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 16:30 Leipzig vs. Bayern Munich (DAZN 7); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 3); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 2); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 6); 18:45 Torino vs. Monza (DAZN 7); 19:00 Ipswich vs. Nottingham Forest (DAZN 3); 19:00 Bolton vs. Middlesbrough (DAZN 8); 19:15 Pennarossa vs. San Giovanni (DAZN 9)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261024010000 +0000" stop="20261024031500 +0000" channel="CA| DAZN 5 HD">
@@ -5730,7 +5729,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <desc lang="en">Watch the FIA European Rally Championship on DAZN, as the latest event heads to Portugal for an action-packed weekend of racing.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Genk vs. Standard Liège (DAZN 1); 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10); 13:00 Bumamuru vs. Kayanza United (DAZN 11); 13:00 Werder Bremen vs. Freiburg (DAZN 12); 13:00 Le Messager vs. Young Star (DAZN 13); 13:00 Musongati vs. Olympic Star</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège; 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10); 13:00 Bumamuru vs. Kayanza United (DAZN 11); 13:00 Werder Bremen vs. Freiburg (DAZN 12)</desc>
     <category lang="en">Motorsport</category>
   </programme>
   <programme start="20261025150000 +0000" stop="20261025171500 +0000" channel="CA| DAZN 5 HD">
@@ -5746,7 +5745,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:00 Pitch 10B | 
     <desc lang="en">Watch Soccer action as Anderlecht takes on Gent
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6); 17:00 Dolphins @ Jets; 17:00 Browns @ Titans; 17:00 Buccaneers @ Panthers; 17:00 Bengals @ Ravens; 17:00 SF @ ATL, CIN @ BAL, TB @ CAR, NYG @ HOU</desc>
+Istodobno na DAZN-u (UTC): 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC; 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:00 Paynesville FC vs. Shaita FC; 16:00 LPRC Oilers vs. Black Man Warriors; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025200500 +0000" stop="20261025233500 +0000" channel="CA| DAZN 5 HD">
@@ -5786,29 +5785,28 @@ Istodobno na DAZN-u (UTC): 14:05 Muscat vs. Al-Wahda (DAZN 2); 14:30 PTL Bazar B
 Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 4); 18:05 Cairo - GCL Round 2 (DAZN 3); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 5); 19:00 Hoffenheim vs. Lyon (DAZN 7); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 8); 19:00 Beşiktaş vs. Crystal Palace (DAZN 9); 19:00 Celtic vs. Celta Vigo (DAZN 10); 19:00 Omonia vs. Benfica (DAZN 11); 19:00 Navarrete vs. Foster: Press Conference (DAZN 12); 19:00 Celje vs. Salzburg (DAZN 13); 19:00 Olympiacos vs. Sparta Prague; 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan; 21:00 NFL Fantasy Live (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023130000 +0000" stop="20261023151500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">Ligue A - Burundi: Vision FC vs. Inter Star</title>
-    <desc lang="en">Watch Soccer action as Royal Vision takes on Inter Star
-(Kraj procijenjen.)
+  <programme start="20261023130000 +0000" stop="20261023153000 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">FDH Bank Premiership - Malawi: Ekhaya FC vs. Blue Eagles</title>
+    <desc lang="en">Watch Soccer action as Ekhaya takes on Blue Eagles
 
-Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Vision FC vs. Inter Star (DAZN 7); 13:00 Muzinga vs. Ngozi City (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023163000 +0000" stop="20261023184500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">Frauen Bundesliga: Leipzig vs. Bayern Munich</title>
-    <desc lang="en">Watch Soccer action as Bayern München takes on RB Leipzig
+  <programme start="20261023160000 +0000" stop="20261023181500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Presidents Cup - United Arab Emirates: Al Nasr vs. Bani Yas</title>
+    <desc lang="en">Watch Soccer action as Bani Yas takes on Al Nasr
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 13:20 General Intelligence Presidency Cup (DAZN 8); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 2); 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 17:00 Smith vs. Puello: Weigh-In (DAZN 4); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 2); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7)</desc>
+Istodobno na DAZN-u (UTC): 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 2); 16:30 Leipzig vs. Bayern Munich (DAZN 7); 17:00 Smith vs. Puello: Weigh-In (DAZN 3); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 3)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023184500 +0000" stop="20261023210000 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">Enterprise National League: Gateshead vs. Tamworth</title>
-    <desc lang="en">Watch Soccer action as Gateshead takes on Tamworth
+  <programme start="20261023183000 +0000" stop="20261023204500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Super League Basketball: Newcastle Eagles vs. Surrey 89ers</title>
+    <desc lang="en">Watch the latest Super League Basketball action between Newcastle Eagles and Surrey 89ers.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 2); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7); 18:45 Torino vs. Monza (DAZN 8); 19:00 Ipswich vs. Nottingham Forest (DAZN 2); 19:00 Bolton vs. Middlesbrough (DAZN 9); 19:15 Pennarossa vs. San Giovanni (DAZN 10)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 16:30 Leipzig vs. Bayern Munich (DAZN 7); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 3); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 2); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:45 Torino vs. Monza (DAZN 7); 19:00 Ipswich vs. Nottingham Forest (DAZN 3); 19:00 Bolton vs. Middlesbrough (DAZN 8); 19:15 Pennarossa vs. San Giovanni (DAZN 9)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261024020500 +0000" stop="20261024033500 +0000" channel="CA| DAZN 6 HD">
     <title lang="en">Zhejiang - Qualifying</title>
@@ -5913,7 +5911,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <desc lang="en">The Pittsburgh Steelers prepares to face The New Orleans Saints in an NFL 26/27 showdown. Can the visitors secure a crucial road victory, or will the home side defend their turf? This matchup promises powerful plays and intense competition throughout. Tune in for all the gridiron action!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Genk vs. Standard Liège (DAZN 1); 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10); 13:00 Bumamuru vs. Kayanza United (DAZN 11); 13:00 Werder Bremen vs. Freiburg (DAZN 12); 13:00 Le Messager vs. Young Star (DAZN 13); 13:00 Musongati vs. Olympic Star</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège; 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10); 13:00 Bumamuru vs. Kayanza United (DAZN 11); 13:00 Werder Bremen vs. Freiburg (DAZN 12)</desc>
     <category lang="en">Football</category>
   </programme>
   <programme start="20261025170000 +0000" stop="20261025203000 +0000" channel="CA| DAZN 6 HD">
@@ -5921,7 +5919,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:30 Inter vs. Fi
     <desc lang="en">The Indianapolis Colts travels to face The Minnesota Vikings in NFL 26/27 action. Both sides bring strong rosters and playoff ambitions to this matchup. Can the visitors execute their game plan on the road, or will the home squad protect their turf? Tune in for what promises to be a hard-fought battle!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:00 FC Inter Bombom vs. Sporting Praia Cruz; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC; 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:00 Paynesville FC vs. Shaita FC; 16:00 LPRC Oilers vs. Black Man Warriors</desc>
     <category lang="en">Football</category>
   </programme>
   <programme start="20261025230000 +0000" stop="20261026011500 +0000" channel="CA| DAZN 6 HD">
@@ -5962,21 +5960,28 @@ Istodobno na DAZN-u (UTC): 14:05 Muscat vs. Al-Wahda (DAZN 2); 14:30 PTL Bazar B
 Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 4); 18:05 Cairo - GCL Round 2 (DAZN 3); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 5); 19:00 Lillestrøm vs. Real Sociedad (DAZN 6); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 8); 19:00 Beşiktaş vs. Crystal Palace (DAZN 9); 19:00 Celtic vs. Celta Vigo (DAZN 10); 19:00 Omonia vs. Benfica (DAZN 11); 19:00 Navarrete vs. Foster: Press Conference (DAZN 12); 19:00 Celje vs. Salzburg (DAZN 13); 19:00 Olympiacos vs. Sparta Prague; 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan; 21:00 NFL Fantasy Live (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023130000 +0000" stop="20261023151500 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">Ligue A - Burundi: Muzinga vs. Ngozi City</title>
-    <desc lang="en">Watch Soccer action as Ngozi City takes on Muzinga
-(Kraj procijenjen.)
+  <programme start="20261023130000 +0000" stop="20261023153000 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Ligue A - Burundi: Vision FC vs. Inter Star</title>
+    <desc lang="en">Watch Soccer action as Royal Vision takes on Inter Star
 
-Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023183000 +0000" stop="20261023204500 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">Super League Basketball: Newcastle Eagles vs. Surrey 89ers</title>
-    <desc lang="en">Watch the latest Super League Basketball action between Newcastle Eagles and Surrey 89ers.
+  <programme start="20261023163000 +0000" stop="20261023184500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Frauen Bundesliga: Leipzig vs. Bayern Munich</title>
+    <desc lang="en">Watch Soccer action as Bayern München takes on RB Leipzig
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:30 Leipzig vs. Bayern Munich (DAZN 6); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 2); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:45 Gateshead vs. Tamworth (DAZN 6); 18:45 Torino vs. Monza (DAZN 8); 19:00 Ipswich vs. Nottingham Forest (DAZN 2); 19:00 Bolton vs. Middlesbrough (DAZN 9); 19:15 Pennarossa vs. San Giovanni (DAZN 10)</desc>
-    <category lang="en">Basketball</category>
+Istodobno na DAZN-u (UTC): 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 5); 16:00 Al Nasr vs. Bani Yas (DAZN 6); 16:15 Bhantal vs. Wusum Stars (DAZN 2); 17:00 Smith vs. Puello: Weigh-In (DAZN 3); 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 3); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 2); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 6)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261023184500 +0000" stop="20261023210000 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Lega Serie A: Torino vs. Monza</title>
+    <desc lang="en">Watch Lega Serie A through Fubo Sports on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 3); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 2); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 6); 19:00 Ipswich vs. Nottingham Forest (DAZN 3); 19:00 Bolton vs. Middlesbrough (DAZN 8); 19:15 Pennarossa vs. San Giovanni (DAZN 9)</desc>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261024050000 +0000" stop="20261024071500 +0000" channel="CA| DAZN 7 HD">
     <title lang="en">Pitch 2B | Day 1: Morning Session</title>
@@ -6057,7 +6062,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <desc lang="en">Watch the Premier League through Fubo Sports on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:30 Genk vs. Standard Liège (DAZN 1); 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10); 13:00 Bumamuru vs. Kayanza United (DAZN 11); 13:00 Werder Bremen vs. Freiburg (DAZN 12); 13:00 Le Messager vs. Young Star (DAZN 13); 13:00 Musongati vs. Olympic Star; 13:00 Panthere Noir vs. Flambeau du Centre; 13:00 CRECK Sporting FC vs. Red Lions; 13:00 Karonga United vs. Mighty Mukuru Wanderers; 13:00 Pitch 9B | Day 2: Afternoon Session; 13:00 Never Give Up vs. Vital'O; 13:00 Dedza Dynamos FC vs. Moyale Barracks; 13:26 Rally Six Cities North of Portugal : Stage 16 (DAZN 5)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège; 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10); 13:00 Bumamuru vs. Kayanza United (DAZN 11); 13:00 Werder Bremen vs. Freiburg (DAZN 12); 13:00 Le Messager vs. Young Star (DAZN 13); 13:00 Musongati vs. Olympic Star; 13:00 Panthere Noir vs. Flambeau du Centre; 13:00 CRECK Sporting FC vs. Red Lions; 13:00 Karonga United vs. Mighty Mukuru Wanderers; 13:00 Pitch 9B | Day 2: Afternoon Session; 13:00 Never Give Up vs. Vital'O</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025161500 +0000" stop="20261025183000 +0000" channel="CA| DAZN 7 HD">
@@ -6065,7 +6070,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 12:00 Tenerife vs.
     <desc lang="en">Watch Soccer action as Waterloo FC takes on East End Lions
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs. Saints (DAZN 6); 13:30 Steelers vs. Saints (In French); 14:30 Hoffenheim vs. Leverkusen (DAZN 3); 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Rally Six Cities North of Portugal : Stage 17 (DAZN 8); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs. Saints (DAZN 6); 13:30 Steelers vs. Saints (In French); 14:30 Hoffenheim vs. Leverkusen (DAZN 3); 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Rally Six Cities North of Portugal : Stage 17 (DAZN 8); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:00 FC Inter Bombom vs. Sporting Praia Cruz; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025193000 +0000" stop="20261025214500 +0000" channel="CA| DAZN 7 HD">
@@ -6097,21 +6102,19 @@ Istodobno na DAZN-u (UTC): 14:05 Muscat vs. Al-Wahda (DAZN 2); 14:30 PTL Bazar B
 Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 4); 18:05 Cairo - GCL Round 2 (DAZN 3); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 5); 19:00 Lillestrøm vs. Real Sociedad (DAZN 6); 19:00 Hoffenheim vs. Lyon (DAZN 7); 19:00 Beşiktaş vs. Crystal Palace (DAZN 9); 19:00 Celtic vs. Celta Vigo (DAZN 10); 19:00 Omonia vs. Benfica (DAZN 11); 19:00 Navarrete vs. Foster: Press Conference (DAZN 12); 19:00 Celje vs. Salzburg (DAZN 13); 19:00 Olympiacos vs. Sparta Prague; 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023132000 +0000" stop="20261023172000 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">General Intelligence Presidency Cup</title>
-    <sub-title lang="en">Riyadh Season Horse Racing</sub-title>
-    <desc lang="en">Don't miss any of the Riyadh Season Horse Racing action on DAZN.
-(Kraj procijenjen.)
+  <programme start="20261023130000 +0000" stop="20261023153000 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">Ligue A - Burundi: Muzinga vs. Ngozi City</title>
+    <desc lang="en">Watch Soccer action as Ngozi City takes on Muzinga
 
-Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 14:45 Freestyle Friday #17 (DAZN 9); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 2); 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 16:30 Leipzig vs. Bayern Munich (DAZN 6); 17:00 Smith vs. Puello: Weigh-In (DAZN 4)</desc>
-    <category lang="en">Horse Racing</category>
+Istodobno na DAZN-u (UTC): 05:00 Ningbo Open: Day 5 (DAZN 1); 10:45 Light Stars FC vs. Bel Air FC (DAZN 2); 11:30 KF Bylis vs. KS Pogradeci (DAZN 3); 12:00 AC Tripoli vs. Tadamon Sour (DAZN 4); 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 6); 13:00 Vision FC vs. Inter Star (DAZN 7); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 2); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 3); 14:45 Freestyle Friday #17 (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023184500 +0000" stop="20261023210000 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">Lega Serie A: Torino vs. Monza</title>
-    <desc lang="en">Watch Lega Serie A through Fubo Sports on DAZN.
+  <programme start="20261023190000 +0000" stop="20261023211500 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">Sky Bet Championship: Bolton vs. Middlesbrough</title>
+    <desc lang="en">Watch Soccer action as Bolton Wanderers takes on Middlesbrough
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:00 Navarrete vs. Foster: Weigh-In (DAZN 2); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7); 18:45 Gateshead vs. Tamworth (DAZN 6); 19:00 Ipswich vs. Nottingham Forest (DAZN 2); 19:00 Bolton vs. Middlesbrough (DAZN 9); 19:15 Pennarossa vs. San Giovanni (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 2); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 6); 18:45 Torino vs. Monza (DAZN 7); 19:00 Ipswich vs. Nottingham Forest (DAZN 3); 19:15 Pennarossa vs. San Giovanni (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261024050000 +0000" stop="20261024071500 +0000" channel="CA| DAZN 8 HD">
@@ -6185,7 +6188,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <desc lang="en">Watch the FIA European Rally Championship on DAZN, as the latest event heads to Portugal for an action-packed weekend of racing.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Genk vs. Standard Liège (DAZN 1); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9); 13:00 Bigman FC vs. Stand United (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège</desc>
     <category lang="en">Motorsport</category>
   </programme>
   <programme start="20261025150000 +0000" stop="20261025163000 +0000" channel="CA| DAZN 8 HD">
@@ -6202,7 +6205,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:00 Pitch 10B | 
     <desc lang="en">Freiburg prepares to face Bayern München in Bundesliga 26/27 action as two determined sides battle for crucial points. The hosts aim to use their home advantage while the visitors push to extend their winning ways. Can Freiburg hold strong against the pressure, or will Bayern München claim all three points? Tune in for what promises to be a captivating showdown!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs. Saints (DAZN 6); 13:30 Steelers vs. Saints (In French); 14:30 Hoffenheim vs. Leverkusen (DAZN 3); 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs. Saints (DAZN 6); 13:30 Steelers vs. Saints (In French); 14:30 Hoffenheim vs. Leverkusen (DAZN 3); 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:00 FC Inter Bombom vs. Sporting Praia Cruz; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 15:37 Barcelona Race 3 (DAZN 12); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC; 16:00 Hamburg vs. Union Berlin</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025193000 +0000" stop="20261025214500 +0000" channel="CA| DAZN 8 HD">
@@ -6234,21 +6237,12 @@ Istodobno na DAZN-u (UTC): 14:30 PTL Bazar Brothers FC vs. Real Maldive FC (DAZN
 Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 4); 18:05 Cairo - GCL Round 2 (DAZN 3); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 5); 19:00 Lillestrøm vs. Real Sociedad (DAZN 6); 19:00 Hoffenheim vs. Lyon (DAZN 7); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 8); 19:00 Celtic vs. Celta Vigo (DAZN 10); 19:00 Omonia vs. Benfica (DAZN 11); 19:00 Navarrete vs. Foster: Press Conference (DAZN 12); 19:00 Celje vs. Salzburg (DAZN 13); 19:00 Olympiacos vs. Sparta Prague; 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan; 21:00 NFL Fantasy Live (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261023144500 +0000" stop="20261023164500 +0000" channel="CA| DAZN 9 HD">
-    <title lang="en">Freestyle Friday #17</title>
-    <sub-title lang="en">Freestyle Friday Championship</sub-title>
-    <desc lang="en">Watch Freestyle Friday as the latest round of chess action gets underway on DAZN.
+  <programme start="20261023191500 +0000" stop="20261023213000 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">Campionato - San Marino: Pennarossa vs. San Giovanni</title>
+    <desc lang="en">Watch Soccer action as Pennarossa takes on San Giovanni
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:55 Fujairah vs. Al Wahda FC (DAZN 5); 13:00 Ekhaya FC vs. Blue Eagles (DAZN 2); 13:00 Vision FC vs. Inter Star (DAZN 6); 13:00 Muzinga vs. Ngozi City (DAZN 7); 13:20 General Intelligence Presidency Cup (DAZN 8); 14:00 UFC 333: Weigh-In (DAZN 1); 14:00 Flamurtari FC vs. KF Besëlidhja (DAZN 3); 14:30 Saint Louis Suns United vs. La Passe FC (DAZN 4); 15:00 Al Ahed vs. Riyadi Abbasiyah (DAZN 1); 15:30 JAC d'Angré vs. FC OSA (DAZN 2); 16:00 Al Nasr vs. Bani Yas (DAZN 5); 16:15 Bhantal vs. Wusum Stars (DAZN 3); 16:30 Leipzig vs. Bayern Munich (DAZN 6)</desc>
-    <category lang="en">Chess</category>
-  </programme>
-  <programme start="20261023190000 +0000" stop="20261023211500 +0000" channel="CA| DAZN 9 HD">
-    <title lang="en">Sky Bet Championship: Bolton vs. Middlesbrough</title>
-    <desc lang="en">Watch Soccer action as Bolton Wanderers takes on Middlesbrough
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7); 18:45 Gateshead vs. Tamworth (DAZN 6); 18:45 Torino vs. Monza (DAZN 8); 19:00 Ipswich vs. Nottingham Forest (DAZN 2); 19:15 Pennarossa vs. San Giovanni (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:25 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 2); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 6); 18:45 Torino vs. Monza (DAZN 7); 19:00 Ipswich vs. Nottingham Forest (DAZN 3); 19:00 Bolton vs. Middlesbrough (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261024050000 +0000" stop="20261024071500 +0000" channel="CA| DAZN 9 HD">
@@ -6321,7 +6315,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
     <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Genk vs. Standard Liège (DAZN 1); 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Bigman FC vs. Stand United (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025153000 +0000" stop="20261025174500 +0000" channel="CA| DAZN 9 HD">
@@ -6337,7 +6331,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs.
     <desc lang="en">Watch Basketball action as Força Lleida takes on Real Madrid
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6); 17:00 Dolphins @ Jets; 17:00 Browns @ Titans; 17:00 Buccaneers @ Panthers; 17:00 Bengals @ Ravens; 17:00 SF @ ATL, CIN @ BAL, TB @ CAR, NYG @ HOU; 17:00 RedZone - Week 7; 17:00 CIN @ BAL, NYG @ HOU, MIA @ NYJ, RedZone; 17:00 CIN @ BAL, TB @ CAR, IND @ MIN, CLE @ TEN</desc>
+Istodobno na DAZN-u (UTC): 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC; 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:00 Paynesville FC vs. Shaita FC; 16:00 LPRC Oilers vs. Black Man Warriors; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6); 17:00 Dolphins @ Jets; 17:00 Browns @ Titans; 17:00 Buccaneers @ Panthers</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261025202500 +0000" stop="20261025235500 +0000" channel="CA| DAZN 9 HD">
@@ -6360,14 +6354,6 @@ Istodobno na DAZN-u (UTC): 14:30 PTL Bazar Brothers FC vs. Real Maldive FC (DAZN
     <desc lang="en">Watch Soccer action as Celta de Vigo takes on Celtic
 
 Istodobno na DAZN-u (UTC): 16:00 Shabab Al Ahli vs. Al Ain (DAZN 4); 18:05 Cairo - GCL Round 2 (DAZN 3); 19:00 Ajax vs. Atalanta (DAZN 1); 19:00 Monaco vs. Freiburg (DAZN 2); 19:00 Braga vs. Gent (DAZN 5); 19:00 Lillestrøm vs. Real Sociedad (DAZN 6); 19:00 Hoffenheim vs. Lyon (DAZN 7); 19:00 Viktoria Plzeň vs. Levski Sofia (DAZN 8); 19:00 Beşiktaş vs. Crystal Palace (DAZN 9); 19:00 Omonia vs. Benfica (DAZN 11); 19:00 Navarrete vs. Foster: Press Conference (DAZN 12); 19:00 Celje vs. Salzburg (DAZN 13); 19:00 Olympiacos vs. Sparta Prague; 19:00 Jagiellonia Białystok vs. Anderlecht; 19:00 Bournemouth vs. Milan; 21:00 NFL Fantasy Live (DAZN 1)</desc>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261023191500 +0000" stop="20261023213000 +0000" channel="CA| DAZN 10 HD">
-    <title lang="en">Campionato - San Marino: Pennarossa vs. San Giovanni</title>
-    <desc lang="en">Watch Soccer action as Pennarossa takes on San Giovanni
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 18:00 2 Plateaux FC vs. Racing Club d'Abidjan (DAZN 1); 18:05 Rally Six Cities North of Portugal : Stage 1 (DAZN 4); 18:30 Stuttgart vs. Mönchengladbach (DAZN 3); 18:30 Leicester Riders vs. Manchester Basketball (DAZN 5); 18:30 Newcastle Eagles vs. Surrey 89ers (DAZN 7); 18:45 Gateshead vs. Tamworth (DAZN 6); 18:45 Torino vs. Monza (DAZN 8); 19:00 Ipswich vs. Nottingham Forest (DAZN 2); 19:00 Bolton vs. Middlesbrough (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261024050000 +0000" stop="20261024071500 +0000" channel="CA| DAZN 10 HD">
@@ -6439,7 +6425,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <desc lang="en">Watch Soccer action as Bigman takes on Stand United
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Genk vs. Standard Liège (DAZN 1); 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025153000 +0000" stop="20261025174500 +0000" channel="CA| DAZN 10 HD">
@@ -6455,7 +6441,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs.
     <desc lang="en">Watch Soccer action as Somerset Trojans takes on YMSC
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6); 17:00 Dolphins @ Jets; 17:00 Browns @ Titans; 17:00 Buccaneers @ Panthers; 17:00 Bengals @ Ravens; 17:00 SF @ ATL, CIN @ BAL, TB @ CAR, NYG @ HOU; 17:00 RedZone - Week 7; 17:00 CIN @ BAL, NYG @ HOU, MIA @ NYJ, RedZone; 17:00 CIN @ BAL, TB @ CAR, IND @ MIN, CLE @ TEN</desc>
+Istodobno na DAZN-u (UTC): 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC; 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:00 Paynesville FC vs. Shaita FC; 16:00 LPRC Oilers vs. Black Man Warriors; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6); 17:00 Dolphins @ Jets; 17:00 Browns @ Titans; 17:00 Buccaneers @ Panthers</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025202500 +0000" stop="20261025235500 +0000" channel="CA| DAZN 10 HD">
@@ -6549,7 +6535,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <desc lang="en">Watch Soccer action as Bumamuru takes on Kayanza United
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Genk vs. Standard Liège (DAZN 1); 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025153000 +0000" stop="20261025174500 +0000" channel="CA| DAZN 11 HD">
@@ -6611,7 +6597,7 @@ Istodobno na DAZN-u (UTC): 07:00 Ningbo Open: Day 6; 12:00 Rovers FC vs. Côte d
     <desc lang="en">Watch Soccer action as Old Edwardians takes on Mighty Blackpool
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 13:20 Prep for Prince Mohammed Bin Saud Alkabeer Cup (DAZN 1); 15:00 Vitória Guimarães vs. Portimonense (DAZN 5); 15:00 Cavaliers FC vs. Sobemap FC; 15:00 Barcelona - Race 1; 15:00 Bani Ganse FC vs. Espoir FC; 15:00 AS FAR vs. Wydad AC; 15:00 Rally Six Cities North of Portugal : Stage 7; 15:10 Opening Ceremony &amp; Azerbaijan vs. Timor-Leste (DAZN 6); 15:15 USGN vs. AS Douanes (DAZN 7); 15:15 ASN Nigelec vs. Wombèye AC (DAZN 8); 15:30 Rahimo FC vs. AS Sonabel; 15:30 Focusport FC vs. Salitas FC; 15:30 CFFEB vs. ASFA Yennenga; 15:30 Sporting Cascades vs. AS Maaya; 15:30 US Forces Armées vs. US Comoé; 15:50 Rally Six Cities North of Portugal : Stage 8 (DAZN 2); 16:00 Napoli vs. Roma (DAZN 4); 16:00 Manresa vs. CB San Pablo Burgos (DAZN 9); 16:00 Indiana @ Michigan (DAZN 10); 16:00 Rutgers @ Northwestern (DAZN 11)</desc>
+Istodobno na DAZN-u (UTC): 13:20 Prep for Prince Mohammed Bin Saud Alkabeer Cup (DAZN 1); 15:00 Vitória Guimarães vs. Portimonense (DAZN 5); 15:00 Cavaliers FC vs. Sobemap FC; 15:00 Barcelona - Race 1; 15:00 Bani Ganse FC vs. Espoir FC; 15:00 AS FAR vs. Wydad AC; 15:00 Rally Six Cities North of Portugal : Stage 7; 15:00 6 de Setembro vs. Juba FC; 15:10 Opening Ceremony &amp; Azerbaijan vs. Timor-Leste (DAZN 6); 15:15 USGN vs. AS Douanes (DAZN 7); 15:15 ASN Nigelec vs. Wombèye AC (DAZN 8); 15:30 Rahimo FC vs. AS Sonabel; 15:30 Focusport FC vs. Salitas FC; 15:30 CFFEB vs. ASFA Yennenga; 15:30 Sporting Cascades vs. AS Maaya; 15:30 US Forces Armées vs. US Comoé; 15:50 Rally Six Cities North of Portugal : Stage 8 (DAZN 2); 16:00 Napoli vs. Roma (DAZN 4); 16:00 Manresa vs. CB San Pablo Burgos (DAZN 9); 16:00 Indiana @ Michigan (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261024191500 +0000" stop="20261024213000 +0000" channel="CA| DAZN 12 HD">
@@ -6651,7 +6637,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <desc lang="en">Watch Soccer action as Werder Bremen takes on Freiburg
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Genk vs. Standard Liège (DAZN 1); 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025153700 +0000" stop="20261025170700 +0000" channel="CA| DAZN 12 HD">
@@ -6668,7 +6654,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs.
     <desc lang="en">Watch Basketball action as Cheshire Phoenix takes on Surrey 89ers
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6); 17:00 Dolphins @ Jets; 17:00 Browns @ Titans; 17:00 Buccaneers @ Panthers; 17:00 Bengals @ Ravens; 17:00 SF @ ATL, CIN @ BAL, TB @ CAR, NYG @ HOU</desc>
+Istodobno na DAZN-u (UTC): 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11); 16:00 Póvoa vs. Braga (DAZN 13); 16:00 Golden Dream FC vs. Downtown FC; 16:00 LISCR FC vs. District-17 FC; 16:00 FC Fassell vs. Watanga FC; 16:00 Hamburg vs. Union Berlin; 16:00 Liverpool vs. Newcastle Eagles; 16:00 Valencia vs. Baskonia; 16:00 Paynesville FC vs. Shaita FC; 16:00 LPRC Oilers vs. Black Man Warriors; 16:15 Kamboi Eagles vs. Ports Authority FC (DAZN 2); 16:15 East End Lions FC vs. Waterloo FC (DAZN 7); 16:15 Bo Rangers vs. Bai Bureh Warriors; 16:30 Freiburg vs. Bayern Munich (DAZN 8); 16:30 Sunderland vs. Leeds; 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261025200500 +0000" stop="20261025233500 +0000" channel="CA| DAZN 12 HD">
@@ -6723,7 +6709,7 @@ Istodobno na DAZN-u (UTC): 07:00 Ningbo Open: Day 6; 12:00 Rovers FC vs. Côte d
     <desc lang="en">Eintracht Frankfurt readies to challenge Borussia Dortmund in a Bundesliga clash that could shape the season standings. Two strong sides meet with plenty on the line as they battle for crucial points. Can the visitors claim victory, or will the hosts defend their ground? Tune in to witness every thrilling moment unfold!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 13:20 Prep for Prince Mohammed Bin Saud Alkabeer Cup (DAZN 1); 15:00 Vitória Guimarães vs. Portimonense (DAZN 5); 15:00 Cavaliers FC vs. Sobemap FC; 15:00 Bani Ganse FC vs. Espoir FC; 15:00 AS FAR vs. Wydad AC; 15:10 Opening Ceremony &amp; Azerbaijan vs. Timor-Leste (DAZN 6); 15:15 USGN vs. AS Douanes (DAZN 7); 15:15 ASN Nigelec vs. Wombèye AC (DAZN 8); 15:30 Rahimo FC vs. AS Sonabel; 15:30 Focusport FC vs. Salitas FC; 15:30 CFFEB vs. ASFA Yennenga; 15:30 Sporting Cascades vs. AS Maaya; 15:30 US Forces Armées vs. US Comoé; 15:50 Rally Six Cities North of Portugal : Stage 8 (DAZN 2); 16:00 Napoli vs. Roma (DAZN 4); 16:00 Manresa vs. CB San Pablo Burgos (DAZN 9); 16:00 Indiana @ Michigan (DAZN 10); 16:00 Rutgers @ Northwestern (DAZN 11); 16:00 Texas Tech @ Cincinnati; 16:00 Smith vs. Puello: Prelims</desc>
+Istodobno na DAZN-u (UTC): 13:20 Prep for Prince Mohammed Bin Saud Alkabeer Cup (DAZN 1); 15:00 Vitória Guimarães vs. Portimonense (DAZN 5); 15:00 Cavaliers FC vs. Sobemap FC; 15:00 Bani Ganse FC vs. Espoir FC; 15:00 AS FAR vs. Wydad AC; 15:00 6 de Setembro vs. Juba FC; 15:10 Opening Ceremony &amp; Azerbaijan vs. Timor-Leste (DAZN 6); 15:15 USGN vs. AS Douanes (DAZN 7); 15:15 ASN Nigelec vs. Wombèye AC (DAZN 8); 15:30 Rahimo FC vs. AS Sonabel; 15:30 Focusport FC vs. Salitas FC; 15:30 CFFEB vs. ASFA Yennenga; 15:30 Sporting Cascades vs. AS Maaya; 15:30 US Forces Armées vs. US Comoé; 15:50 Rally Six Cities North of Portugal : Stage 8 (DAZN 2); 16:00 Napoli vs. Roma (DAZN 4); 16:00 Manresa vs. CB San Pablo Burgos (DAZN 9); 16:00 Indiana @ Michigan (DAZN 10); 16:00 Rutgers @ Northwestern (DAZN 11); 16:00 Texas Tech @ Cincinnati</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261024191500 +0000" stop="20261024211500 +0000" channel="CA| DAZN 13 HD">
@@ -6756,7 +6742,7 @@ Istodobno na DAZN-u (UTC): 04:30 Osaka Open: Day 7 (DAZN 1); 09:00 Ningbo Open: 
     <desc lang="en">Watch Soccer action as Young Star FC takes on Le Messager Ngozi
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Genk vs. Standard Liège (DAZN 1); 12:49 Rally Six Cities North of Portugal : Stage 15 (DAZN 8); 13:00 Pitch 10B | Day 2: Afternoon Session (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. Joventut (DAZN 5); 11:00 FS la Massana vs. UE Santa Coloma (DAZN 6); 11:00 Bilbao vs. Andorra; 11:00 Gabala SC vs. Dirchalish FC; 11:00 Villa FC vs. Lijabatho FC; 11:30 Inter vs. Fiorentina (DAZN 2); 11:30 Lazio vs. Como; 11:30 PKK Professionals vs. Mbabane Highlanders; 11:45 Pitch 8B | Day 2: Afternoon Session; 11:45 Pitch 7B | Day 2: Afternoon Session; 12:00 Tenerife vs. Obradoiro (DAZN 3); 12:00 TransINVEST Vilnius vs MFA Žalgiris; 12:00 Fath Union Sport vs. Sporting Club Casablanca; 12:00 Djabal FC vs. FC Chouani; 12:13 Rally Six Cities North of Portugal : Stage 14; 12:15 Barcelona Race 2 (DAZN 7); 12:30 Heaven Eleven vs. NPA Anchors FC (DAZN 1); 12:30 Bea Mountain FC vs. Gardnersville FC; 12:30 Genk vs. Standard Liège</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261025160000 +0000" stop="20261025181500 +0000" channel="CA| DAZN 13 HD">
@@ -6764,7 +6750,7 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 11:00 Girona vs. J
     <desc lang="en">Watch Basketball action as Braga takes on Póvoa
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs. Saints (DAZN 6); 13:30 Steelers vs. Saints (In French); 14:00 Genoa vs. Venezia (DAZN 2); 14:00 Crystal Palace vs. Newcastle (DAZN 7); 14:00 Atalanta vs. Frosinone; 14:00 Man United vs. Bournemouth; 14:00 Hull vs. Brentford; 14:00 Liverpool vs. Brighton; 14:30 Hoffenheim vs. Leverkusen (DAZN 3); 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Rally Six Cities North of Portugal : Stage 17 (DAZN 8); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10); 15:30 AS Douanes vs. RC Kadiogo (DAZN 11)</desc>
+Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs. Saints (DAZN 6); 13:30 Steelers vs. Saints (In French); 14:00 Genoa vs. Venezia (DAZN 2); 14:00 Crystal Palace vs. Newcastle (DAZN 7); 14:00 Atalanta vs. Frosinone; 14:00 Man United vs. Bournemouth; 14:00 Hull vs. Brentford; 14:00 Liverpool vs. Brighton; 14:30 Hoffenheim vs. Leverkusen (DAZN 3); 15:00 Porto vs. CAB Madeira (DAZN 1); 15:00 RS Berkane vs. US Sidi Slimane Berkane (DAZN 5); 15:00 Rally Six Cities North of Portugal : Stage 17 (DAZN 8); 15:00 Union Touarga Sport vs. AM Laâyoune; 15:00 Damissa FC vs. Coton FC; 15:00 Dynamo FC vs. Buffles FC; 15:00 Club Brugge vs. Sint-Truiden; 15:00 FC Inter Bombom vs. Sporting Praia Cruz; 15:30 ASFB vs. Vitesse FC (DAZN 9); 15:30 Real du Faso vs. Majestic FC (DAZN 10)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261025193000 +0000" stop="20261025214500 +0000" channel="CA| DAZN 13 HD">
@@ -6774,10 +6760,6 @@ Istodobno na DAZN-u (UTC): 09:00 Ningbo Open: Day 7 (DAZN 4); 13:30 Steelers vs.
 
 Istodobno na DAZN-u (UTC): 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans (DAZN 4); 17:00 Colts @ Vikings (DAZN 6); 17:00 Dolphins @ Jets; 17:00 Browns @ Titans; 17:00 Buccaneers @ Panthers; 17:00 Bengals @ Ravens; 17:00 SF @ ATL, CIN @ BAL, TB @ CAR, NYG @ HOU; 17:00 RedZone - Week 7; 17:00 CIN @ BAL, NYG @ HOU, MIA @ NYJ, RedZone; 17:00 CIN @ BAL, TB @ CAR, IND @ MIN, CLE @ TEN; 17:00 TB @ CAR, IND @ MIN, MIA @ NYJ, RedZone; 17:00 NYG @ HOU, IND @ MIN, CLE @ TEN, RedZone; 17:00 SF @ ATL, IND @ MIN, CLE @ TEN, MIA @ NYJ; 17:00 TB @ CAR, NYG @ HOU, MIA @ NYJ, RedZone; 17:00 CIN @ BAL, IND @ MIN, CLE @ TEN, RedZone; 17:00 CIN @ BAL, TB @ CAR, CLE @ TEN, MIA @ NYJ; 17:00 CIN @ BAL, NYG @ HOU, IND @ MIN, MIA @ NYJ; 17:00 SF @ ATL, CIN @ BAL, TB @ CAR, RedZone; 17:00 TB @ CAR, NYG @ HOU, CLE @ TEN, RedZone</desc>
     <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261023000000 +0000" stop="20261023040000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261023040000 +0000" stop="20261023070000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
@@ -6915,11 +6897,7 @@ Istodobno na DAZN-u (UTC): 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261022220000 +0000" stop="20261023020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261023020000 +0000" stop="20261023060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261027020000 +0000" stop="20261027060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -7037,11 +7015,7 @@ Istodobno na DAZN-u (UTC): 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261022220000 +0000" stop="20261023020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261023020000 +0000" stop="20261023060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+  <programme start="20261027020000 +0000" stop="20261027060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -7147,11 +7121,7 @@ Istodobno na DAZN-u (UTC): 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261022220000 +0000" stop="20261023020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261023020000 +0000" stop="20261023060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+  <programme start="20261027020000 +0000" stop="20261027060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -7250,6 +7220,10 @@ Istodobno na DAZN-u (UTC): 17:00 49ers @ Falcons (DAZN 3); 17:00 Giants @ Texans
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261026220000 +0000" stop="20261027020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20261027020000 +0000" stop="20261027060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
