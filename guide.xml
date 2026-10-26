@@ -5105,20 +5105,12 @@ Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 1 (DAZN 2)</desc>
 Istodobno na DAZN-u (UTC): 05:00 Pitch 6A | Day 3: Morning Session (DAZN 2); 05:00 Pitch 4B | Day 3: Morning Session (DAZN 3); 05:00 Pitch 5A | Day 3: Morning Session (DAZN 4); 05:00 Pitch 1B | Day 3: Morning Session (DAZN 5); 05:00 Pitch 7B | Day 3: Morning Session (DAZN 6); 05:00 Pitch 1A | Day 3: Morning Session (DAZN 7); 05:00 Pitch 3B | Day 3: Morning Session (DAZN 8); 05:00 Pitch 5B | Day 3: Morning Session (DAZN 9); 05:00 Pitch 10A | Day 3: Morning Session (DAZN 10); 05:00 Pitch 10B | Day 3: Morning Session (DAZN 11); 05:00 Pitch 4A | Day 3: Morning Session (DAZN 12); 05:00 Pitch 2B | Day 3: Morning Session (DAZN 13); 05:00 Pitch 7A | Day 3: Morning Session; 05:00 Pitch 6B | Day 3: Morning Session; 05:00 Pitch 2A | Day 3: Morning Session; 05:00 Pitch 9A | Day 3: Morning Session; 05:00 Pitch 8B | Day 3: Morning Session; 05:00 Pitch 3A | Day 3: Morning Session; 05:00 Pitch 9B | Day 3: Morning Session; 10:30 Pitch 1A | Day 3: Afternoon Session</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261026114500 +0000" stop="20261026140000 +0000" channel="CA| DAZN 1 HD">
+  <programme start="20261026114500 +0000" stop="20261026194500 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">Pitch 8B | Day 3: Afternoon Session</title>
     <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
-    <desc lang="en">(Kraj procijenjen.)
+    <desc lang="en">
 
-Istodobno na DAZN-u (UTC): 10:30 Pitch 1A | Day 3: Afternoon Session; 10:30 Pitch 4B | Day 3: Afternoon Session; 10:30 Pitch 6B | Day 3: Afternoon Session; 10:30 Pitch 4A | Day 3: Afternoon Session; 10:30 Pitch 5B | Day 3: Afternoon Session; 10:30 Pitch 1B | Day 3: Afternoon Session; 10:30 Pitch 9A | Day 3: Afternoon Session; 10:30 Pitch 10B | Day 3: Afternoon Session; 10:30 Pitch 3B | Day 3: Afternoon Session; 10:30 Pitch 6A | Day 3: Afternoon Session; 10:30 Pitch 2A | Day 3: Afternoon Session; 10:30 Pitch 2B | Day 3: Afternoon Session; 10:30 Pitch 10A | Day 3: Afternoon Session; 10:30 Pitch 8A | Day 3: Afternoon Session; 10:30 Pitch 7A | Day 3: Afternoon Session; 10:30 Pitch 5A | Day 3: Afternoon Session; 11:45 Pitch 3A | Day 3: Afternoon Session (DAZN 2); 11:45 Pitch 7B | Day 3: Afternoon Session (DAZN 3); 13:00 Pitch 9B | Day 3: Afternoon Session (DAZN 4)</desc>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261026170000 +0000" stop="20261026191500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">Premier League - Mauritania: FC Tevragh-Zeina vs. AS Armée</title>
-    <desc lang="en">Watch Soccer action as Tevragh-Zeïne takes on Armée
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 19:00 Ballon d'Or 2026 Ceremony (DAZN 2)</desc>
+Istodobno na DAZN-u (UTC): 10:30 Pitch 1A | Day 3: Afternoon Session; 10:30 Pitch 4B | Day 3: Afternoon Session; 10:30 Pitch 6B | Day 3: Afternoon Session; 10:30 Pitch 4A | Day 3: Afternoon Session; 10:30 Pitch 5B | Day 3: Afternoon Session; 10:30 Pitch 1B | Day 3: Afternoon Session; 10:30 Pitch 9A | Day 3: Afternoon Session; 10:30 Pitch 10B | Day 3: Afternoon Session; 10:30 Pitch 3B | Day 3: Afternoon Session; 10:30 Pitch 6A | Day 3: Afternoon Session; 10:30 Pitch 2A | Day 3: Afternoon Session; 10:30 Pitch 2B | Day 3: Afternoon Session; 10:30 Pitch 10A | Day 3: Afternoon Session; 10:30 Pitch 8A | Day 3: Afternoon Session; 10:30 Pitch 7A | Day 3: Afternoon Session; 10:30 Pitch 5A | Day 3: Afternoon Session; 11:45 Pitch 3A | Day 3: Afternoon Session (DAZN 2); 11:45 Pitch 7B | Day 3: Afternoon Session (DAZN 3); 13:00 Pitch 9B | Day 3: Afternoon Session (DAZN 4); 17:00 FC Tevragh-Zeina vs. AS Armée (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261026195000 +0000" stop="20261026220500 +0000" channel="CA| DAZN 1 HD">
@@ -5126,7 +5118,7 @@ Istodobno na DAZN-u (UTC): 19:00 Ballon d'Or 2026 Ceremony (DAZN 2)</desc>
     <desc lang="en">Watch Soccer action as Gendrim takes on Chemal
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Ballon d'Or 2026 Ceremony (DAZN 2); 20:00 Walsall vs. Salford (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Pitch 9B | Day 3: Afternoon Session (DAZN 4); 19:00 Ballon d'Or 2026 Ceremony (DAZN 6); 20:00 Walsall vs. Salford (DAZN 2)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261027000000 +0000" stop="20261027033000 +0000" channel="CA| DAZN 1 HD">
@@ -5159,15 +5151,15 @@ Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC
     <desc lang="en">Watch all the latest action in the Tokyo Open.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 06:00 Fencibles United vs. Eastern Suburbs (DAZN 2); 07:00 Red Bull Bridge Bars (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20261028123000 +0000" stop="20261028144500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">1st Division - Albania: FK Kukësi vs. KS Kastrioti</title>
-    <desc lang="en">Watch Soccer action as Kukësi takes on Kastrioti Krujë
-(Kraj procijenjen.)
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">Day 4 - Pitch 4A - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 KF Bylis vs. KF Besa (DAZN 2); 12:30 KF Besëlidhja vs. KF Sopoti (DAZN 3); 12:30 District-17 FC vs. Discoveries FC (DAZN 4); 12:30 KS Korabi vs. KS Burreli (DAZN 5); 12:30 Vora FK vs. KF Vllaznia (DAZN 6); 12:30 Gardnersville FC vs. Wologisi FC (DAZN 7); 12:30 KS Pogradeci vs. KF Oriku (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261028160000 +0000" stop="20261028181500 +0000" channel="CA| DAZN 1 HD">
@@ -5293,21 +5285,20 @@ Istodobno na DAZN-u (UTC): 23:30 St. Paul's United vs. Newtown United (DAZN 6); 
 Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:00 Pitch 4B | Day 3: Morning Session (DAZN 3); 05:00 Pitch 5A | Day 3: Morning Session (DAZN 4); 05:00 Pitch 1B | Day 3: Morning Session (DAZN 5); 05:00 Pitch 7B | Day 3: Morning Session (DAZN 6); 05:00 Pitch 1A | Day 3: Morning Session (DAZN 7); 05:00 Pitch 3B | Day 3: Morning Session (DAZN 8); 05:00 Pitch 5B | Day 3: Morning Session (DAZN 9); 05:00 Pitch 10A | Day 3: Morning Session (DAZN 10); 05:00 Pitch 10B | Day 3: Morning Session (DAZN 11); 05:00 Pitch 4A | Day 3: Morning Session (DAZN 12); 05:00 Pitch 2B | Day 3: Morning Session (DAZN 13); 05:00 Pitch 7A | Day 3: Morning Session; 05:00 Pitch 6B | Day 3: Morning Session; 05:00 Pitch 2A | Day 3: Morning Session; 05:00 Pitch 9A | Day 3: Morning Session; 05:00 Pitch 8B | Day 3: Morning Session; 05:00 Pitch 3A | Day 3: Morning Session; 05:00 Pitch 9B | Day 3: Morning Session; 10:30 Pitch 1A | Day 3: Afternoon Session</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261026114500 +0000" stop="20261026140000 +0000" channel="CA| DAZN 2 HD">
+  <programme start="20261026114500 +0000" stop="20261026194500 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">Pitch 3A | Day 3: Afternoon Session</title>
     <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
-    <desc lang="en">(Kraj procijenjen.)
+    <desc lang="en">
 
-Istodobno na DAZN-u (UTC): 10:30 Pitch 1A | Day 3: Afternoon Session; 10:30 Pitch 4B | Day 3: Afternoon Session; 10:30 Pitch 6B | Day 3: Afternoon Session; 10:30 Pitch 4A | Day 3: Afternoon Session; 10:30 Pitch 5B | Day 3: Afternoon Session; 10:30 Pitch 1B | Day 3: Afternoon Session; 10:30 Pitch 9A | Day 3: Afternoon Session; 10:30 Pitch 10B | Day 3: Afternoon Session; 10:30 Pitch 3B | Day 3: Afternoon Session; 10:30 Pitch 6A | Day 3: Afternoon Session; 10:30 Pitch 2A | Day 3: Afternoon Session; 10:30 Pitch 2B | Day 3: Afternoon Session; 10:30 Pitch 10A | Day 3: Afternoon Session; 10:30 Pitch 8A | Day 3: Afternoon Session; 10:30 Pitch 7A | Day 3: Afternoon Session; 10:30 Pitch 5A | Day 3: Afternoon Session; 11:45 Pitch 8B | Day 3: Afternoon Session (DAZN 1); 11:45 Pitch 7B | Day 3: Afternoon Session (DAZN 3); 13:00 Pitch 9B | Day 3: Afternoon Session (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 10:30 Pitch 1A | Day 3: Afternoon Session; 10:30 Pitch 4B | Day 3: Afternoon Session; 10:30 Pitch 6B | Day 3: Afternoon Session; 10:30 Pitch 4A | Day 3: Afternoon Session; 10:30 Pitch 5B | Day 3: Afternoon Session; 10:30 Pitch 1B | Day 3: Afternoon Session; 10:30 Pitch 9A | Day 3: Afternoon Session; 10:30 Pitch 10B | Day 3: Afternoon Session; 10:30 Pitch 3B | Day 3: Afternoon Session; 10:30 Pitch 6A | Day 3: Afternoon Session; 10:30 Pitch 2A | Day 3: Afternoon Session; 10:30 Pitch 2B | Day 3: Afternoon Session; 10:30 Pitch 10A | Day 3: Afternoon Session; 10:30 Pitch 8A | Day 3: Afternoon Session; 10:30 Pitch 7A | Day 3: Afternoon Session; 10:30 Pitch 5A | Day 3: Afternoon Session; 11:45 Pitch 8B | Day 3: Afternoon Session (DAZN 1); 11:45 Pitch 7B | Day 3: Afternoon Session (DAZN 3); 13:00 Pitch 9B | Day 3: Afternoon Session (DAZN 4); 17:00 FC Tevragh-Zeina vs. AS Armée (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261026190000 +0000" stop="20261026211500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Ballon d'Or 2026 Ceremony</title>
-    <sub-title lang="en">Ballon d’Or</sub-title>
-    <desc lang="en">Stars from across the globe head to London for the historic 70th-anniversary Ballon d'Or ceremony, celebaring the achievements of teams and individuals across the last 12 months, culminating in the men's and women's Ballon d'Or awards.
+  <programme start="20261026200000 +0000" stop="20261026221500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Sky Bet League Two: Walsall vs. Salford</title>
+    <desc lang="en">Watch Soccer action as Walsall takes on Salford City
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 17:00 FC Tevragh-Zeina vs. AS Armée (DAZN 1); 19:50 Chemal FC vs. ASC Gendrim (DAZN 1); 20:00 Walsall vs. Salford (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Pitch 9B | Day 3: Afternoon Session (DAZN 4); 19:00 Ballon d'Or 2026 Ceremony (DAZN 6); 19:50 Chemal FC vs. ASC Gendrim (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261027000000 +0000" stop="20261027033000 +0000" channel="CA| DAZN 2 HD">
@@ -5334,20 +5325,20 @@ Istodobno na DAZN-u (UTC): 17:00 Essen vs. Leipzig (DAZN 1); 17:00 DFB-Pokal Zon
 Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen; 19:45 Torino vs. Como; 19:45 Fylde vs. Hartlepool; 19:45 Wealdstone vs. Solihull Moors; 19:45 Braintree vs. Dagenham &amp; Redbridge; 19:45 AFC Totton vs. Torquay United; 19:45 Spennymoor Town vs. South Shields</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261028060000 +0000" stop="20261028081500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">National Women's League - New Zealand: Fencibles United vs. Eastern Suburbs</title>
-    <desc lang="en">Watch Soccer action as Fencibles United takes on Eastern Suburbs
-(Kraj procijenjen.)
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Day 4 - Pitch 10A - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 07:00 Red Bull Bridge Bars (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261028123000 +0000" stop="20261028144500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">1st Division - Albania: KF Bylis vs. KF Besa</title>
-    <desc lang="en">Watch Soccer action as Besa Kavajë takes on Bylis
-(Kraj procijenjen.)
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Day 4 - Pitch 8A - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 FK Kukësi vs. KS Kastrioti (DAZN 1); 12:30 KF Besëlidhja vs. KF Sopoti (DAZN 3); 12:30 District-17 FC vs. Discoveries FC (DAZN 4); 12:30 KS Korabi vs. KS Burreli (DAZN 5); 12:30 Vora FK vs. KF Vllaznia (DAZN 6); 12:30 Gardnersville FC vs. Wologisi FC (DAZN 7); 12:30 KS Pogradeci vs. KF Oriku (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261028160000 +0000" stop="20261028181500 +0000" channel="CA| DAZN 2 HD">
@@ -5449,20 +5440,12 @@ Istodobno na DAZN-u (UTC): 22:00 Inter Wanica vs. Coronie Boys (DAZN 1); 22:00 B
 Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:00 Pitch 6A | Day 3: Morning Session (DAZN 2); 05:00 Pitch 5A | Day 3: Morning Session (DAZN 4); 05:00 Pitch 1B | Day 3: Morning Session (DAZN 5); 05:00 Pitch 7B | Day 3: Morning Session (DAZN 6); 05:00 Pitch 1A | Day 3: Morning Session (DAZN 7); 05:00 Pitch 3B | Day 3: Morning Session (DAZN 8); 05:00 Pitch 5B | Day 3: Morning Session (DAZN 9); 05:00 Pitch 10A | Day 3: Morning Session (DAZN 10); 05:00 Pitch 10B | Day 3: Morning Session (DAZN 11); 05:00 Pitch 4A | Day 3: Morning Session (DAZN 12); 05:00 Pitch 2B | Day 3: Morning Session (DAZN 13); 05:00 Pitch 7A | Day 3: Morning Session; 05:00 Pitch 6B | Day 3: Morning Session; 05:00 Pitch 2A | Day 3: Morning Session; 05:00 Pitch 9A | Day 3: Morning Session; 05:00 Pitch 8B | Day 3: Morning Session; 05:00 Pitch 3A | Day 3: Morning Session; 05:00 Pitch 9B | Day 3: Morning Session; 10:30 Pitch 1A | Day 3: Afternoon Session</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261026114500 +0000" stop="20261026140000 +0000" channel="CA| DAZN 3 HD">
+  <programme start="20261026114500 +0000" stop="20261026194500 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">Pitch 7B | Day 3: Afternoon Session</title>
     <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
-    <desc lang="en">(Kraj procijenjen.)
+    <desc lang="en">
 
-Istodobno na DAZN-u (UTC): 10:30 Pitch 1A | Day 3: Afternoon Session; 10:30 Pitch 4B | Day 3: Afternoon Session; 10:30 Pitch 6B | Day 3: Afternoon Session; 10:30 Pitch 4A | Day 3: Afternoon Session; 10:30 Pitch 5B | Day 3: Afternoon Session; 10:30 Pitch 1B | Day 3: Afternoon Session; 10:30 Pitch 9A | Day 3: Afternoon Session; 10:30 Pitch 10B | Day 3: Afternoon Session; 10:30 Pitch 3B | Day 3: Afternoon Session; 10:30 Pitch 6A | Day 3: Afternoon Session; 10:30 Pitch 2A | Day 3: Afternoon Session; 10:30 Pitch 2B | Day 3: Afternoon Session; 10:30 Pitch 10A | Day 3: Afternoon Session; 10:30 Pitch 8A | Day 3: Afternoon Session; 10:30 Pitch 7A | Day 3: Afternoon Session; 10:30 Pitch 5A | Day 3: Afternoon Session; 11:45 Pitch 8B | Day 3: Afternoon Session (DAZN 1); 11:45 Pitch 3A | Day 3: Afternoon Session (DAZN 2); 13:00 Pitch 9B | Day 3: Afternoon Session (DAZN 4)</desc>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026221500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Sky Bet League Two: Walsall vs. Salford</title>
-    <desc lang="en">Watch Soccer action as Walsall takes on Salford City
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 19:00 Ballon d'Or 2026 Ceremony (DAZN 2); 19:50 Chemal FC vs. ASC Gendrim (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 10:30 Pitch 1A | Day 3: Afternoon Session; 10:30 Pitch 4B | Day 3: Afternoon Session; 10:30 Pitch 6B | Day 3: Afternoon Session; 10:30 Pitch 4A | Day 3: Afternoon Session; 10:30 Pitch 5B | Day 3: Afternoon Session; 10:30 Pitch 1B | Day 3: Afternoon Session; 10:30 Pitch 9A | Day 3: Afternoon Session; 10:30 Pitch 10B | Day 3: Afternoon Session; 10:30 Pitch 3B | Day 3: Afternoon Session; 10:30 Pitch 6A | Day 3: Afternoon Session; 10:30 Pitch 2A | Day 3: Afternoon Session; 10:30 Pitch 2B | Day 3: Afternoon Session; 10:30 Pitch 10A | Day 3: Afternoon Session; 10:30 Pitch 8A | Day 3: Afternoon Session; 10:30 Pitch 7A | Day 3: Afternoon Session; 10:30 Pitch 5A | Day 3: Afternoon Session; 11:45 Pitch 8B | Day 3: Afternoon Session (DAZN 1); 11:45 Pitch 3A | Day 3: Afternoon Session (DAZN 2); 13:00 Pitch 9B | Day 3: Afternoon Session (DAZN 4); 17:00 FC Tevragh-Zeina vs. AS Armée (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261027001500 +0000" stop="20261027034500 +0000" channel="CA| DAZN 3 HD">
@@ -5489,21 +5472,20 @@ Istodobno na DAZN-u (UTC): 17:00 Essen vs. Leipzig (DAZN 1); 17:00 Sonnenhof Gro
 Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen; 19:45 Torino vs. Como; 19:45 Fylde vs. Hartlepool; 19:45 Wealdstone vs. Solihull Moors; 19:45 Braintree vs. Dagenham &amp; Redbridge; 19:45 AFC Totton vs. Torquay United; 19:45 Spennymoor Town vs. South Shields</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261028070000 +0000" stop="20261028090000 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Red Bull Bridge Bars</title>
-    <sub-title lang="en">Red Bull TV</sub-title>
-    <desc lang="en">Watch the latest action from Red Bull TV.
-(Kraj procijenjen.)
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Day 4 - Pitch 2B - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 06:00 Fencibles United vs. Eastern Suburbs (DAZN 2)</desc>
-    <category lang="en">Extreme Sports</category>
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261028123000 +0000" stop="20261028144500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">1st Division - Albania: KF Besëlidhja vs. KF Sopoti</title>
-    <desc lang="en">Watch Soccer action as Besëlidhja Lezhë takes on Sopoti Librazhd
-(Kraj procijenjen.)
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Day 4 - Pitch 8B - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 FK Kukësi vs. KS Kastrioti (DAZN 1); 12:30 KF Bylis vs. KF Besa (DAZN 2); 12:30 District-17 FC vs. Discoveries FC (DAZN 4); 12:30 KS Korabi vs. KS Burreli (DAZN 5); 12:30 Vora FK vs. KF Vllaznia (DAZN 6); 12:30 Gardnersville FC vs. Wologisi FC (DAZN 7); 12:30 KS Pogradeci vs. KF Oriku (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261028160000 +0000" stop="20261028181500 +0000" channel="CA| DAZN 3 HD">
@@ -5597,12 +5579,12 @@ Istodobno na DAZN-u (UTC): 17:00 RedZone - Week 7; 20:05 Broncos @ Cardinals (DA
 Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:00 Pitch 6A | Day 3: Morning Session (DAZN 2); 05:00 Pitch 4B | Day 3: Morning Session (DAZN 3); 05:00 Pitch 1B | Day 3: Morning Session (DAZN 5); 05:00 Pitch 7B | Day 3: Morning Session (DAZN 6); 05:00 Pitch 1A | Day 3: Morning Session (DAZN 7); 05:00 Pitch 3B | Day 3: Morning Session (DAZN 8); 05:00 Pitch 5B | Day 3: Morning Session (DAZN 9); 05:00 Pitch 10A | Day 3: Morning Session (DAZN 10); 05:00 Pitch 10B | Day 3: Morning Session (DAZN 11); 05:00 Pitch 4A | Day 3: Morning Session (DAZN 12); 05:00 Pitch 2B | Day 3: Morning Session (DAZN 13); 05:00 Pitch 7A | Day 3: Morning Session; 05:00 Pitch 6B | Day 3: Morning Session; 05:00 Pitch 2A | Day 3: Morning Session; 05:00 Pitch 9A | Day 3: Morning Session; 05:00 Pitch 8B | Day 3: Morning Session; 05:00 Pitch 3A | Day 3: Morning Session; 05:00 Pitch 9B | Day 3: Morning Session; 10:30 Pitch 1A | Day 3: Afternoon Session</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261026130000 +0000" stop="20261026151500 +0000" channel="CA| DAZN 4 HD">
+  <programme start="20261026130000 +0000" stop="20261026210000 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">Pitch 9B | Day 3: Afternoon Session</title>
     <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
-    <desc lang="en">(Kraj procijenjen.)
+    <desc lang="en">
 
-Istodobno na DAZN-u (UTC): 11:45 Pitch 8B | Day 3: Afternoon Session (DAZN 1); 11:45 Pitch 3A | Day 3: Afternoon Session (DAZN 2); 11:45 Pitch 7B | Day 3: Afternoon Session (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 10:30 Pitch 1A | Day 3: Afternoon Session; 10:30 Pitch 4B | Day 3: Afternoon Session; 10:30 Pitch 6B | Day 3: Afternoon Session; 10:30 Pitch 4A | Day 3: Afternoon Session; 10:30 Pitch 5B | Day 3: Afternoon Session; 10:30 Pitch 1B | Day 3: Afternoon Session; 10:30 Pitch 9A | Day 3: Afternoon Session; 10:30 Pitch 10B | Day 3: Afternoon Session; 10:30 Pitch 3B | Day 3: Afternoon Session; 10:30 Pitch 6A | Day 3: Afternoon Session; 10:30 Pitch 2A | Day 3: Afternoon Session; 10:30 Pitch 2B | Day 3: Afternoon Session; 10:30 Pitch 10A | Day 3: Afternoon Session; 10:30 Pitch 8A | Day 3: Afternoon Session; 10:30 Pitch 7A | Day 3: Afternoon Session; 10:30 Pitch 5A | Day 3: Afternoon Session; 11:45 Pitch 8B | Day 3: Afternoon Session (DAZN 1); 11:45 Pitch 3A | Day 3: Afternoon Session (DAZN 2); 11:45 Pitch 7B | Day 3: Afternoon Session (DAZN 3); 17:00 FC Tevragh-Zeina vs. AS Armée (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261027001500 +0000" stop="20261027034500 +0000" channel="CA| DAZN 4 HD">
@@ -5629,12 +5611,20 @@ Istodobno na DAZN-u (UTC): 17:00 Essen vs. Leipzig (DAZN 1); 17:00 Sonnenhof Gro
 Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen; 19:45 Torino vs. Como; 19:45 Fylde vs. Hartlepool; 19:45 Wealdstone vs. Solihull Moors; 19:45 Braintree vs. Dagenham &amp; Redbridge; 19:45 AFC Totton vs. Torquay United; 19:45 Spennymoor Town vs. South Shields</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261028123000 +0000" stop="20261028144500 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">LFA First Division - Liberia: District-17 FC vs. Discoveries FC</title>
-    <desc lang="en">Watch Soccer action as Discoveries takes on District-17 FC
-(Kraj procijenjen.)
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Day 4 - Pitch 3A - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 FK Kukësi vs. KS Kastrioti (DAZN 1); 12:30 KF Bylis vs. KF Besa (DAZN 2); 12:30 KF Besëlidhja vs. KF Sopoti (DAZN 3); 12:30 KS Korabi vs. KS Burreli (DAZN 5); 12:30 Vora FK vs. KF Vllaznia (DAZN 6); 12:30 Gardnersville FC vs. Wologisi FC (DAZN 7); 12:30 KS Pogradeci vs. KF Oriku (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Day 4 - Pitch 10A - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261028160000 +0000" stop="20261028181500 +0000" channel="CA| DAZN 4 HD">
@@ -5719,6 +5709,14 @@ Istodobno na DAZN-u (UTC): 22:00 Inter Wanica vs. Coronie Boys (DAZN 1); 22:00 B
 Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:00 Pitch 6A | Day 3: Morning Session (DAZN 2); 05:00 Pitch 4B | Day 3: Morning Session (DAZN 3); 05:00 Pitch 5A | Day 3: Morning Session (DAZN 4); 05:00 Pitch 7B | Day 3: Morning Session (DAZN 6); 05:00 Pitch 1A | Day 3: Morning Session (DAZN 7); 05:00 Pitch 3B | Day 3: Morning Session (DAZN 8); 05:00 Pitch 5B | Day 3: Morning Session (DAZN 9); 05:00 Pitch 10A | Day 3: Morning Session (DAZN 10); 05:00 Pitch 10B | Day 3: Morning Session (DAZN 11); 05:00 Pitch 4A | Day 3: Morning Session (DAZN 12); 05:00 Pitch 2B | Day 3: Morning Session (DAZN 13); 05:00 Pitch 7A | Day 3: Morning Session; 05:00 Pitch 6B | Day 3: Morning Session; 05:00 Pitch 2A | Day 3: Morning Session; 05:00 Pitch 9A | Day 3: Morning Session; 05:00 Pitch 8B | Day 3: Morning Session; 05:00 Pitch 3A | Day 3: Morning Session; 05:00 Pitch 9B | Day 3: Morning Session; 10:30 Pitch 1A | Day 3: Afternoon Session</desc>
     <category lang="en">Soccer</category>
   </programme>
+  <programme start="20261026170000 +0000" stop="20261026191500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Premier League - Mauritania: FC Tevragh-Zeina vs. AS Armée</title>
+    <desc lang="en">Watch Soccer action as Tevragh-Zeïne takes on Armée
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Pitch 1A | Day 3: Afternoon Session; 10:30 Pitch 4B | Day 3: Afternoon Session; 10:30 Pitch 6B | Day 3: Afternoon Session; 10:30 Pitch 4A | Day 3: Afternoon Session; 10:30 Pitch 5B | Day 3: Afternoon Session; 10:30 Pitch 1B | Day 3: Afternoon Session; 10:30 Pitch 9A | Day 3: Afternoon Session; 10:30 Pitch 10B | Day 3: Afternoon Session; 10:30 Pitch 3B | Day 3: Afternoon Session; 10:30 Pitch 6A | Day 3: Afternoon Session; 10:30 Pitch 2A | Day 3: Afternoon Session; 10:30 Pitch 2B | Day 3: Afternoon Session; 10:30 Pitch 10A | Day 3: Afternoon Session; 10:30 Pitch 8A | Day 3: Afternoon Session; 10:30 Pitch 7A | Day 3: Afternoon Session; 10:30 Pitch 5A | Day 3: Afternoon Session; 11:45 Pitch 8B | Day 3: Afternoon Session (DAZN 1); 11:45 Pitch 3A | Day 3: Afternoon Session (DAZN 2); 11:45 Pitch 7B | Day 3: Afternoon Session (DAZN 3); 13:00 Pitch 9B | Day 3: Afternoon Session (DAZN 4)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
   <programme start="20261027003000 +0000" stop="20261027024500 +0000" channel="CA| DAZN 5 HD">
     <title lang="en">Division di Honor - Aruba: Nacional vs. Britannia</title>
     <desc lang="en">Watch Soccer action as Nacional takes on Britannia
@@ -5743,12 +5741,20 @@ Istodobno na DAZN-u (UTC): 17:00 Essen vs. Leipzig (DAZN 1); 17:00 Sonnenhof Gro
 Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen; 19:45 Torino vs. Como; 19:45 Fylde vs. Hartlepool; 19:45 Wealdstone vs. Solihull Moors; 19:45 Braintree vs. Dagenham &amp; Redbridge; 19:45 AFC Totton vs. Torquay United; 19:45 Spennymoor Town vs. South Shields</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261028123000 +0000" stop="20261028144500 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">1st Division - Albania: KS Korabi vs. KS Burreli</title>
-    <desc lang="en">Watch Soccer action as Korabi Peshkopi takes on Burreli
-(Kraj procijenjen.)
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Day 4 - Pitch 9A - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 FK Kukësi vs. KS Kastrioti (DAZN 1); 12:30 KF Bylis vs. KF Besa (DAZN 2); 12:30 KF Besëlidhja vs. KF Sopoti (DAZN 3); 12:30 District-17 FC vs. Discoveries FC (DAZN 4); 12:30 Vora FK vs. KF Vllaznia (DAZN 6); 12:30 Gardnersville FC vs. Wologisi FC (DAZN 7); 12:30 KS Pogradeci vs. KF Oriku (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Day 4 - Pitch 2A - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261028160000 +0000" stop="20261028181500 +0000" channel="CA| DAZN 5 HD">
@@ -5826,6 +5832,15 @@ Istodobno na DAZN-u (UTC): 17:00 RedZone - Week 7; 20:05 Broncos @ Cardinals (DA
 Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:00 Pitch 6A | Day 3: Morning Session (DAZN 2); 05:00 Pitch 4B | Day 3: Morning Session (DAZN 3); 05:00 Pitch 5A | Day 3: Morning Session (DAZN 4); 05:00 Pitch 1B | Day 3: Morning Session (DAZN 5); 05:00 Pitch 1A | Day 3: Morning Session (DAZN 7); 05:00 Pitch 3B | Day 3: Morning Session (DAZN 8); 05:00 Pitch 5B | Day 3: Morning Session (DAZN 9); 05:00 Pitch 10A | Day 3: Morning Session (DAZN 10); 05:00 Pitch 10B | Day 3: Morning Session (DAZN 11); 05:00 Pitch 4A | Day 3: Morning Session (DAZN 12); 05:00 Pitch 2B | Day 3: Morning Session (DAZN 13); 05:00 Pitch 7A | Day 3: Morning Session; 05:00 Pitch 6B | Day 3: Morning Session; 05:00 Pitch 2A | Day 3: Morning Session; 05:00 Pitch 9A | Day 3: Morning Session; 05:00 Pitch 8B | Day 3: Morning Session; 05:00 Pitch 3A | Day 3: Morning Session; 05:00 Pitch 9B | Day 3: Morning Session; 10:30 Pitch 1A | Day 3: Afternoon Session</desc>
     <category lang="en">Soccer</category>
   </programme>
+  <programme start="20261026190000 +0000" stop="20261026211500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Ballon d'Or 2026 Ceremony</title>
+    <sub-title lang="en">Ballon d’Or</sub-title>
+    <desc lang="en">Stars from across the globe head to London for the historic 70th-anniversary Ballon d'Or ceremony, celebaring the achievements of teams and individuals across the last 12 months, culminating in the men's and women's Ballon d'Or awards.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 11:45 Pitch 8B | Day 3: Afternoon Session (DAZN 1); 11:45 Pitch 3A | Day 3: Afternoon Session (DAZN 2); 11:45 Pitch 7B | Day 3: Afternoon Session (DAZN 3); 13:00 Pitch 9B | Day 3: Afternoon Session (DAZN 4); 17:00 FC Tevragh-Zeina vs. AS Armée (DAZN 5); 19:50 Chemal FC vs. ASC Gendrim (DAZN 1); 20:00 Walsall vs. Salford (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
   <programme start="20261027013000 +0000" stop="20261027093000 +0000" channel="CA| DAZN 6 HD">
     <title lang="en">Tokyo Open: Day 2</title>
     <sub-title lang="en">WTA Pan Pacific Open</sub-title>
@@ -5851,12 +5866,20 @@ Istodobno na DAZN-u (UTC): 17:00 Essen vs. Leipzig (DAZN 1); 17:00 Sonnenhof Gro
 Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen; 19:45 Torino vs. Como; 19:45 Fylde vs. Hartlepool; 19:45 Wealdstone vs. Solihull Moors; 19:45 Braintree vs. Dagenham &amp; Redbridge; 19:45 AFC Totton vs. Torquay United; 19:45 Spennymoor Town vs. South Shields</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261028123000 +0000" stop="20261028144500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">Superliga - Albania : Vora FK vs. KF Vllaznia</title>
-    <desc lang="en">Watch Soccer action as Vllaznia Shkodër takes on Vora
-(Kraj procijenjen.)
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Day 4 - Pitch 10B - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 FK Kukësi vs. KS Kastrioti (DAZN 1); 12:30 KF Bylis vs. KF Besa (DAZN 2); 12:30 KF Besëlidhja vs. KF Sopoti (DAZN 3); 12:30 District-17 FC vs. Discoveries FC (DAZN 4); 12:30 KS Korabi vs. KS Burreli (DAZN 5); 12:30 Gardnersville FC vs. Wologisi FC (DAZN 7); 12:30 KS Pogradeci vs. KF Oriku (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Day 4 - Pitch 3B - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261028170000 +0000" stop="20261028191500 +0000" channel="CA| DAZN 6 HD">
@@ -5941,12 +5964,20 @@ Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:
 Istodobno na DAZN-u (UTC): 17:00 Essen vs. Leipzig (DAZN 1); 17:00 Sonnenhof Großaspach vs. Augsburg (DAZN 2); 17:00 DFB-Pokal Zone (DAZN 3); 17:00 Hamburg vs. Frankfurt (DAZN 4); 17:00 Bochum vs. Mainz (DAZN 5); 17:30 Sassuolo vs. Lazio (DAZN 6); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261028123000 +0000" stop="20261028144500 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">LFA First Division - Liberia: Gardnersville FC vs. Wologisi FC</title>
-    <desc lang="en">Watch Soccer action as Gardnersville FC takes on Wologisi FC
-(Kraj procijenjen.)
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Day 4 - Pitch 1A - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 FK Kukësi vs. KS Kastrioti (DAZN 1); 12:30 KF Bylis vs. KF Besa (DAZN 2); 12:30 KF Besëlidhja vs. KF Sopoti (DAZN 3); 12:30 District-17 FC vs. Discoveries FC (DAZN 4); 12:30 KS Korabi vs. KS Burreli (DAZN 5); 12:30 Vora FK vs. KF Vllaznia (DAZN 6); 12:30 KS Pogradeci vs. KF Oriku (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Day 4 - Pitch 5B - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261028170000 +0000" stop="20261028191500 +0000" channel="CA| DAZN 7 HD">
@@ -6026,12 +6057,20 @@ Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:
 Istodobno na DAZN-u (UTC): 17:00 Essen vs. Leipzig (DAZN 1); 17:00 Sonnenhof Großaspach vs. Augsburg (DAZN 2); 17:00 DFB-Pokal Zone (DAZN 3); 17:00 Hamburg vs. Frankfurt (DAZN 4); 17:00 Bochum vs. Mainz (DAZN 5); 17:30 Sassuolo vs. Lazio (DAZN 6); 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261028123000 +0000" stop="20261028144500 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">1st Division - Albania: KS Pogradeci vs. KF Oriku</title>
-    <desc lang="en">Watch Soccer action as Pogradeci takes on Oriku
-(Kraj procijenjen.)
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">Day 4 - Pitch 4B - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:30 FK Kukësi vs. KS Kastrioti (DAZN 1); 12:30 KF Bylis vs. KF Besa (DAZN 2); 12:30 KF Besëlidhja vs. KF Sopoti (DAZN 3); 12:30 District-17 FC vs. Discoveries FC (DAZN 4); 12:30 KS Korabi vs. KS Burreli (DAZN 5); 12:30 Vora FK vs. KF Vllaznia (DAZN 6); 12:30 Gardnersville FC vs. Wologisi FC (DAZN 7)</desc>
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">Day 4 - Pitch 2B - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261028170000 +0000" stop="20261028191500 +0000" channel="CA| DAZN 8 HD">
@@ -6089,6 +6128,22 @@ Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:
 Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen; 19:45 Torino vs. Como; 19:45 Fylde vs. Hartlepool; 19:45 Wealdstone vs. Solihull Moors; 19:45 Braintree vs. Dagenham &amp; Redbridge; 19:45 AFC Totton vs. Torquay United; 19:45 Spennymoor Town vs. South Shields</desc>
     <category lang="en">Soccer</category>
   </programme>
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">Day 4 - Pitch 8A - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">Day 4 - Pitch 7B - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
+    <category lang="en">Soccer</category>
+  </programme>
   <programme start="20261028170000 +0000" stop="20261028191500 +0000" channel="CA| DAZN 9 HD">
     <title lang="en">DFB-Pokal: Paderborn vs. Stuttgart</title>
     <desc lang="en">Watch Soccer action as Paderborn takes on Stuttgart
@@ -6142,6 +6197,22 @@ Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:
 (Kraj procijenjen.)
 
 Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen; 19:45 Torino vs. Como; 19:45 Fylde vs. Hartlepool; 19:45 Wealdstone vs. Solihull Moors; 19:45 Braintree vs. Dagenham &amp; Redbridge; 19:45 AFC Totton vs. Torquay United; 19:45 Spennymoor Town vs. South Shields</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 10 HD">
+    <title lang="en">Day 4 - Pitch 5A - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 10 HD">
+    <title lang="en">Day 4 - Pitch 9B - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261028170000 +0000" stop="20261028191500 +0000" channel="CA| DAZN 10 HD">
@@ -6212,6 +6283,22 @@ Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:
 Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen; 19:45 Torino vs. Como; 19:45 Fylde vs. Hartlepool; 19:45 Wealdstone vs. Solihull Moors; 19:45 Braintree vs. Dagenham &amp; Redbridge; 19:45 AFC Totton vs. Torquay United; 19:45 Spennymoor Town vs. South Shields</desc>
     <category lang="en">Soccer</category>
   </programme>
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">Day 4 - Pitch 6A - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028103000 +0000" stop="20261028124500 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">Day 4 - Pitch 4B - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
+    <category lang="en">Soccer</category>
+  </programme>
   <programme start="20261028173000 +0000" stop="20261028194500 +0000" channel="CA| DAZN 11 HD">
     <title lang="en">Lega Serie A: Parma vs. Udinese</title>
     <desc lang="en">Watch Lega Serie A through Fubo Sports on DAZN
@@ -6278,6 +6365,22 @@ Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:
 (Kraj procijenjen.)
 
 Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Boston vs. Gateshead (DAZN 13); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen; 19:45 Torino vs. Como; 19:45 Fylde vs. Hartlepool; 19:45 Wealdstone vs. Solihull Moors; 19:45 Braintree vs. Dagenham &amp; Redbridge; 19:45 AFC Totton vs. Torquay United; 19:45 Spennymoor Town vs. South Shields</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 12 HD">
+    <title lang="en">Day 4 - Pitch 8B - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 4A - Morning Session (DAZN 13); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028114500 +0000" stop="20261028140000 +0000" channel="CA| DAZN 12 HD">
+    <title lang="en">Day 4 - Pitch 1B - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1A - Afternoon Session (DAZN 13); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261028173000 +0000" stop="20261028194500 +0000" channel="CA| DAZN 12 HD">
@@ -6348,6 +6451,22 @@ Istodobno na DAZN-u (UTC): 05:00 Pitch 8A | Day 3: Morning Session (DAZN 1); 05:
 Istodobno na DAZN-u (UTC): 19:00 Ruggell II vs. Eschen/Mauren (DAZN 7); 19:00 FC Balzers II vs. FC Ruggell (DAZN 8); 19:45 Hornchurch vs. Yeovil (DAZN 1); 19:45 Köln vs. Union Berlin (DAZN 2); 19:45 FC Halifax Town vs. Barrow (DAZN 3); 19:45 Elversberg vs. Darmstadt (DAZN 4); 19:45 Mönchengladbach vs. Karlsruher (DAZN 5); 19:45 Bradford vs. Peterborough (DAZN 6); 19:45 Worthing vs. Southend (DAZN 9); 19:45 Tamworth vs. Scunthorpe (DAZN 10); 19:45 Woking vs. Boreham Wood (DAZN 11); 19:45 Roma vs. Cagliari (DAZN 12); 19:45 Altrincham vs. Kidderminster; 19:45 Dortmund vs. Werder Bremen; 19:45 Torino vs. Como; 19:45 Fylde vs. Hartlepool; 19:45 Wealdstone vs. Solihull Moors; 19:45 Braintree vs. Dagenham &amp; Redbridge; 19:45 AFC Totton vs. Torquay United; 19:45 Spennymoor Town vs. South Shields</desc>
     <category lang="en">Soccer</category>
   </programme>
+  <programme start="20261028050000 +0000" stop="20261028071500 +0000" channel="CA| DAZN 13 HD">
+    <title lang="en">Day 4 - Pitch 4A - Morning Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 01:30 Tokyo Open: Day 3 (DAZN 1); 05:00 Day 4 - Pitch 10A - Morning Session (DAZN 2); 05:00 Day 4 - Pitch 2B - Morning Session (DAZN 3); 05:00 Day 4 - Pitch 3A - Morning Session (DAZN 4); 05:00 Day 4 - Pitch 9A - Morning Session (DAZN 5); 05:00 Day 4 - Pitch 10B - Morning Session (DAZN 6); 05:00 Day 4 - Pitch 1A - Morning Session (DAZN 7); 05:00 Day 4 - Pitch 4B - Morning Session (DAZN 8); 05:00 Day 4 - Pitch 8A - Morning Session (DAZN 9); 05:00 Day 4 - Pitch 5A - Morning Session (DAZN 10); 05:00 Day 4 - Pitch 6A - Morning Session (DAZN 11); 05:00 Day 4 - Pitch 8B - Morning Session (DAZN 12); 06:00 Fencibles United vs. Eastern Suburbs; 07:00 Red Bull Bridge Bars</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261028114500 +0000" stop="20261028140000 +0000" channel="CA| DAZN 13 HD">
+    <title lang="en">Day 4 - Pitch 1A - Afternoon Session</title>
+    <sub-title lang="en">FIFA U-15 World Cup &amp; Festival Azerbaijan 2026™</sub-title>
+    <desc lang="en">(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 Day 4 - Pitch 4A - Afternoon Session (DAZN 1); 10:30 Day 4 - Pitch 8A - Afternoon Session (DAZN 2); 10:30 Day 4 - Pitch 8B - Afternoon Session (DAZN 3); 10:30 Day 4 - Pitch 10A - Afternoon Session (DAZN 4); 10:30 Day 4 - Pitch 2A - Afternoon Session (DAZN 5); 10:30 Day 4 - Pitch 3B - Afternoon Session (DAZN 6); 10:30 Day 4 - Pitch 5B - Afternoon Session (DAZN 7); 10:30 Day 4 - Pitch 2B - Afternoon Session (DAZN 8); 10:30 Day 4 - Pitch 7B - Afternoon Session (DAZN 9); 10:30 Day 4 - Pitch 9B - Afternoon Session (DAZN 10); 10:30 Day 4 - Pitch 4B - Afternoon Session (DAZN 11); 11:45 Day 4 - Pitch 1B - Afternoon Session (DAZN 12); 12:30 FK Kukësi vs. KS Kastrioti; 12:30 KF Bylis vs. KF Besa; 12:30 KF Besëlidhja vs. KF Sopoti; 12:30 District-17 FC vs. Discoveries FC; 12:30 KS Korabi vs. KS Burreli; 12:30 Vora FK vs. KF Vllaznia; 12:30 Gardnersville FC vs. Wologisi FC; 12:30 KS Pogradeci vs. KF Oriku</desc>
+    <category lang="en">Soccer</category>
+  </programme>
   <programme start="20261028173000 +0000" stop="20261028194500 +0000" channel="CA| DAZN 13 HD">
     <title lang="en">Lega Serie A: Venezia vs. Inter</title>
     <desc lang="en">Watch Lega Serie A through Fubo Sports on DAZN
@@ -6363,10 +6482,6 @@ Istodobno na DAZN-u (UTC): 16:00 Freeport FC vs. Paynesville FC (DAZN 1); 16:00 
 
 Istodobno na DAZN-u (UTC): 18:45 Faetano vs. Domagnano (DAZN 1); 19:30 Man City vs. Brighton (DAZN 2); 19:45 Carlisle vs. Harrogate (DAZN 3); 19:45 Genoa vs. Juventus (DAZN 4); 19:45 Sutton vs. Aldershot (DAZN 5); 19:45 Bayern Munich vs. Magdeburg (DAZN 6); 19:45 Fulham vs. Crystal Palace (DAZN 7); 19:45 Hannover vs. Kaiserslautern (DAZN 8); 19:45 Bournemouth vs. Aston Villa (DAZN 9); 19:45 Leverkusen vs. Nürnberg (DAZN 10); 19:45 Forest Green vs. Eastleigh (DAZN 11); 19:45 Kiel vs. Hoffenheim (DAZN 12); 19:45 Monza vs. Napoli; 20:00 Liverpool vs. Chelsea</desc>
     <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261026000000 +0000" stop="20261026040000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261026040000 +0000" stop="20261026080000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
@@ -6480,11 +6595,11 @@ Istodobno na DAZN-u (UTC): 18:45 Faetano vs. Domagnano (DAZN 1); 19:30 Man City 
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261025220000 +0000" stop="20261026020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261030000000 +0000" stop="20261030040000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261026020000 +0000" stop="20261026060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261030040000 +0000" stop="20261030070000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -6580,11 +6695,7 @@ Istodobno na DAZN-u (UTC): 18:45 Faetano vs. Domagnano (DAZN 1); 19:30 Man City 
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261025220000 +0000" stop="20261026020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261026020000 +0000" stop="20261026060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+  <programme start="20261030020000 +0000" stop="20261030060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -6680,11 +6791,7 @@ Istodobno na DAZN-u (UTC): 18:45 Faetano vs. Domagnano (DAZN 1); 19:30 Man City 
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261025220000 +0000" stop="20261026020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
-  </programme>
-  <programme start="20261026020000 +0000" stop="20261026060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+  <programme start="20261030020000 +0000" stop="20261030060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -6777,6 +6884,10 @@ Istodobno na DAZN-u (UTC): 18:45 Faetano vs. Domagnano (DAZN 1); 19:30 Man City 
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261029220000 +0000" stop="20261030020000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20261030020000 +0000" stop="20261030060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
