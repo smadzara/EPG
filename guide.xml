@@ -3622,7 +3622,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c96c401ee1de47f79973b7b8a050254a_thumb.jpg" />
   </programme>
   <programme start="20261127183000 +0100" stop="20261127202000 +0100" channel="UK| EUROSPORT 1  HEVC FHD">
-    <title lang="hr">Fristajl Skijanje: Svjetski Kup, Inzbruk (m/ž): Big Air</title>
+    <title lang="hr">Freestyle Skijanje: Svjetski Kup, Innsbruck (m/ž): Big Air</title>
+    <desc lang="hr">Innsbruck će prvi put ugostiti FIS Svjetski kup u Big Airu! Najbolji skijaši i snowboarderi natjecat će se 26. i 27. studenoga 2026. na legendarnoj lokaciji Bergisel.(c)</desc>
   </programme>
   <programme start="20261127202000 +0100" stop="20261127205000 +0100" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Jedrenje: Racing On The Edge</title>
@@ -3655,7 +3656,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/33a8a727aaa14f7d907d2a139bac02dd_thumb.jpg" />
   </programme>
   <programme start="20261128013000 +0100" stop="20261128021500 +0100" channel="UK| EUROSPORT 1  HEVC FHD">
-    <title lang="hr">Fristajl Skijanje: Svjetski Kup, Inzbruk (m/ž): Big Air</title>
+    <title lang="hr">Freestyle Skijanje: Svjetski Kup, Innsbruck (m/ž): Big Air</title>
+    <desc lang="hr">Innsbruck će prvi put ugostiti FIS Svjetski kup u Big Airu! Najbolji skijaši i snowboarderi natjecat će se 26. i 27. studenoga 2026. na legendarnoj lokaciji Bergisel.(c)</desc>
   </programme>
   <programme start="20261128021500 +0100" stop="20261128030000 +0100" channel="UK| EUROSPORT 1  HEVC FHD">
     <title lang="hr">Nordijska Kombinacija: Fis Svjetski Kup – Ruka (m): Compact 7.5km</title>
@@ -4097,7 +4099,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/c96c401ee1de47f79973b7b8a050254a_thumb.jpg" />
   </programme>
   <programme start="20261127183000 +0100" stop="20261127202000 +0100" channel="eurosport1.uk">
-    <title lang="hr">Fristajl Skijanje: Svjetski Kup, Inzbruk (m/ž): Big Air</title>
+    <title lang="hr">Freestyle Skijanje: Svjetski Kup, Innsbruck (m/ž): Big Air</title>
+    <desc lang="hr">Innsbruck će prvi put ugostiti FIS Svjetski kup u Big Airu! Najbolji skijaši i snowboarderi natjecat će se 26. i 27. studenoga 2026. na legendarnoj lokaciji Bergisel.(c)</desc>
   </programme>
   <programme start="20261127202000 +0100" stop="20261127205000 +0100" channel="eurosport1.uk">
     <title lang="hr">Jedrenje: Racing On The Edge</title>
@@ -4130,7 +4133,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/33a8a727aaa14f7d907d2a139bac02dd_thumb.jpg" />
   </programme>
   <programme start="20261128013000 +0100" stop="20261128021500 +0100" channel="eurosport1.uk">
-    <title lang="hr">Fristajl Skijanje: Svjetski Kup, Inzbruk (m/ž): Big Air</title>
+    <title lang="hr">Freestyle Skijanje: Svjetski Kup, Innsbruck (m/ž): Big Air</title>
+    <desc lang="hr">Innsbruck će prvi put ugostiti FIS Svjetski kup u Big Airu! Najbolji skijaši i snowboarderi natjecat će se 26. i 27. studenoga 2026. na legendarnoj lokaciji Bergisel.(c)</desc>
   </programme>
   <programme start="20261128021500 +0100" stop="20261128030000 +0100" channel="eurosport1.uk">
     <title lang="hr">Nordijska Kombinacija: Fis Svjetski Kup – Ruka (m): Compact 7.5km</title>
@@ -4189,7 +4193,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b35e6b3054ce4e3cbbbe663bd6c827fc_thumb.jpg" />
   </programme>
   <programme start="20261124100000 +0100" stop="20261124110000 +0100" channel="eurosport2.uk">
-    <title lang="hr">Dizanje Tegova: Svjetsko Prvenstvo Istanbul – Pregled</title>
+    <title lang="hr">Dizanje Utega: Svjetsko Prvenstvo Istanbul – Pregled</title>
+    <desc lang="hr">Istanbul je domaćin najboljim svjetskim dizačima utega koji se natječu za naslov svjetskog prvaka.(c)</desc>
   </programme>
   <programme start="20261124110000 +0100" stop="20261124130000 +0100" channel="eurosport2.uk">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
@@ -4606,7 +4611,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/11b4c2a65269476cb33debf28b02c229_thumb.jpg" />
   </programme>
   <programme start="20261127230500 +0100" stop="20261128000000 +0100" channel="eurosport2.uk">
-    <title lang="hr">Fristajl Skijanje: Svjetski Kup, Inzbruk (m/ž): Big Air</title>
+    <title lang="hr">Freestyle Skijanje: Svjetski Kup, Innsbruck (m/ž): Big Air</title>
+    <desc lang="hr">Innsbruck će prvi put ugostiti FIS Svjetski kup u Big Airu! Najbolji skijaši i snowboarderi natjecat će se 26. i 27. studenoga 2026. na legendarnoj lokaciji Bergisel.(c)</desc>
   </programme>
   <programme start="20261128000000 +0100" stop="20261128004500 +0100" channel="eurosport2.uk">
     <title lang="hr">Biatlon: Svjetski Kup – Kontiolahti (ž): Pojedinačno</title>
@@ -4614,7 +4620,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b7c6c3a89f324e55b54a7302f73f3015_thumb.jpg" />
   </programme>
   <programme start="20261128004500 +0100" stop="20261128013000 +0100" channel="eurosport2.uk">
-    <title lang="hr">Fristajl Skijanje: Svjetski Kup, Inzbruk (m/ž): Big Air</title>
+    <title lang="hr">Freestyle Skijanje: Svjetski Kup, Innsbruck (m/ž): Big Air</title>
+    <desc lang="hr">Innsbruck će prvi put ugostiti FIS Svjetski kup u Big Airu! Najbolji skijaši i snowboarderi natjecat će se 26. i 27. studenoga 2026. na legendarnoj lokaciji Bergisel.(c)</desc>
   </programme>
   <programme start="20261128013000 +0100" stop="20261128021500 +0100" channel="eurosport2.uk">
     <title lang="hr">Skijaško Trčanje: Fis Svjetski Kup – Ruka (ž): Klasik 10km</title>
@@ -4683,7 +4690,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b35e6b3054ce4e3cbbbe663bd6c827fc_thumb.jpg" />
   </programme>
   <programme start="20261124100000 +0100" stop="20261124110000 +0100" channel="RS| EUROSPORT 2 HD">
-    <title lang="hr">Dizanje Tegova: Svjetsko Prvenstvo Istanbul – Pregled</title>
+    <title lang="hr">Dizanje Utega: Svjetsko Prvenstvo Istanbul – Pregled</title>
+    <desc lang="hr">Istanbul je domaćin najboljim svjetskim dizačima utega koji se natječu za naslov svjetskog prvaka.(c)</desc>
   </programme>
   <programme start="20261124110000 +0100" stop="20261124130000 +0100" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Snooker – Open Engleske: Finale, Ali Carter – Mark Williams</title>
@@ -5100,7 +5108,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/11b4c2a65269476cb33debf28b02c229_thumb.jpg" />
   </programme>
   <programme start="20261127230500 +0100" stop="20261128000000 +0100" channel="RS| EUROSPORT 2 HD">
-    <title lang="hr">Fristajl Skijanje: Svjetski Kup, Inzbruk (m/ž): Big Air</title>
+    <title lang="hr">Freestyle Skijanje: Svjetski Kup, Innsbruck (m/ž): Big Air</title>
+    <desc lang="hr">Innsbruck će prvi put ugostiti FIS Svjetski kup u Big Airu! Najbolji skijaši i snowboarderi natjecat će se 26. i 27. studenoga 2026. na legendarnoj lokaciji Bergisel.(c)</desc>
   </programme>
   <programme start="20261128000000 +0100" stop="20261128004500 +0100" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Biatlon: Svjetski Kup – Kontiolahti (ž): Pojedinačno</title>
@@ -5108,7 +5117,8 @@
     <icon src="https://cdn.a1xploretv.hr/cdn_publish/epg/498x280_event_thumb/b7c6c3a89f324e55b54a7302f73f3015_thumb.jpg" />
   </programme>
   <programme start="20261128004500 +0100" stop="20261128013000 +0100" channel="RS| EUROSPORT 2 HD">
-    <title lang="hr">Fristajl Skijanje: Svjetski Kup, Inzbruk (m/ž): Big Air</title>
+    <title lang="hr">Freestyle Skijanje: Svjetski Kup, Innsbruck (m/ž): Big Air</title>
+    <desc lang="hr">Innsbruck će prvi put ugostiti FIS Svjetski kup u Big Airu! Najbolji skijaši i snowboarderi natjecat će se 26. i 27. studenoga 2026. na legendarnoj lokaciji Bergisel.(c)</desc>
   </programme>
   <programme start="20261128013000 +0100" stop="20261128021500 +0100" channel="RS| EUROSPORT 2 HD">
     <title lang="hr">Skijaško Trčanje: Fis Svjetski Kup – Ruka (ž): Klasik 10km</title>
@@ -5765,18 +5775,16 @@ Istodobno na DAZN-u (UTC): 01:00 Manningcast | MNF with Peyton &amp; Eli: Bengal
 Istodobno na DAZN-u (UTC): 06:00 Yirga Chefe vs. Bench Maji (DAZN 2)</desc>
     <category lang="en">Rugby League</category>
   </programme>
-  <programme start="20261124103000 +0000" stop="20261124124500 +0000" channel="CA| DAZN 1 HD">
+  <programme start="20261124103000 +0000" stop="20261124130000 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">Higher League - Ethiopia: Burayu vs. Nib</title>
     <desc lang="en">Watch Soccer action as Nib takes on Burayou SC
-(Kraj procijenjen.)
 
 Istodobno na DAZN-u (UTC): 12:30 Venezuela U17 vs. Romania U17 (DAZN 2); 12:30 Batu vs. Sululta (DAZN 3); 12:30 Costa Rica U17 vs. Republic of Ireland U17 (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261124130000 +0000" stop="20261124151500 +0000" channel="CA| DAZN 1 HD">
+  <programme start="20261124130000 +0000" stop="20261124153000 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">Higher League - Ethiopia: Mekelle 70 Enderta vs. Addis Ketema</title>
     <desc lang="en">Watch Soccer action as Addis Ketema SC takes on Mekelle 70 Enderta
-(Kraj procijenjen.)
 
 Istodobno na DAZN-u (UTC): 12:30 Venezuela U17 vs. Romania U17 (DAZN 2); 12:30 Batu vs. Sululta (DAZN 3); 12:30 Costa Rica U17 vs. Republic of Ireland U17 (DAZN 4); 13:00 Arsenal U19 vs. Dortmund U19 (DAZN 5); 13:30 Mexico U17 vs. Cameroon U17 (DAZN 6); 14:30 Dominican Republic U17 vs. Chile U17 (DAZN 7); 15:00 Feyenoord U19 vs. Porto U19 (DAZN 2); 15:00 Shashemene vs. Bishoftu (DAZN 3); 15:00 Brazil U17 vs. Tanzania U17 (DAZN 4)</desc>
     <category lang="en">Soccer</category>
@@ -5810,7 +5818,7 @@ Istodobno na DAZN-u (UTC): 18:30 Fort Myers Tip-Off: Pittsburgh vs. Oklahoma (DA
     <desc lang="en">Watch Basketball action as DePaul takes on Purdue
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 21:00 UNAN Managua vs. CS Sébaco (DAZN 4); 21:00 Real Estelí FC vs. Rancho Santana FC; 00:00 Vanderbilt @ Ohio State (DAZN 2); 01:00 Hall of Fame Women's Showcase: South Carolina @ UConn (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 00:00 Vanderbilt @ Ohio State (DAZN 2); 01:00 Hall of Fame Women's Showcase: South Carolina @ UConn (DAZN 3)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261125060000 +0000" stop="20261125080000 +0000" channel="CA| DAZN 1 HD">
@@ -5858,7 +5866,7 @@ Istodobno na DAZN-u (UTC): 17:45 Slavia Prague vs. Villarreal (DAZN 2); 17:45 Sa
     <desc lang="en">Watch Basketball action as Southern Utah takes on Nebraska
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 00:00 Beaches FC vs. SWA Sharks FC (DAZN 2); 00:00 Northeastern @ Wisconsin (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4); 00:00 Beaches FC vs. SWA Sharks FC (DAZN 2); 00:00 Northeastern @ Wisconsin (DAZN 3)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261126010000 +0000" stop="20261126043000 +0000" channel="CA| DAZN 1 HD">
@@ -5866,7 +5874,7 @@ Istodobno na DAZN-u (UTC): 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atléti
     <desc lang="en">The Los Angeles Rams steps up against The Green Bay Packers in NFL 26/27 action. Can the home side control the line of scrimmage, or will the visitors execute their game plan to perfection? This matchup features two talented rosters ready to battle for victory. Witness every touchdown and tackle live!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 00:00 Beaches FC vs. SWA Sharks FC (DAZN 2); 00:00 Northeastern @ Wisconsin (DAZN 3); 01:00 Managua FC vs. CD Walter Ferretti (DAZN 4); 04:00 Nicaragua vs. Great Britain (DAZN 2)</desc>
+Istodobno na DAZN-u (UTC): 00:00 Beaches FC vs. SWA Sharks FC (DAZN 2); 00:00 Northeastern @ Wisconsin (DAZN 3); 01:00 Managua FC vs. CD Walter Ferretti (DAZN 4); 01:00 Real Estelí FC vs. Rancho Santana FC (DAZN 5); 04:00 Nicaragua vs. Great Britain (DAZN 2)</desc>
     <category lang="en">Football</category>
   </programme>
   <programme start="20261126103000 +0000" stop="20261126133000 +0000" channel="CA| DAZN 1 HD">
@@ -5893,37 +5901,29 @@ Istodobno na DAZN-u (UTC): 13:00 New Zealand U17 vs. Belgium U17 (DAZN 2); 13:00
 Istodobno na DAZN-u (UTC): 14:30 Real Maldive FC vs. Foresters FC (DAZN 5); 15:00 China PR U17 vs. Fiji U17 (DAZN 6); 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4)</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261126193000 +0000" stop="20261126214500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">WC European Qualifiers: Iceland vs. Bosnia-Herzegovina</title>
-    <desc lang="en">Watch Basketball action as Iceland takes on Bosnia-Herzegovina
+  <programme start="20261126190000 +0000" stop="20261126211500 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">WC European Qualifiers: Portugal vs. Ukraine</title>
+    <desc lang="en">Watch Basketball action as Portugal takes on Ukraine
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7)</desc>
+Istodobno na DAZN-u (UTC): 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5)</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261127001500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">Primera Division - Nicaragua: ART Municipal Jalapa vs. San Marcos FC</title>
-    <desc lang="en">Watch Soccer action as San Marcos FC takes on Municipal Jalapa
+  <programme start="20261126213000 +0000" stop="20261127010000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">NFL Game Pass: Eagles @ Cowboys</title>
+    <desc lang="en">The Philadelphia Eagles steps up against The Dallas Cowboys in NFL 26/27 action that promises high stakes and intense competition. Can either side gain the crucial advantage in this heated rivalry clash? Tune in to witness every powerful play unfold!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 Rady Children's Invitational: Saint Mary's vs. UCLA (DAZN 2); 22:10 Uruguay vs. Canada; 00:00 Diriangén FC vs. Matagalpa FC (DAZN 3); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 5)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Arkansas @ Michigan State (DAZN 4); 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 2); 22:00 Rady Children's Invitational: Saint Mary's vs. UCLA (DAZN 3); 22:10 Uruguay vs. Canada; 23:00 Robinhood vs. Flora (DAZN 5)</desc>
+    <category lang="en">Football</category>
   </programme>
-  <programme start="20261127004000 +0000" stop="20261127025500 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">WC Americas Qualifiers: Argentina vs. Bahamas</title>
-    <desc lang="en">Watch Basketball action as Argentina takes on Bahamas
+  <programme start="20261127012000 +0000" stop="20261127045000 +0000" channel="CA| DAZN 1 HD">
+    <title lang="en">NFL Game Pass: Chiefs @ Bills</title>
+    <desc lang="en">Buffalo Bills faces off against Kansas City Chiefs in a pivotal NFL 26/27 showdown. Can the Bills execute their game plan to perfection, or will the Chiefs' dynamic playmakers prove too much to handle? This clash promises edge-of-your-seat drama from start to finish. Tune in for every incredible moment!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 21:30 Eagles @ Cowboys (DAZN 4); 00:00 Diriangén FC vs. Matagalpa FC (DAZN 3); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 5); 00:45 Adelaide: Qualifying (DAZN 2); 01:20 Chiefs @ Bills (DAZN 4)</desc>
-    <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20261127040000 +0000" stop="20261127070000 +0000" channel="CA| DAZN 1 HD">
-    <title lang="en">WBSC Premier12: Czechia vs. Nicaragua</title>
-    <desc lang="en">Watch all the latest action from the WBSC Premier12.
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 01:20 Chiefs @ Bills (DAZN 4)</desc>
-    <category lang="en">Baseball</category>
+Istodobno na DAZN-u (UTC): 00:00 Diriangén FC vs. Matagalpa FC (DAZN 4); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 6); 00:40 Argentina vs. Bahamas (DAZN 2); 00:45 Adelaide: Qualifying (DAZN 3); 01:40 Panama vs. Puerto Rico (DAZN 5); 04:00 Czechia vs. Nicaragua (DAZN 2)</desc>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20261127084500 +0000" stop="20261127104500 +0000" channel="CA| DAZN 1 HD">
     <title lang="en">AFL Women: Grand Final: North Melbourne Kangaroos Women vs. Melbourne Demons Women</title>
@@ -5938,7 +5938,7 @@ Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2)</desc>
     <desc lang="en">Watch Soccer action as Rovers FC Seychelles takes on Lightstars
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127130000 +0000" stop="20261127151500 +0000" channel="CA| DAZN 1 HD">
@@ -5946,7 +5946,7 @@ Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 The Cro
     <desc lang="en">Watch Soccer action as Serbia U17 takes on Colombia U17
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127154000 +0000" stop="20261127175500 +0000" channel="CA| DAZN 1 HD">
@@ -5954,7 +5954,7 @@ Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 The Cro
     <desc lang="en">Watch Soccer action as Fanja takes on Dhofar
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 2); 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127180000 +0000" stop="20261127201500 +0000" channel="CA| DAZN 1 HD">
@@ -5962,7 +5962,7 @@ Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 14:00 Republic o
     <desc lang="en">Watch Basketball action as Sweden takes on Hungary
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 6); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 8); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261127220000 +0000" stop="20261128001500 +0000" channel="CA| DAZN 1 HD">
@@ -5970,7 +5970,7 @@ Istodobno na DAZN-u (UTC): 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Ro
     <desc lang="en">DAZN ONLY - TBD v TBD (Rady Children's Invitational)
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 20:00 Broncos @ Steelers (DAZN 6); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10); 23:00 Bowling Green @ Indiana (DAZN 2); 23:00 Western Kentucky @ Illinois (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 20:00 Broncos @ Steelers (DAZN 8); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10); 23:00 Bowling Green @ Indiana (DAZN 2); 23:00 Western Kentucky @ Illinois (DAZN 3)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261123000000 +0000" stop="20261123023000 +0000" channel="CA| DAZN 2 HD">
@@ -6015,10 +6015,9 @@ Istodobno na DAZN-u (UTC): 00:30 Bubali vs. Estrella (DAZN 1); 01:00 Winthrop @ 
 Istodobno na DAZN-u (UTC): 06:00 The Run Home with Scope and Fletch (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261124123000 +0000" stop="20261124144500 +0000" channel="CA| DAZN 2 HD">
+  <programme start="20261124123000 +0000" stop="20261124150000 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">FIFA U-17 World Cup™: Venezuela U17 vs. Romania U17</title>
     <desc lang="en">Watch Soccer action as Romania U17 takes on Venezuela U17
-(Kraj procijenjen.)
 
 Istodobno na DAZN-u (UTC): 10:30 Burayu vs. Nib (DAZN 1); 12:30 Batu vs. Sululta (DAZN 3); 12:30 Costa Rica U17 vs. Republic of Ireland U17 (DAZN 4); 13:00 Mekelle 70 Enderta vs. Addis Ketema (DAZN 1); 13:00 Arsenal U19 vs. Dortmund U19 (DAZN 5); 13:30 Mexico U17 vs. Cameroon U17 (DAZN 6); 14:30 Dominican Republic U17 vs. Chile U17 (DAZN 7)</desc>
     <category lang="en">Soccer</category>
@@ -6092,7 +6091,7 @@ Istodobno na DAZN-u (UTC): 16:00 Paynesville FC vs. LISCR FC (DAZN 1); 16:00 NPA
     <desc lang="en">Watch Soccer action as Bayern München takes on Lille
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126000000 +0000" stop="20261126021500 +0000" channel="CA| DAZN 2 HD">
@@ -6100,7 +6099,7 @@ Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa
     <desc lang="en">Watch Soccer action as SWA Sharks takes on Beaches
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 22:00 Southern @ Nebraska (DAZN 1); 00:00 Northeastern @ Wisconsin (DAZN 3); 01:00 Packers @ Rams (DAZN 1); 01:00 Managua FC vs. CD Walter Ferretti (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 22:00 Southern @ Nebraska (DAZN 1); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4); 00:00 Northeastern @ Wisconsin (DAZN 3); 01:00 Packers @ Rams (DAZN 1); 01:00 Managua FC vs. CD Walter Ferretti (DAZN 4); 01:00 Real Estelí FC vs. Rancho Santana FC (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126040000 +0000" stop="20261126070000 +0000" channel="CA| DAZN 2 HD">
@@ -6128,36 +6127,43 @@ Istodobno na DAZN-u (UTC): 14:00 Jamaica U17 vs. Côte d'Ivoire U17 (DAZN 1); 14
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126193000 +0000" stop="20261126214500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">NCAA Men's Basketball: Rady Children's Invitational: Georgetown vs. Texas</title>
-    <desc lang="en">Watch Basketball action as Georgetown takes on Texas
+    <title lang="en">WC European Qualifiers: Iceland vs. Bosnia-Herzegovina</title>
+    <desc lang="en">Watch Basketball action as Iceland takes on Bosnia-Herzegovina
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7)</desc>
+Istodobno na DAZN-u (UTC): 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261126220000 +0000" stop="20261127001500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">NCAA Men's Basketball: Rady Children's Invitational: Saint Mary's vs. UCLA</title>
-    <desc lang="en">Watch Basketball action as Saint Mary's (CA) takes on UCLA
+    <title lang="en">Primera Division - Nicaragua: ART Municipal Jalapa vs. San Marcos FC</title>
+    <desc lang="en">Watch Soccer action as San Marcos FC takes on Municipal Jalapa
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1); 22:10 Uruguay vs. Canada; 00:00 Diriangén FC vs. Matagalpa FC (DAZN 3); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 5)</desc>
+Istodobno na DAZN-u (UTC): 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1); 21:30 Arkansas @ Michigan State (DAZN 4); 22:00 Rady Children's Invitational: Saint Mary's vs. UCLA (DAZN 3); 22:10 Uruguay vs. Canada; 23:00 Robinhood vs. Flora (DAZN 5); 00:00 Diriangén FC vs. Matagalpa FC (DAZN 4); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 6)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261127004000 +0000" stop="20261127025500 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">WC Americas Qualifiers: Argentina vs. Bahamas</title>
+    <desc lang="en">Watch Basketball action as Argentina takes on Bahamas
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:30 Eagles @ Cowboys (DAZN 1); 23:00 Robinhood vs. Flora (DAZN 5); 00:00 Diriangén FC vs. Matagalpa FC (DAZN 4); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 6); 00:45 Adelaide: Qualifying (DAZN 3); 01:20 Chiefs @ Bills (DAZN 1); 01:40 Panama vs. Puerto Rico (DAZN 5)</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261127004500 +0000" stop="20261127021500 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Adelaide: Qualifying</title>
-    <sub-title lang="en">GT WORLD CHALLENGE AUSTRALIA</sub-title>
-    <desc lang="en">Watch all the latest motorsport action from the GT World Challenge.
+  <programme start="20261127040000 +0000" stop="20261127070000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">WBSC Premier12: Czechia vs. Nicaragua</title>
+    <desc lang="en">Watch all the latest action from the WBSC Premier12.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 21:30 Eagles @ Cowboys (DAZN 4); 00:00 Diriangén FC vs. Matagalpa FC (DAZN 3); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 5); 00:40 Argentina vs. Bahamas (DAZN 1); 01:20 Chiefs @ Bills (DAZN 4)</desc>
-    <category lang="en">Motorsport</category>
+Istodobno na DAZN-u (UTC): 01:20 Chiefs @ Bills (DAZN 1)</desc>
+    <category lang="en">Baseball</category>
   </programme>
   <programme start="20261127103000 +0000" stop="20261127133000 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">WBSC Premier12: China vs. Great Britain</title>
     <desc lang="en">Watch all the latest action from the WBSC Premier12.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 08:45 Grand Final: North Melbourne Kangaroos Women vs. Melbourne Demons Women (DAZN 1); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11)</desc>
+Istodobno na DAZN-u (UTC): 08:45 Grand Final: North Melbourne Kangaroos Women vs. Melbourne Demons Women (DAZN 1); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11)</desc>
     <category lang="en">Baseball</category>
   </programme>
   <programme start="20261127140000 +0000" stop="20261127161500 +0000" channel="CA| DAZN 2 HD">
@@ -6165,23 +6171,23 @@ Istodobno na DAZN-u (UTC): 08:45 Grand Final: North Melbourne Kangaroos Women vs
     <desc lang="en">Watch Soccer action as Tanzania U17 takes on Republic of Ireland U17
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127170000 +0000" stop="20261127180000 +0000" channel="CA| DAZN 2 HD">
-    <title lang="en">Queensberry Promotions: Kabayel vs. Hysa: Weigh-In</title>
-    <desc lang="en">Agit Kabayel and Nelson Hysa tip the scales at the official weigh-in ceremony, as they prepare to wage war for the coveted WBC world heavyweight championship on DAZN.
+  <programme start="20261127161500 +0000" stop="20261127183000 +0000" channel="CA| DAZN 2 HD">
+    <title lang="en">Premier League - Sierra Leone: Western United FC vs. Old Edwardians FC</title>
+    <desc lang="en">Watch Soccer action as Old Edwardians takes on Western United FC
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6)</desc>
-    <category lang="en">Boxing</category>
+Istodobno na DAZN-u (UTC): 13:05 The Crown Prince Cup (DAZN 11); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 18:00 Sweden vs. Hungary (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127190000 +0000" stop="20261127211500 +0000" channel="CA| DAZN 2 HD">
     <title lang="en">WC European Qualifiers: Slovenia vs. Finland</title>
     <desc lang="en">Watch Basketball action as Finland takes on Slovenia
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 6); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 8); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261127230000 +0000" stop="20261128011500 +0000" channel="CA| DAZN 2 HD">
@@ -6189,7 +6195,7 @@ Istodobno na DAZN-u (UTC): 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim v
     <desc lang="en">Watch Basketball action as Indiana takes on Bowling Green
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 20:00 Broncos @ Steelers (DAZN 6); 22:00 Rady Children's Invitational: TBD vs. TBD (DAZN 1); 23:00 Western Kentucky @ Illinois (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 20:00 Broncos @ Steelers (DAZN 8); 22:00 Rady Children's Invitational: TBD vs. TBD (DAZN 1); 23:00 Western Kentucky @ Illinois (DAZN 3)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261123000000 +0000" stop="20261123023000 +0000" channel="CA| DAZN 3 HD">
@@ -6228,10 +6234,9 @@ Istodobno na DAZN-u (UTC): 17:00 The Aftermath (DAZN 7); 19:45 Monza vs. Fiorent
 Istodobno na DAZN-u (UTC): 00:30 Bubali vs. Estrella (DAZN 1); 01:00 Manningcast | MNF with Peyton &amp; Eli: Bengals @ Commanders (DAZN 2); 01:15 Bengals @ Commanders (DAZN 4); 01:15 Bengals @ Commanders (In French) (DAZN 5)</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261124123000 +0000" stop="20261124144500 +0000" channel="CA| DAZN 3 HD">
+  <programme start="20261124123000 +0000" stop="20261124150000 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">Higher League - Ethiopia: Batu vs. Sululta</title>
     <desc lang="en">Watch Soccer action as Sululta Ketema takes on Batu Ketema
-(Kraj procijenjen.)
 
 Istodobno na DAZN-u (UTC): 10:30 Burayu vs. Nib (DAZN 1); 12:30 Venezuela U17 vs. Romania U17 (DAZN 2); 12:30 Costa Rica U17 vs. Republic of Ireland U17 (DAZN 4); 13:00 Mekelle 70 Enderta vs. Addis Ketema (DAZN 1); 13:00 Arsenal U19 vs. Dortmund U19 (DAZN 5); 13:30 Mexico U17 vs. Cameroon U17 (DAZN 6); 14:30 Dominican Republic U17 vs. Chile U17 (DAZN 7)</desc>
     <category lang="en">Soccer</category>
@@ -6297,7 +6302,7 @@ Istodobno na DAZN-u (UTC): 16:00 Paynesville FC vs. LISCR FC (DAZN 1); 16:00 NPA
     <desc lang="en">Watch Soccer action as Viking takes on Atlético de Madrid
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126000000 +0000" stop="20261126021500 +0000" channel="CA| DAZN 3 HD">
@@ -6305,7 +6310,7 @@ Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa
     <desc lang="en">Watch Basketball action as Northeastern takes on Wisconsin
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 22:00 Southern @ Nebraska (DAZN 1); 00:00 Beaches FC vs. SWA Sharks FC (DAZN 2); 01:00 Packers @ Rams (DAZN 1); 01:00 Managua FC vs. CD Walter Ferretti (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 22:00 Southern @ Nebraska (DAZN 1); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4); 00:00 Beaches FC vs. SWA Sharks FC (DAZN 2); 01:00 Packers @ Rams (DAZN 1); 01:00 Managua FC vs. CD Walter Ferretti (DAZN 4); 01:00 Real Estelí FC vs. Rancho Santana FC (DAZN 5)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261126130000 +0000" stop="20261126151500 +0000" channel="CA| DAZN 3 HD">
@@ -6324,53 +6329,69 @@ Istodobno na DAZN-u (UTC): 10:30 Czechia vs. China (DAZN 1); 13:00 New Zealand U
 Istodobno na DAZN-u (UTC): 14:00 Jamaica U17 vs. Côte d'Ivoire U17 (DAZN 1); 14:00 Uzbekistan U17 vs. Italy U17 (DAZN 4); 14:30 Real Maldive FC vs. Foresters FC (DAZN 5); 15:00 China PR U17 vs. Fiji U17 (DAZN 6); 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">UEFA Conference League: Borac Banja Luka vs. Atalanta</title>
-    <desc lang="en">Watch Soccer action as Atalanta takes on Borac Banja Luka
+  <programme start="20261126193000 +0000" stop="20261126214500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">NCAA Men's Basketball: Rady Children's Invitational: Georgetown vs. Texas</title>
+    <desc lang="en">Watch Basketball action as Georgetown takes on Texas
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1)</desc>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261127000000 +0000" stop="20261127021500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Primera Division - Nicaragua: Diriangén FC vs. Matagalpa FC</title>
-    <desc lang="en">Watch Soccer action as Matagalpa takes on Diriangén
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 21:30 Eagles @ Cowboys (DAZN 4); 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1); 22:00 Rady Children's Invitational: Saint Mary's vs. UCLA (DAZN 2); 22:10 Uruguay vs. Canada; 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 5); 00:40 Argentina vs. Bahamas (DAZN 1); 00:45 Adelaide: Qualifying (DAZN 2); 01:20 Chiefs @ Bills (DAZN 4)</desc>
-    <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261127121500 +0000" stop="20261127161500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">The Crown Prince Cup</title>
-    <sub-title lang="en">Riyadh Season Horse Racing</sub-title>
-    <desc lang="en">Don't miss any of the Riyadh Season Horse Racing action on DAZN.
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9)</desc>
-    <category lang="en">Horse Racing</category>
-  </programme>
-  <programme start="20261127170000 +0000" stop="20261127191500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">WC European Qualifiers: Estonia vs. France</title>
-    <desc lang="en">Watch Basketball action as Estonia takes on France
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 2); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7)</desc>
+Istodobno na DAZN-u (UTC): 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6)</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261127193000 +0000" stop="20261127214500 +0000" channel="CA| DAZN 3 HD">
-    <title lang="en">Bundesliga: Werder Bremen vs. Monchengladbach</title>
-    <desc lang="en">Werder Bremen is set to meet Borussia M'gladbach in a Bundesliga 26/27 showdown packed with talent and determination. Can the home side build momentum, or will the visitors seize control? Expect intense battles across the pitch in this compelling clash. Tune in for what promises to be a thrilling encounter!
+  <programme start="20261126220000 +0000" stop="20261127001500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">NCAA Men's Basketball: Rady Children's Invitational: Saint Mary's vs. UCLA</title>
+    <desc lang="en">Watch Basketball action as Saint Mary's (CA) takes on UCLA
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 6); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1); 21:30 Arkansas @ Michigan State (DAZN 4); 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 2); 22:10 Uruguay vs. Canada; 23:00 Robinhood vs. Flora (DAZN 5); 00:00 Diriangén FC vs. Matagalpa FC (DAZN 4); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 6)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20261127004500 +0000" stop="20261127021500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Adelaide: Qualifying</title>
+    <sub-title lang="en">GT WORLD CHALLENGE AUSTRALIA</sub-title>
+    <desc lang="en">Watch all the latest motorsport action from the GT World Challenge.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 21:30 Eagles @ Cowboys (DAZN 1); 23:00 Robinhood vs. Flora (DAZN 5); 00:00 Diriangén FC vs. Matagalpa FC (DAZN 4); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 6); 00:40 Argentina vs. Bahamas (DAZN 2); 01:20 Chiefs @ Bills (DAZN 1); 01:40 Panama vs. Puerto Rico (DAZN 5)</desc>
+    <category lang="en">Motorsport</category>
+  </programme>
+  <programme start="20261127121500 +0000" stop="20261127143000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Premier League - Lebanon: Al Mabarrah SC vs. Akhaa Ahli Aley FC</title>
+    <desc lang="en">Watch Soccer action as Al Mabarra FC takes on Al Akhaa Al Ahli
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2)</desc>
     <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261127143000 +0000" stop="20261127164500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Premier League - Seychelles : PTL Bazar Brothers FC vs. Côte d'Or FC</title>
+    <desc lang="en">Watch Soccer action as PTL Bazar Brothers takes on Cote D'Or FC
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261127170000 +0000" stop="20261127180000 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">Queensberry Promotions: Kabayel vs. Hysa: Weigh-In</title>
+    <desc lang="en">Agit Kabayel and Nelson Hysa tip the scales at the official weigh-in ceremony, as they prepare to wage war for the coveted WBC world heavyweight championship on DAZN.
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:05 The Crown Prince Cup (DAZN 11); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10)</desc>
+    <category lang="en">Boxing</category>
+  </programme>
+  <programme start="20261127190000 +0000" stop="20261127211500 +0000" channel="CA| DAZN 3 HD">
+    <title lang="en">WC European Qualifiers: Netherlands vs. Israel</title>
+    <desc lang="en">Watch Basketball action as Netherlands takes on Israel
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 8); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261127230000 +0000" stop="20261128011500 +0000" channel="CA| DAZN 3 HD">
     <title lang="en">NCAA Men's Basketball: Western Kentucky @ Illinois</title>
     <desc lang="en">Watch Basketball action as Western Kentucky takes on Illinois
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 20:00 Broncos @ Steelers (DAZN 6); 22:00 Rady Children's Invitational: TBD vs. TBD (DAZN 1); 23:00 Bowling Green @ Indiana (DAZN 2)</desc>
+Istodobno na DAZN-u (UTC): 20:00 Broncos @ Steelers (DAZN 8); 22:00 Rady Children's Invitational: TBD vs. TBD (DAZN 1); 23:00 Bowling Green @ Indiana (DAZN 2)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261123010000 +0000" stop="20261123033000 +0000" channel="CA| DAZN 4 HD">
@@ -6409,10 +6430,9 @@ Istodobno na DAZN-u (UTC): 17:00 The Aftermath (DAZN 7); 19:45 Monza vs. Fiorent
 Istodobno na DAZN-u (UTC): 00:30 Bubali vs. Estrella (DAZN 1); 01:00 Manningcast | MNF with Peyton &amp; Eli: Bengals @ Commanders (DAZN 2); 01:00 Winthrop @ Illinois (DAZN 3); 01:15 Bengals @ Commanders (In French) (DAZN 5)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261124123000 +0000" stop="20261124144500 +0000" channel="CA| DAZN 4 HD">
+  <programme start="20261124123000 +0000" stop="20261124150000 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">FIFA U-17 World Cup™: Costa Rica U17 vs. Republic of Ireland U17</title>
     <desc lang="en">Watch Soccer action as Republic of Ireland U17 takes on Costa Rica U17
-(Kraj procijenjen.)
 
 Istodobno na DAZN-u (UTC): 10:30 Burayu vs. Nib (DAZN 1); 12:30 Venezuela U17 vs. Romania U17 (DAZN 2); 12:30 Batu vs. Sululta (DAZN 3); 13:00 Mekelle 70 Enderta vs. Addis Ketema (DAZN 1); 13:00 Arsenal U19 vs. Dortmund U19 (DAZN 5); 13:30 Mexico U17 vs. Cameroon U17 (DAZN 6); 14:30 Dominican Republic U17 vs. Chile U17 (DAZN 7)</desc>
     <category lang="en">Soccer</category>
@@ -6432,14 +6452,6 @@ Istodobno na DAZN-u (UTC): 13:00 Mekelle 70 Enderta vs. Addis Ketema (DAZN 1); 1
 
 Istodobno na DAZN-u (UTC): 17:30 AS Pompier vs. Nouakchott Academie (DAZN 2); 17:45 Bodø/Glimt vs. LASK (DAZN 1); 17:45 Galatasaray vs. Aston Villa (DAZN 3); 19:45 Boston vs. Barrow (DAZN 2); 19:45 Fylde vs. FC Halifax Town (DAZN 5); 19:45 Scunthorpe vs. Gateshead (DAZN 6); 19:45 Altrincham vs. Wealdstone (DAZN 7); 19:45 Eastleigh vs. Yeovil (DAZN 8); 19:45 Brackley vs. Hereford (DAZN 9); 19:45 Hornchurch vs. Sutton (DAZN 10); 19:45 Crawley vs. Barnet (DAZN 11); 19:45 Woking vs. Worthing (DAZN 12); 19:45 Carlisle vs. Tamworth (DAZN 13); 19:45 Forest Green vs. Southend; 19:45 Dagenham &amp; Redbridge vs. Tonbridge; 19:45 King's Lynn vs. Radcliffe; 20:00 Como vs. AEK Athens (DAZN 1); 20:00 Leipzig vs. Lens (DAZN 3); 20:00 Real Madrid vs. PSV; 20:00 Feyenoord vs. Porto</desc>
     <category lang="en">Basketball</category>
-  </programme>
-  <programme start="20261124210000 +0000" stop="20261124231500 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Primera Division - Nicaragua: UNAN Managua vs. CS Sébaco</title>
-    <desc lang="en">Watch Soccer action as Sport Sébaco takes on UNAN Managua
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 19:45 Boston vs. Barrow (DAZN 2); 19:45 Fylde vs. FC Halifax Town (DAZN 5); 19:45 Scunthorpe vs. Gateshead (DAZN 6); 19:45 Altrincham vs. Wealdstone (DAZN 7); 19:45 Eastleigh vs. Yeovil (DAZN 8); 19:45 Brackley vs. Hereford (DAZN 9); 19:45 Hornchurch vs. Sutton (DAZN 10); 19:45 Crawley vs. Barnet (DAZN 11); 19:45 Woking vs. Worthing (DAZN 12); 19:45 Carlisle vs. Tamworth (DAZN 13); 19:45 Forest Green vs. Southend; 19:45 Dagenham &amp; Redbridge vs. Tonbridge; 19:45 King's Lynn vs. Radcliffe; 20:00 Como vs. AEK Athens (DAZN 1); 20:00 Leipzig vs. Lens (DAZN 3); 20:00 Real Madrid vs. PSV; 20:00 Feyenoord vs. Porto; 20:00 Man City vs. Napoli; 20:00 Slovan Bratislava vs. Real Betis; 20:00 Arsenal vs. Dortmund</desc>
-    <category lang="en">Soccer</category>
   </programme>
   <programme start="20261125123000 +0000" stop="20261125144500 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">LFA First Division - Liberia: Shaita FC vs. Freeport FC</title>
@@ -6465,12 +6477,20 @@ Istodobno na DAZN-u (UTC): 13:00 Sporting CP U19 vs. Man United U19 (DAZN 7); 13
 Istodobno na DAZN-u (UTC): 17:45 Slavia Prague vs. Villarreal (DAZN 2); 17:45 Sabah vs. Barcelona (DAZN 3); 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
+  <programme start="20261125220000 +0000" stop="20261126001500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Primera Division - Nicaragua: UNAN Managua vs. CS Sébaco</title>
+    <desc lang="en">Watch Soccer action as Sport Sébaco takes on UNAN Managua
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1); 00:00 Beaches FC vs. SWA Sharks FC (DAZN 2); 00:00 Northeastern @ Wisconsin (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
   <programme start="20261126010000 +0000" stop="20261126031500 +0000" channel="CA| DAZN 4 HD">
     <title lang="en">Primera Division - Nicaragua: Managua FC vs. CD Walter Ferretti</title>
     <desc lang="en">Watch Soccer action as Managua takes on Walter Ferretti
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 00:00 Beaches FC vs. SWA Sharks FC (DAZN 2); 00:00 Northeastern @ Wisconsin (DAZN 3); 01:00 Packers @ Rams (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 00:00 Beaches FC vs. SWA Sharks FC (DAZN 2); 00:00 Northeastern @ Wisconsin (DAZN 3); 01:00 Packers @ Rams (DAZN 1); 01:00 Real Estelí FC vs. Rancho Santana FC (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126140000 +0000" stop="20261126161500 +0000" channel="CA| DAZN 4 HD">
@@ -6494,39 +6514,39 @@ Istodobno na DAZN-u (UTC): 15:00 China PR U17 vs. Fiji U17 (DAZN 6); 16:00 Golde
     <desc lang="en">The Chicago Bears prepares to face The Detroit Lions in an NFL 26/27 showdown packed with intensity. Each squad will look to establish control early and execute their game plan. Can the visitors find success on the road, or will the home side capitalize on their advantage? Tune in for every explosive play!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261126213000 +0000" stop="20261127010000 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">NFL Game Pass: Eagles @ Cowboys</title>
-    <desc lang="en">The Philadelphia Eagles steps up against The Dallas Cowboys in NFL 26/27 action that promises high stakes and intense competition. Can either side gain the crucial advantage in this heated rivalry clash? Tune in to witness every powerful play unfold!
+  <programme start="20261126213000 +0000" stop="20261126234500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">NCAA Men's Basketball: Arkansas @ Michigan State</title>
+    <desc lang="en">Watch Basketball action as Michigan State takes on Arkansas
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1); 22:00 Rady Children's Invitational: Saint Mary's vs. UCLA (DAZN 2); 22:10 Uruguay vs. Canada; 00:00 Diriangén FC vs. Matagalpa FC (DAZN 3)</desc>
-    <category lang="en">Football</category>
+Istodobno na DAZN-u (UTC): 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1); 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 2); 22:00 Rady Children's Invitational: Saint Mary's vs. UCLA (DAZN 3); 22:10 Uruguay vs. Canada; 23:00 Robinhood vs. Flora (DAZN 5)</desc>
+    <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261127012000 +0000" stop="20261127045000 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">NFL Game Pass: Chiefs @ Bills</title>
-    <desc lang="en">Buffalo Bills faces off against Kansas City Chiefs in a pivotal NFL 26/27 showdown. Can the Bills execute their game plan to perfection, or will the Chiefs' dynamic playmakers prove too much to handle? This clash promises edge-of-your-seat drama from start to finish. Tune in for every incredible moment!
+  <programme start="20261127000000 +0000" stop="20261127021500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Primera Division - Nicaragua: Diriangén FC vs. Matagalpa FC</title>
+    <desc lang="en">Watch Soccer action as Matagalpa takes on Diriangén
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 00:00 Diriangén FC vs. Matagalpa FC (DAZN 3); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 5); 00:40 Argentina vs. Bahamas (DAZN 1); 00:45 Adelaide: Qualifying (DAZN 2); 04:00 Czechia vs. Nicaragua (DAZN 1)</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261127121500 +0000" stop="20261127143000 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Premier League - Lebanon: Al Mabarrah SC vs. Akhaa Ahli Aley FC</title>
-    <desc lang="en">Watch Soccer action as Al Mabarra FC takes on Al Akhaa Al Ahli
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2)</desc>
+Istodobno na DAZN-u (UTC): 21:30 Eagles @ Cowboys (DAZN 1); 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 2); 22:00 Rady Children's Invitational: Saint Mary's vs. UCLA (DAZN 3); 22:10 Uruguay vs. Canada; 23:00 Robinhood vs. Flora (DAZN 5); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 6); 00:40 Argentina vs. Bahamas (DAZN 2); 00:45 Adelaide: Qualifying (DAZN 3); 01:20 Chiefs @ Bills (DAZN 1); 01:40 Panama vs. Puerto Rico (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127143000 +0000" stop="20261127164500 +0000" channel="CA| DAZN 4 HD">
-    <title lang="en">Premier League - Seychelles : PTL Bazar Brothers FC vs. Côte d'Or FC</title>
-    <desc lang="en">Watch Soccer action as PTL Bazar Brothers takes on Cote D'Or FC
+  <programme start="20261127121500 +0000" stop="20261127143000 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">Premier League - Lebanon: Tadamon Sour SC vs. Al Ahed FC</title>
+    <desc lang="en">Watch Soccer action as Al Ahed FC takes on Tadamon Sour SC
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9)</desc>
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261127150000 +0000" stop="20261127171500 +0000" channel="CA| DAZN 4 HD">
+    <title lang="en">FIFA U-17 World Cup™: Algeria U17 vs. Dominican Republic U17</title>
+    <desc lang="en">Watch Soccer action as Algeria U17 takes on Dominican Republic U17
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:00 Estonia vs. France (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127173000 +0000" stop="20261127194500 +0000" channel="CA| DAZN 4 HD">
@@ -6534,7 +6554,7 @@ Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 12:30 KF Tirana 
     <desc lang="en">Watch Soccer action as Nürnberg takes on Heidenheim
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 2); 17:00 Estonia vs. France (DAZN 3); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:00 Estonia vs. France (DAZN 9); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127194500 +0000" stop="20261127220000 +0000" channel="CA| DAZN 4 HD">
@@ -6542,7 +6562,7 @@ Istodobno na DAZN-u (UTC): 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Frid
     <desc lang="en">Venezia lines up against Bologna in a crucial Serie A encounter that could shape their campaign. Both sides bring attacking flair and tactical depth to this matchup. Can the home side secure vital points, or will the visitors claim victory? Tune in for what promises to be compelling action!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 6); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 8); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261123010000 +0000" stop="20261123033000 +0000" channel="CA| DAZN 5 HD">
@@ -6573,10 +6593,9 @@ Istodobno na DAZN-u (UTC): 13:00 Good Morning Football (DAZN 6); 13:30 Senegal U
 Istodobno na DAZN-u (UTC): 00:30 Bubali vs. Estrella (DAZN 1); 01:00 Manningcast | MNF with Peyton &amp; Eli: Bengals @ Commanders (DAZN 2); 01:00 Winthrop @ Illinois (DAZN 3); 01:15 Bengals @ Commanders (DAZN 4)</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261124130000 +0000" stop="20261124151500 +0000" channel="CA| DAZN 5 HD">
+  <programme start="20261124130000 +0000" stop="20261124153000 +0000" channel="CA| DAZN 5 HD">
     <title lang="en">UEFA Youth League: Arsenal U19 vs. Dortmund U19</title>
     <desc lang="en">Watch Soccer action as Borussia Dortmund U19 takes on Arsenal U19
-(Kraj procijenjen.)
 
 Istodobno na DAZN-u (UTC): 12:30 Venezuela U17 vs. Romania U17 (DAZN 2); 12:30 Batu vs. Sululta (DAZN 3); 12:30 Costa Rica U17 vs. Republic of Ireland U17 (DAZN 4); 13:00 Mekelle 70 Enderta vs. Addis Ketema (DAZN 1); 13:30 Mexico U17 vs. Cameroon U17 (DAZN 6); 14:30 Dominican Republic U17 vs. Chile U17 (DAZN 7); 15:00 Feyenoord U19 vs. Porto U19 (DAZN 2); 15:00 Shashemene vs. Bishoftu (DAZN 3); 15:00 Brazil U17 vs. Tanzania U17 (DAZN 4)</desc>
     <category lang="en">Soccer</category>
@@ -6621,6 +6640,14 @@ Istodobno na DAZN-u (UTC): 13:00 Sporting CP U19 vs. Man United U19 (DAZN 7); 13
 Istodobno na DAZN-u (UTC): 17:45 Slavia Prague vs. Villarreal (DAZN 2); 17:45 Sabah vs. Barcelona (DAZN 3); 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13)</desc>
     <category lang="en">Soccer</category>
   </programme>
+  <programme start="20261126010000 +0000" stop="20261126031500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Primera Division - Nicaragua: Real Estelí FC vs. Rancho Santana FC</title>
+    <desc lang="en">Watch Soccer action as Real Estelí takes on Rancho Santana
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 00:00 Beaches FC vs. SWA Sharks FC (DAZN 2); 00:00 Northeastern @ Wisconsin (DAZN 3); 01:00 Packers @ Rams (DAZN 1); 01:00 Managua FC vs. CD Walter Ferretti (DAZN 4)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
   <programme start="20261126143000 +0000" stop="20261126164500 +0000" channel="CA| DAZN 5 HD">
     <title lang="en">Premier League - Seychelles : Real Maldive FC vs. Foresters FC</title>
     <desc lang="en">Watch Soccer action as Real Maldives FC takes on Foresters
@@ -6634,39 +6661,47 @@ Istodobno na DAZN-u (UTC): 13:00 New Zealand U17 vs. Belgium U17 (DAZN 2); 13:00
     <desc lang="en">Oklahoma challenges Purdue in a crucial NCAA Division I showdown. Both programs bring talent and determination to this Fort Myers Tip-Off clash. Can Oklahoma execute their game plan, or will Purdue control the tempo? Follow NCAA Division I on DAZN!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:00 China PR U17 vs. Fiji U17 (DAZN 6); 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia</desc>
+Istodobno na DAZN-u (UTC): 15:00 China PR U17 vs. Fiji U17 (DAZN 6); 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">UEFA Europa League: Juventus vs. Omonia</title>
-    <desc lang="en">Watch Soccer action as Juventus takes on Omonia Nicosia
+    <title lang="en">UEFA Conference League: Borac Banja Luka vs. Atalanta</title>
+    <desc lang="en">Watch Soccer action as Atalanta takes on Borac Banja Luka
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127000000 +0000" stop="20261127021500 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">NCAA Men's Basketball: Fort Myers Tip-Off: DePaul vs. Pittsburgh</title>
-    <desc lang="en">Pittsburgh is set to meet DePaul in this NCAA Division I showdown as both programs look to build momentum early in the season. The matchup features contrasting styles that could produce an entertaining battle on the hardwood. Can either side seize control and claim a statement victory? Tune in to witness every basket unfold!
+  <programme start="20261126230000 +0000" stop="20261127011500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Major League - Suriname: Robinhood vs. Flora</title>
+    <desc lang="en">Watch Soccer action as Flora takes on Robinhood
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 21:30 Eagles @ Cowboys (DAZN 4); 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1); 22:00 Rady Children's Invitational: Saint Mary's vs. UCLA (DAZN 2); 22:10 Uruguay vs. Canada; 00:00 Diriangén FC vs. Matagalpa FC (DAZN 3); 00:40 Argentina vs. Bahamas (DAZN 1); 00:45 Adelaide: Qualifying (DAZN 2); 01:20 Chiefs @ Bills (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 21:30 Eagles @ Cowboys (DAZN 1); 21:30 Arkansas @ Michigan State (DAZN 4); 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 2); 22:00 Rady Children's Invitational: Saint Mary's vs. UCLA (DAZN 3); 22:10 Uruguay vs. Canada; 00:00 Diriangén FC vs. Matagalpa FC (DAZN 4); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 6); 00:40 Argentina vs. Bahamas (DAZN 2); 00:45 Adelaide: Qualifying (DAZN 3)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261127014000 +0000" stop="20261127035500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">WC Americas Qualifiers: Panama vs. Puerto Rico</title>
+    <desc lang="en">Watch Basketball action as Panama takes on Puerto Rico
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 00:00 Diriangén FC vs. Matagalpa FC (DAZN 4); 00:00 Fort Myers Tip-Off: DePaul vs. Pittsburgh (DAZN 6); 00:40 Argentina vs. Bahamas (DAZN 2); 00:45 Adelaide: Qualifying (DAZN 3); 01:20 Chiefs @ Bills (DAZN 1)</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261127121500 +0000" stop="20261127143000 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">Premier League - Lebanon: Tadamon Sour SC vs. Al Ahed FC</title>
-    <desc lang="en">Watch Soccer action as Al Ahed FC takes on Tadamon Sour SC
+  <programme start="20261127123000 +0000" stop="20261127144500 +0000" channel="CA| DAZN 5 HD">
+    <title lang="en">Superliga - Albania : KF Tirana vs. KF Skënderbeu</title>
+    <desc lang="en">Watch Soccer action as Tirana takes on Skënderbeu Korçë
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2)</desc>
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127150000 +0000" stop="20261127171500 +0000" channel="CA| DAZN 5 HD">
-    <title lang="en">FIFA U-17 World Cup™: Algeria U17 vs. Dominican Republic U17</title>
-    <desc lang="en">Watch Soccer action as Algeria U17 takes on Dominican Republic U17
+    <title lang="en">FIFA U-17 World Cup™: Montenegro U17 vs. Chile U17</title>
+    <desc lang="en">Watch Soccer action as Montenegro U17 takes on Chile U17
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 2); 17:00 Estonia vs. France (DAZN 3)</desc>
+Istodobno na DAZN-u (UTC): 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:00 Estonia vs. France (DAZN 9)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127173000 +0000" stop="20261127194500 +0000" channel="CA| DAZN 5 HD">
@@ -6674,7 +6709,7 @@ Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 13:00 Colombia U
     <desc lang="en">Watch Basketball action as Germany takes on Latvia
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 2); 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 FC Dinamo vs. FK Partizani (DAZN 6); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261127194500 +0000" stop="20261127220000 +0000" channel="CA| DAZN 5 HD">
@@ -6682,7 +6717,7 @@ Istodobno na DAZN-u (UTC): 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Frid
     <desc lang="en">Watch Soccer action as Wealdstone takes on Scunthorpe United
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8); 19:45 Venezia vs. Bologna (DAZN 4); 20:00 Broncos @ Steelers (DAZN 6); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7); 19:45 Venezia vs. Bologna (DAZN 4); 20:00 Broncos @ Steelers (DAZN 8); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261123012000 +0000" stop="20261123042731 +0000" channel="CA| DAZN 6 HD">
@@ -6760,48 +6795,49 @@ Istodobno na DAZN-u (UTC): 13:00 New Zealand U17 vs. Belgium U17 (DAZN 2); 13:00
     <desc lang="en">Watch Soccer action as Olympiakos Piraeus takes on Milan
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain</desc>
+Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">UEFA Europa League: Sparta Prague vs. AZ</title>
-    <desc lang="en">Watch Soccer action as AZ takes on Sparta Praha
+    <title lang="en">UEFA Europa League: Juventus vs. Omonia</title>
+    <desc lang="en">Watch Soccer action as Juventus takes on Omonia Nicosia
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127123000 +0000" stop="20261127144500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">Superliga - Albania : KF Tirana vs. KF Skënderbeu</title>
-    <desc lang="en">Watch Soccer action as Tirana takes on Skënderbeu Korçë
+  <programme start="20261127000000 +0000" stop="20261127021500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">NCAA Men's Basketball: Fort Myers Tip-Off: DePaul vs. Pittsburgh</title>
+    <desc lang="en">Pittsburgh is set to meet DePaul in this NCAA Division I showdown as both programs look to build momentum early in the season. The matchup features contrasting styles that could produce an entertaining battle on the hardwood. Can either side seize control and claim a statement victory? Tune in to witness every basket unfold!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 21:30 Eagles @ Cowboys (DAZN 1); 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 2); 22:00 Rady Children's Invitational: Saint Mary's vs. UCLA (DAZN 3); 22:10 Uruguay vs. Canada; 23:00 Robinhood vs. Flora (DAZN 5); 00:00 Diriangén FC vs. Matagalpa FC (DAZN 4); 00:40 Argentina vs. Bahamas (DAZN 2); 00:45 Adelaide: Qualifying (DAZN 3); 01:20 Chiefs @ Bills (DAZN 1); 01:40 Panama vs. Puerto Rico (DAZN 5)</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20261127124000 +0000" stop="20261127145500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Sultan Cup - Oman: Sohar vs. Al Mudhaibi</title>
+    <desc lang="en">Watch Soccer action as Al Mudhaibi takes on Sohar
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127150000 +0000" stop="20261127171500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">FIFA U-17 World Cup™: Montenegro U17 vs. Chile U17</title>
-    <desc lang="en">Watch Soccer action as Montenegro U17 takes on Chile U17
+  <programme start="20261127154500 +0000" stop="20261127174500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Freestyle Friday #22</title>
+    <sub-title lang="en">Freestyle Friday Championship</sub-title>
+    <desc lang="en">Watch Freestyle Friday as the latest round of chess action gets underway on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 2); 17:00 Estonia vs. France (DAZN 3)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10)</desc>
+    <category lang="en">Chess</category>
   </programme>
-  <programme start="20261127173000 +0000" stop="20261127194500 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">Superliga - Albania : FC Dinamo vs. FK Partizani</title>
-    <desc lang="en">Watch Soccer action as Partizani Tirana takes on Dinamo City
+  <programme start="20261127193000 +0000" stop="20261127214500 +0000" channel="CA| DAZN 6 HD">
+    <title lang="en">Bundesliga: Werder Bremen vs. Monchengladbach</title>
+    <desc lang="en">Werder Bremen is set to meet Borussia M'gladbach in a Bundesliga 26/27 showdown packed with talent and determination. Can the home side build momentum, or will the visitors seize control? Expect intense battles across the pitch in this compelling clash. Tune in for what promises to be a thrilling encounter!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 2); 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8)</desc>
+Istodobno na DAZN-u (UTC): 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 8); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
     <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261127200000 +0000" stop="20261127233000 +0000" channel="CA| DAZN 6 HD">
-    <title lang="en">NFL Game Pass: Broncos @ Steelers</title>
-    <desc lang="en">The Pittsburgh Steelers steps up against The Denver Broncos in NFL 26/27 action. Can the Steelers protect their ground, or will the Broncos find a way to claim victory? This matchup promises hard-hitting plays and memorable moments throughout. Tune in for every thrilling second!
-(Kraj procijenjen.)
-
-Istodobno na DAZN-u (UTC): 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10); 22:00 Rady Children's Invitational: TBD vs. TBD (DAZN 1); 23:00 Bowling Green @ Indiana (DAZN 2); 23:00 Western Kentucky @ Illinois (DAZN 3)</desc>
-    <category lang="en">Football</category>
   </programme>
   <programme start="20261123012000 +0000" stop="20261123042650 +0000" channel="CA| DAZN 7 HD">
     <title lang="en">NFL Game Pass: Vikings vs. 49ers (In French)</title>
@@ -6874,36 +6910,35 @@ Istodobno na DAZN-u (UTC): 14:00 Jamaica U17 vs. Côte d'Ivoire U17 (DAZN 1); 14
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">UEFA Europa League: Sunderland vs. Jagiellonia Białystok</title>
-    <desc lang="en">Watch Soccer action as Sunderland takes on Jagiellonia Białystok
+    <title lang="en">UEFA Europa League: Sparta Prague vs. AZ</title>
+    <desc lang="en">Watch Soccer action as AZ takes on Sparta Praha
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127124000 +0000" stop="20261127145500 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">Sultan Cup - Oman: Sohar vs. Al Mudhaibi</title>
-    <desc lang="en">Watch Soccer action as Al Mudhaibi takes on Sohar
+  <programme start="20261127124500 +0000" stop="20261127150000 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">Division 1 - UAE: Gulf United vs. Palm City</title>
+    <desc lang="en">Watch Soccer action as FC Palm City takes on Gulf United
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127154500 +0000" stop="20261127174500 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">Freestyle Friday #22</title>
-    <sub-title lang="en">Freestyle Friday Championship</sub-title>
-    <desc lang="en">Watch Freestyle Friday as the latest round of chess action gets underway on DAZN.
+  <programme start="20261127160000 +0000" stop="20261127181500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">FIFA U-17 World Cup™: Venezuela U17 vs. Mexico U17</title>
+    <desc lang="en">Watch Soccer action as Mexico U17 takes on Venezuela U17
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6); 15:40 Dhofar vs. Fanja (DAZN 1); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 2); 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6)</desc>
-    <category lang="en">Chess</category>
+Istodobno na DAZN-u (UTC): 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 18:00 Sweden vs. Hungary (DAZN 1)</desc>
+    <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127190000 +0000" stop="20261127211500 +0000" channel="CA| DAZN 7 HD">
-    <title lang="en">WC European Qualifiers: Netherlands vs. Israel</title>
-    <desc lang="en">Watch Basketball action as Netherlands takes on Israel
+  <programme start="20261127193000 +0000" stop="20261127214500 +0000" channel="CA| DAZN 7 HD">
+    <title lang="en">NCAA Men's Basketball: Rady Children's Invitational: TBD vs. TBD</title>
+    <desc lang="en">DAZN ONLY - TBD v TBD (Rady Children's Invitational)
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 6); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
+Istodobno na DAZN-u (UTC): 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 8); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
     <category lang="en">Basketball</category>
   </programme>
   <programme start="20261124194500 +0000" stop="20261124220000 +0000" channel="CA| DAZN 8 HD">
@@ -6935,7 +6970,7 @@ Istodobno na DAZN-u (UTC): 14:30 Panama U17 vs. Egypt U17 (DAZN 2); 14:30 Greece
     <desc lang="en">Watch Soccer action as Fenerbahçe takes on Shakhtar Donetsk
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126174500 +0000" stop="20261126200000 +0000" channel="CA| DAZN 8 HD">
@@ -6943,40 +6978,40 @@ Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa
     <desc lang="en">Watch Soccer action as Lech Poznań takes on Union Saint-Gilloise
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain</desc>
+Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">UEFA Europa League: OFI vs. Anderlecht</title>
-    <desc lang="en">Watch Soccer action as Anderlecht takes on OFI Crete
+    <title lang="en">UEFA Europa League: Sunderland vs. Jagiellonia Białystok</title>
+    <desc lang="en">Watch Soccer action as Sunderland takes on Jagiellonia Białystok
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127124500 +0000" stop="20261127150000 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">Division 1 - UAE: Gulf United vs. Palm City</title>
-    <desc lang="en">Watch Soccer action as FC Palm City takes on Gulf United
+    <title lang="en">Division 1 - UAE: Dubai City vs. Fujairah</title>
+    <desc lang="en">Watch Soccer action as Dubai City takes on Fujairah
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127160000 +0000" stop="20261127181500 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">FIFA U-17 World Cup™: Venezuela U17 vs. Mexico U17</title>
-    <desc lang="en">Watch Soccer action as Mexico U17 takes on Venezuela U17
+    <title lang="en">FIFA U-17 World Cup™: Romania U17 vs. Cameroon U17</title>
+    <desc lang="en">Watch Soccer action as Romania U17 takes on Cameroon U17
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 9); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 2); 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6); 18:00 Sweden vs. Hungary (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 18:00 Sweden vs. Hungary (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127193000 +0000" stop="20261127214500 +0000" channel="CA| DAZN 8 HD">
-    <title lang="en">NCAA Men's Basketball: Rady Children's Invitational: TBD vs. TBD</title>
-    <desc lang="en">DAZN ONLY - TBD v TBD (Rady Children's Invitational)
+  <programme start="20261127200000 +0000" stop="20261127233000 +0000" channel="CA| DAZN 8 HD">
+    <title lang="en">NFL Game Pass: Broncos @ Steelers</title>
+    <desc lang="en">The Pittsburgh Steelers steps up against The Denver Broncos in NFL 26/27 action. Can the Steelers protect their ground, or will the Broncos find a way to claim victory? This matchup promises hard-hitting plays and memorable moments throughout. Tune in for every thrilling second!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 6); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10)</desc>
-    <category lang="en">Basketball</category>
+Istodobno na DAZN-u (UTC): 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 20:00 Southampton vs. Middlesbrough (DAZN 10); 22:00 Rady Children's Invitational: TBD vs. TBD (DAZN 1); 23:00 Bowling Green @ Indiana (DAZN 2); 23:00 Western Kentucky @ Illinois (DAZN 3)</desc>
+    <category lang="en">Football</category>
   </programme>
   <programme start="20261124194500 +0000" stop="20261124220000 +0000" channel="CA| DAZN 9 HD">
     <title lang="en">Enterprise National League North &amp; South: Brackley vs. Hereford</title>
@@ -6999,7 +7034,7 @@ Istodobno na DAZN-u (UTC): 12:30 Uganda U17 vs. New Caledonia U17 (DAZN 3); 12:3
     <desc lang="en">Watch Soccer action as Roma takes on PSG
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126174500 +0000" stop="20261126200000 +0000" channel="CA| DAZN 9 HD">
@@ -7007,39 +7042,39 @@ Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa
     <desc lang="en">Watch Soccer action as AFC Bournemouth takes on Celta de Vigo
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain</desc>
+Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="CA| DAZN 9 HD">
-    <title lang="en">UEFA Europa League: Torreense vs. Celtic</title>
-    <desc lang="en">Watch Soccer action as Torreense takes on Celtic
+    <title lang="en">UEFA Europa League: OFI vs. Anderlecht</title>
+    <desc lang="en">Watch Soccer action as Anderlecht takes on OFI Crete
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127124500 +0000" stop="20261127150000 +0000" channel="CA| DAZN 9 HD">
-    <title lang="en">Division 1 - UAE: Dubai City vs. Fujairah</title>
-    <desc lang="en">Watch Soccer action as Dubai City takes on Fujairah
+  <programme start="20261127130000 +0000" stop="20261127151500 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">Championship League - Tanzania : Rhino Rangers FC vs. Transit Camp FC</title>
+    <desc lang="en">Watch Soccer action as Rhino Rangers takes on Transit Camp
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 10:45 Light Stars FC vs. Rovers FC (DAZN 1); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4)</desc>
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127160000 +0000" stop="20261127181500 +0000" channel="CA| DAZN 9 HD">
-    <title lang="en">FIFA U-17 World Cup™: Romania U17 vs. Cameroon U17</title>
-    <desc lang="en">Watch Soccer action as Romania U17 takes on Cameroon U17
+  <programme start="20261127170000 +0000" stop="20261127191500 +0000" channel="CA| DAZN 9 HD">
+    <title lang="en">WC European Qualifiers: Estonia vs. France</title>
+    <desc lang="en">Watch Basketball action as Estonia takes on France
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 12:15 The Crown Prince Cup (DAZN 3); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 7); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 8); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 2); 17:00 Estonia vs. France (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 6); 18:00 Sweden vs. Hungary (DAZN 1)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 13:05 The Crown Prince Cup (DAZN 11); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 17:30 FC Dinamo vs. FK Partizani (DAZN 10); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3)</desc>
+    <category lang="en">Basketball</category>
   </programme>
   <programme start="20261127200000 +0000" stop="20261127221500 +0000" channel="CA| DAZN 9 HD">
     <title lang="en">Premier League: Nottingham Forest vs. Chelsea</title>
     <desc lang="en">Watch the Premier League through Fubo Sports on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 6); 20:00 Southampton vs. Middlesbrough (DAZN 10); 22:00 Rady Children's Invitational: TBD vs. TBD (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 8); 20:00 Southampton vs. Middlesbrough (DAZN 10); 22:00 Rady Children's Invitational: TBD vs. TBD (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261124194500 +0000" stop="20261124220000 +0000" channel="CA| DAZN 10 HD">
@@ -7063,7 +7098,7 @@ Istodobno na DAZN-u (UTC): 14:30 Panama U17 vs. Egypt U17 (DAZN 2); 14:30 Greece
     <desc lang="en">Watch Soccer action as Liverpool takes on Club Brugge
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126174500 +0000" stop="20261126200000 +0000" channel="CA| DAZN 10 HD">
@@ -7071,23 +7106,31 @@ Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa
     <desc lang="en">Benfica journeys to face Viktoria Plzeň in this UEFA Europa League showdown. The visitors bring attacking flair while the home side looks to capitalize on familiar surroundings. Can Viktoria Plzeň contain Benfica's offensive threats, or will the Portuguese side claim all three points? Tune in for what promises to be a captivating European clash!
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain</desc>
+Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="CA| DAZN 10 HD">
-    <title lang="en">UEFA Europa League: Hoffenheim vs. Sturm Graz</title>
-    <desc lang="en">Watch Soccer action as Sturm Graz takes on Hoffenheim
+    <title lang="en">UEFA Europa League: Torreense vs. Celtic</title>
+    <desc lang="en">Watch Soccer action as Torreense takes on Celtic
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127130000 +0000" stop="20261127151500 +0000" channel="CA| DAZN 10 HD">
-    <title lang="en">Championship League - Tanzania : Rhino Rangers FC vs. Transit Camp FC</title>
-    <desc lang="en">Watch Soccer action as Rhino Rangers takes on Transit Camp
+    <title lang="en">FIFA U-17 World Cup™: Honduras U17 vs. Japan U17</title>
+    <desc lang="en">Watch Soccer action as Honduras U17 takes on Japan U17
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Honduras U17 vs. Japan U17 (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6)</desc>
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:05 The Crown Prince Cup (DAZN 11); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5)</desc>
+    <category lang="en">Soccer</category>
+  </programme>
+  <programme start="20261127173000 +0000" stop="20261127194500 +0000" channel="CA| DAZN 10 HD">
+    <title lang="en">Superliga - Albania : FC Dinamo vs. FK Partizani</title>
+    <desc lang="en">Watch Soccer action as Partizani Tirana takes on Dinamo City
+(Kraj procijenjen.)
+
+Istodobno na DAZN-u (UTC): 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3); 17:00 Estonia vs. France (DAZN 9); 17:30 Heidenheim vs. Nürnberg (DAZN 4); 17:30 Latvia vs. Germany (DAZN 5); 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261127200000 +0000" stop="20261127221500 +0000" channel="CA| DAZN 10 HD">
@@ -7095,7 +7138,7 @@ Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 The Cro
     <desc lang="en">Watch Soccer action as Middlesbrough takes on Southampton
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 7); 19:30 Werder Bremen vs. Monchengladbach (DAZN 3); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 8); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 6); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 22:00 Rady Children's Invitational: TBD vs. TBD (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Sweden vs. Hungary (DAZN 1); 19:00 Slovenia vs. Finland (DAZN 2); 19:00 Netherlands vs. Israel (DAZN 3); 19:30 Werder Bremen vs. Monchengladbach (DAZN 6); 19:30 Rady Children's Invitational: TBD vs. TBD (DAZN 7); 19:45 Venezia vs. Bologna (DAZN 4); 19:45 Scunthorpe vs. Wealdstone (DAZN 5); 20:00 Broncos @ Steelers (DAZN 8); 20:00 Nottingham Forest vs. Chelsea (DAZN 9); 22:00 Rady Children's Invitational: TBD vs. TBD (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261124194500 +0000" stop="20261124220000 +0000" channel="CA| DAZN 11 HD">
@@ -7119,7 +7162,7 @@ Istodobno na DAZN-u (UTC): 14:30 Panama U17 vs. Egypt U17 (DAZN 2); 14:30 Greece
     <desc lang="en">Watch Soccer action as Stuttgart takes on Internazionale
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Sporting CP vs. Man United (DAZN 12); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126174500 +0000" stop="20261126200000 +0000" channel="CA| DAZN 11 HD">
@@ -7127,24 +7170,25 @@ Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa
     <desc lang="en">Watch Soccer action as Beşiktaş takes on Hapoel Be'er Sheva
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain</desc>
+Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="CA| DAZN 11 HD">
-    <title lang="en">UEFA Europa League: Ferencváros vs. Celje</title>
-    <desc lang="en">Watch Soccer action as Celje takes on Ferencváros
+    <title lang="en">UEFA Europa League: Hoffenheim vs. Sturm Graz</title>
+    <desc lang="en">Watch Soccer action as Sturm Graz takes on Hoffenheim
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
-  <programme start="20261127130000 +0000" stop="20261127151500 +0000" channel="CA| DAZN 11 HD">
-    <title lang="en">FIFA U-17 World Cup™: Honduras U17 vs. Japan U17</title>
-    <desc lang="en">Watch Soccer action as Honduras U17 takes on Japan U17
+  <programme start="20261127130500 +0000" stop="20261127170500 +0000" channel="CA| DAZN 11 HD">
+    <title lang="en">The Crown Prince Cup</title>
+    <sub-title lang="en">Riyadh Season Horse Racing</sub-title>
+    <desc lang="en">Don't miss any of the Riyadh Season Horse Racing action on DAZN.
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 The Crown Prince Cup (DAZN 3); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 4); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 5); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 6); 12:40 Sohar vs. Al Mudhaibi (DAZN 7); 12:45 Gulf United vs. Palm City (DAZN 8); 12:45 Dubai City vs. Fujairah (DAZN 9); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 10); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 4); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 5); 15:00 Montenegro U17 vs. Chile U17 (DAZN 6)</desc>
-    <category lang="en">Soccer</category>
+Istodobno na DAZN-u (UTC): 10:30 China vs. Great Britain (DAZN 2); 12:15 Al Mabarrah SC vs. Akhaa Ahli Aley FC (DAZN 3); 12:15 Tadamon Sour SC vs. Al Ahed FC (DAZN 4); 12:30 KF Tirana vs. KF Skënderbeu (DAZN 5); 12:40 Sohar vs. Al Mudhaibi (DAZN 6); 12:45 Gulf United vs. Palm City (DAZN 7); 12:45 Dubai City vs. Fujairah (DAZN 8); 13:00 Colombia U17 vs. Serbia U17 (DAZN 1); 13:00 Rhino Rangers FC vs. Transit Camp FC (DAZN 9); 13:00 Honduras U17 vs. Japan U17 (DAZN 10); 14:00 Republic of Ireland U17 vs. Tanzania U17 (DAZN 2); 14:30 PTL Bazar Brothers FC vs. Côte d'Or FC (DAZN 3); 15:00 Algeria U17 vs. Dominican Republic U17 (DAZN 4); 15:00 Montenegro U17 vs. Chile U17 (DAZN 5); 15:40 Dhofar vs. Fanja (DAZN 1); 15:45 Freestyle Friday #22 (DAZN 6); 16:00 Venezuela U17 vs. Mexico U17 (DAZN 7); 16:00 Romania U17 vs. Cameroon U17 (DAZN 8); 16:15 Western United FC vs. Old Edwardians FC (DAZN 2); 17:00 Kabayel vs. Hysa: Weigh-In (DAZN 3)</desc>
+    <category lang="en">Horse Racing</category>
   </programme>
   <programme start="20261124194500 +0000" stop="20261124220000 +0000" channel="CA| DAZN 12 HD">
     <title lang="en">Enterprise National League: Woking vs. Worthing</title>
@@ -7167,7 +7211,7 @@ Istodobno na DAZN-u (UTC): 14:30 Panama U17 vs. Egypt U17 (DAZN 2); 14:30 Greece
     <desc lang="en">Watch Soccer action as Sporting CP takes on Manchester United
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Stoke vs. Millwall (DAZN 13); 22:00 Southern @ Nebraska (DAZN 1); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126174500 +0000" stop="20261126200000 +0000" channel="CA| DAZN 12 HD">
@@ -7175,15 +7219,15 @@ Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa
     <desc lang="en">Watch Soccer action as Bayer Leverkusen takes on Dinamo Zagreb
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain</desc>
+Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Ajax vs. Thun (DAZN 13); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="CA| DAZN 12 HD">
-    <title lang="en">UEFA Europa League: Lyon vs. Lillestrøm</title>
-    <desc lang="en">Watch Soccer action as Olympique Lyonnais takes on Lillestroem SK
+    <title lang="en">UEFA Europa League: Ferencváros vs. Celje</title>
+    <desc lang="en">Watch Soccer action as Celje takes on Ferencváros
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Freiburg vs. Twente (DAZN 13); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 13); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261124194500 +0000" stop="20261124220000 +0000" channel="CA| DAZN 13 HD">
@@ -7199,7 +7243,7 @@ Istodobno na DAZN-u (UTC): 17:45 Bodø/Glimt vs. LASK (DAZN 1); 17:45 Galatasara
     <desc lang="en">Watch Soccer action as Millwall takes on Stoke City
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 22:00 Southern @ Nebraska (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa SC vs. Nejmeh SC (DAZN 4); 19:45 Harrogate vs. Kidderminster (DAZN 5); 19:45 Hartlepool vs. Solihull Moors (DAZN 6); 19:45 Folgore vs. Virtus (DAZN 7); 20:00 Lille vs. Bayern Munich (DAZN 2); 20:00 Atlético Madrid vs. Viking (DAZN 3); 20:00 Shakhtar Donetsk vs. Fenerbahçe (DAZN 8); 20:00 PSG vs. Roma (DAZN 9); 20:00 Club Brugge vs. Liverpool (DAZN 10); 20:00 Inter vs. Stuttgart (DAZN 11); 20:00 Sporting CP vs. Man United (DAZN 12); 22:00 Southern @ Nebraska (DAZN 1); 22:00 UNAN Managua vs. CS Sébaco (DAZN 4)</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126174500 +0000" stop="20261126200000 +0000" channel="CA| DAZN 13 HD">
@@ -7207,20 +7251,16 @@ Istodobno na DAZN-u (UTC): 19:00 Boreham Wood vs. Aldershot (DAZN 1); 19:30 Safa
     <desc lang="en">Watch Soccer action as FC Thun takes on Ajax
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain</desc>
+Istodobno na DAZN-u (UTC): 16:00 Golden Dream FC vs. LPRC Oilers (DAZN 2); 16:00 Tajikistan U17 vs. Senegal U17 (DAZN 3); 16:00 Croatia U17 vs. Cuba U17 (DAZN 7); 16:30 Lithuania vs. Serbia (DAZN 1); 17:00 Kabayel vs. Hysa: Press Conference (DAZN 4); 17:00 Fort Myers Tip-Off: Oklahoma vs. Purdue (DAZN 5); 17:45 Olympiacos vs. Milan (DAZN 6); 17:45 Union Saint-Gilloise vs. Lech Poznań (DAZN 8); 17:45 Celta Vigo vs. Bournemouth (DAZN 9); 17:45 Viktoria Plzeň vs. Benfica (DAZN 10); 17:45 Beşiktaş vs. Hapoel Be'er Sheva (DAZN 11); 17:45 Dinamo Zagreb vs. Leverkusen (DAZN 12); 17:45 Marseille vs. Levski Sofia; 17:45 Salzburg vs. Ararat-Armenia; 17:45 Pafos vs. Midtjylland; 17:45 Hearts vs. Monaco; 17:45 Brighton vs. Craiova; 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia</desc>
     <category lang="en">Soccer</category>
   </programme>
   <programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="CA| DAZN 13 HD">
-    <title lang="en">UEFA Conference League: Freiburg vs. Twente</title>
-    <desc lang="en">Watch Soccer action as Freiburg takes on Twente
+    <title lang="en">UEFA Europa League: Lyon vs. Lillestrøm</title>
+    <desc lang="en">Watch Soccer action as Olympique Lyonnais takes on Lillestroem SK
 (Kraj procijenjen.)
 
-Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 1); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 2); 20:00 Borac Banja Luka vs. Atalanta (DAZN 3); 20:00 Juventus vs. Omonia (DAZN 5); 20:00 Sparta Prague vs. AZ (DAZN 6); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 7); 20:00 OFI vs. Anderlecht (DAZN 8); 20:00 Torreense vs. Celtic (DAZN 9); 20:00 Hoffenheim vs. Sturm Graz (DAZN 10); 20:00 Ferencváros vs. Celje (DAZN 11); 20:00 Lyon vs. Lillestrøm (DAZN 12); 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 4); 21:30 Arkansas @ Michigan State; 22:00 ART Municipal Jalapa vs. San Marcos FC (DAZN 1)</desc>
+Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Bears @ Lions (In French); 18:00 Greece vs. Georgia; 18:00 Montenegro vs. Spain; 19:00 Portugal vs. Ukraine (DAZN 1); 19:30 Iceland vs. Bosnia-Herzegovina (DAZN 2); 19:30 Rady Children's Invitational: Georgetown vs. Texas (DAZN 3); 20:00 Borac Banja Luka vs. Atalanta (DAZN 5); 20:00 Juventus vs. Omonia (DAZN 6); 20:00 Sparta Prague vs. AZ (DAZN 7); 20:00 Sunderland vs. Jagiellonia Białystok (DAZN 8); 20:00 OFI vs. Anderlecht (DAZN 9); 20:00 Torreense vs. Celtic (DAZN 10); 20:00 Hoffenheim vs. Sturm Graz (DAZN 11); 20:00 Ferencváros vs. Celje (DAZN 12); 20:00 Freiburg vs. Twente; 20:00 Crystal Palace vs. Real Sociedad; 20:00 NEC vs. Rennes; 20:00 Doncaster vs. Huddersfield; 21:30 Eagles @ Cowboys (DAZN 1)</desc>
     <category lang="en">Soccer</category>
-  </programme>
-  <programme start="20261123220000 +0000" stop="20261124030000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
-    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
-    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261124030000 +0000" stop="20261124070000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
@@ -7338,7 +7378,7 @@ Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgi
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261123230000 +0000" stop="20261124030000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+  <programme start="20261128020000 +0000" stop="20261128060000 +0000" channel="CA| SPORTSNET WORLD EXTRA 1">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -7434,7 +7474,11 @@ Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgi
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261123230000 +0000" stop="20261124030000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
+  <programme start="20261128010000 +0000" stop="20261128050000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20261128050000 +0000" stop="20261128090000 +0000" channel="CA| SPORTSNET WORLD EXTRA 2">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -7534,7 +7578,7 @@ Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgi
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
-  <programme start="20261123230000 +0000" stop="20261124030000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+  <programme start="20261128030000 +0000" stop="20261128070000 +0000" channel="CA| SPORTSNET WORLD EXTRA 3">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
@@ -7631,6 +7675,10 @@ Istodobno na DAZN-u (UTC): 18:00 Bears @ Lions (DAZN 4); 18:00 Greece vs. Georgi
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
   <programme start="20261127230000 +0000" stop="20261128030000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
+    <title lang="en">Sportsnet World Plus-More Live Coverage</title>
+    <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
+  </programme>
+  <programme start="20261128030000 +0000" stop="20261128070000 +0000" channel="CA| SPORTSNET WORLD EXTRA 4">
     <title lang="en">Sportsnet World Plus-More Live Coverage</title>
     <desc lang="en">Sportsnet World Plus carries live Sportsnet World games only and will be dark outside scheduled games. Broadcast schedules are managed by Rogers Sportsnet and subject to change without notice.</desc>
   </programme>
